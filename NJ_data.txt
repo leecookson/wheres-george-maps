@@ -1,0 +1,382 @@
+argv=NJ
+url=http://www.wheresgeorge.com/hbz.php?args=2c3ce29908ced7b2e439587e39a320fd68b546c2edcce26c9db05658d136f320ded87c5f4d236edad043c38f2f36e44eda553f470fdcbe21437042426959ae6a4aadbef7dd6846852ce9df39f6474f734e69db4fccd74b751d378869d0969f3960af650413b48faa891e4fdf2f1129745317f9db087435bffe9ec0050f33f5050f337ea462650002aef82e154487b1c7
+===================
+input=<html>
+<!--
+#########################################################################################################
+# Start of Where's George?/Where's Willy common header                                                 	#
+# All code, content and images copyright Where's George? LLC 1998-2011          #
+# and can not be used without express, written consent.                                                 #
+#########################################################################################################
+-->
+<head>
+<title>Where's George? &reg; 2.4 Hits by County</title>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1" />
+<META NAME="Author" CONTENT="Hank Eskin" />
+<META NAME="description" CONTENT="Track US or Canadian dollar bills as they travel across the country. Enter the serial number and zip code to track its past history. Get email when the next person registers your bill! " />
+<META NAME="keywords" CONTENT="wheresgeorge whereswilly WG? WG whereswilly.com wheresgeorge.com track dollar trackdollar trackdollars dollars one bill frb federal reserve banks trace tracing tracking track trace american serial number series denomination bills where is george currency money legal tender" />
+<meta http-equiv="X-UA-Compatible" content="IE=6" />
+
+<link href="http://www.wheresgeorge.com/css_wg.css" rel="stylesheet" type="text/css">
+</head>
+
+<body  bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<SCRIPT language="JavaScript" type="text/javascript">menu_position=225;item_width=72.857142857143;</SCRIPT><!-- ***** This is the section of code you need to paste into your web pages ***** -->
+<script type="text/javascript" src="mmenu/milonic_src.js"></script>
+<script type="text/javascript" src="mmenu/mmenudom.js"></script>
+<!-- The next file contains your menu data, links and menu structure etc -->
+<script type="text/javascript" src="mmenu/menu_wg.js"></script>
+<!-- **** JavaScript Menu HTML Code -->
+<script type="text/javascript">function popup_win(page,h,w,scroll) {rnd=Math.round(Math.random()*10000); if (page.substring(0,22)=='user_profile_popup.php') {h=600;w=800;scroll='yes';}window.open(page,rnd,'toolbar=NO,location=NO,directories=NO,status=NO,menubar=NO,scrollbars='+scroll+',resizable=YES,copyhistory=NO,width='+w+',height='+h+',left=100,top=100');}</script><!-- frame buster -->
+<script language="JavaScript" type="text/javascript">
+  	if (top.location != self.location) {
+	top.location = self.location.href
+	}
+</script><a name="top"></a>
+<!-- main table - full width -->
+<table width="814" border="0" cellspacing="0" cellpadding="0">
+<tr  bgcolor=green><td align=right colspan="3" ><iframe src="http://rcm.amazon.com/e/cm?t=wheresgeorg-20&o=1&p=20&l=ur1&category=kindle&banner=1KNAV7AGS7WAHJ5Z5ER2&f=ifr" width="120" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe><iframe bgcolor="#669933" Allowtransparency="true" src="openads_leaderboard.php" width="728" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe><a target=_blank href="http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2F&tag=wheresgeorg-20&linkCode=ur2&camp=1789&creative=9325"><img src="http://www.assoc-amazon.com/e/ir?t=wheresgeorg-20&l=ur2&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><img border=0 src=images/amazon_120x90.gif></a></td></tr><tr>
+<td colspan="3">
+ <!-- header table - full width -->
+
+<table border="0" height=40 cellpadding="0" cellspacing="0" width="814">
+  <tr >
+    <td width="165"><img src="img_wg/topl.jpg" width="165" height="135" border="0" alt=""></td>
+    <td width="510"   ><img width="510" height="135" src="img_wg/topcN.jpg"  border="0" alt=""></td>
+    <td width="157"><img  src="img_wg/toprN.png" width="157" height="135" border="0" alt=""></td>
+  </tr>
+  <tr>
+    <td width="165"><img name="left1" src="img_wg/left1.jpg" width="165" height="20" border="0" alt=""></td>
+	<td align=left width="510" bgcolor="#666666"><!-- <img name="grey_nav" src="img_wg/grey_nav.gif" width="510" height="20" border="0">--><script>document.write("<img name=\"grey_nav\" src=\"img_wg/grey_nav.gif\" width=\"425\" height=\"20\" border=\"0\">");</script><noscript><span class=tabletitle><b>Your browser has Javascript disabled. Please see the <a href=site_map.php>Site-Map</a> to view all the main menu options.</b></span></noscript></td>
+    <td width="157"><img name="right1" src="img_wg/right1.jpg" width="157" height="20" border="0" alt=""></td>
+  </tr>
+  <tr>
+    <td bgcolor="#669933" width="165"><script>document.write("<A  HREF=\"javascript:popup_win('boss.html',4000,2000,'no');\"><img border=0 name=\"left2\" src=\"img_wg/left2.jpg\" width=\"147\" height=\"47\" border=\"0\" alt=\"\"></a>");</script><noscript><A HREF=boss.html target=_blank><img border=0 name="left2" src="img_wg/left2.jpg" width="147" height="47" border="0" alt=""></a></noscript></td>
+    <!-- start registered user name/profile link  -->
+    <td width="510" bgcolor="#669933" class=topnav>
+	<div width="48%" style="float:left; text-align:left;">
+    <strong>You are currently logged in as&nbsp;<span class=topnav><script>document.write("<A sidenav HREF=\"javascript:popup_win('user_profile_popup.php?ukey=1c48871d2481b356e00789340b46fc0f',0,0,'0');\">Lee</a>");</script><noscript><A HREF=user_profile_popup.php?ukey=1c48871d2481b356e00789340b46fc0f target=_blank>Lee</a></noscript></span></strong></div></div><!-- end registered user name/profile link  -->
+	    <!-- help   -->
+	    <div width="48%" style="float:right; text-align:right"><script>document.write("<A  HREF=\"javascript:popup_win('help.php?args=b31ea71b98fec987c84c1755a8e4e0144d59f820ef1e6e5797d2e3468e77f2ccba52d613e7381a852cc3bbacb76f95b1d3afbd222b7f29bf038c7a368c8ff68ab19c66a70b41734f1d8d4ccc1bd2fa44ee00eeb21c3dc436dcbdabd3f1dbb8c4740dad52d85d5a1a8525ffe14674453d2f7dfad77a9f3e24e2ccd4ebaa88eb2d7f750c6d220b4efe0cfead9391027fb2',550,650,'yes');\"><img name=\"template_r3_c3\" src=\"img_wg/help.png\" width=\"142\"  border=\"0\" alt=\"\"></a>");</script><noscript><A HREF=help.php?args=b31ea71b98fec987c84c1755a8e4e0144d59f820ef1e6e5797d2e3468e77f2ccba52d613e7381a852cc3bbacb76f95b1d3afbd222b7f29bf038c7a368c8ff68ab19c66a70b41734f1d8d4ccc1bd2fa44ee00eeb21c3dc436dcbdabd3f1dbb8c4740dad52d85d5a1a8525ffe14674453d2f7dfad77a9f3e24e2ccd4ebaa88eb2d7f750c6d220b4efe0cfead9391027fb2 target=_blank><img name="template_r3_c3" src="img_wg/help.png" width="142"  border="0" alt=""></a></noscript></div>
+		<!-- /help --><div style="clear: both;"> </div>
+    </td>
+    <td width="157" bgcolor="#669933"><img name="right2" src="img_wg/right2.jpg" width="157" height="47" border="0" alt=""></td>
+    <!-- end help -->
+  </tr>
+</table>
+<!-- end header table -->
+</td>
+</tr><tr>
+<td width="147" height="100%" valign="top">
+<!-- start LEft hand menu table -->
+<table width="146" height="100%" border="0" cellpadding="0" cellspacing="0" >
+  <tr>
+    <td colspan="3"><img src="img_wg/left3.jpg" width="147" height="14"></td>
+  </tr>
+  <tr valign="top" bgcolor="#FFFFFF">
+    <td height="79" colspan="3" background="img_wg/left4.jpg" class="sidenav">
+<div align="right">
+<a href="/">Home</a><br>
+<a href="/logon.php">Log On</a><br>
+<a href="/register.php">Register</a><br>
+<a href="/main.php#bill">Enter a Bill</a>
+</div></td></tr>
+<tr>
+    <td width="19" valign="top" background="img_wg/left-gutter.png">
+      <table height="100%" width="19" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td>&nbsp;</td>
+        </tr>
+      </table>
+    </td>
+    <td width="127" colspan="2" valign="top" bgcolor="#91CB53">
+          <table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td valign="top" align=right><p class="sidenav"><a href="ybs.php?ybs">Your Bills</a><br>
+<a href="user_prefs.php">User Settings</a><br><a href="user_profile.php">User Profile</a><br><a href="wrapper.php?page=state_profiles">Profiles by State</a><br>
+<a href="zip_hits.php">Zip Code Report</a><br>
+<a href="lostandfound.php">Lost and Found</a><br>
+<a href="lookup.php">Bill Lookup</a><br>
+<a href="logoff.php">Log Off</a><br></p>
+          </td>
+        </tr>
+      </table>
+<br><br><br><br><iframe bgcolor="#99CC66" Allowtransparency="true" src="openads_left_sky.php" width="120" height="600" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe><img src="img_wg/left-nav-bottom.gif"></td>
+  </tr>
+  <tr>
+    <td height="100%" valign="top" background="img_wg/left-gutter.gif">
+    	<table height="100%" width="19" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td height="100%" valign="top">&nbsp;</td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top" background="img_wg/left-gutter-background.gif"><p><img src="img_wg/left-nav-gutter.gif"></p>
+    </td>
+  </tr>
+</table>
+<!-- end Left hand menu table -->
+</td>
+<!-- open td for content -->
+<td style="text-align:left;" width="667" align="left" valign="top" class="body" ><!-- open td for content  --><span class=header>Hits by County Report</span><center>This Report is current as of: Jun-22-11 12:14 AM<br>Back to your <a href=ybs.php?hbs>Hit Analysis Report</a> Report<br>
+<TABLE width="60%" cellpadding="2" cellspacing="0" bordercolor="#999999" border=1 class="body">
+<tr class="body" bgcolor="#dddddd">	<td colspan=5><div align=center>Hits by County - NJ</div></td>
+</tr>
+<tr class="body" bgcolor="#dddddd">	<td colspan=5><div align=center>You have 1,363 hits in 21 NJ Counties</div></td>
+</tr>
+<tr class="body" bgcolor="#dddddd">	<td align=center>Rank</td>
+	<td align=center><a href=/hbz.php?args=8a5f11351f2319a232b4197e45a51033873ecd63bd8cca30044426204537c9c5a9fe0c9793ac3634d1d0c044a79b12cdda553f470fdcbe21437042426959ae6a4aadbef7dd684685e9d50d821ecd58d47a449d5655ded513364dae0f52ed25fdbf51d38dda9b20c401d7327db2e353a4949de12034be37dea84cf5d79009bac3ac91be7de506783c5209601d60a72fdf>County</a></td>
+	<td align=center><a href=/hbz.php?args=f50d5c72b190f11d57b39d25b16f8b0455ba864cbe63e291e5f843d7ebca1d80d344838f336cf385c22b7db6ef886422da553f470fdcbe21437042426959ae6a4aadbef7dd684685e9d50d821ecd58d47a449d5655ded513364dae0f52ed25fd2636697eece7b7f598d0c8ab1153a8923debbe32807b0a3a567743d1d1d5a0a3674f1626b52b9c09afdb78c3d230d423>Hits</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>1.</td>
+	<td align=center>Burlington</td>
+	<td align=center>410</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>2.</td>
+	<td align=center>Mercer</td>
+	<td align=center>198</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>3.</td>
+	<td align=center>Middlesex</td>
+	<td align=center>160</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>4.</td>
+	<td align=center>Camden</td>
+	<td align=center>118</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>5.</td>
+	<td align=center>Monmouth</td>
+	<td align=center>63</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>6.</td>
+	<td align=center>Ocean</td>
+	<td align=center>61</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>7.</td>
+	<td align=center>Gloucester</td>
+	<td align=center>51</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>8.</td>
+	<td align=center>Somerset</td>
+	<td align=center>42</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>9.</td>
+	<td align=center>Union</td>
+	<td align=center>42</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>10.</td>
+	<td align=center>Essex</td>
+	<td align=center>29</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>11.</td>
+	<td align=center>Atlantic</td>
+	<td align=center>29</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>12.</td>
+	<td align=center>Morris</td>
+	<td align=center>25</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>13.</td>
+	<td align=center>Hudson</td>
+	<td align=center>25</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>14.</td>
+	<td align=center>Cumberland</td>
+	<td align=center>21</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>15.</td>
+	<td align=center>Bergen</td>
+	<td align=center>20</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>16.</td>
+	<td align=center>Hunterdon</td>
+	<td align=center>18</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>17.</td>
+	<td align=center>Passaic</td>
+	<td align=center>16</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>18.</td>
+	<td align=center>Cape May</td>
+	<td align=center>14</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>19.</td>
+	<td align=center>Warren</td>
+	<td align=center>13</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>20.</td>
+	<td align=center>Sussex</td>
+	<td align=center>5</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>21.</td>
+	<td align=center>Salem</td>
+	<td align=center>3</td>
+</tr>
+</table><center><span class=body><a href="#top">Back to Top</a></span></center><br><br><br>(Runtime: 5 seconds)<br><!-- </center> -->
+<center><iframe bgcolor="#ffffff" Allowtransparency="true" src="openads_box.php" width="300" height="250" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe></center>
+<br><br><br><br><br><br>
+<table width="510" border="0" cellpadding="0" cellspacing="0" class="body">
+	<tr>
+	<td class="body"><div align="center">
+	<a href="/">Home Page</a> | <a href="faq.php">FAQs</a> | <a href="site_map.php">Site Map</a> | <a href="about.php">About</a> | <a href="privacy.php">Privacy Policy</a> | <a href="contact_us.php">Contact Us</a> <br>
+	<br>	<span class=footer>
+All content, images, and data &copy; 1998-2011 Where's George? LLC.<br>
+All Rights Reserved. Use of this Web site constitutes<br>
+acceptance of the <script>document.write("<A  HREF=\"javascript:popup_win('rules.php?fr=1',600,800,'yes');\">Terms of Service</a>");</script><noscript><A HREF=rules.php?fr=1 target=_blank>Terms of Service</a></noscript></span>
+</div><br><!-- <a href=http://www.milonic.com/><font color=#ffffff>DHTML Menu By Milonic JavaScript</font></a>--></td></tr></table></td>
+</tr>
+</table>
+	<!-- Start Quantcast tag -->
+	<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+	<script type="text/javascript">_qacct="p-26x3j23aUJBL6";quantserve();</script>
+	<noscript>
+	<a href="http://www.quantcast.com/p-26x3j23aUJBL6" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-26x3j23aUJBL6.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+	</noscript>
+	<!-- End Quantcast tag -->
+</body>
+</html>
+
+==================
+
+start1=10372
+
+start2=10361
+
+end1=12870
+
+end2=12980
+
+<tr class="ybbody" bgcolor="white">	<td align=center>1.</td><td align=center>Burlington</td><td align=center>410</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>2.</td><td align=center>Mercer</td><td align=center>198</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>3.</td><td align=center>Middlesex</td><td align=center>160</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>4.</td><td align=center>Camden</td><td align=center>118</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>5.</td><td align=center>Monmouth</td><td align=center>63</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>6.</td><td align=center>Ocean</td><td align=center>61</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>7.</td><td align=center>Gloucester</td><td align=center>51</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>8.</td><td align=center>Somerset</td><td align=center>42</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>9.</td><td align=center>Union</td><td align=center>42</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>10.</td><td align=center>Essex</td><td align=center>29</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>11.</td><td align=center>Atlantic</td><td align=center>29</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>12.</td><td align=center>Morris</td><td align=center>25</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>13.</td><td align=center>Hudson</td><td align=center>25</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>14.</td><td align=center>Cumberland</td><td align=center>21</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>15.</td><td align=center>Bergen</td><td align=center>20</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>16.</td><td align=center>Hunterdon</td><td align=center>18</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>17.</td><td align=center>Passaic</td><td align=center>16</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>18.</td><td align=center>Cape May</td><td align=center>14</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>19.</td><td align=center>Warren</td><td align=center>13</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>20.</td><td align=center>Sussex</td><td align=center>5</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>21.</td><td align=center>Salem</td><td align=center>3</td>
+</tr>
+
+row=>1.</td><td align=center>Burlington</td><td align=center>410</td>
+</tr>
+<tr cla, rank=1,county=Burlington,hits=410
+
+row=>2.</td><td align=center>Mercer</td><td align=center>198</td>
+</tr>
+<tr cla, rank=2,county=Mercer,hits=198
+
+row=>3.</td><td align=center>Middlesex</td><td align=center>160</td>
+</tr>
+<tr cla, rank=3,county=Middlesex,hits=160
+
+row=>4.</td><td align=center>Camden</td><td align=center>118</td>
+</tr>
+<tr cla, rank=4,county=Camden,hits=118
+
+row=>5.</td><td align=center>Monmouth</td><td align=center>63</td>
+</tr>
+<tr cla, rank=5,county=Monmouth,hits=63
+
+row=>6.</td><td align=center>Ocean</td><td align=center>61</td>
+</tr>
+<tr cla, rank=6,county=Ocean,hits=61
+
+row=>7.</td><td align=center>Gloucester</td><td align=center>51</td>
+</tr>
+<tr cla, rank=7,county=Gloucester,hits=51
+
+row=>8.</td><td align=center>Somerset</td><td align=center>42</td>
+</tr>
+<tr cla, rank=8,county=Somerset,hits=42
+
+row=>9.</td><td align=center>Union</td><td align=center>42</td>
+</tr>
+<tr cla, rank=9,county=Union,hits=42
+
+row=>10.</td><td align=center>Essex</td><td align=center>29</td>
+</tr>
+<tr cla, rank=10,county=Essex,hits=29
+
+row=>11.</td><td align=center>Atlantic</td><td align=center>29</td>
+</tr>
+<tr cla, rank=11,county=Atlantic,hits=29
+
+row=>12.</td><td align=center>Morris</td><td align=center>25</td>
+</tr>
+<tr cla, rank=12,county=Morris,hits=25
+
+row=>13.</td><td align=center>Hudson</td><td align=center>25</td>
+</tr>
+<tr cla, rank=13,county=Hudson,hits=25
+
+row=>14.</td><td align=center>Cumberland</td><td align=center>21</td>
+</tr>
+<tr cla, rank=14,county=Cumberland,hits=21
+
+row=>15.</td><td align=center>Bergen</td><td align=center>20</td>
+</tr>
+<tr cla, rank=15,county=Bergen,hits=20
+
+row=>16.</td><td align=center>Hunterdon</td><td align=center>18</td>
+</tr>
+<tr cla, rank=16,county=Hunterdon,hits=18
+
+row=>17.</td><td align=center>Passaic</td><td align=center>16</td>
+</tr>
+<tr cla, rank=17,county=Passaic,hits=16
+
+row=>18.</td><td align=center>Cape May</td><td align=center>14</td>
+</tr>
+<tr cla, rank=18,county=Cape May,hits=14
+
+row=>19.</td><td align=center>Warren</td><td align=center>13</td>
+</tr>
+<tr cla, rank=19,county=Warren,hits=13
+
+row=>20.</td><td align=center>Sussex</td><td align=center>5</td>
+</tr>
+<tr cla, rank=20,county=Sussex,hits=5
+
+row=>21.</td><td align=center>Salem</td><td align=center>3</td>
+</tr>
+, rank=21,county=Salem,hits=3
+
+{Cape May} #0f0 Camden #f11 Atlantic #0f0 Union #ef0 Salem #FBF Sussex #FBF Cumberland #0f0 Gloucester #ef0 Ocean #f11 Hunterdon #0f0 Middlesex #f11 Monmouth #f11 Essex #0f0 Hudson #0f0 Somerset #ef0 Bergen #0f0 Passaic #0f0 Burlington #f11 Morris #0f0 Mercer #f11 Warren #aaf
+410 198 160 118 63 61 51 42 42 29 29 25 25 21 20 18 16 14 13 5 3
+68 4c 47 42 3b 3a 39 38 38 36 36 36 36 35 35 35 34 34 34 33 33
+{Cape May} #0f0 Camden #f11 Atlantic #0f0 Union #ef0 Salem #FBF Sussex #FBF Cumberland #0f0 Gloucester #ef0 Ocean #f11 Hunterdon #0f0 Middlesex #f11 Monmouth #f11 Essex #0f0 Hudson #0f0 Somerset #ef0 Bergen #0f0 Passaic #0f0 Burlington #f11 Morris #0f0 Mercer #f11 Warren #aaf
+
+exec -- /usr/bin/convert NJ_HIT_MAP.png -fill black -font Arial-Regular -pointsize 13 -linewidth 3 -draw {text 24,118  ' 60 +'} -draw {text 24,135  ' 30 - 59 '} -draw {text 24,152  ' 14 - 29 '} -draw {text 24,169  ' 6 - 13 '} -draw {text 24,186  ' 3 - 5 '} -draw {text 24,203  ' 1 - 2 '} -fill #0f0 -draw {circle 10,147 4,147} -fill #ef0 -draw {circle 10,130 4,130} -fill #FFB -draw {circle 10,198 4,198} -fill #f11 -draw {circle 10,113 4,113} -fill #FBF -draw {circle 10,181 4,181} -fill #aaf -draw {circle 10,164 4,164} -fill black -draw {text 4,14  ' Updated: Wed Jun 22, 2011 09:15:33 EDT '} -fill black -pointsize 13 -draw {text 260,25  'Top 21'} -draw {text 260,41  '410'} -draw {text 293,41  'Burlington'} -draw {text 260,54  '198'} -draw {text 293,54  'Mercer'} -draw {text 260,67  '160'} -draw {text 293,67  'Middlesex'} -draw {text 260,80  '118'} -draw {text 293,80  'Camden'} -draw {text 260,93  '63'} -draw {text 293,93  'Monmouth'} -draw {text 260,106  '61'} -draw {text 293,106  'Ocean'} -draw {text 260,119  '51'} -draw {text 293,119  'Gloucester'} -draw {text 260,132  '42'} -draw {text 293,132  'Somerset'} -draw {text 260,145  '42'} -draw {text 293,145  'Union'} -draw {text 260,158  '29'} -draw {text 293,158  'Atlantic'} -draw {text 260,171  '29'} -draw {text 293,171  'Essex'} -draw {text 260,184  '25'} -draw {text 293,184  'Hudson'} -draw {text 260,197  '25'} -draw {text 293,197  'Morris'} -draw {text 260,210  '21'} -draw {text 293,210  'Cumberland'} -draw {text 260,223  '20'} -draw {text 293,223  'Bergen'} -draw {text 260,236  '18'} -draw {text 293,236  'Hunterdon'} -draw {text 260,249  '16'} -draw {text 293,249  'Passaic'} -draw {text 260,262  '14'} -draw {text 293,262  'Cape May'} -draw {text 260,275  '13'} -draw {text 293,275  'Warren'} -draw {text 260,288  '5'} -draw {text 293,288  'Sussex'} -draw {text 260,301  '3'} -draw {text 293,301  'Salem'} -tile fills/xsolid_range#0f0.png -draw {color 175,300 floodfill} -tile fills/xsolid_range#f11.png -draw {color 135,215 floodfill} -tile fills/xgradient_range#0f0.png -draw {color 180,260 floodfill} -tile fills/xsolid_range#ef0.png -draw {color 175,100 floodfill} -tile fills/xsolid_range#FBF.png -draw {color 100,250 floodfill} -tile fills/xgradient_range#FBF.png -draw {color 150,40 floodfill} -tile fills/xsolid_range#0f0.png -draw {color 145,285 floodfill} -tile fills/xsolid_range#ef0.png -draw {color 150,250 floodfill} -tile fills/xsolid_range#f11.png -draw {color 200,200 floodfill} -tile fills/xsolid_range#0f0.png -draw {color 125,120 floodfill} -tile fills/xsolid_range#f11.png -draw {color 175,140 floodfill} -tile fills/xsolid_range#f11.png -draw {color 200,150 floodfill} -tile fills/xgradient_range#0f0.png -draw {color 185,75 floodfill} -tile fills/xsolid_range#0f0.png -draw {color 200,85 floodfill} -tile fills/xsolid_range#ef0.png -draw {color 160,120 floodfill} -tile fills/xsolid_range#0f0.png -draw {color 200,50 floodfill} -tile fills/xsolid_range#0f0.png -draw {color 180,60 floodfill} -tile fills/xsolid_range#f11.png -draw {color 150,200 floodfill} -tile fills/xsolid_range#0f0.png -draw {color 150,75 floodfill} -tile fills/xsolid_range#f11.png -draw {color 150,160 floodfill} -tile fills/xgradient_range#aaf.png -draw {color 100,100 floodfill} -resize 640x> -bordercolor #999 -border 1x1 NJ_HIT_MAP_Z.png
+after /usr/bin/convert NJ_HIT_MAP_Z.png

@@ -1,0 +1,3504 @@
+argv=BKC
+===================
+input=<html>
+<!--
+#########################################################################################################
+# Start of Where's George?/Where's Willy common header                                                 	#
+# All code, content and images copyright Where's George? LLC 1998-2011          #
+# and can not be used without express, written consent.                                                 #
+#########################################################################################################
+-->
+<head>
+<title>Where's George? &reg; 2.4 Hits by Zip Code</title>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1" />
+<META NAME="Author" CONTENT="Hank Eskin" />
+<META NAME="description" CONTENT="Track US or Canadian dollar bills as they travel across the country. Enter the serial number and zip code to track its past history. Get email when the next person registers your bill! " />
+<META NAME="keywords" CONTENT="wheresgeorge whereswilly WG? WG whereswilly.com wheresgeorge.com track dollar trackdollar trackdollars dollars one bill frb federal reserve banks trace tracing tracking track trace american serial number series denomination bills where is george currency money legal tender" />
+<meta http-equiv="X-UA-Compatible" content="IE=6" />
+
+<link href="http://www.wheresgeorge.com/css_wg.css" rel="stylesheet" type="text/css">
+</head>
+
+<body  bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<SCRIPT language="JavaScript" type="text/javascript">menu_position=225;item_width=72.857142857143;</SCRIPT><!-- ***** This is the section of code you need to paste into your web pages ***** -->
+<script type="text/javascript" src="mmenu/milonic_src.js"></script>
+<script type="text/javascript" src="mmenu/mmenudom.js"></script>
+<!-- The next file contains your menu data, links and menu structure etc -->
+<script type="text/javascript" src="mmenu/menu_wg.js"></script>
+<!-- **** JavaScript Menu HTML Code -->
+<script type="text/javascript">function popup_win(page,h,w,scroll) {rnd=Math.round(Math.random()*10000); if (page.substring(0,22)=='user_profile_popup.php') {h=600;w=800;scroll='yes';}window.open(page,rnd,'toolbar=NO,location=NO,directories=NO,status=NO,menubar=NO,scrollbars='+scroll+',resizable=YES,copyhistory=NO,width='+w+',height='+h+',left=100,top=100');}</script><!-- frame buster -->
+<script language="JavaScript" type="text/javascript">
+  	if (top.location != self.location) {
+	top.location = self.location.href
+	}
+</script><a name="top"></a>
+<!-- main table - full width -->
+<table width="814" border="0" cellspacing="0" cellpadding="0">
+<tr  bgcolor=green><td align=right colspan="3" ><iframe src="http://rcm.amazon.com/e/cm?t=wheresgeorg-20&o=1&p=20&l=ur1&category=kindle&banner=1KNAV7AGS7WAHJ5Z5ER2&f=ifr" width="120" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe><iframe bgcolor="#669933" Allowtransparency="true" src="openads_leaderboard.php" width="728" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe><a target=_blank href="http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2F&tag=wheresgeorg-20&linkCode=ur2&camp=1789&creative=9325"><img src="http://www.assoc-amazon.com/e/ir?t=wheresgeorg-20&l=ur2&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><img border=0 src=images/amazon_120x90.gif></a></td></tr><tr>
+<td colspan="3">
+ <!-- header table - full width -->
+
+<table border="0" height=40 cellpadding="0" cellspacing="0" width="814">
+  <tr >
+    <td width="165"><img src="img_wg/topl.jpg" width="165" height="135" border="0" alt=""></td>
+    <td width="510"   ><img width="510" height="135" src="img_wg/topcN.jpg"  border="0" alt=""></td>
+    <td width="157"><img  src="img_wg/toprN.png" width="157" height="135" border="0" alt=""></td>
+  </tr>
+  <tr>
+    <td width="165"><img name="left1" src="img_wg/left1.jpg" width="165" height="20" border="0" alt=""></td>
+	<td align=left width="510" bgcolor="#666666"><!-- <img name="grey_nav" src="img_wg/grey_nav.gif" width="510" height="20" border="0">--><script>document.write("<img name=\"grey_nav\" src=\"img_wg/grey_nav.gif\" width=\"425\" height=\"20\" border=\"0\">");</script><noscript><span class=tabletitle><b>Your browser has Javascript disabled. Please see the <a href=site_map.php>Site-Map</a> to view all the main menu options.</b></span></noscript></td>
+    <td width="157"><img name="right1" src="img_wg/right1.jpg" width="157" height="20" border="0" alt=""></td>
+  </tr>
+  <tr>
+    <td bgcolor="#669933" width="165"><script>document.write("<A  HREF=\"javascript:popup_win('boss.html',4000,2000,'no');\"><img border=0 name=\"left2\" src=\"img_wg/left2.jpg\" width=\"147\" height=\"47\" border=\"0\" alt=\"\"></a>");</script><noscript><A HREF=boss.html target=_blank><img border=0 name="left2" src="img_wg/left2.jpg" width="147" height="47" border="0" alt=""></a></noscript></td>
+    <!-- start registered user name/profile link  -->
+    <td width="510" bgcolor="#669933" class=topnav>
+	<div width="48%" style="float:left; text-align:left;">
+    <strong>You are currently logged in as&nbsp;<span class=topnav><script>document.write("<A sidenav HREF=\"javascript:popup_win('user_profile_popup.php?ukey=1c48871d2481b356e00789340b46fc0f',0,0,'0');\">Lee</a>");</script><noscript><A HREF=user_profile_popup.php?ukey=1c48871d2481b356e00789340b46fc0f target=_blank>Lee</a></noscript></span></strong></div></div><!-- end registered user name/profile link  -->
+	    <!-- help   -->
+	    <div width="48%" style="float:right; text-align:right"><script>document.write("<A  HREF=\"javascript:popup_win('help.php?args=b368b19b573fb14e03f58bcbcc4313b515d49048b097ebdcce26f5dd938728ae1b4462ae060783da4f2cf31f5465bfbcd3afbd222b7f29bf038c7a368c8ff68ab19c66a70b41734f1d8d4ccc1bd2fa44ee00eeb21c3dc436dcbdabd3f1dbb8c4467c5f3501273032f375719e532423bcc731018a4bcc828ea15d1b20b8272d48fdf4074e61e88c5104f0303404416158',550,650,'yes');\"><img name=\"template_r3_c3\" src=\"img_wg/help.png\" width=\"142\"  border=\"0\" alt=\"\"></a>");</script><noscript><A HREF=help.php?args=b368b19b573fb14e03f58bcbcc4313b515d49048b097ebdcce26f5dd938728ae1b4462ae060783da4f2cf31f5465bfbcd3afbd222b7f29bf038c7a368c8ff68ab19c66a70b41734f1d8d4ccc1bd2fa44ee00eeb21c3dc436dcbdabd3f1dbb8c4467c5f3501273032f375719e532423bcc731018a4bcc828ea15d1b20b8272d48fdf4074e61e88c5104f0303404416158 target=_blank><img name="template_r3_c3" src="img_wg/help.png" width="142"  border="0" alt=""></a></noscript></div>
+		<!-- /help --><div style="clear: both;"> </div>
+    </td>
+    <td width="157" bgcolor="#669933"><img name="right2" src="img_wg/right2.jpg" width="157" height="47" border="0" alt=""></td>
+    <!-- end help -->
+  </tr>
+</table>
+<!-- end header table -->
+</td>
+</tr><tr>
+<td width="147" height="100%" valign="top">
+<!-- start LEft hand menu table -->
+<table width="146" height="100%" border="0" cellpadding="0" cellspacing="0" >
+  <tr>
+    <td colspan="3"><img src="img_wg/left3.jpg" width="147" height="14"></td>
+  </tr>
+  <tr valign="top" bgcolor="#FFFFFF">
+    <td height="79" colspan="3" background="img_wg/left4.jpg" class="sidenav">
+<div align="right">
+<a href="/">Home</a><br>
+<a href="/logon.php">Log On</a><br>
+<a href="/register.php">Register</a><br>
+<a href="/main.php#bill">Enter a Bill</a>
+</div></td></tr>
+<tr>
+    <td width="19" valign="top" background="img_wg/left-gutter.png">
+      <table height="100%" width="19" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td>&nbsp;</td>
+        </tr>
+      </table>
+    </td>
+    <td width="127" colspan="2" valign="top" bgcolor="#91CB53">
+          <table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td valign="top" align=right><p class="sidenav"><a href="ybs.php?ybs">Your Bills</a><br>
+<a href="user_prefs.php">User Settings</a><br><a href="user_profile.php">User Profile</a><br><a href="wrapper.php?page=state_profiles">Profiles by State</a><br>
+<a href="zip_hits.php">Zip Code Report</a><br>
+<a href="lostandfound.php">Lost and Found</a><br>
+<a href="lookup.php">Bill Lookup</a><br>
+<a href="logoff.php">Log Off</a><br></p>
+          </td>
+        </tr>
+      </table>
+<br><br><br><br><iframe bgcolor="#99CC66" Allowtransparency="true" src="openads_left_sky.php" width="120" height="600" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe><img src="img_wg/left-nav-bottom.gif"></td>
+  </tr>
+  <tr>
+    <td height="100%" valign="top" background="img_wg/left-gutter.gif">
+    	<table height="100%" width="19" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td height="100%" valign="top">&nbsp;</td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top" background="img_wg/left-gutter-background.gif"><p><img src="img_wg/left-nav-gutter.gif"></p>
+    </td>
+  </tr>
+</table>
+<!-- end Left hand menu table -->
+</td>
+<!-- open td for content -->
+<td style="text-align:left;" width="667" align="left" valign="top" class="body" ><!-- open td for content  --><span class=header>Hits by Zip Code Report</span><center>This Report is current as of: Jun-22-11 12:14 AM<br>Back to your <a href=ybs.php?hbs>Hit Analysis Report</a> Report<br>
+<TABLE width="60%" cellpadding="2" cellspacing="0" bordercolor="#999999" border=1 class="body">
+<tr class="body" bgcolor="#dddddd">	<td colspan=5><div align=center>Hits by Zip Code - PA</div></td>
+</tr>
+<tr class="body" bgcolor="#dddddd">	<td colspan=5><div align=center>You have 601 hits in 266 PA Zip Codes</div></td>
+</tr>
+<tr class="body" bgcolor="#dddddd">	<td align=center>Rank</td>
+	<td align=center><a href=/hbz.php?args=766d60ed066861c64fc0ee8fcf79532df874afe91025c06d964fff1039c32dae90fc5839dec02930aae3ce2fce64a8b8c22c75dd611609c843dab50a4cb7b2cca640518859759641eb784b03ecab8d6c8d3603fa74153ad95081fa27b6ca034cbd6988f2de25174d6f9dd9b07e59d5b23d0079e59e989309acebf16700b3e564ab485a2b1b6e45f3220e884d79f11c76>Zip Code</a></td>
+	<td align=center><a href=/hbz.php?args=bd99d444e3a1dbc9387c0513ebaf7cd410cef0a2b3a351abad4d127424d92a031c192b895bb0e2ceec1915c349d4c789c22c75dd611609c843dab50a4cb7b2cca640518859759641eb784b03ecab8d6c8d3603fa74153ad95081fa27b6ca034c54467cfd272ca9b49639c2a99ccf640d1b8ee0606e52fef143b1f97a0252d9aa74016c54b59865e76774efe7b76543d0>City</td>
+	<td align=center><a href=/hbz.php?args=fb460bba8b0d41b4b951dd5c1e7a76278f8cda1fc1db6ed213b0bbf442938f881fe637eeac44a4b1d7e162513f37c2b1c22c75dd611609c843dab50a4cb7b2cca640518859759641eb784b03ecab8d6c8d3603fa74153ad95081fa27b6ca034c24c7b27d956ce2b93516095d134231bd99a4d33ad0a49f8c364d65c3e48d804734a0bc247da3ec73420ea3399ad1dae5>County</td>
+	<td align=center><a href=/hbz.php?args=ce32325aa0e0b8f4bdb96c5e87f633137bc933e223d05fa6fb8a96b269e7810d1f957560407b0111cce86cd83937c2f1c22c75dd611609c843dab50a4cb7b2cca640518859759641eb784b03ecab8d6c8d3603fa74153ad95081fa27b6ca034c6e3a9e763673dfe5a0a0f9562d99b95c28319cba74040a5dd8cff30bc6ef7d137d0e5990d5cc87f1e8d22b11e1a22aa4>Hits</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>1.</td>
+	<td align=center>18940</td>
+	<td align=center>Newtown</td>
+	<td align=center>Bucks</td>
+	<td align=center>15</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>2.</td>
+	<td align=center>19067</td>
+	<td align=center>Morrisville</td>
+	<td align=center>Bucks</td>
+	<td align=center>14</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>3.</td>
+	<td align=center>19020</td>
+	<td align=center>Bensalem</td>
+	<td align=center>Bucks</td>
+	<td align=center>11</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>4.</td>
+	<td align=center>19124</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>9</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>5.</td>
+	<td align=center>18901</td>
+	<td align=center>Doylestown</td>
+	<td align=center>Bucks</td>
+	<td align=center>8</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>6.</td>
+	<td align=center>19104</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>7</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>7.</td>
+	<td align=center>19055</td>
+	<td align=center>Levittown</td>
+	<td align=center>Bucks</td>
+	<td align=center>7</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>8.</td>
+	<td align=center>19134</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>7</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>9.</td>
+	<td align=center>19047</td>
+	<td align=center>Langhorne</td>
+	<td align=center>Bucks</td>
+	<td align=center>7</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>10.</td>
+	<td align=center>19335</td>
+	<td align=center>Downingtown</td>
+	<td align=center>Chester</td>
+	<td align=center>7</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>11.</td>
+	<td align=center>19115</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>7</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>12.</td>
+	<td align=center>19147</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>7</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>13.</td>
+	<td align=center>19128</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>6</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>14.</td>
+	<td align=center>19044</td>
+	<td align=center>Horsham</td>
+	<td align=center>Montgomery</td>
+	<td align=center>6</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>15.</td>
+	<td align=center>19107</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>6</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>16.</td>
+	<td align=center>18954</td>
+	<td align=center>Richboro</td>
+	<td align=center>Bucks</td>
+	<td align=center>6</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>17.</td>
+	<td align=center>19007</td>
+	<td align=center>Bristol</td>
+	<td align=center>Bucks</td>
+	<td align=center>6</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>18.</td>
+	<td align=center>19125</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>6</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>19.</td>
+	<td align=center>19053</td>
+	<td align=center>Feasterville-Trevose</td>
+	<td align=center>Bucks</td>
+	<td align=center>6</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>20.</td>
+	<td align=center>18966</td>
+	<td align=center>Southampton</td>
+	<td align=center>Bucks</td>
+	<td align=center>6</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>21.</td>
+	<td align=center>18974</td>
+	<td align=center>Warminster</td>
+	<td align=center>Bucks</td>
+	<td align=center>5</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>22.</td>
+	<td align=center>19152</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>5</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>23.</td>
+	<td align=center>19103</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>5</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>24.</td>
+	<td align=center>19136</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>5</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>25.</td>
+	<td align=center>19355</td>
+	<td align=center>Malvern</td>
+	<td align=center>Chester</td>
+	<td align=center>5</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>26.</td>
+	<td align=center>19054</td>
+	<td align=center>Levittown</td>
+	<td align=center>Bucks</td>
+	<td align=center>5</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>27.</td>
+	<td align=center>19468</td>
+	<td align=center>Royersford</td>
+	<td align=center>Montgomery</td>
+	<td align=center>5</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>28.</td>
+	<td align=center>19056</td>
+	<td align=center>Levittown</td>
+	<td align=center>Bucks</td>
+	<td align=center>5</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>29.</td>
+	<td align=center>19154</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>5</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>30.</td>
+	<td align=center>19120</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>5</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>31.</td>
+	<td align=center>18976</td>
+	<td align=center>Warrington</td>
+	<td align=center>Bucks</td>
+	<td align=center>4</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>32.</td>
+	<td align=center>19114</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>4</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>33.</td>
+	<td align=center>19143</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>4</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>34.</td>
+	<td align=center>19140</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>4</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>35.</td>
+	<td align=center>19406</td>
+	<td align=center>King of Prussia</td>
+	<td align=center>Montgomery</td>
+	<td align=center>4</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>36.</td>
+	<td align=center>19004</td>
+	<td align=center>Bala Cynwyd</td>
+	<td align=center>Montgomery</td>
+	<td align=center>4</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>37.</td>
+	<td align=center>19148</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>4</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>38.</td>
+	<td align=center>19106</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>4</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>39.</td>
+	<td align=center>19380</td>
+	<td align=center>West Chester</td>
+	<td align=center>Chester</td>
+	<td align=center>4</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>40.</td>
+	<td align=center>19312</td>
+	<td align=center>Berwyn</td>
+	<td align=center>Chester</td>
+	<td align=center>4</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>41.</td>
+	<td align=center>18103</td>
+	<td align=center>Allentown</td>
+	<td align=center>Lehigh</td>
+	<td align=center>4</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>42.</td>
+	<td align=center>19465</td>
+	<td align=center>Pottstown</td>
+	<td align=center>Chester</td>
+	<td align=center>4</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>43.</td>
+	<td align=center>19111</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>4</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>44.</td>
+	<td align=center>19446</td>
+	<td align=center>Lansdale</td>
+	<td align=center>Montgomery</td>
+	<td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>45.</td>
+	<td align=center>19026</td>
+	<td align=center>Drexel Hill</td>
+	<td align=center>Delaware</td>
+	<td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>46.</td>
+	<td align=center>19131</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>47.</td>
+	<td align=center>18360</td>
+	<td align=center>Stroudsburg</td>
+	<td align=center>Monroe</td>
+	<td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>48.</td>
+	<td align=center>19050</td>
+	<td align=center>Lansdowne</td>
+	<td align=center>Delaware</td>
+	<td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>49.</td>
+	<td align=center>19473</td>
+	<td align=center>Schwenksville</td>
+	<td align=center>Montgomery</td>
+	<td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>50.</td>
+	<td align=center>19119</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>51.</td>
+	<td align=center>19454</td>
+	<td align=center>North Wales</td>
+	<td align=center>Montgomery</td>
+	<td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>52.</td>
+	<td align=center>19146</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>53.</td>
+	<td align=center>17701</td>
+	<td align=center>Williamsport</td>
+	<td align=center>Lycoming</td>
+	<td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>54.</td>
+	<td align=center>17601</td>
+	<td align=center>Lancaster</td>
+	<td align=center>Lancaster</td>
+	<td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>55.</td>
+	<td align=center>19426</td>
+	<td align=center>Collegeville</td>
+	<td align=center>Montgomery</td>
+	<td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>56.</td>
+	<td align=center>19090</td>
+	<td align=center>Willow Grove</td>
+	<td align=center>Montgomery</td>
+	<td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>57.</td>
+	<td align=center>18018</td>
+	<td align=center>Bethlehem</td>
+	<td align=center>Lehigh</td>
+	<td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>58.</td>
+	<td align=center>19064</td>
+	<td align=center>Springfield</td>
+	<td align=center>Delaware</td>
+	<td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>59.</td>
+	<td align=center>19341</td>
+	<td align=center>Exton</td>
+	<td align=center>Chester</td>
+	<td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>60.</td>
+	<td align=center>19126</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>61.</td>
+	<td align=center>18017</td>
+	<td align=center>Bethlehem</td>
+	<td align=center>Northampton</td>
+	<td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>62.</td>
+	<td align=center>19123</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>63.</td>
+	<td align=center>19508</td>
+	<td align=center>Birdsboro</td>
+	<td align=center>Berks</td>
+	<td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>64.</td>
+	<td align=center>18938</td>
+	<td align=center>New Hope</td>
+	<td align=center>Bucks</td>
+	<td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>65.</td>
+	<td align=center>19440</td>
+	<td align=center>Hatfield</td>
+	<td align=center>Montgomery</td>
+	<td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>66.</td>
+	<td align=center>19102</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>67.</td>
+	<td align=center>19139</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>68.</td>
+	<td align=center>19087</td>
+	<td align=center>Wayne</td>
+	<td align=center>Delaware</td>
+	<td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>69.</td>
+	<td align=center>19015</td>
+	<td align=center>Brookhaven</td>
+	<td align=center>Delaware</td>
+	<td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>70.</td>
+	<td align=center>19403</td>
+	<td align=center>Norristown</td>
+	<td align=center>Montgomery</td>
+	<td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>71.</td>
+	<td align=center>19135</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>72.</td>
+	<td align=center>19083</td>
+	<td align=center>Havertown</td>
+	<td align=center>Delaware</td>
+	<td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>73.</td>
+	<td align=center>19003</td>
+	<td align=center>Ardmore</td>
+	<td align=center>Montgomery</td>
+	<td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>74.</td>
+	<td align=center>19057</td>
+	<td align=center>Levittown</td>
+	<td align=center>Bucks</td>
+	<td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>75.</td>
+	<td align=center>19030</td>
+	<td align=center>Fairless Hills</td>
+	<td align=center>Bucks</td>
+	<td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>76.</td>
+	<td align=center>19144</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>77.</td>
+	<td align=center>18914</td>
+	<td align=center>Chalfont</td>
+	<td align=center>Bucks</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>78.</td>
+	<td align=center>17603</td>
+	<td align=center>Lancaster</td>
+	<td align=center>Lancaster</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>79.</td>
+	<td align=center>16801</td>
+	<td align=center>State College</td>
+	<td align=center>Centre</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>80.</td>
+	<td align=center>19141</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>81.</td>
+	<td align=center>18704</td>
+	<td align=center>Kingston</td>
+	<td align=center>Luzerne</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>82.</td>
+	<td align=center>17402</td>
+	<td align=center>York</td>
+	<td align=center>York</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>83.</td>
+	<td align=center>19401</td>
+	<td align=center>Norristown</td>
+	<td align=center>Montgomery</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>84.</td>
+	<td align=center>19133</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>85.</td>
+	<td align=center>19082</td>
+	<td align=center>Upper Darby</td>
+	<td align=center>Delaware</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>86.</td>
+	<td align=center>18518</td>
+	<td align=center>Old Forge</td>
+	<td align=center>Lackawanna</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>87.</td>
+	<td align=center>19605</td>
+	<td align=center>Reading</td>
+	<td align=center>Berks</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>88.</td>
+	<td align=center>19320</td>
+	<td align=center>Coatesville</td>
+	<td align=center>Chester</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>89.</td>
+	<td align=center>18301</td>
+	<td align=center>East Stroudsburg</td>
+	<td align=center>Monroe</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>90.</td>
+	<td align=center>17111</td>
+	<td align=center>Harrisburg</td>
+	<td align=center>Dauphin</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>91.</td>
+	<td align=center>19311</td>
+	<td align=center>Avondale</td>
+	<td align=center>Chester</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>92.</td>
+	<td align=center>17901</td>
+	<td align=center>Pottsville</td>
+	<td align=center>Schuylkill</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>93.</td>
+	<td align=center>18947</td>
+	<td align=center>Pipersville</td>
+	<td align=center>Bucks</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>94.</td>
+	<td align=center>19149</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>95.</td>
+	<td align=center>19036</td>
+	<td align=center>Glenolden</td>
+	<td align=center>Delaware</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>96.</td>
+	<td align=center>17042</td>
+	<td align=center>Lebanon</td>
+	<td align=center>Lebanon</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>97.</td>
+	<td align=center>19029</td>
+	<td align=center>Essington</td>
+	<td align=center>Delaware</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>98.</td>
+	<td align=center>19025</td>
+	<td align=center>Dresher</td>
+	<td align=center>Montgomery</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>99.</td>
+	<td align=center>18058</td>
+	<td align=center>Kunkletown</td>
+	<td align=center>Monroe</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>100.</td>
+	<td align=center>19018</td>
+	<td align=center>Clifton Heights</td>
+	<td align=center>Delaware</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>101.</td>
+	<td align=center>18702</td>
+	<td align=center>Wilkes-Barre</td>
+	<td align=center>Luzerne</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>102.</td>
+	<td align=center>19085</td>
+	<td align=center>Villanova</td>
+	<td align=center>Delaware</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>103.</td>
+	<td align=center>19008</td>
+	<td align=center>Broomall</td>
+	<td align=center>Delaware</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>104.</td>
+	<td align=center>18634</td>
+	<td align=center>Nanticoke</td>
+	<td align=center>Luzerne</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>105.</td>
+	<td align=center>18041</td>
+	<td align=center>East Greenville</td>
+	<td align=center>Montgomery</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>106.</td>
+	<td align=center>19382</td>
+	<td align=center>West Chester</td>
+	<td align=center>Chester</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>107.</td>
+	<td align=center>19013</td>
+	<td align=center>Chester</td>
+	<td align=center>Delaware</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>108.</td>
+	<td align=center>18509</td>
+	<td align=center>Scranton</td>
+	<td align=center>Lackawanna</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>109.</td>
+	<td align=center>19130</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>110.</td>
+	<td align=center>17268</td>
+	<td align=center>Waynesboro</td>
+	<td align=center>Franklin</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>111.</td>
+	<td align=center>18980</td>
+	<td align=center>Wycombe</td>
+	<td align=center>Bucks</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>112.</td>
+	<td align=center>18969</td>
+	<td align=center>Telford</td>
+	<td align=center>Montgomery</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>113.</td>
+	<td align=center>19040</td>
+	<td align=center>Hatboro</td>
+	<td align=center>Montgomery</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>114.</td>
+	<td align=center>18944</td>
+	<td align=center>Perkasie</td>
+	<td align=center>Bucks</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>115.</td>
+	<td align=center>18091</td>
+	<td align=center>Wind Gap</td>
+	<td align=center>Northampton</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>116.</td>
+	<td align=center>17019</td>
+	<td align=center>Dillsburg</td>
+	<td align=center>York</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>117.</td>
+	<td align=center>19145</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>118.</td>
+	<td align=center>19027</td>
+	<td align=center>Elkins Park</td>
+	<td align=center>Montgomery</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>119.</td>
+	<td align=center>17551</td>
+	<td align=center>Millersville</td>
+	<td align=center>Lancaster</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>120.</td>
+	<td align=center>19021</td>
+	<td align=center>Croydon</td>
+	<td align=center>Bucks</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>121.</td>
+	<td align=center>16662</td>
+	<td align=center>Martinsburg</td>
+	<td align=center>Blair</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>122.</td>
+	<td align=center>19010</td>
+	<td align=center>Bryn Mawr</td>
+	<td align=center>Delaware</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>123.</td>
+	<td align=center>19348</td>
+	<td align=center>Kennett Square</td>
+	<td align=center>Chester</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>124.</td>
+	<td align=center>17963</td>
+	<td align=center>Pine Grove</td>
+	<td align=center>Schuylkill</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>125.</td>
+	<td align=center>19002</td>
+	<td align=center>Ambler</td>
+	<td align=center>Montgomery</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>126.</td>
+	<td align=center>18330</td>
+	<td align=center>Effort</td>
+	<td align=center>Monroe</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>127.</td>
+	<td align=center>15147</td>
+	<td align=center>Verona</td>
+	<td align=center>Allegheny</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>128.</td>
+	<td align=center>19526</td>
+	<td align=center>Hamburg</td>
+	<td align=center>Berks</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>129.</td>
+	<td align=center>19475</td>
+	<td align=center>Spring City</td>
+	<td align=center>Chester</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>130.</td>
+	<td align=center>17872</td>
+	<td align=center>Shamokin</td>
+	<td align=center>Northumberland</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>131.</td>
+	<td align=center>19038</td>
+	<td align=center>Glenside</td>
+	<td align=center>Montgomery</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>132.</td>
+	<td align=center>17033</td>
+	<td align=center>Hershey</td>
+	<td align=center>Dauphin</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>133.</td>
+	<td align=center>19460</td>
+	<td align=center>Phoenixville</td>
+	<td align=center>Chester</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>134.</td>
+	<td align=center>18062</td>
+	<td align=center>Macungie</td>
+	<td align=center>Lehigh</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>135.</td>
+	<td align=center>19428</td>
+	<td align=center>Conshohocken</td>
+	<td align=center>Montgomery</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>136.</td>
+	<td align=center>19096</td>
+	<td align=center>Wynnewood</td>
+	<td align=center>Montgomery</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>137.</td>
+	<td align=center>18054</td>
+	<td align=center>Green Lane</td>
+	<td align=center>Montgomery</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>138.</td>
+	<td align=center>17543</td>
+	<td align=center>Lititz</td>
+	<td align=center>Lancaster</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>139.</td>
+	<td align=center>16601</td>
+	<td align=center>Altoona</td>
+	<td align=center>Blair</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>140.</td>
+	<td align=center>19421</td>
+	<td align=center>Birchrunville</td>
+	<td align=center>Chester</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>141.</td>
+	<td align=center>19138</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>142.</td>
+	<td align=center>19086</td>
+	<td align=center>Wallingford</td>
+	<td align=center>Delaware</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>143.</td>
+	<td align=center>19014</td>
+	<td align=center>Aston</td>
+	<td align=center>Delaware</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>144.</td>
+	<td align=center>18635</td>
+	<td align=center>Nescopeck</td>
+	<td align=center>Luzerne</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>145.</td>
+	<td align=center>18042</td>
+	<td align=center>Easton</td>
+	<td align=center>Northampton</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>146.</td>
+	<td align=center>16365</td>
+	<td align=center>Warren</td>
+	<td align=center>Warren</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>147.</td>
+	<td align=center>19012</td>
+	<td align=center>Cheltenham</td>
+	<td align=center>Montgomery</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>148.</td>
+	<td align=center>18036</td>
+	<td align=center>Coopersburg</td>
+	<td align=center>Lehigh</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>149.</td>
+	<td align=center>17340</td>
+	<td align=center>Littlestown</td>
+	<td align=center>Adams</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>150.</td>
+	<td align=center>16066</td>
+	<td align=center>Cranberry Township</td>
+	<td align=center>Butler</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>151.</td>
+	<td align=center>19373</td>
+	<td align=center>Thornton</td>
+	<td align=center>Delaware</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>152.</td>
+	<td align=center>19006</td>
+	<td align=center>Huntingdon Valley</td>
+	<td align=center>Montgomery</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>153.</td>
+	<td align=center>18504</td>
+	<td align=center>Scranton</td>
+	<td align=center>Lackawanna</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>154.</td>
+	<td align=center>18015</td>
+	<td align=center>Bethlehem</td>
+	<td align=center>Northampton</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>155.</td>
+	<td align=center>17301</td>
+	<td align=center>Abbottstown</td>
+	<td align=center>Adams</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>156.</td>
+	<td align=center>15601</td>
+	<td align=center>Greensburg</td>
+	<td align=center>Westmoreland</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>157.</td>
+	<td align=center>19543</td>
+	<td align=center>Morgantown</td>
+	<td align=center>Berks</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>158.</td>
+	<td align=center>19344</td>
+	<td align=center>Honey Brook</td>
+	<td align=center>Chester</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>159.</td>
+	<td align=center>19061</td>
+	<td align=center>Marcus Hook</td>
+	<td align=center>Delaware</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>160.</td>
+	<td align=center>17961</td>
+	<td align=center>Orwigsburg</td>
+	<td align=center>Schuylkill</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>161.</td>
+	<td align=center>17236</td>
+	<td align=center>Mercersburg</td>
+	<td align=center>Franklin</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>162.</td>
+	<td align=center>15301</td>
+	<td align=center>Washington</td>
+	<td align=center>Washington</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>163.</td>
+	<td align=center>19530</td>
+	<td align=center>Kutztown</td>
+	<td align=center>Berks</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>164.</td>
+	<td align=center>17954</td>
+	<td align=center>Minersville</td>
+	<td align=center>Schuylkill</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>165.</td>
+	<td align=center>15044</td>
+	<td align=center>Gibsonia</td>
+	<td align=center>Allegheny</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>166.</td>
+	<td align=center>19525</td>
+	<td align=center>Gilbertsville</td>
+	<td align=center>Montgomery</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>167.</td>
+	<td align=center>19121</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>168.</td>
+	<td align=center>18964</td>
+	<td align=center>Souderton</td>
+	<td align=center>Montgomery</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>169.</td>
+	<td align=center>18232</td>
+	<td align=center>Lansford</td>
+	<td align=center>Carbon</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>170.</td>
+	<td align=center>17067</td>
+	<td align=center>Myerstown</td>
+	<td align=center>Lebanon</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>171.</td>
+	<td align=center>18102</td>
+	<td align=center>Allentown</td>
+	<td align=center>Lehigh</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>172.</td>
+	<td align=center>17822</td>
+	<td align=center>Danville</td>
+	<td align=center>Montour</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>173.</td>
+	<td align=center>17065</td>
+	<td align=center>Mount Holly Springs</td>
+	<td align=center>Cumberland</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>174.</td>
+	<td align=center>19464</td>
+	<td align=center>Pottstown</td>
+	<td align=center>Montgomery</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>175.</td>
+	<td align=center>18072</td>
+	<td align=center>Pen Argyl</td>
+	<td align=center>Northampton</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>176.</td>
+	<td align=center>17777</td>
+	<td align=center>Watsontown</td>
+	<td align=center>Northumberland</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>177.</td>
+	<td align=center>18922</td>
+	<td align=center>Forest Grove</td>
+	<td align=center>Bucks</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>178.</td>
+	<td align=center>18073</td>
+	<td align=center>Pennsburg</td>
+	<td align=center>Montgomery</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>179.</td>
+	<td align=center>17011</td>
+	<td align=center>Camp Hill</td>
+	<td align=center>Cumberland</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>180.</td>
+	<td align=center>19444</td>
+	<td align=center>Lafayette Hill</td>
+	<td align=center>Montgomery</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>181.</td>
+	<td align=center>16673</td>
+	<td align=center>Roaring Spring</td>
+	<td align=center>Blair</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>182.</td>
+	<td align=center>18049</td>
+	<td align=center>Emmaus</td>
+	<td align=center>Lehigh</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>183.</td>
+	<td align=center>17522</td>
+	<td align=center>Ephrata</td>
+	<td align=center>Lancaster</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>184.</td>
+	<td align=center>16172</td>
+	<td align=center>New Wilmington</td>
+	<td align=center>Lawrence</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>185.</td>
+	<td align=center>17364</td>
+	<td align=center>Thomasville</td>
+	<td align=center>York</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>186.</td>
+	<td align=center>15961</td>
+	<td align=center>Vintondale</td>
+	<td align=center>Indiana</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>187.</td>
+	<td align=center>19608</td>
+	<td align=center>Reading</td>
+	<td align=center>Berks</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>188.</td>
+	<td align=center>19076</td>
+	<td align=center>Prospect Park</td>
+	<td align=center>Delaware</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>189.</td>
+	<td align=center>17327</td>
+	<td align=center>Glen Rock</td>
+	<td align=center>York</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>190.</td>
+	<td align=center>16153</td>
+	<td align=center>Stoneboro</td>
+	<td align=center>Mercer</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>191.</td>
+	<td align=center>19601</td>
+	<td align=center>Reading</td>
+	<td align=center>Berks</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>192.</td>
+	<td align=center>18431</td>
+	<td align=center>Honesdale</td>
+	<td align=center>Wayne</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>193.</td>
+	<td align=center>17976</td>
+	<td align=center>Shenandoah</td>
+	<td align=center>Schuylkill</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>194.</td>
+	<td align=center>15321</td>
+	<td align=center>Cecil</td>
+	<td align=center>Washington</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>195.</td>
+	<td align=center>19540</td>
+	<td align=center>Mohnton</td>
+	<td align=center>Berks</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>196.</td>
+	<td align=center>19063</td>
+	<td align=center>Media</td>
+	<td align=center>Delaware</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>197.</td>
+	<td align=center>18324</td>
+	<td align=center>Bushkill</td>
+	<td align=center>Pike</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>198.</td>
+	<td align=center>17201</td>
+	<td align=center>Chambersburg</td>
+	<td align=center>Franklin</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>199.</td>
+	<td align=center>15062</td>
+	<td align=center>Monessen</td>
+	<td align=center>Westmoreland</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>200.</td>
+	<td align=center>19529</td>
+	<td align=center>Kempton</td>
+	<td align=center>Berks</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>201.</td>
+	<td align=center>19317</td>
+	<td align=center>Chadds Ford</td>
+	<td align=center>Delaware</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>202.</td>
+	<td align=center>18235</td>
+	<td align=center>Lehighton</td>
+	<td align=center>Carbon</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>203.</td>
+	<td align=center>17948</td>
+	<td align=center>Mahanoy City</td>
+	<td align=center>Schuylkill</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>204.</td>
+	<td align=center>17101</td>
+	<td align=center>Harrisburg</td>
+	<td align=center>Dauphin</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>205.</td>
+	<td align=center>15037</td>
+	<td align=center>Elizabeth</td>
+	<td align=center>Allegheny</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>206.</td>
+	<td align=center>19301</td>
+	<td align=center>Paoli</td>
+	<td align=center>Chester</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>207.</td>
+	<td align=center>19118</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>208.</td>
+	<td align=center>18201</td>
+	<td align=center>Hazleton</td>
+	<td align=center>Luzerne</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>209.</td>
+	<td align=center>17876</td>
+	<td align=center>Shamokin Dam</td>
+	<td align=center>Snyder</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>210.</td>
+	<td align=center>17044</td>
+	<td align=center>Lewistown</td>
+	<td align=center>Mifflin</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>211.</td>
+	<td align=center>19151</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>212.</td>
+	<td align=center>19116</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>213.</td>
+	<td align=center>17824</td>
+	<td align=center>Elysburg</td>
+	<td align=center>Northumberland</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>214.</td>
+	<td align=center>17055</td>
+	<td align=center>Mechanicsburg</td>
+	<td align=center>Cumberland</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>215.</td>
+	<td align=center>19462</td>
+	<td align=center>Plymouth Meeting</td>
+	<td align=center>Montgomery</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>216.</td>
+	<td align=center>19112</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>217.</td>
+	<td align=center>19034</td>
+	<td align=center>Fort Washington</td>
+	<td align=center>Montgomery</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>218.</td>
+	<td align=center>18079</td>
+	<td align=center>Slatedale</td>
+	<td align=center>Lehigh</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>219.</td>
+	<td align=center>17814</td>
+	<td align=center>Benton</td>
+	<td align=center>Columbia</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>220.</td>
+	<td align=center>19453</td>
+	<td align=center>Mont Clare</td>
+	<td align=center>Montgomery</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>221.</td>
+	<td align=center>18917</td>
+	<td align=center>Dublin</td>
+	<td align=center>Bucks</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>222.</td>
+	<td align=center>18071</td>
+	<td align=center>Palmerton</td>
+	<td align=center>Carbon</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>223.</td>
+	<td align=center>16901</td>
+	<td align=center>Wellsboro</td>
+	<td align=center>Tioga</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>224.</td>
+	<td align=center>19142</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>225.</td>
+	<td align=center>18840</td>
+	<td align=center>Sayre</td>
+	<td align=center>Bradford</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>226.</td>
+	<td align=center>18055</td>
+	<td align=center>Hellertown</td>
+	<td align=center>Northampton</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>227.</td>
+	<td align=center>17566</td>
+	<td align=center>Quarryville</td>
+	<td align=center>Lancaster</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>228.</td>
+	<td align=center>16442</td>
+	<td align=center>Wattsburg</td>
+	<td align=center>Erie</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>229.</td>
+	<td align=center>19422</td>
+	<td align=center>Blue Bell</td>
+	<td align=center>Montgomery</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>230.</td>
+	<td align=center>18657</td>
+	<td align=center>Tunkhannock</td>
+	<td align=center>Wyoming</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>231.</td>
+	<td align=center>18045</td>
+	<td align=center>Easton</td>
+	<td align=center>Northampton</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>232.</td>
+	<td align=center>17408</td>
+	<td align=center>York</td>
+	<td align=center>York</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>233.</td>
+	<td align=center>18612</td>
+	<td align=center>Dallas</td>
+	<td align=center>Luzerne</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>234.</td>
+	<td align=center>18040</td>
+	<td align=center>Easton</td>
+	<td align=center>Northampton</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>235.</td>
+	<td align=center>17361</td>
+	<td align=center>Shrewsbury</td>
+	<td align=center>York</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>236.</td>
+	<td align=center>16046</td>
+	<td align=center>Mars</td>
+	<td align=center>Butler</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>237.</td>
+	<td align=center>19607</td>
+	<td align=center>Reading</td>
+	<td align=center>Berks</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>238.</td>
+	<td align=center>19132</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>239.</td>
+	<td align=center>19072</td>
+	<td align=center>Narberth</td>
+	<td align=center>Montgomery</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>240.</td>
+	<td align=center>18505</td>
+	<td align=center>Scranton</td>
+	<td align=center>Lackawanna</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>241.</td>
+	<td align=center>18034</td>
+	<td align=center>Center Valley</td>
+	<td align=center>Lehigh</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>242.</td>
+	<td align=center>17319</td>
+	<td align=center>Etters</td>
+	<td align=center>York</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>243.</td>
+	<td align=center>15946</td>
+	<td align=center>Portage</td>
+	<td align=center>Cambria</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>244.</td>
+	<td align=center>19560</td>
+	<td align=center>Temple</td>
+	<td align=center>Berks</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>245.</td>
+	<td align=center>19129</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>246.</td>
+	<td align=center>18425</td>
+	<td align=center>Greeley</td>
+	<td align=center>Pike</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>247.</td>
+	<td align=center>17257</td>
+	<td align=center>Shippensburg</td>
+	<td align=center>Cumberland</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>248.</td>
+	<td align=center>15222</td>
+	<td align=center>Pittsburgh</td>
+	<td align=center>Allegheny</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>249.</td>
+	<td align=center>19539</td>
+	<td align=center>Mertztown</td>
+	<td align=center>Berks</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>250.</td>
+	<td align=center>17960</td>
+	<td align=center>New Ringgold</td>
+	<td align=center>Schuylkill</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>251.</td>
+	<td align=center>17112</td>
+	<td align=center>Harrisburg</td>
+	<td align=center>Dauphin</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>252.</td>
+	<td align=center>19122</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>253.</td>
+	<td align=center>18109</td>
+	<td align=center>Allentown</td>
+	<td align=center>Lehigh</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>254.</td>
+	<td align=center>17929</td>
+	<td align=center>Cressona</td>
+	<td align=center>Schuylkill</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>255.</td>
+	<td align=center>17084</td>
+	<td align=center>Reedsville</td>
+	<td align=center>Mifflin</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>256.</td>
+	<td align=center>19046</td>
+	<td align=center>Jenkintown</td>
+	<td align=center>Montgomery</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>257.</td>
+	<td align=center>18951</td>
+	<td align=center>Quakertown</td>
+	<td align=center>Bucks</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>258.</td>
+	<td align=center>17070</td>
+	<td align=center>New Cumberland</td>
+	<td align=center>Cumberland</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>259.</td>
+	<td align=center>19150</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>260.</td>
+	<td align=center>18942</td>
+	<td align=center>Ottsville</td>
+	<td align=center>Bucks</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>261.</td>
+	<td align=center>18081</td>
+	<td align=center>Springtown</td>
+	<td align=center>Bucks</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>262.</td>
+	<td align=center>17842</td>
+	<td align=center>Middleburg</td>
+	<td align=center>Snyder</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>263.</td>
+	<td align=center>18929</td>
+	<td align=center>Jamison</td>
+	<td align=center>Bucks</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>264.</td>
+	<td align=center>18074</td>
+	<td align=center>Perkiomenville</td>
+	<td align=center>Montgomery</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>265.</td>
+	<td align=center>17737</td>
+	<td align=center>Hughesville</td>
+	<td align=center>Lycoming</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>266.</td>
+	<td align=center>17022</td>
+	<td align=center>Elizabethtown</td>
+	<td align=center>Lancaster</td>
+	<td align=center>1</td>
+</tr>
+</table><center><span class=body><a href="#top">Back to Top</a></span></center><br><br><br>(Runtime: 5 seconds)<br><!-- </center> -->
+<center><iframe bgcolor="#ffffff" Allowtransparency="true" src="openads_box.php" width="300" height="250" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe></center>
+<br><br><br><br><br><br>
+<table width="510" border="0" cellpadding="0" cellspacing="0" class="body">
+	<tr>
+	<td class="body"><div align="center">
+	<a href="/">Home Page</a> | <a href="faq.php">FAQs</a> | <a href="site_map.php">Site Map</a> | <a href="about.php">About</a> | <a href="privacy.php">Privacy Policy</a> | <a href="contact_us.php">Contact Us</a> <br>
+	<br>	<span class=footer>
+All content, images, and data &copy; 1998-2011 Where's George? LLC.<br>
+All Rights Reserved. Use of this Web site constitutes<br>
+acceptance of the <script>document.write("<A  HREF=\"javascript:popup_win('rules.php?fr=1',600,800,'yes');\">Terms of Service</a>");</script><noscript><A HREF=rules.php?fr=1 target=_blank>Terms of Service</a></noscript></span>
+</div><br><!-- <a href=http://www.milonic.com/><font color=#ffffff>DHTML Menu By Milonic JavaScript</font></a>--></td></tr></table></td>
+</tr>
+</table>
+	<!-- Start Quantcast tag -->
+	<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+	<script type="text/javascript">_qacct="p-26x3j23aUJBL6";quantserve();</script>
+	<noscript>
+	<a href="http://www.quantcast.com/p-26x3j23aUJBL6" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-26x3j23aUJBL6.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+	</noscript>
+	<!-- End Quantcast tag -->
+</body>
+</html>
+
+==================
+
+start1=11060
+
+start2=11049
+
+end1=61099
+
+end2=61280
+
+<tr class="ybbody" bgcolor="white">	<td align=center>1.</td><td align=center>18940</td><td align=center>Newtown</td><td align=center>Bucks</td><td align=center>15</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>2.</td><td align=center>19067</td><td align=center>Morrisville</td><td align=center>Bucks</td><td align=center>14</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>3.</td><td align=center>19020</td><td align=center>Bensalem</td><td align=center>Bucks</td><td align=center>11</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>4.</td><td align=center>19124</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>9</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>5.</td><td align=center>18901</td><td align=center>Doylestown</td><td align=center>Bucks</td><td align=center>8</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>6.</td><td align=center>19104</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>7</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>7.</td><td align=center>19055</td><td align=center>Levittown</td><td align=center>Bucks</td><td align=center>7</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>8.</td><td align=center>19134</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>7</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>9.</td><td align=center>19047</td><td align=center>Langhorne</td><td align=center>Bucks</td><td align=center>7</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>10.</td><td align=center>19335</td><td align=center>Downingtown</td><td align=center>Chester</td><td align=center>7</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>11.</td><td align=center>19115</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>7</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>12.</td><td align=center>19147</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>7</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>13.</td><td align=center>19128</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>6</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>14.</td><td align=center>19044</td><td align=center>Horsham</td><td align=center>Montgomery</td><td align=center>6</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>15.</td><td align=center>19107</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>6</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>16.</td><td align=center>18954</td><td align=center>Richboro</td><td align=center>Bucks</td><td align=center>6</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>17.</td><td align=center>19007</td><td align=center>Bristol</td><td align=center>Bucks</td><td align=center>6</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>18.</td><td align=center>19125</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>6</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>19.</td><td align=center>19053</td><td align=center>Feasterville-Trevose</td><td align=center>Bucks</td><td align=center>6</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>20.</td><td align=center>18966</td><td align=center>Southampton</td><td align=center>Bucks</td><td align=center>6</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>21.</td><td align=center>18974</td><td align=center>Warminster</td><td align=center>Bucks</td><td align=center>5</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>22.</td><td align=center>19152</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>5</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>23.</td><td align=center>19103</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>5</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>24.</td><td align=center>19136</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>5</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>25.</td><td align=center>19355</td><td align=center>Malvern</td><td align=center>Chester</td><td align=center>5</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>26.</td><td align=center>19054</td><td align=center>Levittown</td><td align=center>Bucks</td><td align=center>5</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>27.</td><td align=center>19468</td><td align=center>Royersford</td><td align=center>Montgomery</td><td align=center>5</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>28.</td><td align=center>19056</td><td align=center>Levittown</td><td align=center>Bucks</td><td align=center>5</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>29.</td><td align=center>19154</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>5</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>30.</td><td align=center>19120</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>5</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>31.</td><td align=center>18976</td><td align=center>Warrington</td><td align=center>Bucks</td><td align=center>4</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>32.</td><td align=center>19114</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>4</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>33.</td><td align=center>19143</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>4</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>34.</td><td align=center>19140</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>4</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>35.</td><td align=center>19406</td><td align=center>King of Prussia</td><td align=center>Montgomery</td><td align=center>4</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>36.</td><td align=center>19004</td><td align=center>Bala Cynwyd</td><td align=center>Montgomery</td><td align=center>4</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>37.</td><td align=center>19148</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>4</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>38.</td><td align=center>19106</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>4</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>39.</td><td align=center>19380</td><td align=center>West Chester</td><td align=center>Chester</td><td align=center>4</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>40.</td><td align=center>19312</td><td align=center>Berwyn</td><td align=center>Chester</td><td align=center>4</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>41.</td><td align=center>18103</td><td align=center>Allentown</td><td align=center>Lehigh</td><td align=center>4</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>42.</td><td align=center>19465</td><td align=center>Pottstown</td><td align=center>Chester</td><td align=center>4</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>43.</td><td align=center>19111</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>4</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>44.</td><td align=center>19446</td><td align=center>Lansdale</td><td align=center>Montgomery</td><td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>45.</td><td align=center>19026</td><td align=center>Drexel Hill</td><td align=center>Delaware</td><td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>46.</td><td align=center>19131</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>47.</td><td align=center>18360</td><td align=center>Stroudsburg</td><td align=center>Monroe</td><td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>48.</td><td align=center>19050</td><td align=center>Lansdowne</td><td align=center>Delaware</td><td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>49.</td><td align=center>19473</td><td align=center>Schwenksville</td><td align=center>Montgomery</td><td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>50.</td><td align=center>19119</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>51.</td><td align=center>19454</td><td align=center>North Wales</td><td align=center>Montgomery</td><td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>52.</td><td align=center>19146</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>53.</td><td align=center>17701</td><td align=center>Williamsport</td><td align=center>Lycoming</td><td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>54.</td><td align=center>17601</td><td align=center>Lancaster</td><td align=center>Lancaster</td><td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>55.</td><td align=center>19426</td><td align=center>Collegeville</td><td align=center>Montgomery</td><td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>56.</td><td align=center>19090</td><td align=center>Willow Grove</td><td align=center>Montgomery</td><td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>57.</td><td align=center>18018</td><td align=center>Bethlehem</td><td align=center>Lehigh</td><td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>58.</td><td align=center>19064</td><td align=center>Springfield</td><td align=center>Delaware</td><td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>59.</td><td align=center>19341</td><td align=center>Exton</td><td align=center>Chester</td><td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>60.</td><td align=center>19126</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>61.</td><td align=center>18017</td><td align=center>Bethlehem</td><td align=center>Northampton</td><td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>62.</td><td align=center>19123</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>63.</td><td align=center>19508</td><td align=center>Birdsboro</td><td align=center>Berks</td><td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>64.</td><td align=center>18938</td><td align=center>New Hope</td><td align=center>Bucks</td><td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>65.</td><td align=center>19440</td><td align=center>Hatfield</td><td align=center>Montgomery</td><td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>66.</td><td align=center>19102</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>67.</td><td align=center>19139</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>68.</td><td align=center>19087</td><td align=center>Wayne</td><td align=center>Delaware</td><td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>69.</td><td align=center>19015</td><td align=center>Brookhaven</td><td align=center>Delaware</td><td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>70.</td><td align=center>19403</td><td align=center>Norristown</td><td align=center>Montgomery</td><td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>71.</td><td align=center>19135</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>72.</td><td align=center>19083</td><td align=center>Havertown</td><td align=center>Delaware</td><td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>73.</td><td align=center>19003</td><td align=center>Ardmore</td><td align=center>Montgomery</td><td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>74.</td><td align=center>19057</td><td align=center>Levittown</td><td align=center>Bucks</td><td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>75.</td><td align=center>19030</td><td align=center>Fairless Hills</td><td align=center>Bucks</td><td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>76.</td><td align=center>19144</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>77.</td><td align=center>18914</td><td align=center>Chalfont</td><td align=center>Bucks</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>78.</td><td align=center>17603</td><td align=center>Lancaster</td><td align=center>Lancaster</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>79.</td><td align=center>16801</td><td align=center>State College</td><td align=center>Centre</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>80.</td><td align=center>19141</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>81.</td><td align=center>18704</td><td align=center>Kingston</td><td align=center>Luzerne</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>82.</td><td align=center>17402</td><td align=center>York</td><td align=center>York</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>83.</td><td align=center>19401</td><td align=center>Norristown</td><td align=center>Montgomery</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>84.</td><td align=center>19133</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>85.</td><td align=center>19082</td><td align=center>Upper Darby</td><td align=center>Delaware</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>86.</td><td align=center>18518</td><td align=center>Old Forge</td><td align=center>Lackawanna</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>87.</td><td align=center>19605</td><td align=center>Reading</td><td align=center>Berks</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>88.</td><td align=center>19320</td><td align=center>Coatesville</td><td align=center>Chester</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>89.</td><td align=center>18301</td><td align=center>East Stroudsburg</td><td align=center>Monroe</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>90.</td><td align=center>17111</td><td align=center>Harrisburg</td><td align=center>Dauphin</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>91.</td><td align=center>19311</td><td align=center>Avondale</td><td align=center>Chester</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>92.</td><td align=center>17901</td><td align=center>Pottsville</td><td align=center>Schuylkill</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>93.</td><td align=center>18947</td><td align=center>Pipersville</td><td align=center>Bucks</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>94.</td><td align=center>19149</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>95.</td><td align=center>19036</td><td align=center>Glenolden</td><td align=center>Delaware</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>96.</td><td align=center>17042</td><td align=center>Lebanon</td><td align=center>Lebanon</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>97.</td><td align=center>19029</td><td align=center>Essington</td><td align=center>Delaware</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>98.</td><td align=center>19025</td><td align=center>Dresher</td><td align=center>Montgomery</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>99.</td><td align=center>18058</td><td align=center>Kunkletown</td><td align=center>Monroe</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>100.</td><td align=center>19018</td><td align=center>Clifton Heights</td><td align=center>Delaware</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>101.</td><td align=center>18702</td><td align=center>Wilkes-Barre</td><td align=center>Luzerne</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>102.</td><td align=center>19085</td><td align=center>Villanova</td><td align=center>Delaware</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>103.</td><td align=center>19008</td><td align=center>Broomall</td><td align=center>Delaware</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>104.</td><td align=center>18634</td><td align=center>Nanticoke</td><td align=center>Luzerne</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>105.</td><td align=center>18041</td><td align=center>East Greenville</td><td align=center>Montgomery</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>106.</td><td align=center>19382</td><td align=center>West Chester</td><td align=center>Chester</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>107.</td><td align=center>19013</td><td align=center>Chester</td><td align=center>Delaware</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>108.</td><td align=center>18509</td><td align=center>Scranton</td><td align=center>Lackawanna</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>109.</td><td align=center>19130</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>110.</td><td align=center>17268</td><td align=center>Waynesboro</td><td align=center>Franklin</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>111.</td><td align=center>18980</td><td align=center>Wycombe</td><td align=center>Bucks</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>112.</td><td align=center>18969</td><td align=center>Telford</td><td align=center>Montgomery</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>113.</td><td align=center>19040</td><td align=center>Hatboro</td><td align=center>Montgomery</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>114.</td><td align=center>18944</td><td align=center>Perkasie</td><td align=center>Bucks</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>115.</td><td align=center>18091</td><td align=center>Wind Gap</td><td align=center>Northampton</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>116.</td><td align=center>17019</td><td align=center>Dillsburg</td><td align=center>York</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>117.</td><td align=center>19145</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>118.</td><td align=center>19027</td><td align=center>Elkins Park</td><td align=center>Montgomery</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>119.</td><td align=center>17551</td><td align=center>Millersville</td><td align=center>Lancaster</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>120.</td><td align=center>19021</td><td align=center>Croydon</td><td align=center>Bucks</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>121.</td><td align=center>16662</td><td align=center>Martinsburg</td><td align=center>Blair</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>122.</td><td align=center>19010</td><td align=center>Bryn Mawr</td><td align=center>Delaware</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>123.</td><td align=center>19348</td><td align=center>Kennett Square</td><td align=center>Chester</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>124.</td><td align=center>17963</td><td align=center>Pine Grove</td><td align=center>Schuylkill</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>125.</td><td align=center>19002</td><td align=center>Ambler</td><td align=center>Montgomery</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>126.</td><td align=center>18330</td><td align=center>Effort</td><td align=center>Monroe</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>127.</td><td align=center>15147</td><td align=center>Verona</td><td align=center>Allegheny</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>128.</td><td align=center>19526</td><td align=center>Hamburg</td><td align=center>Berks</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>129.</td><td align=center>19475</td><td align=center>Spring City</td><td align=center>Chester</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>130.</td><td align=center>17872</td><td align=center>Shamokin</td><td align=center>Northumberland</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>131.</td><td align=center>19038</td><td align=center>Glenside</td><td align=center>Montgomery</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>132.</td><td align=center>17033</td><td align=center>Hershey</td><td align=center>Dauphin</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>133.</td><td align=center>19460</td><td align=center>Phoenixville</td><td align=center>Chester</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>134.</td><td align=center>18062</td><td align=center>Macungie</td><td align=center>Lehigh</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>135.</td><td align=center>19428</td><td align=center>Conshohocken</td><td align=center>Montgomery</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>136.</td><td align=center>19096</td><td align=center>Wynnewood</td><td align=center>Montgomery</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>137.</td><td align=center>18054</td><td align=center>Green Lane</td><td align=center>Montgomery</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>138.</td><td align=center>17543</td><td align=center>Lititz</td><td align=center>Lancaster</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>139.</td><td align=center>16601</td><td align=center>Altoona</td><td align=center>Blair</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>140.</td><td align=center>19421</td><td align=center>Birchrunville</td><td align=center>Chester</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>141.</td><td align=center>19138</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>142.</td><td align=center>19086</td><td align=center>Wallingford</td><td align=center>Delaware</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>143.</td><td align=center>19014</td><td align=center>Aston</td><td align=center>Delaware</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>144.</td><td align=center>18635</td><td align=center>Nescopeck</td><td align=center>Luzerne</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>145.</td><td align=center>18042</td><td align=center>Easton</td><td align=center>Northampton</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>146.</td><td align=center>16365</td><td align=center>Warren</td><td align=center>Warren</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>147.</td><td align=center>19012</td><td align=center>Cheltenham</td><td align=center>Montgomery</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>148.</td><td align=center>18036</td><td align=center>Coopersburg</td><td align=center>Lehigh</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>149.</td><td align=center>17340</td><td align=center>Littlestown</td><td align=center>Adams</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>150.</td><td align=center>16066</td><td align=center>Cranberry Township</td><td align=center>Butler</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>151.</td><td align=center>19373</td><td align=center>Thornton</td><td align=center>Delaware</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>152.</td><td align=center>19006</td><td align=center>Huntingdon Valley</td><td align=center>Montgomery</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>153.</td><td align=center>18504</td><td align=center>Scranton</td><td align=center>Lackawanna</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>154.</td><td align=center>18015</td><td align=center>Bethlehem</td><td align=center>Northampton</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>155.</td><td align=center>17301</td><td align=center>Abbottstown</td><td align=center>Adams</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>156.</td><td align=center>15601</td><td align=center>Greensburg</td><td align=center>Westmoreland</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>157.</td><td align=center>19543</td><td align=center>Morgantown</td><td align=center>Berks</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>158.</td><td align=center>19344</td><td align=center>Honey Brook</td><td align=center>Chester</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>159.</td><td align=center>19061</td><td align=center>Marcus Hook</td><td align=center>Delaware</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>160.</td><td align=center>17961</td><td align=center>Orwigsburg</td><td align=center>Schuylkill</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>161.</td><td align=center>17236</td><td align=center>Mercersburg</td><td align=center>Franklin</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>162.</td><td align=center>15301</td><td align=center>Washington</td><td align=center>Washington</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>163.</td><td align=center>19530</td><td align=center>Kutztown</td><td align=center>Berks</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>164.</td><td align=center>17954</td><td align=center>Minersville</td><td align=center>Schuylkill</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>165.</td><td align=center>15044</td><td align=center>Gibsonia</td><td align=center>Allegheny</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>166.</td><td align=center>19525</td><td align=center>Gilbertsville</td><td align=center>Montgomery</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>167.</td><td align=center>19121</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>168.</td><td align=center>18964</td><td align=center>Souderton</td><td align=center>Montgomery</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>169.</td><td align=center>18232</td><td align=center>Lansford</td><td align=center>Carbon</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>170.</td><td align=center>17067</td><td align=center>Myerstown</td><td align=center>Lebanon</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>171.</td><td align=center>18102</td><td align=center>Allentown</td><td align=center>Lehigh</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>172.</td><td align=center>17822</td><td align=center>Danville</td><td align=center>Montour</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>173.</td><td align=center>17065</td><td align=center>Mount Holly Springs</td><td align=center>Cumberland</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>174.</td><td align=center>19464</td><td align=center>Pottstown</td><td align=center>Montgomery</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>175.</td><td align=center>18072</td><td align=center>Pen Argyl</td><td align=center>Northampton</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>176.</td><td align=center>17777</td><td align=center>Watsontown</td><td align=center>Northumberland</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>177.</td><td align=center>18922</td><td align=center>Forest Grove</td><td align=center>Bucks</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>178.</td><td align=center>18073</td><td align=center>Pennsburg</td><td align=center>Montgomery</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>179.</td><td align=center>17011</td><td align=center>Camp Hill</td><td align=center>Cumberland</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>180.</td><td align=center>19444</td><td align=center>Lafayette Hill</td><td align=center>Montgomery</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>181.</td><td align=center>16673</td><td align=center>Roaring Spring</td><td align=center>Blair</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>182.</td><td align=center>18049</td><td align=center>Emmaus</td><td align=center>Lehigh</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>183.</td><td align=center>17522</td><td align=center>Ephrata</td><td align=center>Lancaster</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>184.</td><td align=center>16172</td><td align=center>New Wilmington</td><td align=center>Lawrence</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>185.</td><td align=center>17364</td><td align=center>Thomasville</td><td align=center>York</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>186.</td><td align=center>15961</td><td align=center>Vintondale</td><td align=center>Indiana</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>187.</td><td align=center>19608</td><td align=center>Reading</td><td align=center>Berks</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>188.</td><td align=center>19076</td><td align=center>Prospect Park</td><td align=center>Delaware</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>189.</td><td align=center>17327</td><td align=center>Glen Rock</td><td align=center>York</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>190.</td><td align=center>16153</td><td align=center>Stoneboro</td><td align=center>Mercer</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>191.</td><td align=center>19601</td><td align=center>Reading</td><td align=center>Berks</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>192.</td><td align=center>18431</td><td align=center>Honesdale</td><td align=center>Wayne</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>193.</td><td align=center>17976</td><td align=center>Shenandoah</td><td align=center>Schuylkill</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>194.</td><td align=center>15321</td><td align=center>Cecil</td><td align=center>Washington</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>195.</td><td align=center>19540</td><td align=center>Mohnton</td><td align=center>Berks</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>196.</td><td align=center>19063</td><td align=center>Media</td><td align=center>Delaware</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>197.</td><td align=center>18324</td><td align=center>Bushkill</td><td align=center>Pike</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>198.</td><td align=center>17201</td><td align=center>Chambersburg</td><td align=center>Franklin</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>199.</td><td align=center>15062</td><td align=center>Monessen</td><td align=center>Westmoreland</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>200.</td><td align=center>19529</td><td align=center>Kempton</td><td align=center>Berks</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>201.</td><td align=center>19317</td><td align=center>Chadds Ford</td><td align=center>Delaware</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>202.</td><td align=center>18235</td><td align=center>Lehighton</td><td align=center>Carbon</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>203.</td><td align=center>17948</td><td align=center>Mahanoy City</td><td align=center>Schuylkill</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>204.</td><td align=center>17101</td><td align=center>Harrisburg</td><td align=center>Dauphin</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>205.</td><td align=center>15037</td><td align=center>Elizabeth</td><td align=center>Allegheny</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>206.</td><td align=center>19301</td><td align=center>Paoli</td><td align=center>Chester</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>207.</td><td align=center>19118</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>208.</td><td align=center>18201</td><td align=center>Hazleton</td><td align=center>Luzerne</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>209.</td><td align=center>17876</td><td align=center>Shamokin Dam</td><td align=center>Snyder</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>210.</td><td align=center>17044</td><td align=center>Lewistown</td><td align=center>Mifflin</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>211.</td><td align=center>19151</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>212.</td><td align=center>19116</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>213.</td><td align=center>17824</td><td align=center>Elysburg</td><td align=center>Northumberland</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>214.</td><td align=center>17055</td><td align=center>Mechanicsburg</td><td align=center>Cumberland</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>215.</td><td align=center>19462</td><td align=center>Plymouth Meeting</td><td align=center>Montgomery</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>216.</td><td align=center>19112</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>217.</td><td align=center>19034</td><td align=center>Fort Washington</td><td align=center>Montgomery</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>218.</td><td align=center>18079</td><td align=center>Slatedale</td><td align=center>Lehigh</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>219.</td><td align=center>17814</td><td align=center>Benton</td><td align=center>Columbia</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>220.</td><td align=center>19453</td><td align=center>Mont Clare</td><td align=center>Montgomery</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>221.</td><td align=center>18917</td><td align=center>Dublin</td><td align=center>Bucks</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>222.</td><td align=center>18071</td><td align=center>Palmerton</td><td align=center>Carbon</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>223.</td><td align=center>16901</td><td align=center>Wellsboro</td><td align=center>Tioga</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>224.</td><td align=center>19142</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>225.</td><td align=center>18840</td><td align=center>Sayre</td><td align=center>Bradford</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>226.</td><td align=center>18055</td><td align=center>Hellertown</td><td align=center>Northampton</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>227.</td><td align=center>17566</td><td align=center>Quarryville</td><td align=center>Lancaster</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>228.</td><td align=center>16442</td><td align=center>Wattsburg</td><td align=center>Erie</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>229.</td><td align=center>19422</td><td align=center>Blue Bell</td><td align=center>Montgomery</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>230.</td><td align=center>18657</td><td align=center>Tunkhannock</td><td align=center>Wyoming</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>231.</td><td align=center>18045</td><td align=center>Easton</td><td align=center>Northampton</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>232.</td><td align=center>17408</td><td align=center>York</td><td align=center>York</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>233.</td><td align=center>18612</td><td align=center>Dallas</td><td align=center>Luzerne</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>234.</td><td align=center>18040</td><td align=center>Easton</td><td align=center>Northampton</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>235.</td><td align=center>17361</td><td align=center>Shrewsbury</td><td align=center>York</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>236.</td><td align=center>16046</td><td align=center>Mars</td><td align=center>Butler</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>237.</td><td align=center>19607</td><td align=center>Reading</td><td align=center>Berks</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>238.</td><td align=center>19132</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>239.</td><td align=center>19072</td><td align=center>Narberth</td><td align=center>Montgomery</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>240.</td><td align=center>18505</td><td align=center>Scranton</td><td align=center>Lackawanna</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>241.</td><td align=center>18034</td><td align=center>Center Valley</td><td align=center>Lehigh</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>242.</td><td align=center>17319</td><td align=center>Etters</td><td align=center>York</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>243.</td><td align=center>15946</td><td align=center>Portage</td><td align=center>Cambria</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>244.</td><td align=center>19560</td><td align=center>Temple</td><td align=center>Berks</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>245.</td><td align=center>19129</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>246.</td><td align=center>18425</td><td align=center>Greeley</td><td align=center>Pike</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>247.</td><td align=center>17257</td><td align=center>Shippensburg</td><td align=center>Cumberland</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>248.</td><td align=center>15222</td><td align=center>Pittsburgh</td><td align=center>Allegheny</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>249.</td><td align=center>19539</td><td align=center>Mertztown</td><td align=center>Berks</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>250.</td><td align=center>17960</td><td align=center>New Ringgold</td><td align=center>Schuylkill</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>251.</td><td align=center>17112</td><td align=center>Harrisburg</td><td align=center>Dauphin</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>252.</td><td align=center>19122</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>253.</td><td align=center>18109</td><td align=center>Allentown</td><td align=center>Lehigh</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>254.</td><td align=center>17929</td><td align=center>Cressona</td><td align=center>Schuylkill</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>255.</td><td align=center>17084</td><td align=center>Reedsville</td><td align=center>Mifflin</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>256.</td><td align=center>19046</td><td align=center>Jenkintown</td><td align=center>Montgomery</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>257.</td><td align=center>18951</td><td align=center>Quakertown</td><td align=center>Bucks</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>258.</td><td align=center>17070</td><td align=center>New Cumberland</td><td align=center>Cumberland</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>259.</td><td align=center>19150</td><td align=center>Philadelphia</td><td align=center>Philadelphia</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>260.</td><td align=center>18942</td><td align=center>Ottsville</td><td align=center>Bucks</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>261.</td><td align=center>18081</td><td align=center>Springtown</td><td align=center>Bucks</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>262.</td><td align=center>17842</td><td align=center>Middleburg</td><td align=center>Snyder</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>263.</td><td align=center>18929</td><td align=center>Jamison</td><td align=center>Bucks</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>264.</td><td align=center>18074</td><td align=center>Perkiomenville</td><td align=center>Montgomery</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>265.</td><td align=center>17737</td><td align=center>Hughesville</td><td align=center>Lycoming</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>266.</td><td align=center>17022</td><td align=center>Elizabethtown</td><td align=center>Lancaster</td><td align=center>1</td>
+</tr>
+
+row=td><td align=center>Bucks</td><td align=center>15</td>
+</tr>
+<tr cla, rank=1,zip=18940,city=18940,county=Newtown,hits=15
+
+row=td><td align=center>Bucks</td><td align=center>14</td>
+</tr>
+<tr cla, rank=2,zip=19067,city=19067,county=Morrisville,hits=14
+
+row=td><td align=center>Bucks</td><td align=center>11</td>
+</tr>
+<tr cla, rank=3,zip=19020,city=19020,county=Bensalem,hits=11
+
+row=td><td align=center>Philadelphia</td><td align=center>9</td>
+</tr>
+<tr cla, rank=4,zip=19124,city=19124,county=Philadelphia,hits=9
+
+row=td><td align=center>Bucks</td><td align=center>8</td>
+</tr>
+<tr cla, rank=5,zip=18901,city=18901,county=Doylestown,hits=8
+
+row=td><td align=center>Philadelphia</td><td align=center>7</td>
+</tr>
+<tr cla, rank=6,zip=19104,city=19104,county=Philadelphia,hits=7
+
+row=td><td align=center>Bucks</td><td align=center>7</td>
+</tr>
+<tr cla, rank=7,zip=19055,city=19055,county=Levittown,hits=7
+
+row=td><td align=center>Philadelphia</td><td align=center>7</td>
+</tr>
+<tr cla, rank=8,zip=19134,city=19134,county=Philadelphia,hits=7
+
+row=td><td align=center>Bucks</td><td align=center>7</td>
+</tr>
+<tr cla, rank=9,zip=19047,city=19047,county=Langhorne,hits=7
+
+row=td><td align=center>Chester</td><td align=center>7</td>
+</tr>
+<tr cla, rank=10,zip=19335,city=19335,county=Downingtown,hits=7
+
+row=td><td align=center>Philadelphia</td><td align=center>7</td>
+</tr>
+<tr cla, rank=11,zip=19115,city=19115,county=Philadelphia,hits=7
+
+row=td><td align=center>Philadelphia</td><td align=center>7</td>
+</tr>
+<tr cla, rank=12,zip=19147,city=19147,county=Philadelphia,hits=7
+
+row=td><td align=center>Philadelphia</td><td align=center>6</td>
+</tr>
+<tr cla, rank=13,zip=19128,city=19128,county=Philadelphia,hits=6
+
+row=td><td align=center>Montgomery</td><td align=center>6</td>
+</tr>
+<tr cla, rank=14,zip=19044,city=19044,county=Horsham,hits=6
+
+row=td><td align=center>Philadelphia</td><td align=center>6</td>
+</tr>
+<tr cla, rank=15,zip=19107,city=19107,county=Philadelphia,hits=6
+
+row=td><td align=center>Bucks</td><td align=center>6</td>
+</tr>
+<tr cla, rank=16,zip=18954,city=18954,county=Richboro,hits=6
+
+row=td><td align=center>Bucks</td><td align=center>6</td>
+</tr>
+<tr cla, rank=17,zip=19007,city=19007,county=Bristol,hits=6
+
+row=td><td align=center>Philadelphia</td><td align=center>6</td>
+</tr>
+<tr cla, rank=18,zip=19125,city=19125,county=Philadelphia,hits=6
+
+row=td><td align=center>Bucks</td><td align=center>6</td>
+</tr>
+<tr cla, rank=19,zip=19053,city=19053,county=Feasterville-Trevose,hits=6
+
+row=td><td align=center>Bucks</td><td align=center>6</td>
+</tr>
+<tr cla, rank=20,zip=18966,city=18966,county=Southampton,hits=6
+
+row=td><td align=center>Bucks</td><td align=center>5</td>
+</tr>
+<tr cla, rank=21,zip=18974,city=18974,county=Warminster,hits=5
+
+row=td><td align=center>Philadelphia</td><td align=center>5</td>
+</tr>
+<tr cla, rank=22,zip=19152,city=19152,county=Philadelphia,hits=5
+
+row=td><td align=center>Philadelphia</td><td align=center>5</td>
+</tr>
+<tr cla, rank=23,zip=19103,city=19103,county=Philadelphia,hits=5
+
+row=td><td align=center>Philadelphia</td><td align=center>5</td>
+</tr>
+<tr cla, rank=24,zip=19136,city=19136,county=Philadelphia,hits=5
+
+row=td><td align=center>Chester</td><td align=center>5</td>
+</tr>
+<tr cla, rank=25,zip=19355,city=19355,county=Malvern,hits=5
+
+row=td><td align=center>Bucks</td><td align=center>5</td>
+</tr>
+<tr cla, rank=26,zip=19054,city=19054,county=Levittown,hits=5
+
+row=td><td align=center>Montgomery</td><td align=center>5</td>
+</tr>
+<tr cla, rank=27,zip=19468,city=19468,county=Royersford,hits=5
+
+row=td><td align=center>Bucks</td><td align=center>5</td>
+</tr>
+<tr cla, rank=28,zip=19056,city=19056,county=Levittown,hits=5
+
+row=td><td align=center>Philadelphia</td><td align=center>5</td>
+</tr>
+<tr cla, rank=29,zip=19154,city=19154,county=Philadelphia,hits=5
+
+row=td><td align=center>Philadelphia</td><td align=center>5</td>
+</tr>
+<tr cla, rank=30,zip=19120,city=19120,county=Philadelphia,hits=5
+
+row=td><td align=center>Bucks</td><td align=center>4</td>
+</tr>
+<tr cla, rank=31,zip=18976,city=18976,county=Warrington,hits=4
+
+row=td><td align=center>Philadelphia</td><td align=center>4</td>
+</tr>
+<tr cla, rank=32,zip=19114,city=19114,county=Philadelphia,hits=4
+
+row=td><td align=center>Philadelphia</td><td align=center>4</td>
+</tr>
+<tr cla, rank=33,zip=19143,city=19143,county=Philadelphia,hits=4
+
+row=td><td align=center>Philadelphia</td><td align=center>4</td>
+</tr>
+<tr cla, rank=34,zip=19140,city=19140,county=Philadelphia,hits=4
+
+row=td><td align=center>Montgomery</td><td align=center>4</td>
+</tr>
+<tr cla, rank=35,zip=19406,city=19406,county=King of Prussia,hits=4
+
+row=td><td align=center>Montgomery</td><td align=center>4</td>
+</tr>
+<tr cla, rank=36,zip=19004,city=19004,county=Bala Cynwyd,hits=4
+
+row=td><td align=center>Philadelphia</td><td align=center>4</td>
+</tr>
+<tr cla, rank=37,zip=19148,city=19148,county=Philadelphia,hits=4
+
+row=td><td align=center>Philadelphia</td><td align=center>4</td>
+</tr>
+<tr cla, rank=38,zip=19106,city=19106,county=Philadelphia,hits=4
+
+row=td><td align=center>Chester</td><td align=center>4</td>
+</tr>
+<tr cla, rank=39,zip=19380,city=19380,county=West Chester,hits=4
+
+row=td><td align=center>Chester</td><td align=center>4</td>
+</tr>
+<tr cla, rank=40,zip=19312,city=19312,county=Berwyn,hits=4
+
+row=td><td align=center>Lehigh</td><td align=center>4</td>
+</tr>
+<tr cla, rank=41,zip=18103,city=18103,county=Allentown,hits=4
+
+row=td><td align=center>Chester</td><td align=center>4</td>
+</tr>
+<tr cla, rank=42,zip=19465,city=19465,county=Pottstown,hits=4
+
+row=td><td align=center>Philadelphia</td><td align=center>4</td>
+</tr>
+<tr cla, rank=43,zip=19111,city=19111,county=Philadelphia,hits=4
+
+row=td><td align=center>Montgomery</td><td align=center>3</td>
+</tr>
+<tr cla, rank=44,zip=19446,city=19446,county=Lansdale,hits=3
+
+row=td><td align=center>Delaware</td><td align=center>3</td>
+</tr>
+<tr cla, rank=45,zip=19026,city=19026,county=Drexel Hill,hits=3
+
+row=td><td align=center>Philadelphia</td><td align=center>3</td>
+</tr>
+<tr cla, rank=46,zip=19131,city=19131,county=Philadelphia,hits=3
+
+row=td><td align=center>Monroe</td><td align=center>3</td>
+</tr>
+<tr cla, rank=47,zip=18360,city=18360,county=Stroudsburg,hits=3
+
+row=td><td align=center>Delaware</td><td align=center>3</td>
+</tr>
+<tr cla, rank=48,zip=19050,city=19050,county=Lansdowne,hits=3
+
+row=td><td align=center>Montgomery</td><td align=center>3</td>
+</tr>
+<tr cla, rank=49,zip=19473,city=19473,county=Schwenksville,hits=3
+
+row=td><td align=center>Philadelphia</td><td align=center>3</td>
+</tr>
+<tr cla, rank=50,zip=19119,city=19119,county=Philadelphia,hits=3
+
+row=td><td align=center>Montgomery</td><td align=center>3</td>
+</tr>
+<tr cla, rank=51,zip=19454,city=19454,county=North Wales,hits=3
+
+row=td><td align=center>Philadelphia</td><td align=center>3</td>
+</tr>
+<tr cla, rank=52,zip=19146,city=19146,county=Philadelphia,hits=3
+
+row=td><td align=center>Lycoming</td><td align=center>3</td>
+</tr>
+<tr cla, rank=53,zip=17701,city=17701,county=Williamsport,hits=3
+
+row=td><td align=center>Lancaster</td><td align=center>3</td>
+</tr>
+<tr cla, rank=54,zip=17601,city=17601,county=Lancaster,hits=3
+
+row=td><td align=center>Montgomery</td><td align=center>3</td>
+</tr>
+<tr cla, rank=55,zip=19426,city=19426,county=Collegeville,hits=3
+
+row=td><td align=center>Montgomery</td><td align=center>3</td>
+</tr>
+<tr cla, rank=56,zip=19090,city=19090,county=Willow Grove,hits=3
+
+row=td><td align=center>Lehigh</td><td align=center>3</td>
+</tr>
+<tr cla, rank=57,zip=18018,city=18018,county=Bethlehem,hits=3
+
+row=td><td align=center>Delaware</td><td align=center>3</td>
+</tr>
+<tr cla, rank=58,zip=19064,city=19064,county=Springfield,hits=3
+
+row=td><td align=center>Chester</td><td align=center>3</td>
+</tr>
+<tr cla, rank=59,zip=19341,city=19341,county=Exton,hits=3
+
+row=td><td align=center>Philadelphia</td><td align=center>3</td>
+</tr>
+<tr cla, rank=60,zip=19126,city=19126,county=Philadelphia,hits=3
+
+row=td><td align=center>Northampton</td><td align=center>3</td>
+</tr>
+<tr cla, rank=61,zip=18017,city=18017,county=Bethlehem,hits=3
+
+row=td><td align=center>Philadelphia</td><td align=center>3</td>
+</tr>
+<tr cla, rank=62,zip=19123,city=19123,county=Philadelphia,hits=3
+
+row=td><td align=center>Berks</td><td align=center>3</td>
+</tr>
+<tr cla, rank=63,zip=19508,city=19508,county=Birdsboro,hits=3
+
+row=td><td align=center>Bucks</td><td align=center>3</td>
+</tr>
+<tr cla, rank=64,zip=18938,city=18938,county=New Hope,hits=3
+
+row=td><td align=center>Montgomery</td><td align=center>3</td>
+</tr>
+<tr cla, rank=65,zip=19440,city=19440,county=Hatfield,hits=3
+
+row=td><td align=center>Philadelphia</td><td align=center>3</td>
+</tr>
+<tr cla, rank=66,zip=19102,city=19102,county=Philadelphia,hits=3
+
+row=td><td align=center>Philadelphia</td><td align=center>3</td>
+</tr>
+<tr cla, rank=67,zip=19139,city=19139,county=Philadelphia,hits=3
+
+row=td><td align=center>Delaware</td><td align=center>3</td>
+</tr>
+<tr cla, rank=68,zip=19087,city=19087,county=Wayne,hits=3
+
+row=td><td align=center>Delaware</td><td align=center>3</td>
+</tr>
+<tr cla, rank=69,zip=19015,city=19015,county=Brookhaven,hits=3
+
+row=td><td align=center>Montgomery</td><td align=center>3</td>
+</tr>
+<tr cla, rank=70,zip=19403,city=19403,county=Norristown,hits=3
+
+row=td><td align=center>Philadelphia</td><td align=center>3</td>
+</tr>
+<tr cla, rank=71,zip=19135,city=19135,county=Philadelphia,hits=3
+
+row=td><td align=center>Delaware</td><td align=center>3</td>
+</tr>
+<tr cla, rank=72,zip=19083,city=19083,county=Havertown,hits=3
+
+row=td><td align=center>Montgomery</td><td align=center>3</td>
+</tr>
+<tr cla, rank=73,zip=19003,city=19003,county=Ardmore,hits=3
+
+row=td><td align=center>Bucks</td><td align=center>3</td>
+</tr>
+<tr cla, rank=74,zip=19057,city=19057,county=Levittown,hits=3
+
+row=td><td align=center>Bucks</td><td align=center>3</td>
+</tr>
+<tr cla, rank=75,zip=19030,city=19030,county=Fairless Hills,hits=3
+
+row=td><td align=center>Philadelphia</td><td align=center>2</td>
+</tr>
+<tr cla, rank=76,zip=19144,city=19144,county=Philadelphia,hits=2
+
+row=td><td align=center>Bucks</td><td align=center>2</td>
+</tr>
+<tr cla, rank=77,zip=18914,city=18914,county=Chalfont,hits=2
+
+row=td><td align=center>Lancaster</td><td align=center>2</td>
+</tr>
+<tr cla, rank=78,zip=17603,city=17603,county=Lancaster,hits=2
+
+row=td><td align=center>Centre</td><td align=center>2</td>
+</tr>
+<tr cla, rank=79,zip=16801,city=16801,county=State College,hits=2
+
+row=td><td align=center>Philadelphia</td><td align=center>2</td>
+</tr>
+<tr cla, rank=80,zip=19141,city=19141,county=Philadelphia,hits=2
+
+row=td><td align=center>Luzerne</td><td align=center>2</td>
+</tr>
+<tr cla, rank=81,zip=18704,city=18704,county=Kingston,hits=2
+
+row=td><td align=center>York</td><td align=center>2</td>
+</tr>
+<tr cla, rank=82,zip=17402,city=17402,county=York,hits=2
+
+row=td><td align=center>Montgomery</td><td align=center>2</td>
+</tr>
+<tr cla, rank=83,zip=19401,city=19401,county=Norristown,hits=2
+
+row=td><td align=center>Philadelphia</td><td align=center>2</td>
+</tr>
+<tr cla, rank=84,zip=19133,city=19133,county=Philadelphia,hits=2
+
+row=td><td align=center>Delaware</td><td align=center>2</td>
+</tr>
+<tr cla, rank=85,zip=19082,city=19082,county=Upper Darby,hits=2
+
+row=td><td align=center>Lackawanna</td><td align=center>2</td>
+</tr>
+<tr cla, rank=86,zip=18518,city=18518,county=Old Forge,hits=2
+
+row=td><td align=center>Berks</td><td align=center>2</td>
+</tr>
+<tr cla, rank=87,zip=19605,city=19605,county=Reading,hits=2
+
+row=td><td align=center>Chester</td><td align=center>2</td>
+</tr>
+<tr cla, rank=88,zip=19320,city=19320,county=Coatesville,hits=2
+
+row=td><td align=center>Monroe</td><td align=center>2</td>
+</tr>
+<tr cla, rank=89,zip=18301,city=18301,county=East Stroudsburg,hits=2
+
+row=td><td align=center>Dauphin</td><td align=center>2</td>
+</tr>
+<tr cla, rank=90,zip=17111,city=17111,county=Harrisburg,hits=2
+
+row=td><td align=center>Chester</td><td align=center>2</td>
+</tr>
+<tr cla, rank=91,zip=19311,city=19311,county=Avondale,hits=2
+
+row=td><td align=center>Schuylkill</td><td align=center>2</td>
+</tr>
+<tr cla, rank=92,zip=17901,city=17901,county=Pottsville,hits=2
+
+row=td><td align=center>Bucks</td><td align=center>2</td>
+</tr>
+<tr cla, rank=93,zip=18947,city=18947,county=Pipersville,hits=2
+
+row=td><td align=center>Philadelphia</td><td align=center>2</td>
+</tr>
+<tr cla, rank=94,zip=19149,city=19149,county=Philadelphia,hits=2
+
+row=td><td align=center>Delaware</td><td align=center>2</td>
+</tr>
+<tr cla, rank=95,zip=19036,city=19036,county=Glenolden,hits=2
+
+row=td><td align=center>Lebanon</td><td align=center>2</td>
+</tr>
+<tr cla, rank=96,zip=17042,city=17042,county=Lebanon,hits=2
+
+row=td><td align=center>Delaware</td><td align=center>2</td>
+</tr>
+<tr cla, rank=97,zip=19029,city=19029,county=Essington,hits=2
+
+row=td><td align=center>Montgomery</td><td align=center>2</td>
+</tr>
+<tr cla, rank=98,zip=19025,city=19025,county=Dresher,hits=2
+
+row=td><td align=center>Monroe</td><td align=center>2</td>
+</tr>
+<tr cla, rank=99,zip=18058,city=18058,county=Kunkletown,hits=2
+
+row=td><td align=center>Delaware</td><td align=center>2</td>
+</tr>
+<tr cla, rank=100,zip=19018,city=19018,county=Clifton Heights,hits=2
+
+row=td><td align=center>Luzerne</td><td align=center>2</td>
+</tr>
+<tr cla, rank=101,zip=18702,city=18702,county=Wilkes-Barre,hits=2
+
+row=td><td align=center>Delaware</td><td align=center>2</td>
+</tr>
+<tr cla, rank=102,zip=19085,city=19085,county=Villanova,hits=2
+
+row=td><td align=center>Delaware</td><td align=center>2</td>
+</tr>
+<tr cla, rank=103,zip=19008,city=19008,county=Broomall,hits=2
+
+row=td><td align=center>Luzerne</td><td align=center>2</td>
+</tr>
+<tr cla, rank=104,zip=18634,city=18634,county=Nanticoke,hits=2
+
+row=td><td align=center>Montgomery</td><td align=center>2</td>
+</tr>
+<tr cla, rank=105,zip=18041,city=18041,county=East Greenville,hits=2
+
+row=td><td align=center>Chester</td><td align=center>2</td>
+</tr>
+<tr cla, rank=106,zip=19382,city=19382,county=West Chester,hits=2
+
+row=td><td align=center>Delaware</td><td align=center>2</td>
+</tr>
+<tr cla, rank=107,zip=19013,city=19013,county=Chester,hits=2
+
+row=td><td align=center>Lackawanna</td><td align=center>2</td>
+</tr>
+<tr cla, rank=108,zip=18509,city=18509,county=Scranton,hits=2
+
+row=td><td align=center>Philadelphia</td><td align=center>2</td>
+</tr>
+<tr cla, rank=109,zip=19130,city=19130,county=Philadelphia,hits=2
+
+row=td><td align=center>Franklin</td><td align=center>2</td>
+</tr>
+<tr cla, rank=110,zip=17268,city=17268,county=Waynesboro,hits=2
+
+row=td><td align=center>Bucks</td><td align=center>2</td>
+</tr>
+<tr cla, rank=111,zip=18980,city=18980,county=Wycombe,hits=2
+
+row=td><td align=center>Montgomery</td><td align=center>2</td>
+</tr>
+<tr cla, rank=112,zip=18969,city=18969,county=Telford,hits=2
+
+row=td><td align=center>Montgomery</td><td align=center>2</td>
+</tr>
+<tr cla, rank=113,zip=19040,city=19040,county=Hatboro,hits=2
+
+row=td><td align=center>Bucks</td><td align=center>2</td>
+</tr>
+<tr cla, rank=114,zip=18944,city=18944,county=Perkasie,hits=2
+
+row=td><td align=center>Northampton</td><td align=center>2</td>
+</tr>
+<tr cla, rank=115,zip=18091,city=18091,county=Wind Gap,hits=2
+
+row=td><td align=center>York</td><td align=center>2</td>
+</tr>
+<tr cla, rank=116,zip=17019,city=17019,county=Dillsburg,hits=2
+
+row=td><td align=center>Philadelphia</td><td align=center>2</td>
+</tr>
+<tr cla, rank=117,zip=19145,city=19145,county=Philadelphia,hits=2
+
+row=td><td align=center>Montgomery</td><td align=center>2</td>
+</tr>
+<tr cla, rank=118,zip=19027,city=19027,county=Elkins Park,hits=2
+
+row=td><td align=center>Lancaster</td><td align=center>2</td>
+</tr>
+<tr cla, rank=119,zip=17551,city=17551,county=Millersville,hits=2
+
+row=td><td align=center>Bucks</td><td align=center>2</td>
+</tr>
+<tr cla, rank=120,zip=19021,city=19021,county=Croydon,hits=2
+
+row=td><td align=center>Blair</td><td align=center>2</td>
+</tr>
+<tr cla, rank=121,zip=16662,city=16662,county=Martinsburg,hits=2
+
+row=td><td align=center>Delaware</td><td align=center>2</td>
+</tr>
+<tr cla, rank=122,zip=19010,city=19010,county=Bryn Mawr,hits=2
+
+row=td><td align=center>Chester</td><td align=center>2</td>
+</tr>
+<tr cla, rank=123,zip=19348,city=19348,county=Kennett Square,hits=2
+
+row=td><td align=center>Schuylkill</td><td align=center>2</td>
+</tr>
+<tr cla, rank=124,zip=17963,city=17963,county=Pine Grove,hits=2
+
+row=td><td align=center>Montgomery</td><td align=center>2</td>
+</tr>
+<tr cla, rank=125,zip=19002,city=19002,county=Ambler,hits=2
+
+row=td><td align=center>Monroe</td><td align=center>2</td>
+</tr>
+<tr cla, rank=126,zip=18330,city=18330,county=Effort,hits=2
+
+row=td><td align=center>Allegheny</td><td align=center>2</td>
+</tr>
+<tr cla, rank=127,zip=15147,city=15147,county=Verona,hits=2
+
+row=td><td align=center>Berks</td><td align=center>2</td>
+</tr>
+<tr cla, rank=128,zip=19526,city=19526,county=Hamburg,hits=2
+
+row=td><td align=center>Chester</td><td align=center>2</td>
+</tr>
+<tr cla, rank=129,zip=19475,city=19475,county=Spring City,hits=2
+
+row=td><td align=center>Northumberland</td><td align=center>2</td>
+</tr>
+<tr cla, rank=130,zip=17872,city=17872,county=Shamokin,hits=2
+
+row=td><td align=center>Montgomery</td><td align=center>2</td>
+</tr>
+<tr cla, rank=131,zip=19038,city=19038,county=Glenside,hits=2
+
+row=td><td align=center>Dauphin</td><td align=center>2</td>
+</tr>
+<tr cla, rank=132,zip=17033,city=17033,county=Hershey,hits=2
+
+row=td><td align=center>Chester</td><td align=center>2</td>
+</tr>
+<tr cla, rank=133,zip=19460,city=19460,county=Phoenixville,hits=2
+
+row=td><td align=center>Lehigh</td><td align=center>1</td>
+</tr>
+<tr cla, rank=134,zip=18062,city=18062,county=Macungie,hits=1
+
+row=td><td align=center>Montgomery</td><td align=center>1</td>
+</tr>
+<tr cla, rank=135,zip=19428,city=19428,county=Conshohocken,hits=1
+
+row=td><td align=center>Montgomery</td><td align=center>1</td>
+</tr>
+<tr cla, rank=136,zip=19096,city=19096,county=Wynnewood,hits=1
+
+row=td><td align=center>Montgomery</td><td align=center>1</td>
+</tr>
+<tr cla, rank=137,zip=18054,city=18054,county=Green Lane,hits=1
+
+row=td><td align=center>Lancaster</td><td align=center>1</td>
+</tr>
+<tr cla, rank=138,zip=17543,city=17543,county=Lititz,hits=1
+
+row=td><td align=center>Blair</td><td align=center>1</td>
+</tr>
+<tr cla, rank=139,zip=16601,city=16601,county=Altoona,hits=1
+
+row=td><td align=center>Chester</td><td align=center>1</td>
+</tr>
+<tr cla, rank=140,zip=19421,city=19421,county=Birchrunville,hits=1
+
+row=td><td align=center>Philadelphia</td><td align=center>1</td>
+</tr>
+<tr cla, rank=141,zip=19138,city=19138,county=Philadelphia,hits=1
+
+row=td><td align=center>Delaware</td><td align=center>1</td>
+</tr>
+<tr cla, rank=142,zip=19086,city=19086,county=Wallingford,hits=1
+
+row=td><td align=center>Delaware</td><td align=center>1</td>
+</tr>
+<tr cla, rank=143,zip=19014,city=19014,county=Aston,hits=1
+
+row=td><td align=center>Luzerne</td><td align=center>1</td>
+</tr>
+<tr cla, rank=144,zip=18635,city=18635,county=Nescopeck,hits=1
+
+row=td><td align=center>Northampton</td><td align=center>1</td>
+</tr>
+<tr cla, rank=145,zip=18042,city=18042,county=Easton,hits=1
+
+row=td><td align=center>Warren</td><td align=center>1</td>
+</tr>
+<tr cla, rank=146,zip=16365,city=16365,county=Warren,hits=1
+
+row=td><td align=center>Montgomery</td><td align=center>1</td>
+</tr>
+<tr cla, rank=147,zip=19012,city=19012,county=Cheltenham,hits=1
+
+row=td><td align=center>Lehigh</td><td align=center>1</td>
+</tr>
+<tr cla, rank=148,zip=18036,city=18036,county=Coopersburg,hits=1
+
+row=td><td align=center>Adams</td><td align=center>1</td>
+</tr>
+<tr cla, rank=149,zip=17340,city=17340,county=Littlestown,hits=1
+
+row=td><td align=center>Butler</td><td align=center>1</td>
+</tr>
+<tr cla, rank=150,zip=16066,city=16066,county=Cranberry Township,hits=1
+
+row=td><td align=center>Delaware</td><td align=center>1</td>
+</tr>
+<tr cla, rank=151,zip=19373,city=19373,county=Thornton,hits=1
+
+row=td><td align=center>Montgomery</td><td align=center>1</td>
+</tr>
+<tr cla, rank=152,zip=19006,city=19006,county=Huntingdon Valley,hits=1
+
+row=td><td align=center>Lackawanna</td><td align=center>1</td>
+</tr>
+<tr cla, rank=153,zip=18504,city=18504,county=Scranton,hits=1
+
+row=td><td align=center>Northampton</td><td align=center>1</td>
+</tr>
+<tr cla, rank=154,zip=18015,city=18015,county=Bethlehem,hits=1
+
+row=td><td align=center>Adams</td><td align=center>1</td>
+</tr>
+<tr cla, rank=155,zip=17301,city=17301,county=Abbottstown,hits=1
+
+row=td><td align=center>Westmoreland</td><td align=center>1</td>
+</tr>
+<tr cla, rank=156,zip=15601,city=15601,county=Greensburg,hits=1
+
+row=td><td align=center>Berks</td><td align=center>1</td>
+</tr>
+<tr cla, rank=157,zip=19543,city=19543,county=Morgantown,hits=1
+
+row=td><td align=center>Chester</td><td align=center>1</td>
+</tr>
+<tr cla, rank=158,zip=19344,city=19344,county=Honey Brook,hits=1
+
+row=td><td align=center>Delaware</td><td align=center>1</td>
+</tr>
+<tr cla, rank=159,zip=19061,city=19061,county=Marcus Hook,hits=1
+
+row=td><td align=center>Schuylkill</td><td align=center>1</td>
+</tr>
+<tr cla, rank=160,zip=17961,city=17961,county=Orwigsburg,hits=1
+
+row=td><td align=center>Franklin</td><td align=center>1</td>
+</tr>
+<tr cla, rank=161,zip=17236,city=17236,county=Mercersburg,hits=1
+
+row=td><td align=center>Washington</td><td align=center>1</td>
+</tr>
+<tr cla, rank=162,zip=15301,city=15301,county=Washington,hits=1
+
+row=td><td align=center>Berks</td><td align=center>1</td>
+</tr>
+<tr cla, rank=163,zip=19530,city=19530,county=Kutztown,hits=1
+
+row=td><td align=center>Schuylkill</td><td align=center>1</td>
+</tr>
+<tr cla, rank=164,zip=17954,city=17954,county=Minersville,hits=1
+
+row=td><td align=center>Allegheny</td><td align=center>1</td>
+</tr>
+<tr cla, rank=165,zip=15044,city=15044,county=Gibsonia,hits=1
+
+row=td><td align=center>Montgomery</td><td align=center>1</td>
+</tr>
+<tr cla, rank=166,zip=19525,city=19525,county=Gilbertsville,hits=1
+
+row=td><td align=center>Philadelphia</td><td align=center>1</td>
+</tr>
+<tr cla, rank=167,zip=19121,city=19121,county=Philadelphia,hits=1
+
+row=td><td align=center>Montgomery</td><td align=center>1</td>
+</tr>
+<tr cla, rank=168,zip=18964,city=18964,county=Souderton,hits=1
+
+row=td><td align=center>Carbon</td><td align=center>1</td>
+</tr>
+<tr cla, rank=169,zip=18232,city=18232,county=Lansford,hits=1
+
+row=td><td align=center>Lebanon</td><td align=center>1</td>
+</tr>
+<tr cla, rank=170,zip=17067,city=17067,county=Myerstown,hits=1
+
+row=td><td align=center>Lehigh</td><td align=center>1</td>
+</tr>
+<tr cla, rank=171,zip=18102,city=18102,county=Allentown,hits=1
+
+row=td><td align=center>Montour</td><td align=center>1</td>
+</tr>
+<tr cla, rank=172,zip=17822,city=17822,county=Danville,hits=1
+
+row=td><td align=center>Cumberland</td><td align=center>1</td>
+</tr>
+<tr cla, rank=173,zip=17065,city=17065,county=Mount Holly Springs,hits=1
+
+row=td><td align=center>Montgomery</td><td align=center>1</td>
+</tr>
+<tr cla, rank=174,zip=19464,city=19464,county=Pottstown,hits=1
+
+row=td><td align=center>Northampton</td><td align=center>1</td>
+</tr>
+<tr cla, rank=175,zip=18072,city=18072,county=Pen Argyl,hits=1
+
+row=td><td align=center>Northumberland</td><td align=center>1</td>
+</tr>
+<tr cla, rank=176,zip=17777,city=17777,county=Watsontown,hits=1
+
+row=td><td align=center>Bucks</td><td align=center>1</td>
+</tr>
+<tr cla, rank=177,zip=18922,city=18922,county=Forest Grove,hits=1
+
+row=td><td align=center>Montgomery</td><td align=center>1</td>
+</tr>
+<tr cla, rank=178,zip=18073,city=18073,county=Pennsburg,hits=1
+
+row=td><td align=center>Cumberland</td><td align=center>1</td>
+</tr>
+<tr cla, rank=179,zip=17011,city=17011,county=Camp Hill,hits=1
+
+row=td><td align=center>Montgomery</td><td align=center>1</td>
+</tr>
+<tr cla, rank=180,zip=19444,city=19444,county=Lafayette Hill,hits=1
+
+row=td><td align=center>Blair</td><td align=center>1</td>
+</tr>
+<tr cla, rank=181,zip=16673,city=16673,county=Roaring Spring,hits=1
+
+row=td><td align=center>Lehigh</td><td align=center>1</td>
+</tr>
+<tr cla, rank=182,zip=18049,city=18049,county=Emmaus,hits=1
+
+row=td><td align=center>Lancaster</td><td align=center>1</td>
+</tr>
+<tr cla, rank=183,zip=17522,city=17522,county=Ephrata,hits=1
+
+row=td><td align=center>Lawrence</td><td align=center>1</td>
+</tr>
+<tr cla, rank=184,zip=16172,city=16172,county=New Wilmington,hits=1
+
+row=td><td align=center>York</td><td align=center>1</td>
+</tr>
+<tr cla, rank=185,zip=17364,city=17364,county=Thomasville,hits=1
+
+row=td><td align=center>Indiana</td><td align=center>1</td>
+</tr>
+<tr cla, rank=186,zip=15961,city=15961,county=Vintondale,hits=1
+
+row=td><td align=center>Berks</td><td align=center>1</td>
+</tr>
+<tr cla, rank=187,zip=19608,city=19608,county=Reading,hits=1
+
+row=td><td align=center>Delaware</td><td align=center>1</td>
+</tr>
+<tr cla, rank=188,zip=19076,city=19076,county=Prospect Park,hits=1
+
+row=td><td align=center>York</td><td align=center>1</td>
+</tr>
+<tr cla, rank=189,zip=17327,city=17327,county=Glen Rock,hits=1
+
+row=td><td align=center>Mercer</td><td align=center>1</td>
+</tr>
+<tr cla, rank=190,zip=16153,city=16153,county=Stoneboro,hits=1
+
+row=td><td align=center>Berks</td><td align=center>1</td>
+</tr>
+<tr cla, rank=191,zip=19601,city=19601,county=Reading,hits=1
+
+row=td><td align=center>Wayne</td><td align=center>1</td>
+</tr>
+<tr cla, rank=192,zip=18431,city=18431,county=Honesdale,hits=1
+
+row=td><td align=center>Schuylkill</td><td align=center>1</td>
+</tr>
+<tr cla, rank=193,zip=17976,city=17976,county=Shenandoah,hits=1
+
+row=td><td align=center>Washington</td><td align=center>1</td>
+</tr>
+<tr cla, rank=194,zip=15321,city=15321,county=Cecil,hits=1
+
+row=td><td align=center>Berks</td><td align=center>1</td>
+</tr>
+<tr cla, rank=195,zip=19540,city=19540,county=Mohnton,hits=1
+
+row=td><td align=center>Delaware</td><td align=center>1</td>
+</tr>
+<tr cla, rank=196,zip=19063,city=19063,county=Media,hits=1
+
+row=td><td align=center>Pike</td><td align=center>1</td>
+</tr>
+<tr cla, rank=197,zip=18324,city=18324,county=Bushkill,hits=1
+
+row=td><td align=center>Franklin</td><td align=center>1</td>
+</tr>
+<tr cla, rank=198,zip=17201,city=17201,county=Chambersburg,hits=1
+
+row=td><td align=center>Westmoreland</td><td align=center>1</td>
+</tr>
+<tr cla, rank=199,zip=15062,city=15062,county=Monessen,hits=1
+
+row=td><td align=center>Berks</td><td align=center>1</td>
+</tr>
+<tr cla, rank=200,zip=19529,city=19529,county=Kempton,hits=1
+
+row=td><td align=center>Delaware</td><td align=center>1</td>
+</tr>
+<tr cla, rank=201,zip=19317,city=19317,county=Chadds Ford,hits=1
+
+row=td><td align=center>Carbon</td><td align=center>1</td>
+</tr>
+<tr cla, rank=202,zip=18235,city=18235,county=Lehighton,hits=1
+
+row=td><td align=center>Schuylkill</td><td align=center>1</td>
+</tr>
+<tr cla, rank=203,zip=17948,city=17948,county=Mahanoy City,hits=1
+
+row=td><td align=center>Dauphin</td><td align=center>1</td>
+</tr>
+<tr cla, rank=204,zip=17101,city=17101,county=Harrisburg,hits=1
+
+row=td><td align=center>Allegheny</td><td align=center>1</td>
+</tr>
+<tr cla, rank=205,zip=15037,city=15037,county=Elizabeth,hits=1
+
+row=td><td align=center>Chester</td><td align=center>1</td>
+</tr>
+<tr cla, rank=206,zip=19301,city=19301,county=Paoli,hits=1
+
+row=td><td align=center>Philadelphia</td><td align=center>1</td>
+</tr>
+<tr cla, rank=207,zip=19118,city=19118,county=Philadelphia,hits=1
+
+row=td><td align=center>Luzerne</td><td align=center>1</td>
+</tr>
+<tr cla, rank=208,zip=18201,city=18201,county=Hazleton,hits=1
+
+row=td><td align=center>Snyder</td><td align=center>1</td>
+</tr>
+<tr cla, rank=209,zip=17876,city=17876,county=Shamokin Dam,hits=1
+
+row=td><td align=center>Mifflin</td><td align=center>1</td>
+</tr>
+<tr cla, rank=210,zip=17044,city=17044,county=Lewistown,hits=1
+
+row=td><td align=center>Philadelphia</td><td align=center>1</td>
+</tr>
+<tr cla, rank=211,zip=19151,city=19151,county=Philadelphia,hits=1
+
+row=td><td align=center>Philadelphia</td><td align=center>1</td>
+</tr>
+<tr cla, rank=212,zip=19116,city=19116,county=Philadelphia,hits=1
+
+row=td><td align=center>Northumberland</td><td align=center>1</td>
+</tr>
+<tr cla, rank=213,zip=17824,city=17824,county=Elysburg,hits=1
+
+row=td><td align=center>Cumberland</td><td align=center>1</td>
+</tr>
+<tr cla, rank=214,zip=17055,city=17055,county=Mechanicsburg,hits=1
+
+row=td><td align=center>Montgomery</td><td align=center>1</td>
+</tr>
+<tr cla, rank=215,zip=19462,city=19462,county=Plymouth Meeting,hits=1
+
+row=td><td align=center>Philadelphia</td><td align=center>1</td>
+</tr>
+<tr cla, rank=216,zip=19112,city=19112,county=Philadelphia,hits=1
+
+row=td><td align=center>Montgomery</td><td align=center>1</td>
+</tr>
+<tr cla, rank=217,zip=19034,city=19034,county=Fort Washington,hits=1
+
+row=td><td align=center>Lehigh</td><td align=center>1</td>
+</tr>
+<tr cla, rank=218,zip=18079,city=18079,county=Slatedale,hits=1
+
+row=td><td align=center>Columbia</td><td align=center>1</td>
+</tr>
+<tr cla, rank=219,zip=17814,city=17814,county=Benton,hits=1
+
+row=td><td align=center>Montgomery</td><td align=center>1</td>
+</tr>
+<tr cla, rank=220,zip=19453,city=19453,county=Mont Clare,hits=1
+
+row=td><td align=center>Bucks</td><td align=center>1</td>
+</tr>
+<tr cla, rank=221,zip=18917,city=18917,county=Dublin,hits=1
+
+row=td><td align=center>Carbon</td><td align=center>1</td>
+</tr>
+<tr cla, rank=222,zip=18071,city=18071,county=Palmerton,hits=1
+
+row=td><td align=center>Tioga</td><td align=center>1</td>
+</tr>
+<tr cla, rank=223,zip=16901,city=16901,county=Wellsboro,hits=1
+
+row=td><td align=center>Philadelphia</td><td align=center>1</td>
+</tr>
+<tr cla, rank=224,zip=19142,city=19142,county=Philadelphia,hits=1
+
+row=td><td align=center>Bradford</td><td align=center>1</td>
+</tr>
+<tr cla, rank=225,zip=18840,city=18840,county=Sayre,hits=1
+
+row=td><td align=center>Northampton</td><td align=center>1</td>
+</tr>
+<tr cla, rank=226,zip=18055,city=18055,county=Hellertown,hits=1
+
+row=td><td align=center>Lancaster</td><td align=center>1</td>
+</tr>
+<tr cla, rank=227,zip=17566,city=17566,county=Quarryville,hits=1
+
+row=td><td align=center>Erie</td><td align=center>1</td>
+</tr>
+<tr cla, rank=228,zip=16442,city=16442,county=Wattsburg,hits=1
+
+row=td><td align=center>Montgomery</td><td align=center>1</td>
+</tr>
+<tr cla, rank=229,zip=19422,city=19422,county=Blue Bell,hits=1
+
+row=td><td align=center>Wyoming</td><td align=center>1</td>
+</tr>
+<tr cla, rank=230,zip=18657,city=18657,county=Tunkhannock,hits=1
+
+row=td><td align=center>Northampton</td><td align=center>1</td>
+</tr>
+<tr cla, rank=231,zip=18045,city=18045,county=Easton,hits=1
+
+row=td><td align=center>York</td><td align=center>1</td>
+</tr>
+<tr cla, rank=232,zip=17408,city=17408,county=York,hits=1
+
+row=td><td align=center>Luzerne</td><td align=center>1</td>
+</tr>
+<tr cla, rank=233,zip=18612,city=18612,county=Dallas,hits=1
+
+row=td><td align=center>Northampton</td><td align=center>1</td>
+</tr>
+<tr cla, rank=234,zip=18040,city=18040,county=Easton,hits=1
+
+row=td><td align=center>York</td><td align=center>1</td>
+</tr>
+<tr cla, rank=235,zip=17361,city=17361,county=Shrewsbury,hits=1
+
+row=td><td align=center>Butler</td><td align=center>1</td>
+</tr>
+<tr cla, rank=236,zip=16046,city=16046,county=Mars,hits=1
+
+row=td><td align=center>Berks</td><td align=center>1</td>
+</tr>
+<tr cla, rank=237,zip=19607,city=19607,county=Reading,hits=1
+
+row=td><td align=center>Philadelphia</td><td align=center>1</td>
+</tr>
+<tr cla, rank=238,zip=19132,city=19132,county=Philadelphia,hits=1
+
+row=td><td align=center>Montgomery</td><td align=center>1</td>
+</tr>
+<tr cla, rank=239,zip=19072,city=19072,county=Narberth,hits=1
+
+row=td><td align=center>Lackawanna</td><td align=center>1</td>
+</tr>
+<tr cla, rank=240,zip=18505,city=18505,county=Scranton,hits=1
+
+row=td><td align=center>Lehigh</td><td align=center>1</td>
+</tr>
+<tr cla, rank=241,zip=18034,city=18034,county=Center Valley,hits=1
+
+row=td><td align=center>York</td><td align=center>1</td>
+</tr>
+<tr cla, rank=242,zip=17319,city=17319,county=Etters,hits=1
+
+row=td><td align=center>Cambria</td><td align=center>1</td>
+</tr>
+<tr cla, rank=243,zip=15946,city=15946,county=Portage,hits=1
+
+row=td><td align=center>Berks</td><td align=center>1</td>
+</tr>
+<tr cla, rank=244,zip=19560,city=19560,county=Temple,hits=1
+
+row=td><td align=center>Philadelphia</td><td align=center>1</td>
+</tr>
+<tr cla, rank=245,zip=19129,city=19129,county=Philadelphia,hits=1
+
+row=td><td align=center>Pike</td><td align=center>1</td>
+</tr>
+<tr cla, rank=246,zip=18425,city=18425,county=Greeley,hits=1
+
+row=td><td align=center>Cumberland</td><td align=center>1</td>
+</tr>
+<tr cla, rank=247,zip=17257,city=17257,county=Shippensburg,hits=1
+
+row=td><td align=center>Allegheny</td><td align=center>1</td>
+</tr>
+<tr cla, rank=248,zip=15222,city=15222,county=Pittsburgh,hits=1
+
+row=td><td align=center>Berks</td><td align=center>1</td>
+</tr>
+<tr cla, rank=249,zip=19539,city=19539,county=Mertztown,hits=1
+
+row=td><td align=center>Schuylkill</td><td align=center>1</td>
+</tr>
+<tr cla, rank=250,zip=17960,city=17960,county=New Ringgold,hits=1
+
+row=td><td align=center>Dauphin</td><td align=center>1</td>
+</tr>
+<tr cla, rank=251,zip=17112,city=17112,county=Harrisburg,hits=1
+
+row=td><td align=center>Philadelphia</td><td align=center>1</td>
+</tr>
+<tr cla, rank=252,zip=19122,city=19122,county=Philadelphia,hits=1
+
+row=td><td align=center>Lehigh</td><td align=center>1</td>
+</tr>
+<tr cla, rank=253,zip=18109,city=18109,county=Allentown,hits=1
+
+row=td><td align=center>Schuylkill</td><td align=center>1</td>
+</tr>
+<tr cla, rank=254,zip=17929,city=17929,county=Cressona,hits=1
+
+row=td><td align=center>Mifflin</td><td align=center>1</td>
+</tr>
+<tr cla, rank=255,zip=17084,city=17084,county=Reedsville,hits=1
+
+row=td><td align=center>Montgomery</td><td align=center>1</td>
+</tr>
+<tr cla, rank=256,zip=19046,city=19046,county=Jenkintown,hits=1
+
+row=td><td align=center>Bucks</td><td align=center>1</td>
+</tr>
+<tr cla, rank=257,zip=18951,city=18951,county=Quakertown,hits=1
+
+row=td><td align=center>Cumberland</td><td align=center>1</td>
+</tr>
+<tr cla, rank=258,zip=17070,city=17070,county=New Cumberland,hits=1
+
+row=td><td align=center>Philadelphia</td><td align=center>1</td>
+</tr>
+<tr cla, rank=259,zip=19150,city=19150,county=Philadelphia,hits=1
+
+row=td><td align=center>Bucks</td><td align=center>1</td>
+</tr>
+<tr cla, rank=260,zip=18942,city=18942,county=Ottsville,hits=1
+
+row=td><td align=center>Bucks</td><td align=center>1</td>
+</tr>
+<tr cla, rank=261,zip=18081,city=18081,county=Springtown,hits=1
+
+row=td><td align=center>Snyder</td><td align=center>1</td>
+</tr>
+<tr cla, rank=262,zip=17842,city=17842,county=Middleburg,hits=1
+
+row=td><td align=center>Bucks</td><td align=center>1</td>
+</tr>
+<tr cla, rank=263,zip=18929,city=18929,county=Jamison,hits=1
+
+row=td><td align=center>Montgomery</td><td align=center>1</td>
+</tr>
+<tr cla, rank=264,zip=18074,city=18074,county=Perkiomenville,hits=1
+
+row=td><td align=center>Lycoming</td><td align=center>1</td>
+</tr>
+<tr cla, rank=265,zip=17737,city=17737,county=Hughesville,hits=1
+
+row=td><td align=center>Lancaster</td><td align=center>1</td>
+</tr>
+, rank=266,zip=17022,city=17022,county=Elizabethtown,hits=1
+
+row=td><td align=center>Bucks</td><td align=center>15</td>
+</tr>
+<tr cla, rank=1,zip=18940,city=18940,county=Newtown,hits=15
+
+row=td><td align=center>Bucks</td><td align=center>15</td>
+</tr>
+<tr cla, rank=1,zip=18940,city=18940,county=Newtown,hits=15
+
+row=td><td align=center>Bucks</td><td align=center>15</td>
+</tr>
+<tr cla, rank=1,zip=18940,city=18940,county=Newtown,hits=15
+
+row=td><td align=center>Bucks</td><td align=center>15</td>
+</tr>
+<tr cla, rank=1,zip=18940,city=18940,county=Newtown,hits=15
+
+row=td><td align=center>Bucks</td><td align=center>15</td>
+</tr>
+<tr cla, rank=1,zip=18940,city=18940,county=Newtown,hits=15
+
+row=td><td align=center>Bucks</td><td align=center>15</td>
+</tr>
+<tr cla, rank=1,zip=18940,city=18940,county=Newtown,hits=15
+
+row=td><td align=center>Bucks</td><td align=center>15</td>
+</tr>
+<tr cla, rank=1,zip=18940,city=18940,county=Newtown,hits=15
+
+row=td><td align=center>Bucks</td><td align=center>15</td>
+</tr>
+<tr cla, rank=1,zip=18940,city=18940,county=Newtown,hits=15
+
+row=td><td align=center>Bucks</td><td align=center>15</td>
+</tr>
+<tr cla, rank=1,zip=18940,city=18940,county=Newtown,hits=15
+
+row=td><td align=center>Bucks</td><td align=center>15</td>
+</tr>
+<tr cla, rank=1,zip=18940,city=18940,county=Newtown,hits=15
+
+row=td><td align=center>Bucks</td><td align=center>15</td>
+</tr>
+<tr cla, rank=1,zip=18940,city=18940,county=Newtown,hits=15
+
+row=td><td align=center>Bucks</td><td align=center>15</td>
+</tr>
+<tr cla, rank=1,zip=18940,city=18940,county=Newtown,hits=15
+
+row=td><td align=center>Bucks</td><td align=center>15</td>
+</tr>
+<tr cla, rank=1,zip=18940,city=18940,county=Newtown,hits=15
+
+row=td><td align=center>Bucks</td><td align=center>15</td>
+</tr>
+<tr cla, rank=1,zip=18940,city=18940,county=Newtown,hits=15
+
+row=td><td align=center>Bucks</td><td align=center>15</td>
+</tr>
+<tr cla, rank=1,zip=18940,city=18940,county=Newtown,hits=15
+
+row=td><td align=center>Bucks</td><td align=center>15</td>
+</tr>
+<tr cla, rank=1,zip=18940,city=18940,county=Newtown,hits=15
+
+row=td><td align=center>Bucks</td><td align=center>15</td>
+</tr>
+<tr cla, rank=1,zip=18940,city=18940,county=Newtown,hits=15
+
+row=td><td align=center>Bucks</td><td align=center>15</td>
+</tr>
+<tr cla, rank=1,zip=18940,city=18940,county=Newtown,hits=15
+
+row=td><td align=center>Bucks</td><td align=center>15</td>
+</tr>
+<tr cla, rank=1,zip=18940,city=18940,county=Newtown,hits=15
+
+row=td><td align=center>Bucks</td><td align=center>15</td>
+</tr>
+<tr cla, rank=1,zip=18940,city=18940,county=Newtown,hits=15
+
+row=td><td align=center>Bucks</td><td align=center>15</td>
+</tr>
+<tr cla, rank=1,zip=18940,city=18940,county=Newtown,hits=15
+
+row=td><td align=center>Bucks</td><td align=center>15</td>
+</tr>
+<tr cla, rank=1,zip=18940,city=18940,county=Newtown,hits=15
+
+row=td><td align=center>Bucks</td><td align=center>15</td>
+</tr>
+<tr cla, rank=1,zip=18940,city=18940,county=Newtown,hits=15
+
+row=td><td align=center>Bucks</td><td align=center>15</td>
+</tr>
+<tr cla, rank=1,zip=18940,city=18940,county=Newtown,hits=15
+
+row=td><td align=center>Bucks</td><td align=center>15</td>
+</tr>
+<tr cla, rank=1,zip=18940,city=18940,county=Newtown,hits=15
+
+row=td><td align=center>Bucks</td><td align=center>15</td>
+</tr>
+<tr cla, rank=1,zip=18940,city=18940,county=Newtown,hits=15
+
+row=td><td align=center>Bucks</td><td align=center>15</td>
+</tr>
+<tr cla, rank=1,zip=18940,city=18940,county=Newtown,hits=15
+
+row=td><td align=center>Bucks</td><td align=center>15</td>
+</tr>
+<tr cla, rank=1,zip=18940,city=18940,county=Newtown,hits=15
+
+row=td><td align=center>Bucks</td><td align=center>15</td>
+</tr>
+<tr cla, rank=1,zip=18940,city=18940,county=Newtown,hits=15
+
+row=td><td align=center>Bucks</td><td align=center>15</td>
+</tr>
+<tr cla, rank=1,zip=18940,city=18940,county=Newtown,hits=15
+
+row=td><td align=center>Bucks</td><td align=center>15</td>
+</tr>
+<tr cla, rank=1,zip=18940,city=18940,county=Newtown,hits=15
+
+row=td><td align=center>Bucks</td><td align=center>15</td>
+</tr>
+<tr cla, rank=1,zip=18940,city=18940,county=Newtown,hits=15
+
+row=td><td align=center>Bucks</td><td align=center>15</td>
+</tr>
+<tr cla, rank=1,zip=18940,city=18940,county=Newtown,hits=15
+
+row=td><td align=center>Bucks</td><td align=center>15</td>
+</tr>
+<tr cla, rank=1,zip=18940,city=18940,county=Newtown,hits=15
+
+Hits per zip zip_array=
+18840 1 15062 1 16442 1 17814 1 18232 1 19601 1 18235 1 17822 1 19605 2 17824 1 19607 1 19608 1 17201 1 19301 1 16153 1 17522 1 17842 1 19311 2 19312 4 16801 2 18901 8 19002 2 19317 1 19003 3 19004 4 19320 2 19006 1 19007 6 16172 1 19008 2 19010 2 17543 1 19012 1 19013 2 18914 2 19014 1 19015 3 18917 1 19018 2 17551 2 17236 1 19020 11 19335 7 19021 2 18922 1 19025 2 17872 2 18612 1 19026 3 19341 3 15147 2 19027 2 18929 1 17876 1 19030 3 18301 2 19029 2 19344 1 17566 1 19034 1 19348 2 19036 2 18938 3 19038 2 17257 1 18940 15 19040 2 19355 5 18942 1 19044 6 17901 2 18944 2 19046 1 19047 7 18947 2 18634 2 19050 3 18635 1 18951 1 17268 2 18324 1 19053 6 19054 5 18954 6 19055 7 19056 5 19057 3 17601 3 18330 2 19373 1 18015 1 18017 3 17603 2 19061 1 18018 3 19063 1 19064 3 18964 1 19380 4 18966 6 19067 14 19382 2 18969 2 19072 1 18657 1 17929 1 17301 1 18974 5 18976 4 19401 2 19076 1 18034 1 19403 3 18980 2 18036 1 19406 4 19082 2 18040 1 19083 3 18041 2 19085 2 18042 1 19086 1 16901 1 19087 3 18045 1 18360 3 19090 3 15222 1 17319 1 17948 1 19102 3 19103 5 18049 1 19104 7 19106 4 19096 1 19421 1 19422 1 19107 6 18054 1 17954 1 17011 1 18055 1 17327 1 19111 4 19112 1 19426 3 18058 2 16601 1 17960 1 19114 4 19428 1 17961 1 19115 7 18062 1 19116 1 18702 2 17019 2 17963 2 17022 1 19118 1 18704 2 19120 5 19119 3 19121 1 19122 1 17340 1 19123 3 18071 1 19124 9 19125 6 19440 3 18072 1 19126 3 18073 1 18074 1 19128 6 19129 1 17976 1 19130 2 17033 2 19444 1 19131 3 19132 1 19446 3 18079 1 19133 2 18081 1 19134 7 19135 3 19136 5 19453 1 17042 2 19138 1 19140 4 19454 3 19139 3 17044 1 19141 2 19142 1 17361 1 19143 4 19144 2 18091 2 19145 2 19460 2 18102 1 18103 4 19146 3 17364 1 19462 1 19147 7 19148 4 19150 1 19149 2 19464 1 19151 1 19465 4 17055 1 19152 5 18109 1 18425 1 19154 5 19468 5 15601 1 19473 3 17701 3 18431 1 19475 2 17065 1 17067 1 17070 1 15301 1 16662 2 17402 2 17084 1 17408 1 19508 3 16673 1 15946 1 16046 1 17101 1 15321 1 16365 1 17737 1 17111 2 17112 1 19525 1 15961 1 19526 2 19529 1 19530 1 16066 1 19539 1 19540 1 19543 1 15037 1 18504 1 18505 1 15044 1 18509 2 18201 1 19560 1 17777 1 18518 2
+
+Hits per city d=
+Richboro 6 Gilbertsville 1 Cheltenham 3 Littlestown 1 Newtown 15 {Camp Hill} 1 {Clifton Heights} 2 Nanticoke 2 Jenkintown 1 Hughesville 1 Minersville 1 Watsontown 1 Pennsburg 1 Berwyn 4 Easton 3 Ephrata 1 Sayre 1 {New Hope} 3 {Prospect Park} 1 Warren 1 {Green Lane} 1 Reading 5 Perkasie 2 Allentown 6 Exton 3 Lansford 1 {Upper Dublin} 3 Stoneboro 1 Slatedale 1 Cecil 1 {Cranberry Township} 1 Kingston 2 Lebanon 2 Hatfield 3 Lehighton 1 {East Greenville} 2 Lancaster 5 Narberth 1 Etters 1 Wynnewood 1 {Wilkes Barre} 2 Morgantown 1 Chambersburg 1 {Roaring Spring} 1 Abbottstown 1 Shenandoah 1 Verona 2 Springtown 1 {Center Valley} 1 Brookhaven 3 Lititz 1 Mercersburg 1 Schwenksville 3 Portage 1 Villanova 2 Pittsburgh 1 Hellertown 1 Norristown 5 Martinsburg 2 Middleburg 1 {Drexel Hill} 3 Benton 1 Springfield 3 Orwigsburg 1 Gibsonia 1 Aston 1 Hatboro 2 Royersford 5 Reedsville 1 {Kennett Square} 2 {Lower Merion} 7 Mars 1 {Glen Rock} 1 Greeley 1 Chester 2 Chalfont 2 Morrisville 14 Mohnton 1 Levittown 20 Greensburg 1 Hazleton 1 Wycombe 2 Elizabeth 1 Myerstown 1 Dallas 1 {New Wilmington} 1 Warrington 4 Wayne 3 Stroudsburg 3 Vintondale 1 {Forest Grove} 1 Shrewsbury 1 Doylestown 8 {New Ringgold} 1 {West Chester} 6 Harrisburg 4 {Pen Argyl} 1 Lansdowne 3 {Shamokin Dam} 1 Pottsville 2 Langhorne 7 Quarryville 1 Elizabethtown 1 {Chadds Ford} 1 Washington 1 Wattsburg 1 Hershey 2 Macungie 1 {Old Forge} 2 Philadelphia 151 Ottsville 1 Bensalem 11 Collegeville 3 Perkiomen 1 Warminster 5 {Pine Grove} 2 Warwick 1 Wallingford 1 {Mount Holly Springs} 1 Coatesville 2 {Upper Providence} 1 {Plymouth Meeting} 1 Havertown 3 Danville 1 Phoenixville 2 Telford 2 {East Stroudsburg} 2 {17408 Not Found} 1 Southampton 6 {Marcus Hook} 1 {Fairless Hills} 3 Downingtown 7 {Upper Darby} 2 Birdsboro 3 Dillsburg 2 Birchrunville 1 Kunkletown 2 Ambler 2 Glenside 2 {Feasterville Trevose} 6 {Honey Brook} 1 Effort 2 {North Wales} 3 Glenolden 2 Media 1 Emmaus 1 Thomasville 1 Wellsboro 1 {Willow Grove} 3 Nescopeck 1 Millersville 2 Lewistown 1 {Spring City} 2 Bethlehem 7 {Lafayette Hill} 1 Shamokin 2 Bushkill 1 {Mahanoy City} 1 Kempton 1 Quakertown 1 Waynesboro 2 Abington 1 Tunkhannock 1 Lansdale 3 Dublin 1 Cressona 1 Shippensburg 1 Conshohocken 1 {State College} 2 Thornton 1 Paoli 1 Malvern 5 {Upper Merion} 4 Hamburg 2 Plumstead 2 {Blue Bell} 1 Monessen 1 {Bryn Mawr} 2 Souderton 1 Coopersburg 1 Altoona 1 Broomall 2 Avondale 2 {Wind Gap} 2 Mechanicsburg 1 Bristol 8 Williamsport 3 Pottstown 5 Honesdale 1 Kutztown 1 {New Cumberland} 1 Scranton 4 Essington 2 Horsham 6 Palmerton 1 Mertztown 1 Elysburg 1 York 2 Temple 1
+
+hit_list=6 1 3 1 15 1 2 2 1 1 1 1 1 4 3 1 1 3 1 1 1 5 2 6 3 1 3 1 1 1 1 2 2 3 1 2 5 1 1 1 2 1 1 1 1 1 2 1 1 3 1 1 3 1 2 1 1 5 2 1 3 1 3 1 1 1 2 5 1 2 7 1 1 1 2 2 14 1 20 1 1 2 1 1 1 1 4 3 3 1 1 1 8 1 6 4 1 3 1 2 7 1 1 1 1 1 2 1 2 151 1 11 3 1 5 2 1 1 1 2 1 1 3 1 2 2 2 1 6 1 3 7 2 3 2 1 2 2 2 6 1 2 3 2 1 1 1 1 3 1 2 1 2 7 1 2 1 1 1 1 2 1 1 3 1 1 1 1 2 1 1 5 4 2 2 1 1 2 1 1 1 2 2 2 1 8 3 5 1 1 1 4 2 6 1 1 1 2 1
+city_colors=Richboro #aaf Gilbertsville #FFB Cheltenham #FBF Littlestown #FFB Newtown #ef0 {Camp Hill} #FFB {Clifton Heights} #FBF Nanticoke #FBF Jenkintown #FFB Hughesville #FFB Minersville #FFB Pennsburg #FFB Watsontown #FFB Berwyn #FBF Easton #FBF Ephrata #FFB Sayre #FFB {Prospect Park} #FFB {New Hope} #FBF Warren #FFB {Green Lane} #FFB Reading #aaf Allentown #aaf Perkasie #FBF Exton #FBF Lansford #FFB {Upper Dublin} #FBF Stoneboro #FFB Slatedale #FFB Cecil #FFB {Cranberry Township} #FFB Kingston #FBF Lebanon #FBF Hatfield #FBF {East Greenville} #FBF Lehighton #FFB Lancaster #aaf Narberth #FFB Etters #FFB Wynnewood #FFB {Wilkes Barre} #FBF Morgantown #FFB {Roaring Spring} #FFB Chambersburg #FFB Abbottstown #FFB Shenandoah #FFB Springtown #FFB Verona #FBF {Center Valley} #FFB Brookhaven #FBF Lititz #FFB Mercersburg #FFB Schwenksville #FBF Portage #FFB Villanova #FBF Pittsburgh #FFB Hellertown #FFB Norristown #aaf Martinsburg #FBF Middleburg #FFB {Drexel Hill} #FBF Benton #FFB Springfield #FBF Orwigsburg #FFB Gibsonia #FFB Aston #FFB Hatboro #FBF Royersford #aaf Reedsville #FFB {Kennett Square} #FBF {Lower Merion} #aaf Mars #FFB {Glen Rock} #FFB Greeley #FFB Chester #FBF Chalfont #FBF Morrisville #0f0 Mohnton #FFB Levittown #ef0 Greensburg #FFB Hazleton #FFB Wycombe #FBF Elizabeth #FFB Myerstown #FFB Dallas #FFB {New Wilmington} #FFB Warrington #FBF Wayne #FBF Stroudsburg #FBF Vintondale #FFB {Forest Grove} #FFB Shrewsbury #FFB Doylestown #aaf {New Ringgold} #FFB {West Chester} #aaf Harrisburg #FBF {Pen Argyl} #FFB Lansdowne #FBF {Shamokin Dam} #FFB Pottsville #FBF Langhorne #aaf Quarryville #FFB Elizabethtown #FFB {Chadds Ford} #FFB Washington #FFB Wattsburg #FFB Hershey #FBF Macungie #FFB {Old Forge} #FBF Philadelphia #f11 Ottsville #FFB Bensalem #0f0 Collegeville #FBF Perkiomen #FFB Warminster #aaf {Pine Grove} #FBF Warwick #FFB Wallingford #FFB {Mount Holly Springs} #FFB Coatesville #FBF {Upper Providence} #FFB {Plymouth Meeting} #FFB Havertown #FBF Danville #FFB Phoenixville #FBF Telford #FBF {East Stroudsburg} #FBF {17408 Not Found} #FFB Southampton #aaf {Marcus Hook} #FFB {Fairless Hills} #FBF Downingtown #aaf {Upper Darby} #FBF Birdsboro #FBF Dillsburg #FBF Birchrunville #FFB Kunkletown #FBF Ambler #FBF Glenside #FBF {Feasterville Trevose} #aaf {Honey Brook} #FFB Effort #FBF {North Wales} #FBF Glenolden #FBF Media #FFB Emmaus #FFB Thomasville #FFB Wellsboro #FFB {Willow Grove} #FBF Nescopeck #FFB Millersville #FBF Lewistown #FFB {Spring City} #FBF Bethlehem #aaf {Lafayette Hill} #FFB Shamokin #FBF Bushkill #FFB {Mahanoy City} #FFB Kempton #FFB Quakertown #FFB Waynesboro #FBF Abington #FFB Tunkhannock #FFB Lansdale #FBF Dublin #FFB Cressona #FFB Shippensburg #FFB Conshohocken #FFB {State College} #FBF Thornton #FFB Paoli #FFB Malvern #aaf {Upper Merion} #FBF Hamburg #FBF Plumstead #FBF {Blue Bell} #FFB Monessen #FFB {Bryn Mawr} #FBF Souderton #FFB Coopersburg #FFB Altoona #FFB Broomall #FBF Avondale #FBF {Wind Gap} #FBF Mechanicsburg #FFB Bristol #aaf Williamsport #FBF Pottstown #aaf Honesdale #FFB Kutztown #FFB {New Cumberland} #FFB Scranton #FBF Mertztown #FFB Palmerton #FFB Horsham #aaf Essington #FBF York #FBF Elysburg #FFB Temple #FFB
+cities_in_county={Richboro 400,420 #aaf} {Newtown 480,430 #ef0} {{New Hope} 455,290 #FBF} {Perkasie 170,260 #FBF} {Chalfont 240,360 #FBF} {Morrisville 600,460 #0f0} {Levittown 500,520 #ef0} {Warrington 260,390 #FBF} {Doylestown 300,380 #aaf} {Langhorne 474,492 #aaf} {Bensalem 450,550 #0f0} {Warminster 330,460 #aaf} {Warwick 340,390 #FFB} {Telford 140,310 #FBF} {Southampton 365,490 #aaf} {{Fairless Hills} 600,500 #FBF} {{Feasterville Trevose} 400,516 #aaf} {Quakertown 130,180 #FFB} {Dublin 250,270 #FFB} {Plumstead 300,250 #FBF} {Bristol 530,550 #aaf}
+exec -- /usr/bin/convert BKC_HIT_MAP.png -fill black -font Arial-Regular -pointsize 13 -linewidth 3 -draw {text 470,22  ' 31 +'} -draw {text 470,39  ' 15 - 30 '} -draw {text 470,56  ' 10 - 14 '} -draw {text 470,73  ' 5 - 9 '} -draw {text 470,90  ' 2 - 4 '} -draw {text 470,107  ' 1 - 1 '} -fill #0f0 -draw {circle 456,51 450,51} -fill #ef0 -draw {circle 456,34 450,34} -fill #FFB -draw {circle 456,102 450,102} -fill #f11 -draw {circle 456,17 450,17} -fill #FBF -draw {circle 456,85 450,85} -fill #aaf -draw {circle 456,68 450,68} -fill black -draw {text 4,14  ' Updated: Wed Jun 22, 2011 09:19:18 EDT '} -fill black -pointsize 13 -draw {text 10,300  'Top 23'} -draw {text 10,316  '20'} -draw {text 38,316  'Levittown'} -draw {text 10,329  '15'} -draw {text 38,329  'Newtown'} -draw {text 10,342  '14'} -draw {text 38,342  'Morrisville'} -draw {text 10,355  '11'} -draw {text 38,355  'Bensalem'} -draw {text 10,368  '8'} -draw {text 38,368  'Bristol'} -draw {text 10,381  '8'} -draw {text 38,381  'Doylestown'} -draw {text 10,394  '7'} -draw {text 38,394  'Langhorne'} -draw {text 10,407  '6'} -draw {text 38,407  'Feasterville Trevose'} -draw {text 10,420  '6'} -draw {text 38,420  'Richboro'} -draw {text 10,433  '6'} -draw {text 38,433  'Southampton'} -draw {text 10,446  '5'} -draw {text 38,446  'Warminster'} -draw {text 10,459  '4'} -draw {text 38,459  'Warrington'} -draw {text 10,472  '3'} -draw {text 38,472  'Fairless Hills'} -draw {text 10,485  '3'} -draw {text 38,485  'New Hope'} -draw {text 10,498  '2'} -draw {text 38,498  'Chalfont'} -draw {text 10,511  '2'} -draw {text 38,511  'Perkasie'} -draw {text 10,524  '2'} -draw {text 38,524  'Plumstead'} -draw {text 10,537  '2'} -draw {text 38,537  'Telford'} -draw {text 10,550  '1'} -draw {text 38,550  'Dublin'} -draw {text 10,563  '1'} -draw {text 38,563  'Quakertown'} -draw {text 10,576  '1'} -draw {text 38,576  'Warwick'} -tile fills/xsolid_range#aaf.png -draw {color 400,420 floodfill} -tile fills/xsolid_range#ef0.png -draw {color 480,430 floodfill} -tile fills/xsolid_range#FBF.png -draw {color 455,290 floodfill} -tile fills/xsolid_range#FBF.png -draw {color 170,260 floodfill} -tile fills/xsolid_range#FBF.png -draw {color 240,360 floodfill} -tile fills/xgradient_range#0f0.png -draw {color 600,460 floodfill} -tile fills/xsolid_range#ef0.png -draw {color 500,520 floodfill} -tile fills/xgradient_range#FBF.png -draw {color 260,390 floodfill} -tile fills/xsolid_range#aaf.png -draw {color 300,380 floodfill} -tile fills/xsolid_range#aaf.png -draw {color 474,492 floodfill} -tile fills/xsolid_range#0f0.png -draw {color 450,550 floodfill} -tile fills/xsolid_range#aaf.png -draw {color 330,460 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 340,390 floodfill} -tile fills/xsolid_range#FBF.png -draw {color 140,310 floodfill} -tile fills/xsolid_range#aaf.png -draw {color 365,490 floodfill} -tile fills/xsolid_range#FBF.png -draw {color 600,500 floodfill} -tile fills/xsolid_range#aaf.png -draw {color 400,516 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 130,180 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 250,270 floodfill} -tile fills/xsolid_range#FBF.png -draw {color 300,250 floodfill} -tile fills/xsolid_range#aaf.png -draw {color 530,550 floodfill} -bordercolor #999 -border 1x1 BKC_HIT_MAP_Z.png

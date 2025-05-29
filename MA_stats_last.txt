@@ -1,0 +1,15 @@
+{Barnstable	9
+} {Berkshire	---
+} {Bristol	3
+} {Dukes	---
+} {Essex	11
+} {Franklin	---
+} {Hampden	10
+} {Hampshire	2
+} {Middlesex	13
+} {Nantucket	5
+} {Norfolk	5
+} {Plymouth	5
+} {Suffolk	5
+} {Worcester	4
+}

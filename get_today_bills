@@ -1,0 +1,7 @@
+#!/bin/bash
+
+. proxy-config
+
+cd $MAPSHOME
+
+exec ./get_today_bills.tcl $@

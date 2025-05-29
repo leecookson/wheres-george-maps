@@ -1,0 +1,22 @@
+{Carteret	1
+	} {Cranbury	3
+	} {East Brunswick	5
+	} {Edison	16
+	} {Helmetta	1
+	} {Highland Park	5
+	} {Metuchen	4
+	} {Middlesex	4
+	} {Milltown	1
+	} {Monroe Township	13
+	} {New Brunswick	9
+	} {North Brunswick	7
+	} {Old Bridge	4
+	} {Piscataway	5
+	} {Plainsboro	17
+	} {Sayreville	2
+	} {South Amboy	4
+	} {South Brunswick	41
+	} {South Plainfield	2
+	} {Spotswood	2
+	} {Woodbridge	3
+	}

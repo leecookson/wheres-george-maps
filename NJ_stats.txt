@@ -1,0 +1,22 @@
+{Atlantic	29
+} {Bergen	20
+} {Burlington	410
+} {Camden	118
+} {Cape May	14
+} {Cumberland	21
+} {Essex	29
+} {Gloucester	51
+} {Hudson	25
+} {Hunterdon	18
+} {Mercer	198
+} {Middlesex	160
+} {Monmouth	63
+} {Morris	25
+} {Ocean	61
+} {Passaic	16
+} {Salem	3
+} {Somerset	42
+} {Sussex	5
+} {Union	42
+} {Warren	13
+}

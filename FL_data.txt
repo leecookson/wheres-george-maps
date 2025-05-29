@@ -1,0 +1,842 @@
+argv=FL
+url=http://www.wheresgeorge.com/hbz.php?args=8aad0b5a717ba78de3de747e32747fe981698a86df10be2448a0da1edaff388529d128b59af0703737e97cae9eee603ada553f470fdcbe21437042426959ae6a4aadbef7dd6846856f0bf5b9ce5c91f5af17f035bc6201922b168c1139f751bffc0a18b62360be790c059d64dae907c48b09639eafa42333e16641c3f2cbadfbbcbb1a556ba928d517a962d2e73f8dc3
+===================
+input=<html>
+<!--
+#########################################################################################################
+# Start of Where's George?/Where's Willy common header                                                 	#
+# All code, content and images copyright Where's George? LLC 1998-2011          #
+# and can not be used without express, written consent.                                                 #
+#########################################################################################################
+-->
+<head>
+<title>Where's George? &reg; 2.4 Hits by County</title>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1" />
+<META NAME="Author" CONTENT="Hank Eskin" />
+<META NAME="description" CONTENT="Track US or Canadian dollar bills as they travel across the country. Enter the serial number and zip code to track its past history. Get email when the next person registers your bill! " />
+<META NAME="keywords" CONTENT="wheresgeorge whereswilly WG? WG whereswilly.com wheresgeorge.com track dollar trackdollar trackdollars dollars one bill frb federal reserve banks trace tracing tracking track trace american serial number series denomination bills where is george currency money legal tender" />
+<meta http-equiv="X-UA-Compatible" content="IE=6" />
+
+<link href="http://www.wheresgeorge.com/css_wg.css" rel="stylesheet" type="text/css">
+</head>
+
+<body  bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<SCRIPT language="JavaScript" type="text/javascript">menu_position=225;item_width=72.857142857143;</SCRIPT><!-- ***** This is the section of code you need to paste into your web pages ***** -->
+<script type="text/javascript" src="mmenu/milonic_src.js"></script>
+<script type="text/javascript" src="mmenu/mmenudom.js"></script>
+<!-- The next file contains your menu data, links and menu structure etc -->
+<script type="text/javascript" src="mmenu/menu_wg.js"></script>
+<!-- **** JavaScript Menu HTML Code -->
+<script type="text/javascript">function popup_win(page,h,w,scroll) {rnd=Math.round(Math.random()*10000); if (page.substring(0,22)=='user_profile_popup.php') {h=600;w=800;scroll='yes';}window.open(page,rnd,'toolbar=NO,location=NO,directories=NO,status=NO,menubar=NO,scrollbars='+scroll+',resizable=YES,copyhistory=NO,width='+w+',height='+h+',left=100,top=100');}</script><!-- frame buster -->
+<script language="JavaScript" type="text/javascript">
+  	if (top.location != self.location) {
+	top.location = self.location.href
+	}
+</script><a name="top"></a>
+<!-- main table - full width -->
+<table width="814" border="0" cellspacing="0" cellpadding="0">
+<tr  bgcolor=green><td align=right colspan="3" ><iframe src="http://rcm.amazon.com/e/cm?t=wheresgeorg-20&o=1&p=20&l=ur1&category=kindle&banner=1KNAV7AGS7WAHJ5Z5ER2&f=ifr" width="120" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe><iframe bgcolor="#669933" Allowtransparency="true" src="openads_leaderboard.php" width="728" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe><a target=_blank href="http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2F&tag=wheresgeorg-20&linkCode=ur2&camp=1789&creative=9325"><img src="http://www.assoc-amazon.com/e/ir?t=wheresgeorg-20&l=ur2&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><img border=0 src=images/amazon_120x90.gif></a></td></tr><tr>
+<td colspan="3">
+ <!-- header table - full width -->
+
+<table border="0" height=40 cellpadding="0" cellspacing="0" width="814">
+  <tr >
+    <td width="165"><img src="img_wg/topl.jpg" width="165" height="135" border="0" alt=""></td>
+    <td width="510"   ><img width="510" height="135" src="img_wg/topcN.jpg"  border="0" alt=""></td>
+    <td width="157"><img  src="img_wg/toprN.png" width="157" height="135" border="0" alt=""></td>
+  </tr>
+  <tr>
+    <td width="165"><img name="left1" src="img_wg/left1.jpg" width="165" height="20" border="0" alt=""></td>
+	<td align=left width="510" bgcolor="#666666"><!-- <img name="grey_nav" src="img_wg/grey_nav.gif" width="510" height="20" border="0">--><script>document.write("<img name=\"grey_nav\" src=\"img_wg/grey_nav.gif\" width=\"425\" height=\"20\" border=\"0\">");</script><noscript><span class=tabletitle><b>Your browser has Javascript disabled. Please see the <a href=site_map.php>Site-Map</a> to view all the main menu options.</b></span></noscript></td>
+    <td width="157"><img name="right1" src="img_wg/right1.jpg" width="157" height="20" border="0" alt=""></td>
+  </tr>
+  <tr>
+    <td bgcolor="#669933" width="165"><script>document.write("<A  HREF=\"javascript:popup_win('boss.html',4000,2000,'no');\"><img border=0 name=\"left2\" src=\"img_wg/left2.jpg\" width=\"147\" height=\"47\" border=\"0\" alt=\"\"></a>");</script><noscript><A HREF=boss.html target=_blank><img border=0 name="left2" src="img_wg/left2.jpg" width="147" height="47" border="0" alt=""></a></noscript></td>
+    <!-- start registered user name/profile link  -->
+    <td width="510" bgcolor="#669933" class=topnav>
+	<div width="48%" style="float:left; text-align:left;">
+    <strong>You are currently logged in as&nbsp;<span class=topnav><script>document.write("<A sidenav HREF=\"javascript:popup_win('user_profile_popup.php?ukey=1c48871d2481b356e00789340b46fc0f',0,0,'0');\">Lee</a>");</script><noscript><A HREF=user_profile_popup.php?ukey=1c48871d2481b356e00789340b46fc0f target=_blank>Lee</a></noscript></span></strong></div></div><!-- end registered user name/profile link  -->
+	    <!-- help   -->
+	    <div width="48%" style="float:right; text-align:right"><script>document.write("<A  HREF=\"javascript:popup_win('help.php?args=b31ea71b98fec987c84c1755a8e4e0144d59f820ef1e6e5797d2e3468e77f2ccba52d613e7381a852cc3bbacb76f95b1d3afbd222b7f29bf038c7a368c8ff68ab19c66a70b41734f1d8d4ccc1bd2fa44ee00eeb21c3dc436dcbdabd3f1dbb8c4740dad52d85d5a1a8525ffe14674453d2f7dfad77a9f3e24e2ccd4ebaa88eb2d7f750c6d220b4efe0cfead9391027fb2',550,650,'yes');\"><img name=\"template_r3_c3\" src=\"img_wg/help.png\" width=\"142\"  border=\"0\" alt=\"\"></a>");</script><noscript><A HREF=help.php?args=b31ea71b98fec987c84c1755a8e4e0144d59f820ef1e6e5797d2e3468e77f2ccba52d613e7381a852cc3bbacb76f95b1d3afbd222b7f29bf038c7a368c8ff68ab19c66a70b41734f1d8d4ccc1bd2fa44ee00eeb21c3dc436dcbdabd3f1dbb8c4740dad52d85d5a1a8525ffe14674453d2f7dfad77a9f3e24e2ccd4ebaa88eb2d7f750c6d220b4efe0cfead9391027fb2 target=_blank><img name="template_r3_c3" src="img_wg/help.png" width="142"  border="0" alt=""></a></noscript></div>
+		<!-- /help --><div style="clear: both;"> </div>
+    </td>
+    <td width="157" bgcolor="#669933"><img name="right2" src="img_wg/right2.jpg" width="157" height="47" border="0" alt=""></td>
+    <!-- end help -->
+  </tr>
+</table>
+<!-- end header table -->
+</td>
+</tr><tr>
+<td width="147" height="100%" valign="top">
+<!-- start LEft hand menu table -->
+<table width="146" height="100%" border="0" cellpadding="0" cellspacing="0" >
+  <tr>
+    <td colspan="3"><img src="img_wg/left3.jpg" width="147" height="14"></td>
+  </tr>
+  <tr valign="top" bgcolor="#FFFFFF">
+    <td height="79" colspan="3" background="img_wg/left4.jpg" class="sidenav">
+<div align="right">
+<a href="/">Home</a><br>
+<a href="/logon.php">Log On</a><br>
+<a href="/register.php">Register</a><br>
+<a href="/main.php#bill">Enter a Bill</a>
+</div></td></tr>
+<tr>
+    <td width="19" valign="top" background="img_wg/left-gutter.png">
+      <table height="100%" width="19" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td>&nbsp;</td>
+        </tr>
+      </table>
+    </td>
+    <td width="127" colspan="2" valign="top" bgcolor="#91CB53">
+          <table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td valign="top" align=right><p class="sidenav"><a href="ybs.php?ybs">Your Bills</a><br>
+<a href="user_prefs.php">User Settings</a><br><a href="user_profile.php">User Profile</a><br><a href="wrapper.php?page=state_profiles">Profiles by State</a><br>
+<a href="zip_hits.php">Zip Code Report</a><br>
+<a href="lostandfound.php">Lost and Found</a><br>
+<a href="lookup.php">Bill Lookup</a><br>
+<a href="logoff.php">Log Off</a><br></p>
+          </td>
+        </tr>
+      </table>
+<br><br><br><br><iframe bgcolor="#99CC66" Allowtransparency="true" src="openads_left_sky.php" width="120" height="600" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe><img src="img_wg/left-nav-bottom.gif"></td>
+  </tr>
+  <tr>
+    <td height="100%" valign="top" background="img_wg/left-gutter.gif">
+    	<table height="100%" width="19" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td height="100%" valign="top">&nbsp;</td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top" background="img_wg/left-gutter-background.gif"><p><img src="img_wg/left-nav-gutter.gif"></p>
+    </td>
+  </tr>
+</table>
+<!-- end Left hand menu table -->
+</td>
+<!-- open td for content -->
+<td style="text-align:left;" width="667" align="left" valign="top" class="body" ><!-- open td for content  --><span class=header>Hits by County Report</span><center>This Report is current as of: Jun-22-11 12:14 AM<br>Back to your <a href=ybs.php?hbs>Hit Analysis Report</a> Report<br>
+<TABLE width="60%" cellpadding="2" cellspacing="0" bordercolor="#999999" border=1 class="body">
+<tr class="body" bgcolor="#dddddd">	<td colspan=5><div align=center>Hits by County - FL</div></td>
+</tr>
+<tr class="body" bgcolor="#dddddd">	<td colspan=5><div align=center>You have 67 hits in 26 FL Counties</div></td>
+</tr>
+<tr class="body" bgcolor="#dddddd">	<td align=center>Rank</td>
+	<td align=center><a href=/hbz.php?args=1202d73900c3be0ecbfc4324b44d616e246567b3fe9ab508bb6281c6527d3ac0c0ea02971b483ee2b4bb585c72d5f449da553f470fdcbe21437042426959ae6a4aadbef7dd68468515931af110d86b5dcd7dbaf9e947b450a23c0b54b132e9972d071afc27400dc001a3fd08056c99295c76050c519990ecc52b15face08ed7410e8dad598596383d63f096143ea06c1>County</a></td>
+	<td align=center><a href=/hbz.php?args=d2a77b9f43f1b58c64eadc0f9484983a31f204d013c36172525ba4992375ad224a4a814c75810c56cd105b412e3b2289da553f470fdcbe21437042426959ae6a4aadbef7dd68468515931af110d86b5dcd7dbaf9e947b450a23c0b54b132e997f1b91d369316c6ea8b1305c4cec6b5cc4a87ed46628796c3fe9ec0050f33f5050f337ea462650002aef82e154487b1c7>Hits</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>1.</td>
+	<td align=center>Lee</td>
+	<td align=center>6</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>2.</td>
+	<td align=center>Orange</td>
+	<td align=center>6</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>3.</td>
+	<td align=center>Broward</td>
+	<td align=center>5</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>4.</td>
+	<td align=center>Miami-Dade</td>
+	<td align=center>5</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>5.</td>
+	<td align=center>Pinellas</td>
+	<td align=center>5</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>6.</td>
+	<td align=center>Hillsborough</td>
+	<td align=center>5</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>7.</td>
+	<td align=center>Seminole</td>
+	<td align=center>4</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>8.</td>
+	<td align=center>Brevard</td>
+	<td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>9.</td>
+	<td align=center>Marion</td>
+	<td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>10.</td>
+	<td align=center>Palm Beach</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>11.</td>
+	<td align=center>Alachua</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>12.</td>
+	<td align=center>Okaloosa</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>13.</td>
+	<td align=center>Martin</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>14.</td>
+	<td align=center>Manatee</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>15.</td>
+	<td align=center>Duval</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>16.</td>
+	<td align=center>Saint Lucie</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>17.</td>
+	<td align=center>Volusia</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>18.</td>
+	<td align=center>Flagler</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>19.</td>
+	<td align=center>Polk</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>20.</td>
+	<td align=center>Saint Johns</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>21.</td>
+	<td align=center>Osceola</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>22.</td>
+	<td align=center>Highlands</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>23.</td>
+	<td align=center>Pasco</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>24.</td>
+	<td align=center>Santa Rosa</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>25.</td>
+	<td align=center>Leon</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>26.</td>
+	<td align=center>Okeechobee</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>27.</td>
+	<td align=center>Baker</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>28.</td>
+	<td align=center>Bay</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>29.</td>
+	<td align=center>Bradford</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>30.</td>
+	<td align=center>Calhoun</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>31.</td>
+	<td align=center>Charlotte</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>32.</td>
+	<td align=center>Citrus</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>33.</td>
+	<td align=center>Clay</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>34.</td>
+	<td align=center>Collier</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>35.</td>
+	<td align=center>Columbia</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>36.</td>
+	<td align=center>DeSoto</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>37.</td>
+	<td align=center>Dixie</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>38.</td>
+	<td align=center>Escambia</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>39.</td>
+	<td align=center>Franklin</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>40.</td>
+	<td align=center>Gadsden</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>41.</td>
+	<td align=center>Gilchrist</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>42.</td>
+	<td align=center>Glades</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>43.</td>
+	<td align=center>Gulf</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>44.</td>
+	<td align=center>Hamilton</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>45.</td>
+	<td align=center>Hardee</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>46.</td>
+	<td align=center>Hendry</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>47.</td>
+	<td align=center>Hernando</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>48.</td>
+	<td align=center>Holmes</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>49.</td>
+	<td align=center>Indian River</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>50.</td>
+	<td align=center>Jackson</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>51.</td>
+	<td align=center>Jefferson</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>52.</td>
+	<td align=center>Lafayette</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>53.</td>
+	<td align=center>Lake</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>54.</td>
+	<td align=center>Levy</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>55.</td>
+	<td align=center>Liberty</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>56.</td>
+	<td align=center>Madison</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>57.</td>
+	<td align=center>Monroe</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>58.</td>
+	<td align=center>Nassau</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>59.</td>
+	<td align=center>Putnam</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>60.</td>
+	<td align=center>Sarasota</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>61.</td>
+	<td align=center>Sumter</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>62.</td>
+	<td align=center>Suwannee</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>63.</td>
+	<td align=center>Taylor</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>64.</td>
+	<td align=center>Union</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>65.</td>
+	<td align=center>Wakulla</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>66.</td>
+	<td align=center>Walton</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>67.</td>
+	<td align=center>Washington</td>
+	<td align=center>---</td>
+</tr>
+</table><center><span class=body><a href="#top">Back to Top</a></span></center><br><br><br>(Runtime: 4 seconds)<br><!-- </center> -->
+<center><iframe bgcolor="#ffffff" Allowtransparency="true" src="openads_box.php" width="300" height="250" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe></center>
+<br><br><br><br><br><br>
+<table width="510" border="0" cellpadding="0" cellspacing="0" class="body">
+	<tr>
+	<td class="body"><div align="center">
+	<a href="/">Home Page</a> | <a href="faq.php">FAQs</a> | <a href="site_map.php">Site Map</a> | <a href="about.php">About</a> | <a href="privacy.php">Privacy Policy</a> | <a href="contact_us.php">Contact Us</a> <br>
+	<br>	<span class=footer>
+All content, images, and data &copy; 1998-2011 Where's George? LLC.<br>
+All Rights Reserved. Use of this Web site constitutes<br>
+acceptance of the <script>document.write("<A  HREF=\"javascript:popup_win('rules.php?fr=1',600,800,'yes');\">Terms of Service</a>");</script><noscript><A HREF=rules.php?fr=1 target=_blank>Terms of Service</a></noscript></span>
+</div><br><!-- <a href=http://www.milonic.com/><font color=#ffffff>DHTML Menu By Milonic JavaScript</font></a>--></td></tr></table></td>
+</tr>
+</table>
+	<!-- Start Quantcast tag -->
+	<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+	<script type="text/javascript">_qacct="p-26x3j23aUJBL6";quantserve();</script>
+	<noscript>
+	<a href="http://www.quantcast.com/p-26x3j23aUJBL6" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-26x3j23aUJBL6.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+	</noscript>
+	<!-- End Quantcast tag -->
+</body>
+</html>
+
+==================
+
+start1=10369
+
+start2=10358
+
+end1=18624
+
+end2=18741
+
+<tr class="ybbody" bgcolor="white">	<td align=center>1.</td><td align=center>Lee</td><td align=center>6</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>2.</td><td align=center>Orange</td><td align=center>6</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>3.</td><td align=center>Broward</td><td align=center>5</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>4.</td><td align=center>Miami-Dade</td><td align=center>5</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>5.</td><td align=center>Pinellas</td><td align=center>5</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>6.</td><td align=center>Hillsborough</td><td align=center>5</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>7.</td><td align=center>Seminole</td><td align=center>4</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>8.</td><td align=center>Brevard</td><td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>9.</td><td align=center>Marion</td><td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>10.</td><td align=center>Palm Beach</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>11.</td><td align=center>Alachua</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>12.</td><td align=center>Okaloosa</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>13.</td><td align=center>Martin</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>14.</td><td align=center>Manatee</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>15.</td><td align=center>Duval</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>16.</td><td align=center>Saint Lucie</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>17.</td><td align=center>Volusia</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>18.</td><td align=center>Flagler</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>19.</td><td align=center>Polk</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>20.</td><td align=center>Saint Johns</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>21.</td><td align=center>Osceola</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>22.</td><td align=center>Highlands</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>23.</td><td align=center>Pasco</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>24.</td><td align=center>Santa Rosa</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>25.</td><td align=center>Leon</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>26.</td><td align=center>Okeechobee</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>27.</td><td align=center>Baker</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>28.</td><td align=center>Bay</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>29.</td><td align=center>Bradford</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>30.</td><td align=center>Calhoun</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>31.</td><td align=center>Charlotte</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>32.</td><td align=center>Citrus</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>33.</td><td align=center>Clay</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>34.</td><td align=center>Collier</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>35.</td><td align=center>Columbia</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>36.</td><td align=center>DeSoto</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>37.</td><td align=center>Dixie</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>38.</td><td align=center>Escambia</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>39.</td><td align=center>Franklin</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>40.</td><td align=center>Gadsden</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>41.</td><td align=center>Gilchrist</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>42.</td><td align=center>Glades</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>43.</td><td align=center>Gulf</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>44.</td><td align=center>Hamilton</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>45.</td><td align=center>Hardee</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>46.</td><td align=center>Hendry</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>47.</td><td align=center>Hernando</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>48.</td><td align=center>Holmes</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>49.</td><td align=center>Indian River</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>50.</td><td align=center>Jackson</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>51.</td><td align=center>Jefferson</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>52.</td><td align=center>Lafayette</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>53.</td><td align=center>Lake</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>54.</td><td align=center>Levy</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>55.</td><td align=center>Liberty</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>56.</td><td align=center>Madison</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>57.</td><td align=center>Monroe</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>58.</td><td align=center>Nassau</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>59.</td><td align=center>Putnam</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>60.</td><td align=center>Sarasota</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>61.</td><td align=center>Sumter</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>62.</td><td align=center>Suwannee</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>63.</td><td align=center>Taylor</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>64.</td><td align=center>Union</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>65.</td><td align=center>Wakulla</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>66.</td><td align=center>Walton</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>67.</td><td align=center>Washington</td><td align=center>---</td>
+</tr>
+
+row=>1.</td><td align=center>Lee</td><td align=center>6</td>
+</tr>
+<tr cla, rank=1,county=Lee,hits=6
+
+row=>2.</td><td align=center>Orange</td><td align=center>6</td>
+</tr>
+<tr cla, rank=2,county=Orange,hits=6
+
+row=>3.</td><td align=center>Broward</td><td align=center>5</td>
+</tr>
+<tr cla, rank=3,county=Broward,hits=5
+
+row=>4.</td><td align=center>Miami-Dade</td><td align=center>5</td>
+</tr>
+<tr cla, rank=4,county=Miami-Dade,hits=5
+
+row=>5.</td><td align=center>Pinellas</td><td align=center>5</td>
+</tr>
+<tr cla, rank=5,county=Pinellas,hits=5
+
+row=>6.</td><td align=center>Hillsborough</td><td align=center>5</td>
+</tr>
+<tr cla, rank=6,county=Hillsborough,hits=5
+
+row=>7.</td><td align=center>Seminole</td><td align=center>4</td>
+</tr>
+<tr cla, rank=7,county=Seminole,hits=4
+
+row=>8.</td><td align=center>Brevard</td><td align=center>3</td>
+</tr>
+<tr cla, rank=8,county=Brevard,hits=3
+
+row=>9.</td><td align=center>Marion</td><td align=center>3</td>
+</tr>
+<tr cla, rank=9,county=Marion,hits=3
+
+row=>10.</td><td align=center>Palm Beach</td><td align=center>2</td>
+</tr>
+<tr cla, rank=10,county=Palm Beach,hits=2
+
+row=>11.</td><td align=center>Alachua</td><td align=center>2</td>
+</tr>
+<tr cla, rank=11,county=Alachua,hits=2
+
+row=>12.</td><td align=center>Okaloosa</td><td align=center>2</td>
+</tr>
+<tr cla, rank=12,county=Okaloosa,hits=2
+
+row=>13.</td><td align=center>Martin</td><td align=center>2</td>
+</tr>
+<tr cla, rank=13,county=Martin,hits=2
+
+row=>14.</td><td align=center>Manatee</td><td align=center>2</td>
+</tr>
+<tr cla, rank=14,county=Manatee,hits=2
+
+row=>15.</td><td align=center>Duval</td><td align=center>2</td>
+</tr>
+<tr cla, rank=15,county=Duval,hits=2
+
+row=>16.</td><td align=center>Saint Lucie</td><td align=center>2</td>
+</tr>
+<tr cla, rank=16,county=Saint Lucie,hits=2
+
+row=>17.</td><td align=center>Volusia</td><td align=center>2</td>
+</tr>
+<tr cla, rank=17,county=Volusia,hits=2
+
+row=>18.</td><td align=center>Flagler</td><td align=center>1</td>
+</tr>
+<tr cla, rank=18,county=Flagler,hits=1
+
+row=>19.</td><td align=center>Polk</td><td align=center>1</td>
+</tr>
+<tr cla, rank=19,county=Polk,hits=1
+
+row=>20.</td><td align=center>Saint Johns</td><td align=center>1</td>
+</tr>
+<tr cla, rank=20,county=Saint Johns,hits=1
+
+row=>21.</td><td align=center>Osceola</td><td align=center>1</td>
+</tr>
+<tr cla, rank=21,county=Osceola,hits=1
+
+row=>22.</td><td align=center>Highlands</td><td align=center>1</td>
+</tr>
+<tr cla, rank=22,county=Highlands,hits=1
+
+row=>23.</td><td align=center>Pasco</td><td align=center>1</td>
+</tr>
+<tr cla, rank=23,county=Pasco,hits=1
+
+row=>24.</td><td align=center>Santa Rosa</td><td align=center>1</td>
+</tr>
+<tr cla, rank=24,county=Santa Rosa,hits=1
+
+row=>25.</td><td align=center>Leon</td><td align=center>1</td>
+</tr>
+<tr cla, rank=25,county=Leon,hits=1
+
+row=>26.</td><td align=center>Okeechobee</td><td align=center>1</td>
+</tr>
+<tr cla, rank=26,county=Okeechobee,hits=1
+
+row=>27.</td><td align=center>Baker</td><td align=center>---</td>
+</tr>
+<tr cla, rank=27,county=Baker,hits=---
+
+row=>28.</td><td align=center>Bay</td><td align=center>---</td>
+</tr>
+<tr cla, rank=28,county=Bay,hits=---
+
+row=>29.</td><td align=center>Bradford</td><td align=center>---</td>
+</tr>
+<tr cla, rank=29,county=Bradford,hits=---
+
+row=>30.</td><td align=center>Calhoun</td><td align=center>---</td>
+</tr>
+<tr cla, rank=30,county=Calhoun,hits=---
+
+row=>31.</td><td align=center>Charlotte</td><td align=center>---</td>
+</tr>
+<tr cla, rank=31,county=Charlotte,hits=---
+
+row=>32.</td><td align=center>Citrus</td><td align=center>---</td>
+</tr>
+<tr cla, rank=32,county=Citrus,hits=---
+
+row=>33.</td><td align=center>Clay</td><td align=center>---</td>
+</tr>
+<tr cla, rank=33,county=Clay,hits=---
+
+row=>34.</td><td align=center>Collier</td><td align=center>---</td>
+</tr>
+<tr cla, rank=34,county=Collier,hits=---
+
+row=>35.</td><td align=center>Columbia</td><td align=center>---</td>
+</tr>
+<tr cla, rank=35,county=Columbia,hits=---
+
+row=>36.</td><td align=center>DeSoto</td><td align=center>---</td>
+</tr>
+<tr cla, rank=36,county=DeSoto,hits=---
+
+row=>37.</td><td align=center>Dixie</td><td align=center>---</td>
+</tr>
+<tr cla, rank=37,county=Dixie,hits=---
+
+row=>38.</td><td align=center>Escambia</td><td align=center>---</td>
+</tr>
+<tr cla, rank=38,county=Escambia,hits=---
+
+row=>39.</td><td align=center>Franklin</td><td align=center>---</td>
+</tr>
+<tr cla, rank=39,county=Franklin,hits=---
+
+row=>40.</td><td align=center>Gadsden</td><td align=center>---</td>
+</tr>
+<tr cla, rank=40,county=Gadsden,hits=---
+
+row=>41.</td><td align=center>Gilchrist</td><td align=center>---</td>
+</tr>
+<tr cla, rank=41,county=Gilchrist,hits=---
+
+row=>42.</td><td align=center>Glades</td><td align=center>---</td>
+</tr>
+<tr cla, rank=42,county=Glades,hits=---
+
+row=>43.</td><td align=center>Gulf</td><td align=center>---</td>
+</tr>
+<tr cla, rank=43,county=Gulf,hits=---
+
+row=>44.</td><td align=center>Hamilton</td><td align=center>---</td>
+</tr>
+<tr cla, rank=44,county=Hamilton,hits=---
+
+row=>45.</td><td align=center>Hardee</td><td align=center>---</td>
+</tr>
+<tr cla, rank=45,county=Hardee,hits=---
+
+row=>46.</td><td align=center>Hendry</td><td align=center>---</td>
+</tr>
+<tr cla, rank=46,county=Hendry,hits=---
+
+row=>47.</td><td align=center>Hernando</td><td align=center>---</td>
+</tr>
+<tr cla, rank=47,county=Hernando,hits=---
+
+row=>48.</td><td align=center>Holmes</td><td align=center>---</td>
+</tr>
+<tr cla, rank=48,county=Holmes,hits=---
+
+row=>49.</td><td align=center>Indian River</td><td align=center>---</td>
+</tr>
+<tr cla, rank=49,county=Indian River,hits=---
+
+row=>50.</td><td align=center>Jackson</td><td align=center>---</td>
+</tr>
+<tr cla, rank=50,county=Jackson,hits=---
+
+row=>51.</td><td align=center>Jefferson</td><td align=center>---</td>
+</tr>
+<tr cla, rank=51,county=Jefferson,hits=---
+
+row=>52.</td><td align=center>Lafayette</td><td align=center>---</td>
+</tr>
+<tr cla, rank=52,county=Lafayette,hits=---
+
+row=>53.</td><td align=center>Lake</td><td align=center>---</td>
+</tr>
+<tr cla, rank=53,county=Lake,hits=---
+
+row=>54.</td><td align=center>Levy</td><td align=center>---</td>
+</tr>
+<tr cla, rank=54,county=Levy,hits=---
+
+row=>55.</td><td align=center>Liberty</td><td align=center>---</td>
+</tr>
+<tr cla, rank=55,county=Liberty,hits=---
+
+row=>56.</td><td align=center>Madison</td><td align=center>---</td>
+</tr>
+<tr cla, rank=56,county=Madison,hits=---
+
+row=>57.</td><td align=center>Monroe</td><td align=center>---</td>
+</tr>
+<tr cla, rank=57,county=Monroe,hits=---
+
+row=>58.</td><td align=center>Nassau</td><td align=center>---</td>
+</tr>
+<tr cla, rank=58,county=Nassau,hits=---
+
+row=>59.</td><td align=center>Putnam</td><td align=center>---</td>
+</tr>
+<tr cla, rank=59,county=Putnam,hits=---
+
+row=>60.</td><td align=center>Sarasota</td><td align=center>---</td>
+</tr>
+<tr cla, rank=60,county=Sarasota,hits=---
+
+row=>61.</td><td align=center>Sumter</td><td align=center>---</td>
+</tr>
+<tr cla, rank=61,county=Sumter,hits=---
+
+row=>62.</td><td align=center>Suwannee</td><td align=center>---</td>
+</tr>
+<tr cla, rank=62,county=Suwannee,hits=---
+
+row=>63.</td><td align=center>Taylor</td><td align=center>---</td>
+</tr>
+<tr cla, rank=63,county=Taylor,hits=---
+
+row=>64.</td><td align=center>Union</td><td align=center>---</td>
+</tr>
+<tr cla, rank=64,county=Union,hits=---
+
+row=>65.</td><td align=center>Wakulla</td><td align=center>---</td>
+</tr>
+<tr cla, rank=65,county=Wakulla,hits=---
+
+row=>66.</td><td align=center>Walton</td><td align=center>---</td>
+</tr>
+<tr cla, rank=66,county=Walton,hits=---
+
+row=>67.</td><td align=center>Washington</td><td align=center>---</td>
+</tr>
+, rank=67,county=Washington,hits=---
+
+Monroe #fff Levy #fff Wakulla #fff Union #fff {Saint Johns} #FFB Hardee #fff Jefferson #fff Bay #fff Columbia #fff Walton #fff Lake #fff Marion #FBF Brevard #FBF Hernando #fff {Saint Lucie} #FBF Washington #fff Collier #fff Taylor #fff {Indian River} #fff Martin #FBF Volusia #FBF Alachua #FBF Okeechobee #FFB Manatee #FBF Dixie #fff Baker #fff Pasco #FFB Lafayette #fff Clay #fff Calhoun #fff Seminole #FBF Duval #FBF Putnam #fff Franklin #fff Sarasota #fff Gadsden #fff Pinellas #aaf Holmes #fff Jackson #fff Madison #fff Orange #aaf Polk #FFB DeSoto #fff Gulf #fff Glades #fff Okaloosa #FBF Broward #aaf Hendry #fff Bradford #fff Hamilton #fff {Palm Beach} #FBF Flagler #FFB Suwannee #fff Charlotte #fff Miami-Dade #aaf Gilchrist #fff Hillsborough #aaf Highlands #FFB {Santa Rosa} #FFB Escambia #fff Osceola #FFB Leon #FFB Sumter #fff Citrus #fff Nassau #fff Liberty #fff Lee #aaf
+6 6 5 5 5 5 4 3 3 2 2 2 2 2 2 2 2 1 1 1 1 1 1 1 1 1
+60 60 57 57 57 57 4e 45 45 3c 3c 3c 3c 3c 3c 3c 3c 33 33 33 33 33 33 33 33 33
+Monroe #fff Levy #fff Wakulla #fff Union #fff {Saint Johns} #FFB Hardee #fff Jefferson #fff Bay #fff Columbia #fff Walton #fff Lake #fff Marion #FBF Brevard #FBF Hernando #fff {Saint Lucie} #FBF Washington #fff Collier #fff Taylor #fff {Indian River} #fff Martin #FBF Volusia #FBF Alachua #FBF Okeechobee #FFB Manatee #FBF Dixie #fff Baker #fff Pasco #FFB Lafayette #fff Clay #fff Calhoun #fff Seminole #FBF Duval #FBF Putnam #fff Franklin #fff Sarasota #fff Gadsden #fff Pinellas #aaf Holmes #fff Jackson #fff Madison #fff Orange #aaf Polk #FFB DeSoto #fff Gulf #fff Glades #fff Okaloosa #FBF Broward #aaf Hendry #fff Bradford #fff Hamilton #fff {Palm Beach} #FBF Flagler #FFB Suwannee #fff Charlotte #fff Miami-Dade #aaf Gilchrist #fff Hillsborough #aaf Highlands #FFB {Santa Rosa} #FFB Escambia #fff Osceola #FFB Leon #FFB Sumter #fff Citrus #fff Nassau #fff Liberty #fff Lee #aaf
+
+exec -- /usr/bin/convert FL_HIT_MAP.png -fill black -font Arial-Regular -pointsize 15 -linewidth 3 -draw {text 34,125  ' 31 +'} -draw {text 34,142  ' 15 - 30 '} -draw {text 34,159  ' 10 - 14 '} -draw {text 34,176  ' 5 - 9 '} -draw {text 34,193  ' 2 - 4 '} -draw {text 34,210  ' 1 - 1 '} -fill #0f0 -draw {circle 20,154 14,154} -fill #ef0 -draw {circle 20,137 14,137} -fill #FFB -draw {circle 20,205 14,205} -fill #f11 -draw {circle 20,120 14,120} -fill #FBF -draw {circle 20,188 14,188} -fill #aaf -draw {circle 20,171 14,171} -fill black -draw {text 4,14  ' Updated: Wed Jun 22, 2011 09:17:30 EDT '} -fill black -pointsize 15 -draw {text 20,245  'Top 30'} -draw {text 20,261  '6'} -draw {text 53,261  'Lee'} -draw {text 20,276  '6'} -draw {text 53,276  'Orange'} -draw {text 20,291  '5'} -draw {text 53,291  'Broward'} -draw {text 20,306  '5'} -draw {text 53,306  'Hillsborough'} -draw {text 20,321  '5'} -draw {text 53,321  'Miami-Dade'} -draw {text 20,336  '5'} -draw {text 53,336  'Pinellas'} -draw {text 20,351  '4'} -draw {text 53,351  'Seminole'} -draw {text 20,366  '3'} -draw {text 53,366  'Brevard'} -draw {text 20,381  '3'} -draw {text 53,381  'Marion'} -draw {text 20,396  '2'} -draw {text 53,396  'Alachua'} -draw {text 20,411  '2'} -draw {text 53,411  'Duval'} -draw {text 20,426  '2'} -draw {text 53,426  'Manatee'} -draw {text 20,441  '2'} -draw {text 53,441  'Martin'} -draw {text 20,456  '2'} -draw {text 53,456  'Okaloosa'} -draw {text 20,471  '2'} -draw {text 53,471  'Palm Beach'} -draw {text 20,486  '2'} -draw {text 53,486  'Saint Lucie'} -draw {text 20,501  '2'} -draw {text 53,501  'Volusia'} -draw {text 20,516  '1'} -draw {text 53,516  'Flagler'} -draw {text 20,531  '1'} -draw {text 53,531  'Highlands'} -draw {text 20,546  '1'} -draw {text 53,546  'Leon'} -draw {text 20,561  '1'} -draw {text 53,561  'Okeechobee'} -draw {text 20,576  '1'} -draw {text 53,576  'Osceola'} -draw {text 20,591  '1'} -draw {text 53,591  'Pasco'} -draw {text 20,606  '1'} -draw {text 53,606  'Polk'} -draw {text 20,621  '1'} -draw {text 53,621  'Saint Johns'} -draw {text 20,636  '1'} -draw {text 53,636  'Santa Rosa'} -tile fills/xsolid_range#fff.png -draw {color 700,640 floodfill} -tile fills/xsolid_range#fff.png -draw {color 520,240 floodfill} -tile fills/xsolid_range#fff.png -draw {color 320,130 floodfill} -tile fills/xsolid_range#fff.png -draw {color 540,125 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 650,150 floodfill} -tile fills/xsolid_range#fff.png -draw {color 625,420 floodfill} -tile fills/xsolid_range#fff.png -draw {color 285,65 floodfill} -tile fills/xsolid_range#fff.png -draw {color 200,115 floodfill} -tile fills/xsolid_range#fff.png -draw {color 520,130 floodfill} -tile fills/xsolid_range#fff.png -draw {color 150,50 floodfill} -tile fills/xsolid_range#fff.png -draw {color 600,300 floodfill} -tile fills/xsolid_range#FBF.png -draw {color 600,250 floodfill} -tile fills/xsolid_range#FBF.png -draw {color 725,380 floodfill} -tile fills/xsolid_range#fff.png -draw {color 555,305 floodfill} -tile fills/xsolid_range#FBF.png -draw {color 730,430 floodfill} -tile fills/xsolid_range#fff.png -draw {color 200,80 floodfill} -tile fills/xsolid_range#fff.png -draw {color 700,600 floodfill} -tile fills/xsolid_range#fff.png -draw {color 430,150 floodfill} -tile fills/xsolid_range#fff.png -draw {color 750,410 floodfill} -tile fills/xsolid_range#FBF.png -draw {color 750,485 floodfill} -tile fills/xsolid_range#FBF.png -draw {color 650,230 floodfill} -tile fills/xsolid_range#FBF.png -draw {color 550,175 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 700,420 floodfill} -tile fills/xsolid_range#FBF.png -draw {color 550,420 floodfill} -tile fills/xsolid_range#fff.png -draw {color 450,170 floodfill} -tile fills/xsolid_range#fff.png -draw {color 555,115 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 550,325 floodfill} -tile fills/xsolid_range#fff.png -draw {color 450,120 floodfill} -tile fills/xsolid_range#fff.png -draw {color 600,150 floodfill} -tile fills/xsolid_range#fff.png -draw {color 260,100 floodfill} -tile fills/xgradient_range#FBF.png -draw {color 650,280 floodfill} -tile fills/xsolid_range#FBF.png -draw {color 600,100 floodfill} -tile fills/xsolid_range#fff.png -draw {color 600,190 floodfill} -tile fills/xsolid_range#fff.png -draw {color 280,145 floodfill} -tile fills/xsolid_range#fff.png -draw {color 570,470 floodfill} -tile fills/xsolid_range#fff.png -draw {color 320,80 floodfill} -tile fills/xsolid_range#aaf.png -draw {color 500,390 floodfill} -tile fills/xsolid_range#fff.png -draw {color 180,50 floodfill} -tile fills/xsolid_range#fff.png -draw {color 250,60 floodfill} -tile fills/xsolid_range#fff.png -draw {color 450,80 floodfill} -tile fills/xsolid_range#aaf.png -draw {color 680,310 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 600,400 floodfill} -tile fills/xsolid_range#fff.png -draw {color 600,480 floodfill} -tile fills/xsolid_range#fff.png -draw {color 250,125 floodfill} -tile fills/xsolid_range#fff.png -draw {color 650,490 floodfill} -tile fills/xsolid_range#FBF.png -draw {color 100,25 floodfill} -tile fills/xsolid_range#aaf.png -draw {color 750,600 floodfill} -tile fills/xsolid_range#fff.png -draw {color 700,550 floodfill} -tile fills/xsolid_range#fff.png -draw {color 570,140 floodfill} -tile fills/xsolid_range#fff.png -draw {color 470,70 floodfill} -tile fills/xsolid_range#FBF.png -draw {color 750,500 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 650,190 floodfill} -tile fills/xsolid_range#fff.png -draw {color 490,130 floodfill} -tile fills/xsolid_range#fff.png -draw {color 625,500 floodfill} -tile fills/xsolid_range#aaf.png -draw {color 750,625 floodfill} -tile fills/xsolid_range#fff.png -draw {color 500,165 floodfill} -tile fills/xsolid_range#aaf.png -draw {color 550,400 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 650,425 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 75,25 floodfill} -tile fills/xsolid_range#fff.png -draw {color 20,30 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 650,350 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 360,80 floodfill} -tile fills/xsolid_range#fff.png -draw {color 580,300 floodfill} -tile fills/xsolid_range#fff.png -draw {color 530,260 floodfill} -tile fills/xsolid_range#fff.png -draw {color 590,75 floodfill} -tile fills/xsolid_range#fff.png -draw {color 300,100 floodfill} -tile fills/xsolid_range#aaf.png -draw {color 600,525 floodfill} -resize 640x> -bordercolor #999 -border 1x1 FL_HIT_MAP_Z.png
+after /usr/bin/convert FL_HIT_MAP_Z.png

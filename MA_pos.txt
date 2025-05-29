@@ -1,0 +1,14 @@
+Barnstable=500,290
+Berkshire=125,325
+Bristol=380,300
+Dukes=455,375
+Essex=350,130
+Franklin=200,200
+Hampden=200,300
+Hampshire=200,250
+Middlesex=300,150
+Nantucket=533,378
+Norfolk=350,235
+Plymouth=400,250
+Suffolk=365,200
+Worcester=250,200

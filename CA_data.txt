@@ -1,0 +1,752 @@
+argv=CA
+url=http://www.wheresgeorge.com/hbz.php?args=7d840a6d896ace87120d32c1159144d0ef5c27401c827e0998ca1078aa479f3eaecbaa569aac9f1f3f2a7bc4d91f2bd1da553f470fdcbe21437042426959ae6a4aadbef7dd684685ae43ec5cbe9acdb212f1b4821b586fca5f533f23d5e962ccfc0a18b62360be790c059d64dae907c48b09639eafa42333e16641c3f2cbadfbbcbb1a556ba928d517a962d2e73f8dc3
+===================
+input=<html>
+<!--
+#########################################################################################################
+# Start of Where's George?/Where's Willy common header                                                 	#
+# All code, content and images copyright Where's George? LLC 1998-2011          #
+# and can not be used without express, written consent.                                                 #
+#########################################################################################################
+-->
+<head>
+<title>Where's George? &reg; 2.4 Hits by County</title>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1" />
+<META NAME="Author" CONTENT="Hank Eskin" />
+<META NAME="description" CONTENT="Track US or Canadian dollar bills as they travel across the country. Enter the serial number and zip code to track its past history. Get email when the next person registers your bill! " />
+<META NAME="keywords" CONTENT="wheresgeorge whereswilly WG? WG whereswilly.com wheresgeorge.com track dollar trackdollar trackdollars dollars one bill frb federal reserve banks trace tracing tracking track trace american serial number series denomination bills where is george currency money legal tender" />
+<meta http-equiv="X-UA-Compatible" content="IE=6" />
+
+<link href="http://www.wheresgeorge.com/css_wg.css" rel="stylesheet" type="text/css">
+</head>
+
+<body  bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<SCRIPT language="JavaScript" type="text/javascript">menu_position=225;item_width=72.857142857143;</SCRIPT><!-- ***** This is the section of code you need to paste into your web pages ***** -->
+<script type="text/javascript" src="mmenu/milonic_src.js"></script>
+<script type="text/javascript" src="mmenu/mmenudom.js"></script>
+<!-- The next file contains your menu data, links and menu structure etc -->
+<script type="text/javascript" src="mmenu/menu_wg.js"></script>
+<!-- **** JavaScript Menu HTML Code -->
+<script type="text/javascript">function popup_win(page,h,w,scroll) {rnd=Math.round(Math.random()*10000); if (page.substring(0,22)=='user_profile_popup.php') {h=600;w=800;scroll='yes';}window.open(page,rnd,'toolbar=NO,location=NO,directories=NO,status=NO,menubar=NO,scrollbars='+scroll+',resizable=YES,copyhistory=NO,width='+w+',height='+h+',left=100,top=100');}</script><!-- frame buster -->
+<script language="JavaScript" type="text/javascript">
+  	if (top.location != self.location) {
+	top.location = self.location.href
+	}
+</script><a name="top"></a>
+<!-- main table - full width -->
+<table width="814" border="0" cellspacing="0" cellpadding="0">
+<tr  bgcolor=green><td align=right colspan="3" ><iframe src="http://rcm.amazon.com/e/cm?t=wheresgeorg-20&o=1&p=20&l=ur1&category=kindle&banner=1KNAV7AGS7WAHJ5Z5ER2&f=ifr" width="120" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe><iframe bgcolor="#669933" Allowtransparency="true" src="openads_leaderboard.php" width="728" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe><a target=_blank href="http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2F&tag=wheresgeorg-20&linkCode=ur2&camp=1789&creative=9325"><img src="http://www.assoc-amazon.com/e/ir?t=wheresgeorg-20&l=ur2&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><img border=0 src=images/amazon_120x90.gif></a></td></tr><tr>
+<td colspan="3">
+ <!-- header table - full width -->
+
+<table border="0" height=40 cellpadding="0" cellspacing="0" width="814">
+  <tr >
+    <td width="165"><img src="img_wg/topl.jpg" width="165" height="135" border="0" alt=""></td>
+    <td width="510"   ><img width="510" height="135" src="img_wg/topcN.jpg"  border="0" alt=""></td>
+    <td width="157"><img  src="img_wg/toprN.png" width="157" height="135" border="0" alt=""></td>
+  </tr>
+  <tr>
+    <td width="165"><img name="left1" src="img_wg/left1.jpg" width="165" height="20" border="0" alt=""></td>
+	<td align=left width="510" bgcolor="#666666"><!-- <img name="grey_nav" src="img_wg/grey_nav.gif" width="510" height="20" border="0">--><script>document.write("<img name=\"grey_nav\" src=\"img_wg/grey_nav.gif\" width=\"425\" height=\"20\" border=\"0\">");</script><noscript><span class=tabletitle><b>Your browser has Javascript disabled. Please see the <a href=site_map.php>Site-Map</a> to view all the main menu options.</b></span></noscript></td>
+    <td width="157"><img name="right1" src="img_wg/right1.jpg" width="157" height="20" border="0" alt=""></td>
+  </tr>
+  <tr>
+    <td bgcolor="#669933" width="165"><script>document.write("<A  HREF=\"javascript:popup_win('boss.html',4000,2000,'no');\"><img border=0 name=\"left2\" src=\"img_wg/left2.jpg\" width=\"147\" height=\"47\" border=\"0\" alt=\"\"></a>");</script><noscript><A HREF=boss.html target=_blank><img border=0 name="left2" src="img_wg/left2.jpg" width="147" height="47" border="0" alt=""></a></noscript></td>
+    <!-- start registered user name/profile link  -->
+    <td width="510" bgcolor="#669933" class=topnav>
+	<div width="48%" style="float:left; text-align:left;">
+    <strong>You are currently logged in as&nbsp;<span class=topnav><script>document.write("<A sidenav HREF=\"javascript:popup_win('user_profile_popup.php?ukey=1c48871d2481b356e00789340b46fc0f',0,0,'0');\">Lee</a>");</script><noscript><A HREF=user_profile_popup.php?ukey=1c48871d2481b356e00789340b46fc0f target=_blank>Lee</a></noscript></span></strong></div></div><!-- end registered user name/profile link  -->
+	    <!-- help   -->
+	    <div width="48%" style="float:right; text-align:right"><script>document.write("<A  HREF=\"javascript:popup_win('help.php?args=b31ea71b98fec987c84c1755a8e4e0144d59f820ef1e6e5797d2e3468e77f2ccba52d613e7381a852cc3bbacb76f95b1d3afbd222b7f29bf038c7a368c8ff68ab19c66a70b41734f1d8d4ccc1bd2fa44ee00eeb21c3dc436dcbdabd3f1dbb8c4740dad52d85d5a1a8525ffe14674453d2f7dfad77a9f3e24e2ccd4ebaa88eb2d7f750c6d220b4efe0cfead9391027fb2',550,650,'yes');\"><img name=\"template_r3_c3\" src=\"img_wg/help.png\" width=\"142\"  border=\"0\" alt=\"\"></a>");</script><noscript><A HREF=help.php?args=b31ea71b98fec987c84c1755a8e4e0144d59f820ef1e6e5797d2e3468e77f2ccba52d613e7381a852cc3bbacb76f95b1d3afbd222b7f29bf038c7a368c8ff68ab19c66a70b41734f1d8d4ccc1bd2fa44ee00eeb21c3dc436dcbdabd3f1dbb8c4740dad52d85d5a1a8525ffe14674453d2f7dfad77a9f3e24e2ccd4ebaa88eb2d7f750c6d220b4efe0cfead9391027fb2 target=_blank><img name="template_r3_c3" src="img_wg/help.png" width="142"  border="0" alt=""></a></noscript></div>
+		<!-- /help --><div style="clear: both;"> </div>
+    </td>
+    <td width="157" bgcolor="#669933"><img name="right2" src="img_wg/right2.jpg" width="157" height="47" border="0" alt=""></td>
+    <!-- end help -->
+  </tr>
+</table>
+<!-- end header table -->
+</td>
+</tr><tr>
+<td width="147" height="100%" valign="top">
+<!-- start LEft hand menu table -->
+<table width="146" height="100%" border="0" cellpadding="0" cellspacing="0" >
+  <tr>
+    <td colspan="3"><img src="img_wg/left3.jpg" width="147" height="14"></td>
+  </tr>
+  <tr valign="top" bgcolor="#FFFFFF">
+    <td height="79" colspan="3" background="img_wg/left4.jpg" class="sidenav">
+<div align="right">
+<a href="/">Home</a><br>
+<a href="/logon.php">Log On</a><br>
+<a href="/register.php">Register</a><br>
+<a href="/main.php#bill">Enter a Bill</a>
+</div></td></tr>
+<tr>
+    <td width="19" valign="top" background="img_wg/left-gutter.png">
+      <table height="100%" width="19" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td>&nbsp;</td>
+        </tr>
+      </table>
+    </td>
+    <td width="127" colspan="2" valign="top" bgcolor="#91CB53">
+          <table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td valign="top" align=right><p class="sidenav"><a href="ybs.php?ybs">Your Bills</a><br>
+<a href="user_prefs.php">User Settings</a><br><a href="user_profile.php">User Profile</a><br><a href="wrapper.php?page=state_profiles">Profiles by State</a><br>
+<a href="zip_hits.php">Zip Code Report</a><br>
+<a href="lostandfound.php">Lost and Found</a><br>
+<a href="lookup.php">Bill Lookup</a><br>
+<a href="logoff.php">Log Off</a><br></p>
+          </td>
+        </tr>
+      </table>
+<br><br><br><br><iframe bgcolor="#99CC66" Allowtransparency="true" src="openads_left_sky.php" width="120" height="600" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe><img src="img_wg/left-nav-bottom.gif"></td>
+  </tr>
+  <tr>
+    <td height="100%" valign="top" background="img_wg/left-gutter.gif">
+    	<table height="100%" width="19" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td height="100%" valign="top">&nbsp;</td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top" background="img_wg/left-gutter-background.gif"><p><img src="img_wg/left-nav-gutter.gif"></p>
+    </td>
+  </tr>
+</table>
+<!-- end Left hand menu table -->
+</td>
+<!-- open td for content -->
+<td style="text-align:left;" width="667" align="left" valign="top" class="body" ><!-- open td for content  --><span class=header>Hits by County Report</span><center>This Report is current as of: Jun-22-11 12:14 AM<br>Back to your <a href=ybs.php?hbs>Hit Analysis Report</a> Report<br>
+<TABLE width="60%" cellpadding="2" cellspacing="0" bordercolor="#999999" border=1 class="body">
+<tr class="body" bgcolor="#dddddd">	<td colspan=5><div align=center>Hits by County - CA</div></td>
+</tr>
+<tr class="body" bgcolor="#dddddd">	<td colspan=5><div align=center>You have 74 hits in 20 CA Counties</div></td>
+</tr>
+<tr class="body" bgcolor="#dddddd">	<td align=center>Rank</td>
+	<td align=center><a href=/hbz.php?args=c765da81ee3c6f5ce53d67e4592b90b5a1dd6ee496afb6b860a589f135e436b68d7aa8f879b08163383fe083853c78a3da553f470fdcbe21437042426959ae6a4aadbef7dd6846852f87ceef0c3cb64a4beb93ddd3b5482a25b195e984742f9e80ec3cc4498ca0ae7eea55e24a32b5c8de0a5692715be85dc52b15face08ed7410e8dad598596383d63f096143ea06c1>County</a></td>
+	<td align=center><a href=/hbz.php?args=e1744ba50b1677eef6b7eb472f0d8c0547e3ce01dafa3543a50cb206cd533a902d1f135653e38a53f350a37d09e467f9da553f470fdcbe21437042426959ae6a4aadbef7dd6846852f87ceef0c3cb64a4beb93ddd3b5482a25b195e984742f9ee4ce9491d67b2a5750e338940d12ca3faa3b686ed0c0c714fe9ec0050f33f5050f337ea462650002aef82e154487b1c7>Hits</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>1.</td>
+	<td align=center>Los Angeles</td>
+	<td align=center>23</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>2.</td>
+	<td align=center>Orange</td>
+	<td align=center>9</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>3.</td>
+	<td align=center>Alameda</td>
+	<td align=center>9</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>4.</td>
+	<td align=center>San Diego</td>
+	<td align=center>7</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>5.</td>
+	<td align=center>Riverside</td>
+	<td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>6.</td>
+	<td align=center>San Luis Obispo</td>
+	<td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>7.</td>
+	<td align=center>Ventura</td>
+	<td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>8.</td>
+	<td align=center>Santa Clara</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>9.</td>
+	<td align=center>Placer</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>10.</td>
+	<td align=center>Contra Costa</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>11.</td>
+	<td align=center>Fresno</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>12.</td>
+	<td align=center>Inyo</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>13.</td>
+	<td align=center>Yolo</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>14.</td>
+	<td align=center>Tulare</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>15.</td>
+	<td align=center>San Francisco</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>16.</td>
+	<td align=center>Sonoma</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>17.</td>
+	<td align=center>Santa Barbara</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>18.</td>
+	<td align=center>San Joaquin</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>19.</td>
+	<td align=center>San Bernardino</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>20.</td>
+	<td align=center>Monterey</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>21.</td>
+	<td align=center>Alpine</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>22.</td>
+	<td align=center>Amador</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>23.</td>
+	<td align=center>Butte</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>24.</td>
+	<td align=center>Calaveras</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>25.</td>
+	<td align=center>Colusa</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>26.</td>
+	<td align=center>Del Norte</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>27.</td>
+	<td align=center>El Dorado</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>28.</td>
+	<td align=center>Glenn</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>29.</td>
+	<td align=center>Humboldt</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>30.</td>
+	<td align=center>Imperial</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>31.</td>
+	<td align=center>Kern</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>32.</td>
+	<td align=center>Kings</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>33.</td>
+	<td align=center>Lake</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>34.</td>
+	<td align=center>Lassen</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>35.</td>
+	<td align=center>Madera</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>36.</td>
+	<td align=center>Marin</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>37.</td>
+	<td align=center>Mariposa</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>38.</td>
+	<td align=center>Mendocino</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>39.</td>
+	<td align=center>Merced</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>40.</td>
+	<td align=center>Modoc</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>41.</td>
+	<td align=center>Mono</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>42.</td>
+	<td align=center>Napa</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>43.</td>
+	<td align=center>Nevada</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>44.</td>
+	<td align=center>Plumas</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>45.</td>
+	<td align=center>Sacramento</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>46.</td>
+	<td align=center>San Benito</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>47.</td>
+	<td align=center>San Mateo</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>48.</td>
+	<td align=center>Santa Cruz</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>49.</td>
+	<td align=center>Shasta</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>50.</td>
+	<td align=center>Sierra</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>51.</td>
+	<td align=center>Siskiyou</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>52.</td>
+	<td align=center>Solano</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>53.</td>
+	<td align=center>Stanislaus</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>54.</td>
+	<td align=center>Sutter</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>55.</td>
+	<td align=center>Tehama</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>56.</td>
+	<td align=center>Trinity</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>57.</td>
+	<td align=center>Tuolumne</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>58.</td>
+	<td align=center>Yuba</td>
+	<td align=center>---</td>
+</tr>
+</table><center><span class=body><a href="#top">Back to Top</a></span></center><br><br><br>(Runtime: 5 seconds)<br><!-- </center> -->
+<center><iframe bgcolor="#ffffff" Allowtransparency="true" src="openads_box.php" width="300" height="250" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe></center>
+<br><br><br><br><br><br>
+<table width="510" border="0" cellpadding="0" cellspacing="0" class="body">
+	<tr>
+	<td class="body"><div align="center">
+	<a href="/">Home Page</a> | <a href="faq.php">FAQs</a> | <a href="site_map.php">Site Map</a> | <a href="about.php">About</a> | <a href="privacy.php">Privacy Policy</a> | <a href="contact_us.php">Contact Us</a> <br>
+	<br>	<span class=footer>
+All content, images, and data &copy; 1998-2011 Where's George? LLC.<br>
+All Rights Reserved. Use of this Web site constitutes<br>
+acceptance of the <script>document.write("<A  HREF=\"javascript:popup_win('rules.php?fr=1',600,800,'yes');\">Terms of Service</a>");</script><noscript><A HREF=rules.php?fr=1 target=_blank>Terms of Service</a></noscript></span>
+</div><br><!-- <a href=http://www.milonic.com/><font color=#ffffff>DHTML Menu By Milonic JavaScript</font></a>--></td></tr></table></td>
+</tr>
+</table>
+	<!-- Start Quantcast tag -->
+	<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+	<script type="text/javascript">_qacct="p-26x3j23aUJBL6";quantserve();</script>
+	<noscript>
+	<a href="http://www.quantcast.com/p-26x3j23aUJBL6" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-26x3j23aUJBL6.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+	</noscript>
+	<!-- End Quantcast tag -->
+</body>
+</html>
+
+==================
+
+start1=10369
+
+start2=10358
+
+end1=17533
+
+end2=17644
+
+<tr class="ybbody" bgcolor="white">	<td align=center>1.</td><td align=center>Los Angeles</td><td align=center>23</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>2.</td><td align=center>Orange</td><td align=center>9</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>3.</td><td align=center>Alameda</td><td align=center>9</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>4.</td><td align=center>San Diego</td><td align=center>7</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>5.</td><td align=center>Riverside</td><td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>6.</td><td align=center>San Luis Obispo</td><td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>7.</td><td align=center>Ventura</td><td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>8.</td><td align=center>Santa Clara</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>9.</td><td align=center>Placer</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>10.</td><td align=center>Contra Costa</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>11.</td><td align=center>Fresno</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>12.</td><td align=center>Inyo</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>13.</td><td align=center>Yolo</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>14.</td><td align=center>Tulare</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>15.</td><td align=center>San Francisco</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>16.</td><td align=center>Sonoma</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>17.</td><td align=center>Santa Barbara</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>18.</td><td align=center>San Joaquin</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>19.</td><td align=center>San Bernardino</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>20.</td><td align=center>Monterey</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>21.</td><td align=center>Alpine</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>22.</td><td align=center>Amador</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>23.</td><td align=center>Butte</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>24.</td><td align=center>Calaveras</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>25.</td><td align=center>Colusa</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>26.</td><td align=center>Del Norte</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>27.</td><td align=center>El Dorado</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>28.</td><td align=center>Glenn</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>29.</td><td align=center>Humboldt</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>30.</td><td align=center>Imperial</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>31.</td><td align=center>Kern</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>32.</td><td align=center>Kings</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>33.</td><td align=center>Lake</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>34.</td><td align=center>Lassen</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>35.</td><td align=center>Madera</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>36.</td><td align=center>Marin</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>37.</td><td align=center>Mariposa</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>38.</td><td align=center>Mendocino</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>39.</td><td align=center>Merced</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>40.</td><td align=center>Modoc</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>41.</td><td align=center>Mono</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>42.</td><td align=center>Napa</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>43.</td><td align=center>Nevada</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>44.</td><td align=center>Plumas</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>45.</td><td align=center>Sacramento</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>46.</td><td align=center>San Benito</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>47.</td><td align=center>San Mateo</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>48.</td><td align=center>Santa Cruz</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>49.</td><td align=center>Shasta</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>50.</td><td align=center>Sierra</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>51.</td><td align=center>Siskiyou</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>52.</td><td align=center>Solano</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>53.</td><td align=center>Stanislaus</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>54.</td><td align=center>Sutter</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>55.</td><td align=center>Tehama</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>56.</td><td align=center>Trinity</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>57.</td><td align=center>Tuolumne</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>58.</td><td align=center>Yuba</td><td align=center>---</td>
+</tr>
+
+row=>1.</td><td align=center>Los Angeles</td><td align=center>23</td>
+</tr>
+<tr cla, rank=1,county=Los Angeles,hits=23
+
+row=>2.</td><td align=center>Orange</td><td align=center>9</td>
+</tr>
+<tr cla, rank=2,county=Orange,hits=9
+
+row=>3.</td><td align=center>Alameda</td><td align=center>9</td>
+</tr>
+<tr cla, rank=3,county=Alameda,hits=9
+
+row=>4.</td><td align=center>San Diego</td><td align=center>7</td>
+</tr>
+<tr cla, rank=4,county=San Diego,hits=7
+
+row=>5.</td><td align=center>Riverside</td><td align=center>3</td>
+</tr>
+<tr cla, rank=5,county=Riverside,hits=3
+
+row=>6.</td><td align=center>San Luis Obispo</td><td align=center>3</td>
+</tr>
+<tr cla, rank=6,county=San Luis Obispo,hits=3
+
+row=>7.</td><td align=center>Ventura</td><td align=center>3</td>
+</tr>
+<tr cla, rank=7,county=Ventura,hits=3
+
+row=>8.</td><td align=center>Santa Clara</td><td align=center>2</td>
+</tr>
+<tr cla, rank=8,county=Santa Clara,hits=2
+
+row=>9.</td><td align=center>Placer</td><td align=center>2</td>
+</tr>
+<tr cla, rank=9,county=Placer,hits=2
+
+row=>10.</td><td align=center>Contra Costa</td><td align=center>2</td>
+</tr>
+<tr cla, rank=10,county=Contra Costa,hits=2
+
+row=>11.</td><td align=center>Fresno</td><td align=center>2</td>
+</tr>
+<tr cla, rank=11,county=Fresno,hits=2
+
+row=>12.</td><td align=center>Inyo</td><td align=center>1</td>
+</tr>
+<tr cla, rank=12,county=Inyo,hits=1
+
+row=>13.</td><td align=center>Yolo</td><td align=center>1</td>
+</tr>
+<tr cla, rank=13,county=Yolo,hits=1
+
+row=>14.</td><td align=center>Tulare</td><td align=center>1</td>
+</tr>
+<tr cla, rank=14,county=Tulare,hits=1
+
+row=>15.</td><td align=center>San Francisco</td><td align=center>1</td>
+</tr>
+<tr cla, rank=15,county=San Francisco,hits=1
+
+row=>16.</td><td align=center>Sonoma</td><td align=center>1</td>
+</tr>
+<tr cla, rank=16,county=Sonoma,hits=1
+
+row=>17.</td><td align=center>Santa Barbara</td><td align=center>1</td>
+</tr>
+<tr cla, rank=17,county=Santa Barbara,hits=1
+
+row=>18.</td><td align=center>San Joaquin</td><td align=center>1</td>
+</tr>
+<tr cla, rank=18,county=San Joaquin,hits=1
+
+row=>19.</td><td align=center>San Bernardino</td><td align=center>1</td>
+</tr>
+<tr cla, rank=19,county=San Bernardino,hits=1
+
+row=>20.</td><td align=center>Monterey</td><td align=center>1</td>
+</tr>
+<tr cla, rank=20,county=Monterey,hits=1
+
+row=>21.</td><td align=center>Alpine</td><td align=center>---</td>
+</tr>
+<tr cla, rank=21,county=Alpine,hits=---
+
+row=>22.</td><td align=center>Amador</td><td align=center>---</td>
+</tr>
+<tr cla, rank=22,county=Amador,hits=---
+
+row=>23.</td><td align=center>Butte</td><td align=center>---</td>
+</tr>
+<tr cla, rank=23,county=Butte,hits=---
+
+row=>24.</td><td align=center>Calaveras</td><td align=center>---</td>
+</tr>
+<tr cla, rank=24,county=Calaveras,hits=---
+
+row=>25.</td><td align=center>Colusa</td><td align=center>---</td>
+</tr>
+<tr cla, rank=25,county=Colusa,hits=---
+
+row=>26.</td><td align=center>Del Norte</td><td align=center>---</td>
+</tr>
+<tr cla, rank=26,county=Del Norte,hits=---
+
+row=>27.</td><td align=center>El Dorado</td><td align=center>---</td>
+</tr>
+<tr cla, rank=27,county=El Dorado,hits=---
+
+row=>28.</td><td align=center>Glenn</td><td align=center>---</td>
+</tr>
+<tr cla, rank=28,county=Glenn,hits=---
+
+row=>29.</td><td align=center>Humboldt</td><td align=center>---</td>
+</tr>
+<tr cla, rank=29,county=Humboldt,hits=---
+
+row=>30.</td><td align=center>Imperial</td><td align=center>---</td>
+</tr>
+<tr cla, rank=30,county=Imperial,hits=---
+
+row=>31.</td><td align=center>Kern</td><td align=center>---</td>
+</tr>
+<tr cla, rank=31,county=Kern,hits=---
+
+row=>32.</td><td align=center>Kings</td><td align=center>---</td>
+</tr>
+<tr cla, rank=32,county=Kings,hits=---
+
+row=>33.</td><td align=center>Lake</td><td align=center>---</td>
+</tr>
+<tr cla, rank=33,county=Lake,hits=---
+
+row=>34.</td><td align=center>Lassen</td><td align=center>---</td>
+</tr>
+<tr cla, rank=34,county=Lassen,hits=---
+
+row=>35.</td><td align=center>Madera</td><td align=center>---</td>
+</tr>
+<tr cla, rank=35,county=Madera,hits=---
+
+row=>36.</td><td align=center>Marin</td><td align=center>---</td>
+</tr>
+<tr cla, rank=36,county=Marin,hits=---
+
+row=>37.</td><td align=center>Mariposa</td><td align=center>---</td>
+</tr>
+<tr cla, rank=37,county=Mariposa,hits=---
+
+row=>38.</td><td align=center>Mendocino</td><td align=center>---</td>
+</tr>
+<tr cla, rank=38,county=Mendocino,hits=---
+
+row=>39.</td><td align=center>Merced</td><td align=center>---</td>
+</tr>
+<tr cla, rank=39,county=Merced,hits=---
+
+row=>40.</td><td align=center>Modoc</td><td align=center>---</td>
+</tr>
+<tr cla, rank=40,county=Modoc,hits=---
+
+row=>41.</td><td align=center>Mono</td><td align=center>---</td>
+</tr>
+<tr cla, rank=41,county=Mono,hits=---
+
+row=>42.</td><td align=center>Napa</td><td align=center>---</td>
+</tr>
+<tr cla, rank=42,county=Napa,hits=---
+
+row=>43.</td><td align=center>Nevada</td><td align=center>---</td>
+</tr>
+<tr cla, rank=43,county=Nevada,hits=---
+
+row=>44.</td><td align=center>Plumas</td><td align=center>---</td>
+</tr>
+<tr cla, rank=44,county=Plumas,hits=---
+
+row=>45.</td><td align=center>Sacramento</td><td align=center>---</td>
+</tr>
+<tr cla, rank=45,county=Sacramento,hits=---
+
+row=>46.</td><td align=center>San Benito</td><td align=center>---</td>
+</tr>
+<tr cla, rank=46,county=San Benito,hits=---
+
+row=>47.</td><td align=center>San Mateo</td><td align=center>---</td>
+</tr>
+<tr cla, rank=47,county=San Mateo,hits=---
+
+row=>48.</td><td align=center>Santa Cruz</td><td align=center>---</td>
+</tr>
+<tr cla, rank=48,county=Santa Cruz,hits=---
+
+row=>49.</td><td align=center>Shasta</td><td align=center>---</td>
+</tr>
+<tr cla, rank=49,county=Shasta,hits=---
+
+row=>50.</td><td align=center>Sierra</td><td align=center>---</td>
+</tr>
+<tr cla, rank=50,county=Sierra,hits=---
+
+row=>51.</td><td align=center>Siskiyou</td><td align=center>---</td>
+</tr>
+<tr cla, rank=51,county=Siskiyou,hits=---
+
+row=>52.</td><td align=center>Solano</td><td align=center>---</td>
+</tr>
+<tr cla, rank=52,county=Solano,hits=---
+
+row=>53.</td><td align=center>Stanislaus</td><td align=center>---</td>
+</tr>
+<tr cla, rank=53,county=Stanislaus,hits=---
+
+row=>54.</td><td align=center>Sutter</td><td align=center>---</td>
+</tr>
+<tr cla, rank=54,county=Sutter,hits=---
+
+row=>55.</td><td align=center>Tehama</td><td align=center>---</td>
+</tr>
+<tr cla, rank=55,county=Tehama,hits=---
+
+row=>56.</td><td align=center>Trinity</td><td align=center>---</td>
+</tr>
+<tr cla, rank=56,county=Trinity,hits=---
+
+row=>57.</td><td align=center>Tuolumne</td><td align=center>---</td>
+</tr>
+<tr cla, rank=57,county=Tuolumne,hits=---
+
+row=>58.</td><td align=center>Yuba</td><td align=center>---</td>
+</tr>
+, rank=58,county=Yuba,hits=---
+
+Merced #fff Alpine #fff {San Francisco} #FFB Plumas #fff Imperial #fff Shasta #fff Riverside #FBF Lake #fff Lassen #fff Placer #FBF Colusa #fff Tehama #fff Yuba #fff Yolo #FFB Kings #fff Ventura #FBF {Santa Barbara} #FFB Calaveras #fff {San Luis Obispo} #FBF {San Bernardino} #FFB Marin #fff {San Joaquin} #FFB {Santa Cruz} #fff Butte #fff Mendocino #fff Inyo #FFB Nevada #fff Napa #fff {Contra Costa} #FBF {Santa Clara} #FBF {San Diego} #aaf Trinity #fff Solano #fff Orange #aaf {Los Angeles} #ef0 Sierra #fff Sutter #fff {El Dorado} #fff Monterey #FFB Amador #fff Tulare #FFB Sonoma #FFB Sacramento #fff Siskiyou #fff {San Mateo} #fff Mono #fff Madera #fff Modoc #fff Glenn #fff Fresno #FBF Stanislaus #fff Kern #fff Tuolumne #fff {San Benito} #fff Mariposa #fff Alameda #aaf {Del Norte} #fff Humboldt #fff
+23 9 9 7 3 3 3 2 2 2 2 1 1 1 1 1 1 1 1 1
+66 45 45 41 37 37 37 35 35 35 35 33 33 33 33 33 33 33 33 33
+Merced #fff Alpine #fff {San Francisco} #FFB Plumas #fff Imperial #fff Shasta #fff Riverside #FBF Lake #fff Lassen #fff Placer #FBF Colusa #fff Tehama #fff Yuba #fff Yolo #FFB Kings #fff Ventura #FBF {Santa Barbara} #FFB Calaveras #fff {San Luis Obispo} #FBF {San Bernardino} #FFB Marin #fff {San Joaquin} #FFB {Santa Cruz} #fff Butte #fff Mendocino #fff Inyo #FFB Nevada #fff Napa #fff {Contra Costa} #FBF {Santa Clara} #FBF {San Diego} #aaf Trinity #fff Solano #fff Orange #aaf {Los Angeles} #ef0 Sierra #fff Sutter #fff {El Dorado} #fff Monterey #FFB Amador #fff Tulare #FFB Sonoma #FFB Sacramento #fff Siskiyou #fff {San Mateo} #fff Mono #fff Madera #fff Modoc #fff Glenn #fff Fresno #FBF Stanislaus #fff Kern #fff Tuolumne #fff {San Benito} #fff Mariposa #fff Alameda #aaf {Del Norte} #fff Humboldt #fff
+
+exec -- /usr/bin/convert CA_HIT_MAP.png -fill black -font Arial-Regular -pointsize 15 -linewidth 3 -draw {text 459,27  ' 31 +'} -draw {text 459,44  ' 15 - 30 '} -draw {text 459,61  ' 10 - 14 '} -draw {text 459,78  ' 5 - 9 '} -draw {text 459,95  ' 2 - 4 '} -draw {text 459,112  ' 1 - 1 '} -fill #0f0 -draw {circle 445,56 439,56} -fill #ef0 -draw {circle 445,39 439,39} -fill #FFB -draw {circle 445,107 439,107} -fill #f11 -draw {circle 445,22 439,22} -fill #FBF -draw {circle 445,90 439,90} -fill #aaf -draw {circle 445,73 439,73} -fill black -draw {text 4,14  ' Updated: Wed Jun 22, 2011 09:17:48 EDT '} -fill black -pointsize 15 -draw {text 615,10  'Top 30'} -draw {text 615,26  '23'} -draw {text 648,26  'Los Angeles'} -draw {text 615,41  '9'} -draw {text 648,41  'Alameda'} -draw {text 615,56  '9'} -draw {text 648,56  'Orange'} -draw {text 615,71  '7'} -draw {text 648,71  'San Diego'} -draw {text 615,86  '3'} -draw {text 648,86  'Riverside'} -draw {text 615,101  '3'} -draw {text 648,101  'San Luis Obispo'} -draw {text 615,116  '3'} -draw {text 648,116  'Ventura'} -draw {text 615,131  '2'} -draw {text 648,131  'Contra Costa'} -draw {text 615,146  '2'} -draw {text 648,146  'Fresno'} -draw {text 615,161  '2'} -draw {text 648,161  'Placer'} -draw {text 615,176  '2'} -draw {text 648,176  'Santa Clara'} -draw {text 615,191  '1'} -draw {text 648,191  'Inyo'} -draw {text 615,206  '1'} -draw {text 648,206  'Monterey'} -draw {text 615,221  '1'} -draw {text 648,221  'San Bernardino'} -draw {text 615,236  '1'} -draw {text 648,236  'San Francisco'} -draw {text 615,251  '1'} -draw {text 648,251  'San Joaquin'} -draw {text 615,266  '1'} -draw {text 648,266  'Santa Barbara'} -draw {text 615,281  '1'} -draw {text 648,281  'Sonoma'} -draw {text 615,296  '1'} -draw {text 648,296  'Tulare'} -draw {text 615,311  '1'} -draw {text 648,311  'Yolo'} -tile fills/xsolid_range#fff.png -draw {color 300,500 floodfill} -tile fills/xsolid_range#fff.png -draw {color 350,365 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 150,458 floodfill} -tile fills/xsolid_range#fff.png -draw {color 300,250 floodfill} -tile fills/xsolid_range#fff.png -draw {color 800,950 floodfill} -tile fills/xsolid_range#fff.png -draw {color 200,160 floodfill} -tile fills/xsolid_range#FBF.png -draw {color 700,850 floodfill} -tile fills/xsolid_range#fff.png -draw {color 120,300 floodfill} -tile fills/xsolid_range#fff.png -draw {color 300,130 floodfill} -tile fills/xsolid_range#FBF.png -draw {color 250,350 floodfill} -tile fills/xsolid_range#fff.png -draw {color 150,300 floodfill} -tile fills/xsolid_range#fff.png -draw {color 200,200 floodfill} -tile fills/xsolid_range#fff.png -draw {color 230,320 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 200,350 floodfill} -tile fills/xsolid_range#fff.png -draw {color 350,660 floodfill} -tile fills/xsolid_range#FBF.png -draw {color 400,800 floodfill} -tile fills/xsolid_range#FBF.png -draw {color 386,926 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 350,750 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 336,852 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 360,848 floodfill} -tile fills/xsolid_range#fff.png -draw {color 300,425 floodfill} -tile fills/xsolid_range#FBF.png -draw {color 280,700 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 600,700 floodfill} -tile fills/xsolid_range#fff.png -draw {color 120,425 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 250,425 floodfill} -tile fills/xsolid_range#fff.png -draw {color 175,525 floodfill} -tile fills/xsolid_range#fff.png -draw {color 200,250 floodfill} -tile fills/xsolid_range#fff.png -draw {color 100,300 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 600,600 floodfill} -tile fills/xsolid_range#fff.png -draw {color 250,300 floodfill} -tile fills/xsolid_range#fff.png -draw {color 150,365 floodfill} -tile fills/xsolid_range#FBF.png -draw {color 170,440 floodfill} -tile fills/xsolid_range#FBF.png -draw {color 200,495 floodfill} -tile fills/xsolid_range#aaf.png -draw {color 600,950 floodfill} -tile fills/xsolid_range#fff.png -draw {color 100,200 floodfill} -tile fills/xsolid_range#fff.png -draw {color 200,420 floodfill} -tile fills/xgradient_range#aaf.png -draw {color 550,900 floodfill} -tile fills/xsolid_range#ef0.png -draw {color 500,780 floodfill} -tile fills/xsolid_range#ef0.png -draw {color 482,914 floodfill} -tile fills/xsolid_range#ef0.png -draw {color 477,964 floodfill} -tile fills/xsolid_range#fff.png -draw {color 340,270 floodfill} -tile fills/xsolid_range#fff.png -draw {color 225,350 floodfill} -tile fills/xsolid_range#fff.png -draw {color 300,350 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 300,650 floodfill} -tile fills/xsolid_range#fff.png -draw {color 340,375 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 400,600 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 100,360 floodfill} -tile fills/xsolid_range#fff.png -draw {color 250,375 floodfill} -tile fills/xsolid_range#fff.png -draw {color 200,100 floodfill} -tile fills/xsolid_range#fff.png -draw {color 165,500 floodfill} -tile fills/xsolid_range#fff.png -draw {color 450,450 floodfill} -tile fills/xsolid_range#fff.png -draw {color 350,550 floodfill} -tile fills/xsolid_range#fff.png -draw {color 300,100 floodfill} -tile fills/xsolid_range#fff.png -draw {color 150,280 floodfill} -tile fills/xsolid_range#FBF.png -draw {color 400,550 floodfill} -tile fills/xsolid_range#fff.png -draw {color 300,470 floodfill} -tile fills/xsolid_range#fff.png -draw {color 500,700 floodfill} -tile fills/xsolid_range#fff.png -draw {color 350,400 floodfill} -tile fills/xsolid_range#fff.png -draw {color 270,600 floodfill} -tile fills/xsolid_range#fff.png -draw {color 350,500 floodfill} -tile fills/xgradient_range#aaf.png -draw {color 200,480 floodfill} -tile fills/xsolid_range#fff.png -draw {color 50,65 floodfill} -tile fills/xsolid_range#fff.png -draw {color 50,200 floodfill} -resize 640x> -bordercolor #999 -border 1x1 CA_HIT_MAP_Z.png
+after /usr/bin/convert CA_HIT_MAP_Z.png

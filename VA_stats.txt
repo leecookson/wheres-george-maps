@@ -1,0 +1,135 @@
+{Accomack	1
+} {Albemarle	1
+} {Alexandria City	1
+} {Alleghany	---
+} {Amelia	---
+} {Amherst	---
+} {Appomattox	---
+} {Arlington	---
+} {Augusta	1
+} {Bath	---
+} {Bedford	---
+} {Bedford City	---
+} {Bland	---
+} {Botetourt	---
+} {Bristol City	---
+} {Brunswick	---
+} {Buchanan	---
+} {Buckingham	---
+} {Buena Vista City	---
+} {Campbell	---
+} {Caroline	---
+} {Carroll	---
+} {Charles City	---
+} {Charlotte	---
+} {Charlottesville City	1
+} {Chesapeake City	---
+} {Chesterfield	1
+} {Clarke	---
+} {Colonial Heights City	---
+} {Covington City	---
+} {Craig	---
+} {Culpeper	---
+} {Cumberland	---
+} {Danville City	---
+} {Dickenson	---
+} {Dinwiddie	---
+} {Emporia City	---
+} {Essex	---
+} {Fairfax	7
+} {Fairfax City	---
+} {Falls Church City	---
+} {Fauquier	---
+} {Floyd	---
+} {Fluvanna	---
+} {Franklin	---
+} {Franklin City	---
+} {Frederick	1
+} {Fredericksburg City	---
+} {Galax City	---
+} {Giles	---
+} {Gloucester	---
+} {Goochland	---
+} {Grayson	---
+} {Greene	---
+} {Greensville	---
+} {Halifax	---
+} {Hampton City	---
+} {Hanover	1
+} {Harrisonburg City	1
+} {Henrico	1
+} {Henry	---
+} {Highland	---
+} {Hopewell City	---
+} {Isle of Wight	---
+} {James City	---
+} {King George	---
+} {King William	---
+} {King and Queen	---
+} {Lancaster	---
+} {Lee	---
+} {Lexington City	2
+} {Loudoun	2
+} {Louisa	---
+} {Lunenburg	---
+} {Lynchburg City	2
+} {Madison	---
+} {Manassas City	---
+} {Manassas Park City	---
+} {Martinsville City	---
+} {Mathews	---
+} {Mecklenburg	---
+} {Middlesex	---
+} {Montgomery	---
+} {Nelson	---
+} {New Kent	---
+} {Newport News City	1
+} {Norfolk City	1
+} {Northampton	---
+} {Northumberland	---
+} {Norton City	---
+} {Nottoway	---
+} {Orange	---
+} {Page	---
+} {Patrick	---
+} {Petersburg City	---
+} {Pittsylvania	---
+} {Poquoson City	---
+} {Portsmouth City	---
+} {Powhatan	---
+} {Prince Edward	---
+} {Prince George	---
+} {Prince William	2
+} {Pulaski	---
+} {Radford City	1
+} {Rappahannock	---
+} {Richmond	---
+} {Richmond City	---
+} {Roanoke	---
+} {Roanoke City	1
+} {Rockbridge	---
+} {Rockingham	---
+} {Russell	---
+} {Salem City	---
+} {Scott	---
+} {Shenandoah	---
+} {Smyth	---
+} {Southampton	---
+} {Spotsylvania	2
+} {Stafford	---
+} {Staunton City	---
+} {Suffolk City	---
+} {Surry	---
+} {Sussex	1
+} {Tazewell	---
+} {Virginia Beach City	1
+} {Warren	---
+} {Washington	---
+} {Waynesboro City	---
+} {Westmoreland	---
+} {Williamsburg City	---
+} {Winchester City	---
+} {Wise	---
+} {Wythe	---
+} {York	---
+}

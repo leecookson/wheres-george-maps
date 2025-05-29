@@ -1,0 +1,518 @@
+#!/usr/bin/tclsh 
+
+	package require http 2.0
+	set maps_dir $env(MAPSHOME)
+
+ 	cd $maps_dir
+
+	# defines getPage and sets up proxy variable http_proxy
+	source http_utils.tcl
+
+	set magick_home $env(MAGICK_HOME)
+	set imconvert ${magick_home}/bin/convert
+
+	set font Arial-Regular
+	set font_size 13
+	
+	puts "proxy_host=$proxy_host"
+
+	proc get_scale_factor { values min_output max_output } {
+		set max 0
+		set min 99999999
+		foreach value $values {
+			if { $value > $max } {
+				set max $value
+			}
+			if { $value < $min } {
+				set min $value
+			}
+		}
+	
+		set range [expr $max - $min + 1]
+		set output_range [expr $max_output - $min_output + 1]
+		set scale [expr (0.0 + $output_range) / (0.0 + $range) ]
+	
+		return $scale	
+	}
+	
+	proc save_last { state } {
+
+		puts "Checking $state"
+
+		set stats_fd [open ${state}_stats.txt r]
+		while { ! [eof $stats_fd] } {
+			gets $stats_fd stat
+			append stats $stat
+		}
+		close $stats_fd
+
+		set stats_last_fd [open ${state}_stats_last.txt r]
+		while { ! [eof $stats_last_fd] } {
+			gets $stats_last_fd stat
+			append stats_last $stat
+		}
+		close $stats_last_fd
+		
+		set log [open ${state}_stats.log w]
+		puts $log "stats=     |$stats|"
+		puts $log "stats_last=|$stats_last|"
+		close $log
+
+		if { $stats != $stats_last } {
+			puts "Detected change in $state"
+	
+			file delete "${state}_HIT_MAP_Y.png"
+			file copy "${state}_HIT_MAP_Z.png" "${state}_HIT_MAP_Y.png"
+	
+			file delete "${state}_stats_last.txt"
+			file copy "${state}_stats.txt" "${state}_stats_last.txt"
+		}		
+
+
+	}
+	
+    proc trim_commas { value } {
+        set tmpdata $value
+        	regsub -all "," $value "" tmpdata
+        return $tmpdata
+    }
+    
+	proc morph { state } {
+		set degree 3
+		set total_frames [expr $degree + 2]
+		set morph_stub HIT_MORPH
+
+		# original
+
+		#generate 6 frames, state_HIT_MORPH-[0-6]
+		exec $::imconvert ${state}_HIT_MAP_Y.png ${state}_HIT_MAP_Z.png -morph $degree tmp/${state}_${morph_stub}
+
+		set cmd [list exec $::imconvert \-delay 100]
+		for { set i 0 } { $i < $total_frames } { incr i } {
+			if { $i == [expr $total_frames-1] } {
+				lappend cmd \-delay 400
+			}
+			lappend cmd tmp/${state}_${morph_stub}-$i
+		}
+
+		lappend cmd ${state}_HIT_MAP_YZ.gif
+		return [eval "$cmd"]
+
+	}
+
+	proc get_min_value { values } {
+		set min 99999999
+		foreach value $values {
+			if { $value < $min } {
+				set min $value
+			}
+		}
+		return $min
+	}
+	
+	proc get_max_value { values } {
+		set max -1
+		foreach value $values {
+			if { $value > $max } {
+				set max $value
+			}
+		}
+		return $max
+	}
+	
+	proc scale_color { value scale_factor min_input min_output } {
+		set hex_factor [expr 256.0 / 100.0]
+		return [format "%2x" [expr int(((($value - $min_input) * $scale_factor ) + $min_output) * $hex_factor)]]
+	}
+	
+	# takes as input a list of numbers, and returns a list of 
+	#   hex values evenly spaced between the min and max values
+	proc scale_colors { values min_output max_output } {
+	
+		set scale [get_scale_factor $values $min_output $max_output]
+		set min [get_min_value $values]
+		set output_values {}
+		foreach value $values {
+			set output_value [scale_color $value $scale $min $min_output]
+			lappend output_values $output_value
+		}
+	
+		return $output_values
+	}
+	
+	proc create_gradients { colors_in } {
+		set gradcmdroot {}
+		lappend gradcmdroot exec -- $::imconvert -size 100x100
+		
+		array set colors $colors_in
+		#fill range spot to color in array
+		foreach {index r_color} [array get colors] {
+			set r_color "$r_color"
+			set grad_file_name "fills/xgradient_range${r_color}.png"
+			set solid_file_name "fills/xsolid_range${r_color}.png"
+
+			if { [file exists $grad_file_name] && [file exists $solid_file_name] } {
+				return
+			}
+			set gradcmd $gradcmdroot
+			set solidcmd $gradcmdroot
+
+#			lappend gradcmd plasma:gray80-gray90 -blur 0x2  -fill $r_color -colorize 50
+			set next_index [expr $index + 1]
+			set stroke_color #000
+
+			if { $index < 6 } { set stroke_color $colors($next_index) }
+
+			lappend gradcmd pattern:right45 -fill $stroke_color -opaque black -fill $r_color -opaque white -fill white  -tint 90
+			if { ! [file exists $grad_file_name] } {
+				lappend gradcmd "$grad_file_name"
+				eval "$gradcmd"
+			}
+			if { ! [file exists $solid_file_name] } {
+				lappend solidcmd "xc:$r_color" "$solid_file_name"
+				eval "$solidcmd"
+			}
+			
+		}
+		
+
+	}	
+	
+	if { $argc > 0 } {
+		set state [lindex $argv 0]
+	} else {
+		set state NJ
+	}
+	
+	set draw_names 0
+
+	set resize_width 640
+	
+	set colors(0) "#fff"
+	set colors(1) "#FFB"
+	set colors(2) "#FBF"
+	set colors(3) "#aaf"
+	set colors(4) "#0f0"
+	set colors(5) "#ef0"
+	set colors(6) "#f11"
+	
+	
+	set rangeName "${state}_range.txt"
+	source ${rangeName}
+
+	create_gradients [array get colors]
+
+	proc find_bracket { hits rangemn_array rangemx_array} {
+		array set rangemn $rangemn_array
+		array set rangemx $rangemx_array
+	
+		for { set i 1 } { $i <= 6 } { incr i } {
+			if { $hits >= $rangemn($i) && $hits <= $rangemx($i) } {
+				return $i
+			}
+		}
+		
+		return 0
+	}
+	
+	set pos_file_name "${state}_pos.txt"
+	set posf [open $pos_file_name r]
+	while { ! [eof $posf] } {
+		set line ""
+		gets $posf line
+		set cp [split $line =]
+		set county [lindex $cp 0]
+		set cpos [lindex $cp 1]
+		set "pos($county)" $cpos
+	}
+	close $posf
+	
+	#set http_proxy=http://proxy.dowjones.net:80
+
+	set cookies {mid=19745215; pagewidth=814; userkey=1ba8966ffd95bc9573d6534b039a44a8}
+	
+#	set fileName "${state}.htm"
+#	set accept "Accept: $acceptval"
+#	set acceptlangval {en-us,en;q=0.5}
+#	set acceptlang "Accept-Language: $acceptlangval"
+#	set acceptcharsetval {ISO-8859-1,utf-8;q=0.7,*;q=0.7}
+#	set acceptcharset "Accept-Charset: $acceptcharsetval"
+	
+#	set wgetcmd {}
+#	lappend wgetcmd exec wget -O $fileName --user-agent=$useragent --header=Cookie:$cookies  $url
+	
+#	set try [#catch {
+#	set out ""
+#	set out [#eval "$wgetcmd"]
+#	} errmsg]
+	#userkey=1ba8966ffd95bc9573d6534b039a44a8
+	
+#	set fileId [ open $fileName r ]      
+#	while { ! [eof $fileId] } {
+#		set line ""
+#		gets $fileId line
+#	    append input $line
+#	}      
+#	close $fileId
+	
+	set ofile [open ${state}_data.txt w]
+	puts $ofile "argv=$argv"
+	puts $ofile "url=$url"
+
+	set input ""
+		lappend headers "Cookie" $cookies
+		set input [getPage $url $headers]
+
+#	puts $ofile "errorCode=[set errorCode]"
+#	puts $ofile "errMsg=[set errMsg]"
+	
+	
+	puts $ofile "===================\ninput=$input\n==================\n"
+	
+	set USmode 0
+	
+	set start [string first "ybbody" $input]
+	if { $start == -1 } {
+		set start [string first {class="body"} $input]
+		set USmode 1
+	}
+	puts $ofile "start1=$start\n"
+	set start [string last "<tr" [string range $input 0 $start]]
+	puts $ofile "start2=$start\n"
+	set end [string last "ybbody" $input]
+	if { $end == -1 } {
+		set end [string last {class="body"} $input]
+		set USmode 1
+	}
+	puts $ofile "end1=$end\n"
+	set end [expr [string first "</tr>" [string range $input $end end]] + $end + 5]
+	puts $ofile "end2=$end\n"
+	set data [string range $input $start $end]
+	
+	set hit_list {}
+	set index 1
+	# remove all linefeeds/tabs
+	regsub -all "\n\t" $data "" tmpdata
+	puts $ofile $tmpdata
+	
+	for { set index 1 } { $index <= $num_counties } { incr index } {
+		#use regexp
+		set row ""
+		set rank 0
+		set county N
+		set hits 0
+		set rankval "${index}"
+		set startrow [string first ">${rankval}.<" $tmpdata]
+		set rest [string range $tmpdata $startrow end]
+		set endrow [string first "</tr>" $rest]
+		set endrow [expr $endrow + 12]
+		set row [string range $rest 0 $endrow]
+	
+		regexp {>([0-9-]+).<} $row x rank
+		regexp {>([A-Za-z '-]+)[<\(]} $row x2 county
+		regexp {<td align=center>([0-9,-]+)</td>} $row x3 hits
+		set county [string trim $county]
+        set hits [trim_commas $hits]
+		puts $ofile "row=$row, rank=$rank,county=$county,hits=$hits\n"
+	
+	#	set exp {<tr.*<td.*>(}
+	#	append exp $rankval
+	#	append exp {)\.</td>}
+	#	append exp {<td align=center>([A-Za-z ']+)</td>}
+	#	append exp {<td align=center>([0-9-]+)</td>}
+	#puts $ofile ${exp}\n"
+	#	regexp $exp $tmpdata row rank county hits
+	#puts $ofile "$rank $county $hits\n"
+	#puts $ofile "rank=$rank,county=$county,hits=$hits\n"
+		# find cell with rank
+	#	set start [string first "${index}." $data  ]
+	#	set start [expr $start + [string first "<td" [string range $data $start end]]]
+	#	set endtd [expr $start + [string first "</td" [string range $data $start end]] + 5]
+	#	set nexttd [expr $endtd + [string first "</td" [string range $data $endtd end]]]
+	#	set td [string range $data $start $nexttd]
+	
+	#	set c1 [string first ">" $td]
+	#	set c2 [expr $c1 + [string first "<" [string range $td $c1 end]]]
+	
+	#	set rest [string range $td [expr $n2 + 8] end]
+		
+	#	set h1 [string first ">" $rest]
+	#	set h2 [expr $h1 + [string first "<" [string range $rest $h1 end]]]
+	
+	#	set county [string range $td [expr $n1 + 1] [expr $n2 - 1]]
+	#	set hits [string range $rest [expr $h1 + 1] [expr $h2 - 1]]
+	
+		set "d($county)" "$hits"
+		set range [find_bracket $hits [array get rangemn] [array get rangemx]]
+		if { $range > 0 && $hits == $rangemx($range)  && $hits != $rangemn($range) } {
+			set "limit($county)" 1
+		} else {
+			set "limit($county)" 0
+		}
+		set "color($county)" $colors($range)
+		if { [string is integer $hits] } {
+			lappend hit_list $hits
+		}
+	}
+
+	
+	puts $ofile [array get color]
+
+	set stats_log [array get d]
+	set stats_out {}
+	foreach {k v} $stats_log {
+		lappend stats_out "$k	$v
+"
+	}
+	set stats_out [lsort $stats_out]
+	set stats_fd [open ${state}_stats.txt w]
+	puts $stats_fd $stats_out
+	close $stats_fd
+
+	####### INACTIVE, SCALES COLORS BASED ON # of hits	
+	set hits_scale [get_scale_factor $hit_list 50 95]
+	set hits_min [get_min_value $hit_list]
+	set hits_max [get_max_value $hit_list]
+	set hit_array_data [array get d]
+	set hit_list_by_country ""
+	foreach {c h} $hit_array_data {
+		if { [string is integer $h] } {
+			set scaled_color_r [scale_color $h $hits_scale $hits_min 50]
+			set scaled_color_gb [scale_color [expr $hits_max - $h ] $hits_scale $hits_min 50]
+	#		set "color($c)" "#${scaled_color_r}${scaled_color_gb}${scaled_color_gb}"
+			lappend hit_list_by_county [list $c $h]
+		}
+	}
+	#######
+
+	puts $ofile $hit_list
+	puts $ofile [scale_colors $hit_list 20 40]
+	
+	# use lappend to build the arg list dynamically
+	set county_colors [array get color]
+	set cmd {}
+
+	lappend cmd exec -- $imconvert "${state}_HIT_MAP.png"
+
+	set legend_pos_x [expr $legend_x + 14]
+	set legend_pos_y [expr $legend_y + 5]
+
+	set spacing_y 17
+
+	# write range text, hard-coded, no loop
+	lappend cmd	-fill black
+	lappend cmd	-font "$font" -pointsize $font_size
+	lappend cmd	-linewidth 3
+	set loop_max 6
+	for { set i $loop_max } { $i > 0 } { incr i -1 } {
+		if { $loop_max == $i } {
+			lappend cmd	-draw "text $legend_pos_x,$legend_pos_y  ' $rangemn($i) +'"
+		} else {
+			lappend cmd	-draw "text $legend_pos_x,$legend_pos_y  ' $rangemn($i) - $rangemx($i) '"
+		}
+		incr legend_pos_y $spacing_y
+	}
+
+	set legend_pos_x $legend_x
+
+	# draw spots for legend
+	foreach {index r_color} [array get colors] {
+		if { $index > 0 } {
+			set legend_pos_y [expr $legend_y + ((6-$index) * $spacing_y)]
+	
+			set legend_pos_x_outer [expr $legend_pos_x - 6]
+			lappend cmd -fill "$r_color" -draw "circle ${legend_pos_x},${legend_pos_y} ${legend_pos_x_outer},${legend_pos_y}"
+		}
+		incr legend_pos_y $spacing_y
+	}
+	
+	lappend cmd	-fill black
+
+	set day [clock format [clock seconds] -format %d]
+	set day [expr [string trimleft $day 0]]
+	lappend cmd	-draw "text 4,14  ' Updated: [clock format [clock seconds] -format "%a %b $day, %Y %H:%M:%S %Z"] '"
+
+	proc compare_counties { c1 c2 } {
+		set hits1 [lindex $c1 1]
+		set hits2 [lindex $c2 1]
+		if { ![string is integer $hits1] } {return -1}
+		if { ![string is integer $hits2] } {return 1}
+		if { $hits1 > $hits2 } { return 1 }
+		if { $hits1 < $hits2 } { return -1 }
+		if { $hits1 == $hits2 } { 
+			if { [lindex $c1 0] < [lindex $c2 0] } {
+				return 1
+			} else {
+				return -1
+			}
+		}
+	}
+	
+	# print top 5 on map if top_5_x is set
+	if { [info exists top_5_x] && [info exists top_5_y] } {
+		if { [info exists top_count] && [string is integer $top_count] } {
+			set count $top_count
+		} else {
+			set count 5
+		}
+		lappend cmd	-fill black -pointsize $font_size
+		lappend cmd	-draw "text ${top_5_x},${top_5_y}  'Top $count'"
+		incr top_5_y 16
+		set hit_list_by_county [lsort -decreasing -command compare_counties $hit_list_by_county]
+		foreach {c_h} $hit_list_by_county {
+			set c [lindex $c_h 0]
+			# need to escape ' in $c to handle items like 'St. George's'
+			regsub -all ' $c \\'  c_out
+			set h [lindex $c_h 1]
+			if { ! [info exists "pos($c)"] } { continue }
+			lappend cmd	-draw "text ${top_5_x},${top_5_y}  '$h'"
+			lappend cmd	-draw "text [expr ${top_5_x} + 33],${top_5_y}  '$c_out'"
+			incr top_5_y $font_size
+			incr count -1
+			if { $count <= 0 } break
+		}
+	}
+	
+	puts $ofile "${county_colors}\n"
+	foreach {county c_color} $county_colors {
+		if { ! [info exists "pos($county)"] } {
+			set c_pos "0,0"
+		} else {
+			set c_pos $pos($county)
+		}
+		set c_pos_list [split $c_pos "|"]
+		foreach cp $c_pos_list {
+			set c_pos_value [split $cp ","]
+			set c_pos_x [lindex $c_pos_value 0]
+			set c_pos_y [lindex $c_pos_value 1]
+			set c_pos_x_outer [expr $c_pos_x - 1]
+			set c_pos_y_outer [expr $c_pos_y - 1]
+			if { $limit($county) == 1 } {
+				lappend cmd -tile fills/xgradient_range${c_color}.png
+				lappend cmd -draw "color $cp floodfill"
+			} else {
+				lappend cmd -tile fills/xsolid_range${c_color}.png
+				lappend cmd -draw "color $cp floodfill"
+			}
+			#	this would draw a red dot a fill point			
+#			lappend cmd -linewidth 1 -stroke "#f00" -fill "#ff0" -draw "circle ${c_pos_x},${c_pos_y} ${c_pos_x_outer},${c_pos_y_outer}"
+		}
+	}
+
+	lappend cmd -resize ${resize_width}x>
+	lappend cmd -bordercolor #999 -border 1x1
+
+	lappend cmd	"${state}_HIT_MAP_Z.png"
+	
+	save_last ${state}
+	
+	puts $ofile $cmd
+	
+	set out [eval "$cmd"]
+
+	morph $state
+	
+	puts $ofile "after $imconvert ${state}_HIT_MAP_Z.png"
+	close $ofile
+
+	set resize_width 640

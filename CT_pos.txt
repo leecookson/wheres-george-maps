@@ -1,0 +1,8 @@
+Litchfield=170,170
+Hartford=300,150
+Tolland=370,160
+Windham=500,150
+Fairfield=200,350
+New Haven=270,250
+Middlesex=370,270
+New London=500,200

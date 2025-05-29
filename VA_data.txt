@@ -1,0 +1,1523 @@
+argv=VA
+url=http://www.wheresgeorge.com/hbz.php?args=3f828d2f0baa205dd88db9c3250c52773ba4f78311ff0b24b330609370dd1d2fc5b28fcfb57f113bec76f571fc7fce48da553f470fdcbe21437042426959ae6a4aadbef7dd6846858070fdd2f7c61273c247433e5bb14247e458e90f9c2a02aed161efb090ce7be5719c19d044af9d292de1de9bb7b6a67ee16641c3f2cbadfbbcbb1a556ba928d517a962d2e73f8dc3
+===================
+input=<html>
+<!--
+#########################################################################################################
+# Start of Where's George?/Where's Willy common header                                                 	#
+# All code, content and images copyright Where's George? LLC 1998-2008          #
+# and can not be used without express, written consent.                                                 #
+#########################################################################################################
+-->
+<head>
+<title>Where's George? &reg; 2.2 Hits by County</title>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Author" CONTENT="Hank Eskin">
+<META NAME="description" CONTENT="Track US or Canadian dollar bills as they travel across the country. Enter the serial number and zip code to track its past history. Get email when the next person registers your bill! ">
+<META NAME="keywords" CONTENT="wheresgeorge whereswilly WG? WG whereswilly.com wwww.whereswilly.com wheresgeorge.com www.wheresgeorge.com dollars one bill trace tracing tracking track trace american serial number series zip code zipcode locator denomination bills where is george willy currency money legal tender personal finance financial finance calculators calculations calculate mortgage bank account quicken quickbooks cash checks money orders insurance worldwide nationwide ">
+<LINK REL="SHORTCUT ICON" HREF="http://www.wheresgeorge.com/img_wg/favicon2.ico">
+<link href="http://www.wheresgeorge.com/css_wg.css" rel="stylesheet" type="text/css">
+</head>
+
+<body  bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<SCRIPT language="JavaScript" type="text/javascript">menu_position=135;item_width=72.857142857143;</SCRIPT><!-- ***** This is the section of code you need to paste into your web pages ***** -->
+<script type="text/javascript" src="mmenu/milonic_src.js"></script>
+<script type="text/javascript" src="mmenu/mmenudom.js"></script>
+<!-- The next file contains your menu data, links and menu structure etc -->
+<script type="text/javascript" src="mmenu/menu_wg.js"></script>
+<!-- **** JavaScript Menu HTML Code -->
+<script language="Javascript" type="text/javascript">function popup_win(page,h,w,scroll) {rnd=Math.round(Math.random()*10000); if (page.substring(0,22)=='user_profile_popup.php') {h=600;w=800;scroll='yes';}window.open(page,rnd,'toolbar=NO,location=NO,directories=NO,status=NO,menubar=NO,scrollbars='+scroll+',resizable=YES,copyhistory=NO,width='+w+',height='+h+',left=100,top=100');}</script><!-- frame buster -->
+<script language="JavaScript" type="text/javascript">
+  	if (top.location != self.location) {
+	top.location = self.location.href
+	}
+</script><a name="top"></a>
+<!-- main table - full width -->
+<table width="814" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td colspan="3">
+ <!-- header table - full width -->
+
+<table border="0" height=40 cellpadding="0" cellspacing="0" width="814">
+  <tr >
+    <td width="165"><img src="img_wg/topl.jpg" width="165" height="135" border="0" alt=""></td>
+    <td width="510"   ><img width="510" height="135" src="img_wg/topcN.jpg"  border="0" alt=""></td>
+    <td width="157"><img  src="img_wg/toprN.png" width="157" height="135" border="0" alt=""></td>
+  </tr>
+  <tr>
+    <td width="165"><img name="left1" src="img_wg/left1.jpg" width="165" height="20" border="0" alt=""></td>
+	<td align=left width="510" bgcolor="#666666"><!-- <img name="grey_nav" src="img_wg/grey_nav.gif" width="510" height="20" border="0">--><script>document.write("<img name=\"grey_nav\" src=\"img_wg/grey_nav.gif\" width=\"425\" height=\"20\" border=\"0\">");</script><noscript><span class=tabletitle><b>Your browser has Javascript disabled. Please see the <a href=site_map.php>Site-Map</a> to view all the main menu options.</b></span></noscript></td>
+    <td width="157"><img name="right1" src="img_wg/right1.jpg" width="157" height="20" border="0" alt=""></td>
+  </tr>
+  <tr>
+    <td bgcolor="#669933" width="165"><script>document.write("<A  HREF=\"javascript:popup_win('boss.html',4000,2000,'no');\"><img border=0 name=\"left2\" src=\"img_wg/left2.jpg\" width=\"147\" height=\"47\" border=\"0\" alt=\"\"></a>");</script><noscript><A HREF=boss.html target=_blank><img border=0 name="left2" src="img_wg/left2.jpg" width="147" height="47" border="0" alt=""></a></noscript></td>
+    <!-- start registered user name/profile link  -->
+    <td width="510" bgcolor="#669933" class=topnav>
+	<div width="48%" style="float:left; text-align:left;">
+    <strong>You are currently logged in as&nbsp;<span class=topnav><script>document.write("<A sidenav HREF=\"javascript:popup_win('user_profile_popup.php?ukey=1c48871d2481b356e00789340b46fc0f',0,0,'0');\">Lee</a>");</script><noscript><A HREF=user_profile_popup.php?ukey=1c48871d2481b356e00789340b46fc0f target=_blank>Lee</a></noscript></span></strong></div></div><!-- end registered user name/profile link  -->
+	    <!-- help   -->
+	    <div width="48%" style="float:right; text-align:right"><script>document.write("<A  HREF=\"javascript:popup_win('help.php?args=b31ea71b98fec987c84c1755a8e4e0144d59f820ef1e6e5797d2e3468e77f2ccba52d613e7381a852cc3bbacb76f95b1d3afbd222b7f29bf038c7a368c8ff68ab19c66a70b41734f1d8d4ccc1bd2fa44ee00eeb21c3dc436dcbdabd3f1dbb8c4740dad52d85d5a1a8525ffe14674453d2f7dfad77a9f3e24e2ccd4ebaa88eb2d7f750c6d220b4efe0cfead9391027fb2',550,650,'yes');\"><img name=\"template_r3_c3\" src=\"img_wg/help.png\" width=\"142\"  border=\"0\" alt=\"\"></a>");</script><noscript><A HREF=help.php?args=b31ea71b98fec987c84c1755a8e4e0144d59f820ef1e6e5797d2e3468e77f2ccba52d613e7381a852cc3bbacb76f95b1d3afbd222b7f29bf038c7a368c8ff68ab19c66a70b41734f1d8d4ccc1bd2fa44ee00eeb21c3dc436dcbdabd3f1dbb8c4740dad52d85d5a1a8525ffe14674453d2f7dfad77a9f3e24e2ccd4ebaa88eb2d7f750c6d220b4efe0cfead9391027fb2 target=_blank><img name="template_r3_c3" src="img_wg/help.png" width="142"  border="0" alt=""></a></noscript></div>
+		<!-- /help --><div style="clear: both;"> </div>
+    </td>
+    <td width="157" bgcolor="#669933"><img name="right2" src="img_wg/right2.jpg" width="157" height="47" border="0" alt=""></td>
+    <!-- end help -->
+  </tr>
+</table>
+<!-- end header table -->
+</td>
+</tr><tr>
+<td width="147" height="100%" valign="top">
+<!-- start LEft hand menu table -->
+<table width="146" height="100%" border="0" cellpadding="0" cellspacing="0" >
+  <tr>
+    <td colspan="3"><img src="img_wg/left3.jpg" width="147" height="14"></td>
+  </tr>
+  <tr valign="top" bgcolor="#FFFFFF">
+    <td height="79" colspan="3" background="img_wg/left4.jpg" class="sidenav">
+<div align="right">
+<a href="/">Home</a><br>
+<a href="/logon.php">Log On</a><br>
+<a href="/register.php">Register</a><br>
+<a href="/main.php#bill">Enter a Bill</a>
+</div></td></tr>
+<tr>
+    <td width="19" valign="top" background="img_wg/left-gutter.png">
+      <table height="100%" width="19" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td>&nbsp;</td>
+        </tr>
+      </table>
+    </td>
+    <td width="127" colspan="2" valign="top" bgcolor="#91CB53">
+          <table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td valign="top" align=right><p class="sidenav"><a href="ybs.php?ybs">Your Bills</a><br>
+<a href="user_prefs.php">User Settings</a><br><a href="user_profile.php">User Profile</a><br>
+<a href="wrapper.php?page=state_profiles">Profiles by State</a><br>
+<a href="zip_hits.php">Zip Code Report</a><br>
+<a href="lostandfound.php">Lost and Found</a><br>
+<a href="lookup.php">Bill Lookup</a><br>
+<a href="logoff.php">Log Off</a><br></p>
+          </td>
+        </tr>
+      </table>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td valign="top" align=right><p class="sidenav">
+          <a href=friends.php><IMG border=0 SRC=images/friend.gif></a><u><b>Friends of<br><i>Where's George?</i></b></u><br>
+<a href="friend_status.php">Friend Status</a><br>
+<a href="search.php">Bill Note Search</a><br>
+<a href="image_hosting.php">Image Hosting</a><br>
+<a href="hit_finder.php">Hit Finder</a><br></p>
+          </td>
+        </tr>
+      </table>
+<img src="img_wg/left-nav-bottom.gif"></td>
+  </tr>
+  <tr>
+    <td height="100%" valign="top" background="img_wg/left-gutter.gif">
+    	<table height="100%" width="19" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td height="100%" valign="top">&nbsp;</td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top" background="img_wg/left-gutter-background.gif"><p><img src="img_wg/left-nav-gutter.gif"></p>
+    </td>
+  </tr>
+</table>
+<!-- end Left hand menu table -->
+</td>
+<!-- open td for content -->
+<td style="text-align:left;" width="667" align="left" valign="top" class="body" ><!-- open td for content  --><span class=header>Hits by County Report</span><center>This Report is current as of: Dec-19-08 12:06 AM<br>Back to your <a href=ybs.php?hbs>Hits by State</a> Report<br>
+<TABLE width="60%" cellpadding="2" cellspacing="0" bordercolor="#999999" border=1 class="body">
+<tr class="body" bgcolor="#dddddd">	<td colspan=5><div align=center>Hits by County - VA</div></td>
+</tr>
+<tr class="body" bgcolor="#dddddd">	<td colspan=5><div align=center>You have 33 hits in 22 VA Counties</div></td>
+</tr>
+<tr class="body" bgcolor="#dddddd">	<td align=center>Rank</td>
+	<td align=center><a href=/hbz.php?args=33a1f7fdf6fb102c6646551d93451deca4407af1bd74a012bbddcd931b99b2ab58f8dbbef587fb5b0df1e970fd9874bbda553f470fdcbe21437042426959ae6a4aadbef7dd684685657edc8f87873894185e50085795372a1f84e7d8b6576bf78d5c3f67420d4735da50a870ab1bf016eb3387ce7347a78143b1f97a0252d9aa74016c54b59865e76774efe7b76543d0>County</a></td>
+	<td align=center><a href=/hbz.php?args=890a2221f0b0e08457cb1bc4b8be8d18d97b33ec69cd81eaef0aa5eb94572a3a8564748b049d9d5cb132ccd280ec8d7cda553f470fdcbe21437042426959ae6a4aadbef7dd684685657edc8f87873894185e50085795372a1f84e7d8b6576bf775548e0bf8eadea42814e79326654eae13f353720159293efe9ec0050f33f5050f337ea462650002aef82e154487b1c7>Hits</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>1.</td>
+	<td align=center>Fairfax</td>
+	<td align=center>7</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>2.</td>
+	<td align=center>Loudoun</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>3.</td>
+	<td align=center>Lynchburg City</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>4.</td>
+	<td align=center>Prince William</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>5.</td>
+	<td align=center>Spotsylvania</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>6.</td>
+	<td align=center>Lexington City</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>7.</td>
+	<td align=center>Charlottesville City</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>8.</td>
+	<td align=center>Augusta</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>9.</td>
+	<td align=center>Norfolk City</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>10.</td>
+	<td align=center>Albemarle</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>11.</td>
+	<td align=center>Newport News City</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>12.</td>
+	<td align=center>Hanover</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>13.</td>
+	<td align=center>Alexandria City</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>14.</td>
+	<td align=center>Sussex</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>15.</td>
+	<td align=center>Henrico</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>16.</td>
+	<td align=center>Roanoke City</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>17.</td>
+	<td align=center>Chesterfield</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>18.</td>
+	<td align=center>Frederick</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>19.</td>
+	<td align=center>Radford City</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>20.</td>
+	<td align=center>Accomack</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>21.</td>
+	<td align=center>Harrisonburg City</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>22.</td>
+	<td align=center>Virginia Beach City</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>23.</td>
+	<td align=center>Alleghany</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>24.</td>
+	<td align=center>Amelia</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>25.</td>
+	<td align=center>Amherst</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>26.</td>
+	<td align=center>Appomattox</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>27.</td>
+	<td align=center>Arlington</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>28.</td>
+	<td align=center>Bath</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>29.</td>
+	<td align=center>Bedford</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>30.</td>
+	<td align=center>Bedford City</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>31.</td>
+	<td align=center>Bland</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>32.</td>
+	<td align=center>Botetourt</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>33.</td>
+	<td align=center>Bristol City</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>34.</td>
+	<td align=center>Brunswick</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>35.</td>
+	<td align=center>Buchanan</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>36.</td>
+	<td align=center>Buckingham</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>37.</td>
+	<td align=center>Buena Vista City</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>38.</td>
+	<td align=center>Campbell</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>39.</td>
+	<td align=center>Caroline</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>40.</td>
+	<td align=center>Carroll</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>41.</td>
+	<td align=center>Charles City</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>42.</td>
+	<td align=center>Charlotte</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>43.</td>
+	<td align=center>Chesapeake City</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>44.</td>
+	<td align=center>Clarke</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>45.</td>
+	<td align=center>Colonial Heights City</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>46.</td>
+	<td align=center>Covington City</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>47.</td>
+	<td align=center>Craig</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>48.</td>
+	<td align=center>Culpeper</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>49.</td>
+	<td align=center>Cumberland</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>50.</td>
+	<td align=center>Danville City</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>51.</td>
+	<td align=center>Dickenson</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>52.</td>
+	<td align=center>Dinwiddie</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>53.</td>
+	<td align=center>Emporia City</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>54.</td>
+	<td align=center>Essex</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>55.</td>
+	<td align=center>Fairfax City</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>56.</td>
+	<td align=center>Falls Church City</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>57.</td>
+	<td align=center>Fauquier</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>58.</td>
+	<td align=center>Floyd</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>59.</td>
+	<td align=center>Fluvanna</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>60.</td>
+	<td align=center>Franklin</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>61.</td>
+	<td align=center>Franklin City</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>62.</td>
+	<td align=center>Fredericksburg City</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>63.</td>
+	<td align=center>Galax City</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>64.</td>
+	<td align=center>Giles</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>65.</td>
+	<td align=center>Gloucester</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>66.</td>
+	<td align=center>Goochland</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>67.</td>
+	<td align=center>Grayson</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>68.</td>
+	<td align=center>Greene</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>69.</td>
+	<td align=center>Greensville</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>70.</td>
+	<td align=center>Halifax</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>71.</td>
+	<td align=center>Hampton City</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>72.</td>
+	<td align=center>Henry</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>73.</td>
+	<td align=center>Highland</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>74.</td>
+	<td align=center>Hopewell City</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>75.</td>
+	<td align=center>Isle of Wight</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>76.</td>
+	<td align=center>James City</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>77.</td>
+	<td align=center>King and Queen</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>78.</td>
+	<td align=center>King George</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>79.</td>
+	<td align=center>King William</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>80.</td>
+	<td align=center>Lancaster</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>81.</td>
+	<td align=center>Lee</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>82.</td>
+	<td align=center>Louisa</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>83.</td>
+	<td align=center>Lunenburg</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>84.</td>
+	<td align=center>Madison</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>85.</td>
+	<td align=center>Manassas City</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>86.</td>
+	<td align=center>Manassas Park City</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>87.</td>
+	<td align=center>Martinsville City</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>88.</td>
+	<td align=center>Mathews</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>89.</td>
+	<td align=center>Mecklenburg</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>90.</td>
+	<td align=center>Middlesex</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>91.</td>
+	<td align=center>Montgomery</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>92.</td>
+	<td align=center>Nelson</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>93.</td>
+	<td align=center>New Kent</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>94.</td>
+	<td align=center>Northampton</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>95.</td>
+	<td align=center>Northumberland</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>96.</td>
+	<td align=center>Norton City</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>97.</td>
+	<td align=center>Nottoway</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>98.</td>
+	<td align=center>Orange</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>99.</td>
+	<td align=center>Page</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>100.</td>
+	<td align=center>Patrick</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>101.</td>
+	<td align=center>Petersburg City</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>102.</td>
+	<td align=center>Pittsylvania</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>103.</td>
+	<td align=center>Poquoson City</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>104.</td>
+	<td align=center>Portsmouth City</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>105.</td>
+	<td align=center>Powhatan</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>106.</td>
+	<td align=center>Prince Edward</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>107.</td>
+	<td align=center>Prince George</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>108.</td>
+	<td align=center>Pulaski</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>109.</td>
+	<td align=center>Rappahannock</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>110.</td>
+	<td align=center>Richmond</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>111.</td>
+	<td align=center>Richmond City</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>112.</td>
+	<td align=center>Roanoke</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>113.</td>
+	<td align=center>Rockbridge</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>114.</td>
+	<td align=center>Rockingham</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>115.</td>
+	<td align=center>Russell</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>116.</td>
+	<td align=center>Salem City</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>117.</td>
+	<td align=center>Scott</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>118.</td>
+	<td align=center>Shenandoah</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>119.</td>
+	<td align=center>Smyth</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>120.</td>
+	<td align=center>Southampton</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>121.</td>
+	<td align=center>Stafford</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>122.</td>
+	<td align=center>Staunton City</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>123.</td>
+	<td align=center>Suffolk City</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>124.</td>
+	<td align=center>Surry</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>125.</td>
+	<td align=center>Tazewell</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>126.</td>
+	<td align=center>Warren</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>127.</td>
+	<td align=center>Washington</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>128.</td>
+	<td align=center>Waynesboro City</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>129.</td>
+	<td align=center>Westmoreland</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>130.</td>
+	<td align=center>Williamsburg City</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>131.</td>
+	<td align=center>Winchester City</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>132.</td>
+	<td align=center>Wise</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>133.</td>
+	<td align=center>Wythe</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>134.</td>
+	<td align=center>York</td>
+	<td align=center>---</td>
+</tr>
+</table><center><span class=body><a href="#top">Back to Top</a></span></center><br><br><br>(Runtime: 0 seconds)<br><!-- </center> -->
+
+<br><br><br><br><br><br>
+<table width="510" border="0" cellpadding="0" cellspacing="0" class="body">
+	<tr>
+	<td class="body"><div align="center">
+	<a href="/">Home Page</a> | <a href="faq.php">FAQs</a> | <a href="site_map.php">Site Map</a> | <a href="about.php">About</a> | <a href="privacy.php">Privacy Policy</a> | <a href="contact_us.php">Contact Us</a> <br>
+	<br>	<span class=footer>
+All content, images, and data &copy; 1998-2008 Where's George? LLC.<br>
+All Rights Reserved. Use of this Web site constitutes<br>
+acceptance of the <script>document.write("<A  HREF=\"javascript:popup_win('rules.php?fr=1',600,800,'yes');\">Terms of Service</a>");</script><noscript><A HREF=rules.php?fr=1 target=_blank>Terms of Service</a></noscript></span>
+</div><br><!-- <a href=http://www.milonic.com/><font color=#ffffff>DHTML Menu By Milonic JavaScript</font></a>--></td></tr></table></td>
+</tr>
+</table>
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">_qacct="p-26x3j23aUJBL6";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-26x3j23aUJBL6" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-26x3j23aUJBL6.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+<!-- End Quantcast tag -->
+</body>
+</html>
+
+==================
+
+start1=10045
+
+start2=10034
+
+end1=27195
+
+end2=27307
+
+<tr class="ybbody" bgcolor="white">	<td align=center>1.</td><td align=center>Fairfax</td><td align=center>7</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>2.</td><td align=center>Loudoun</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>3.</td><td align=center>Lynchburg City</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>4.</td><td align=center>Prince William</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>5.</td><td align=center>Spotsylvania</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>6.</td><td align=center>Lexington City</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>7.</td><td align=center>Charlottesville City</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>8.</td><td align=center>Augusta</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>9.</td><td align=center>Norfolk City</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>10.</td><td align=center>Albemarle</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>11.</td><td align=center>Newport News City</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>12.</td><td align=center>Hanover</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>13.</td><td align=center>Alexandria City</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>14.</td><td align=center>Sussex</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>15.</td><td align=center>Henrico</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>16.</td><td align=center>Roanoke City</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>17.</td><td align=center>Chesterfield</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>18.</td><td align=center>Frederick</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>19.</td><td align=center>Radford City</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>20.</td><td align=center>Accomack</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>21.</td><td align=center>Harrisonburg City</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>22.</td><td align=center>Virginia Beach City</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>23.</td><td align=center>Alleghany</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>24.</td><td align=center>Amelia</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>25.</td><td align=center>Amherst</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>26.</td><td align=center>Appomattox</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>27.</td><td align=center>Arlington</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>28.</td><td align=center>Bath</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>29.</td><td align=center>Bedford</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>30.</td><td align=center>Bedford City</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>31.</td><td align=center>Bland</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>32.</td><td align=center>Botetourt</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>33.</td><td align=center>Bristol City</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>34.</td><td align=center>Brunswick</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>35.</td><td align=center>Buchanan</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>36.</td><td align=center>Buckingham</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>37.</td><td align=center>Buena Vista City</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>38.</td><td align=center>Campbell</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>39.</td><td align=center>Caroline</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>40.</td><td align=center>Carroll</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>41.</td><td align=center>Charles City</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>42.</td><td align=center>Charlotte</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>43.</td><td align=center>Chesapeake City</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>44.</td><td align=center>Clarke</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>45.</td><td align=center>Colonial Heights City</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>46.</td><td align=center>Covington City</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>47.</td><td align=center>Craig</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>48.</td><td align=center>Culpeper</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>49.</td><td align=center>Cumberland</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>50.</td><td align=center>Danville City</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>51.</td><td align=center>Dickenson</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>52.</td><td align=center>Dinwiddie</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>53.</td><td align=center>Emporia City</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>54.</td><td align=center>Essex</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>55.</td><td align=center>Fairfax City</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>56.</td><td align=center>Falls Church City</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>57.</td><td align=center>Fauquier</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>58.</td><td align=center>Floyd</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>59.</td><td align=center>Fluvanna</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>60.</td><td align=center>Franklin</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>61.</td><td align=center>Franklin City</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>62.</td><td align=center>Fredericksburg City</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>63.</td><td align=center>Galax City</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>64.</td><td align=center>Giles</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>65.</td><td align=center>Gloucester</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>66.</td><td align=center>Goochland</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>67.</td><td align=center>Grayson</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>68.</td><td align=center>Greene</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>69.</td><td align=center>Greensville</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>70.</td><td align=center>Halifax</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>71.</td><td align=center>Hampton City</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>72.</td><td align=center>Henry</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>73.</td><td align=center>Highland</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>74.</td><td align=center>Hopewell City</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>75.</td><td align=center>Isle of Wight</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>76.</td><td align=center>James City</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>77.</td><td align=center>King and Queen</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>78.</td><td align=center>King George</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>79.</td><td align=center>King William</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>80.</td><td align=center>Lancaster</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>81.</td><td align=center>Lee</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>82.</td><td align=center>Louisa</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>83.</td><td align=center>Lunenburg</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>84.</td><td align=center>Madison</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>85.</td><td align=center>Manassas City</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>86.</td><td align=center>Manassas Park City</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>87.</td><td align=center>Martinsville City</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>88.</td><td align=center>Mathews</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>89.</td><td align=center>Mecklenburg</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>90.</td><td align=center>Middlesex</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>91.</td><td align=center>Montgomery</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>92.</td><td align=center>Nelson</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>93.</td><td align=center>New Kent</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>94.</td><td align=center>Northampton</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>95.</td><td align=center>Northumberland</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>96.</td><td align=center>Norton City</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>97.</td><td align=center>Nottoway</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>98.</td><td align=center>Orange</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>99.</td><td align=center>Page</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>100.</td><td align=center>Patrick</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>101.</td><td align=center>Petersburg City</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>102.</td><td align=center>Pittsylvania</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>103.</td><td align=center>Poquoson City</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>104.</td><td align=center>Portsmouth City</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>105.</td><td align=center>Powhatan</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>106.</td><td align=center>Prince Edward</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>107.</td><td align=center>Prince George</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>108.</td><td align=center>Pulaski</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>109.</td><td align=center>Rappahannock</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>110.</td><td align=center>Richmond</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>111.</td><td align=center>Richmond City</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>112.</td><td align=center>Roanoke</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>113.</td><td align=center>Rockbridge</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>114.</td><td align=center>Rockingham</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>115.</td><td align=center>Russell</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>116.</td><td align=center>Salem City</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>117.</td><td align=center>Scott</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>118.</td><td align=center>Shenandoah</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>119.</td><td align=center>Smyth</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>120.</td><td align=center>Southampton</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>121.</td><td align=center>Stafford</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>122.</td><td align=center>Staunton City</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>123.</td><td align=center>Suffolk City</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>124.</td><td align=center>Surry</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>125.</td><td align=center>Tazewell</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>126.</td><td align=center>Warren</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>127.</td><td align=center>Washington</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>128.</td><td align=center>Waynesboro City</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>129.</td><td align=center>Westmoreland</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>130.</td><td align=center>Williamsburg City</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>131.</td><td align=center>Winchester City</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>132.</td><td align=center>Wise</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>133.</td><td align=center>Wythe</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>134.</td><td align=center>York</td><td align=center>---</td>
+</tr>
+
+row=>1.</td><td align=center>Fairfax</td><td align=center>7</td>
+</tr>
+<tr cla, rank=1,county=Fairfax,hits=7
+
+row=>2.</td><td align=center>Loudoun</td><td align=center>2</td>
+</tr>
+<tr cla, rank=2,county=Loudoun,hits=2
+
+row=>3.</td><td align=center>Lynchburg City</td><td align=center>2</td>
+</tr>
+<tr cla, rank=3,county=Lynchburg City,hits=2
+
+row=>4.</td><td align=center>Prince William</td><td align=center>2</td>
+</tr>
+<tr cla, rank=4,county=Prince William,hits=2
+
+row=>5.</td><td align=center>Spotsylvania</td><td align=center>2</td>
+</tr>
+<tr cla, rank=5,county=Spotsylvania,hits=2
+
+row=>6.</td><td align=center>Lexington City</td><td align=center>2</td>
+</tr>
+<tr cla, rank=6,county=Lexington City,hits=2
+
+row=>7.</td><td align=center>Charlottesville City</td><td align=center>1</td>
+</tr>
+<tr cla, rank=7,county=Charlottesville City,hits=1
+
+row=>8.</td><td align=center>Augusta</td><td align=center>1</td>
+</tr>
+<tr cla, rank=8,county=Augusta,hits=1
+
+row=>9.</td><td align=center>Norfolk City</td><td align=center>1</td>
+</tr>
+<tr cla, rank=9,county=Norfolk City,hits=1
+
+row=>10.</td><td align=center>Albemarle</td><td align=center>1</td>
+</tr>
+<tr cla, rank=10,county=Albemarle,hits=1
+
+row=>11.</td><td align=center>Newport News City</td><td align=center>1</td>
+</tr>
+<tr cla, rank=11,county=Newport News City,hits=1
+
+row=>12.</td><td align=center>Hanover</td><td align=center>1</td>
+</tr>
+<tr cla, rank=12,county=Hanover,hits=1
+
+row=>13.</td><td align=center>Alexandria City</td><td align=center>1</td>
+</tr>
+<tr cla, rank=13,county=Alexandria City,hits=1
+
+row=>14.</td><td align=center>Sussex</td><td align=center>1</td>
+</tr>
+<tr cla, rank=14,county=Sussex,hits=1
+
+row=>15.</td><td align=center>Henrico</td><td align=center>1</td>
+</tr>
+<tr cla, rank=15,county=Henrico,hits=1
+
+row=>16.</td><td align=center>Roanoke City</td><td align=center>1</td>
+</tr>
+<tr cla, rank=16,county=Roanoke City,hits=1
+
+row=>17.</td><td align=center>Chesterfield</td><td align=center>1</td>
+</tr>
+<tr cla, rank=17,county=Chesterfield,hits=1
+
+row=>18.</td><td align=center>Frederick</td><td align=center>1</td>
+</tr>
+<tr cla, rank=18,county=Frederick,hits=1
+
+row=>19.</td><td align=center>Radford City</td><td align=center>1</td>
+</tr>
+<tr cla, rank=19,county=Radford City,hits=1
+
+row=>20.</td><td align=center>Accomack</td><td align=center>1</td>
+</tr>
+<tr cla, rank=20,county=Accomack,hits=1
+
+row=>21.</td><td align=center>Harrisonburg City</td><td align=center>1</td>
+</tr>
+<tr cla, rank=21,county=Harrisonburg City,hits=1
+
+row=>22.</td><td align=center>Virginia Beach City</td><td align=center>1</td>
+</tr>
+<tr cla, rank=22,county=Virginia Beach City,hits=1
+
+row=>23.</td><td align=center>Alleghany</td><td align=center>---</td>
+</tr>
+<tr cla, rank=23,county=Alleghany,hits=---
+
+row=>24.</td><td align=center>Amelia</td><td align=center>---</td>
+</tr>
+<tr cla, rank=24,county=Amelia,hits=---
+
+row=>25.</td><td align=center>Amherst</td><td align=center>---</td>
+</tr>
+<tr cla, rank=25,county=Amherst,hits=---
+
+row=>26.</td><td align=center>Appomattox</td><td align=center>---</td>
+</tr>
+<tr cla, rank=26,county=Appomattox,hits=---
+
+row=>27.</td><td align=center>Arlington</td><td align=center>---</td>
+</tr>
+<tr cla, rank=27,county=Arlington,hits=---
+
+row=>28.</td><td align=center>Bath</td><td align=center>---</td>
+</tr>
+<tr cla, rank=28,county=Bath,hits=---
+
+row=>29.</td><td align=center>Bedford</td><td align=center>---</td>
+</tr>
+<tr cla, rank=29,county=Bedford,hits=---
+
+row=>30.</td><td align=center>Bedford City</td><td align=center>---</td>
+</tr>
+<tr cla, rank=30,county=Bedford City,hits=---
+
+row=>31.</td><td align=center>Bland</td><td align=center>---</td>
+</tr>
+<tr cla, rank=31,county=Bland,hits=---
+
+row=>32.</td><td align=center>Botetourt</td><td align=center>---</td>
+</tr>
+<tr cla, rank=32,county=Botetourt,hits=---
+
+row=>33.</td><td align=center>Bristol City</td><td align=center>---</td>
+</tr>
+<tr cla, rank=33,county=Bristol City,hits=---
+
+row=>34.</td><td align=center>Brunswick</td><td align=center>---</td>
+</tr>
+<tr cla, rank=34,county=Brunswick,hits=---
+
+row=>35.</td><td align=center>Buchanan</td><td align=center>---</td>
+</tr>
+<tr cla, rank=35,county=Buchanan,hits=---
+
+row=>36.</td><td align=center>Buckingham</td><td align=center>---</td>
+</tr>
+<tr cla, rank=36,county=Buckingham,hits=---
+
+row=>37.</td><td align=center>Buena Vista City</td><td align=center>---</td>
+</tr>
+<tr cla, rank=37,county=Buena Vista City,hits=---
+
+row=>38.</td><td align=center>Campbell</td><td align=center>---</td>
+</tr>
+<tr cla, rank=38,county=Campbell,hits=---
+
+row=>39.</td><td align=center>Caroline</td><td align=center>---</td>
+</tr>
+<tr cla, rank=39,county=Caroline,hits=---
+
+row=>40.</td><td align=center>Carroll</td><td align=center>---</td>
+</tr>
+<tr cla, rank=40,county=Carroll,hits=---
+
+row=>41.</td><td align=center>Charles City</td><td align=center>---</td>
+</tr>
+<tr cla, rank=41,county=Charles City,hits=---
+
+row=>42.</td><td align=center>Charlotte</td><td align=center>---</td>
+</tr>
+<tr cla, rank=42,county=Charlotte,hits=---
+
+row=>43.</td><td align=center>Chesapeake City</td><td align=center>---</td>
+</tr>
+<tr cla, rank=43,county=Chesapeake City,hits=---
+
+row=>44.</td><td align=center>Clarke</td><td align=center>---</td>
+</tr>
+<tr cla, rank=44,county=Clarke,hits=---
+
+row=>45.</td><td align=center>Colonial Heights City</td><td align=center>---</td>
+</tr>
+<tr cla, rank=45,county=Colonial Heights City,hits=---
+
+row=>46.</td><td align=center>Covington City</td><td align=center>---</td>
+</tr>
+<tr cla, rank=46,county=Covington City,hits=---
+
+row=>47.</td><td align=center>Craig</td><td align=center>---</td>
+</tr>
+<tr cla, rank=47,county=Craig,hits=---
+
+row=>48.</td><td align=center>Culpeper</td><td align=center>---</td>
+</tr>
+<tr cla, rank=48,county=Culpeper,hits=---
+
+row=>49.</td><td align=center>Cumberland</td><td align=center>---</td>
+</tr>
+<tr cla, rank=49,county=Cumberland,hits=---
+
+row=>50.</td><td align=center>Danville City</td><td align=center>---</td>
+</tr>
+<tr cla, rank=50,county=Danville City,hits=---
+
+row=>51.</td><td align=center>Dickenson</td><td align=center>---</td>
+</tr>
+<tr cla, rank=51,county=Dickenson,hits=---
+
+row=>52.</td><td align=center>Dinwiddie</td><td align=center>---</td>
+</tr>
+<tr cla, rank=52,county=Dinwiddie,hits=---
+
+row=>53.</td><td align=center>Emporia City</td><td align=center>---</td>
+</tr>
+<tr cla, rank=53,county=Emporia City,hits=---
+
+row=>54.</td><td align=center>Essex</td><td align=center>---</td>
+</tr>
+<tr cla, rank=54,county=Essex,hits=---
+
+row=>55.</td><td align=center>Fairfax City</td><td align=center>---</td>
+</tr>
+<tr cla, rank=55,county=Fairfax City,hits=---
+
+row=>56.</td><td align=center>Falls Church City</td><td align=center>---</td>
+</tr>
+<tr cla, rank=56,county=Falls Church City,hits=---
+
+row=>57.</td><td align=center>Fauquier</td><td align=center>---</td>
+</tr>
+<tr cla, rank=57,county=Fauquier,hits=---
+
+row=>58.</td><td align=center>Floyd</td><td align=center>---</td>
+</tr>
+<tr cla, rank=58,county=Floyd,hits=---
+
+row=>59.</td><td align=center>Fluvanna</td><td align=center>---</td>
+</tr>
+<tr cla, rank=59,county=Fluvanna,hits=---
+
+row=>60.</td><td align=center>Franklin</td><td align=center>---</td>
+</tr>
+<tr cla, rank=60,county=Franklin,hits=---
+
+row=>61.</td><td align=center>Franklin City</td><td align=center>---</td>
+</tr>
+<tr cla, rank=61,county=Franklin City,hits=---
+
+row=>62.</td><td align=center>Fredericksburg City</td><td align=center>---</td>
+</tr>
+<tr cla, rank=62,county=Fredericksburg City,hits=---
+
+row=>63.</td><td align=center>Galax City</td><td align=center>---</td>
+</tr>
+<tr cla, rank=63,county=Galax City,hits=---
+
+row=>64.</td><td align=center>Giles</td><td align=center>---</td>
+</tr>
+<tr cla, rank=64,county=Giles,hits=---
+
+row=>65.</td><td align=center>Gloucester</td><td align=center>---</td>
+</tr>
+<tr cla, rank=65,county=Gloucester,hits=---
+
+row=>66.</td><td align=center>Goochland</td><td align=center>---</td>
+</tr>
+<tr cla, rank=66,county=Goochland,hits=---
+
+row=>67.</td><td align=center>Grayson</td><td align=center>---</td>
+</tr>
+<tr cla, rank=67,county=Grayson,hits=---
+
+row=>68.</td><td align=center>Greene</td><td align=center>---</td>
+</tr>
+<tr cla, rank=68,county=Greene,hits=---
+
+row=>69.</td><td align=center>Greensville</td><td align=center>---</td>
+</tr>
+<tr cla, rank=69,county=Greensville,hits=---
+
+row=>70.</td><td align=center>Halifax</td><td align=center>---</td>
+</tr>
+<tr cla, rank=70,county=Halifax,hits=---
+
+row=>71.</td><td align=center>Hampton City</td><td align=center>---</td>
+</tr>
+<tr cla, rank=71,county=Hampton City,hits=---
+
+row=>72.</td><td align=center>Henry</td><td align=center>---</td>
+</tr>
+<tr cla, rank=72,county=Henry,hits=---
+
+row=>73.</td><td align=center>Highland</td><td align=center>---</td>
+</tr>
+<tr cla, rank=73,county=Highland,hits=---
+
+row=>74.</td><td align=center>Hopewell City</td><td align=center>---</td>
+</tr>
+<tr cla, rank=74,county=Hopewell City,hits=---
+
+row=>75.</td><td align=center>Isle of Wight</td><td align=center>---</td>
+</tr>
+<tr cla, rank=75,county=Isle of Wight,hits=---
+
+row=>76.</td><td align=center>James City</td><td align=center>---</td>
+</tr>
+<tr cla, rank=76,county=James City,hits=---
+
+row=>77.</td><td align=center>King and Queen</td><td align=center>---</td>
+</tr>
+<tr cla, rank=77,county=King and Queen,hits=---
+
+row=>78.</td><td align=center>King George</td><td align=center>---</td>
+</tr>
+<tr cla, rank=78,county=King George,hits=---
+
+row=>79.</td><td align=center>King William</td><td align=center>---</td>
+</tr>
+<tr cla, rank=79,county=King William,hits=---
+
+row=>80.</td><td align=center>Lancaster</td><td align=center>---</td>
+</tr>
+<tr cla, rank=80,county=Lancaster,hits=---
+
+row=>81.</td><td align=center>Lee</td><td align=center>---</td>
+</tr>
+<tr cla, rank=81,county=Lee,hits=---
+
+row=>82.</td><td align=center>Louisa</td><td align=center>---</td>
+</tr>
+<tr cla, rank=82,county=Louisa,hits=---
+
+row=>83.</td><td align=center>Lunenburg</td><td align=center>---</td>
+</tr>
+<tr cla, rank=83,county=Lunenburg,hits=---
+
+row=>84.</td><td align=center>Madison</td><td align=center>---</td>
+</tr>
+<tr cla, rank=84,county=Madison,hits=---
+
+row=>85.</td><td align=center>Manassas City</td><td align=center>---</td>
+</tr>
+<tr cla, rank=85,county=Manassas City,hits=---
+
+row=>86.</td><td align=center>Manassas Park City</td><td align=center>---</td>
+</tr>
+<tr cla, rank=86,county=Manassas Park City,hits=---
+
+row=>87.</td><td align=center>Martinsville City</td><td align=center>---</td>
+</tr>
+<tr cla, rank=87,county=Martinsville City,hits=---
+
+row=>88.</td><td align=center>Mathews</td><td align=center>---</td>
+</tr>
+<tr cla, rank=88,county=Mathews,hits=---
+
+row=>89.</td><td align=center>Mecklenburg</td><td align=center>---</td>
+</tr>
+<tr cla, rank=89,county=Mecklenburg,hits=---
+
+row=>90.</td><td align=center>Middlesex</td><td align=center>---</td>
+</tr>
+<tr cla, rank=90,county=Middlesex,hits=---
+
+row=>91.</td><td align=center>Montgomery</td><td align=center>---</td>
+</tr>
+<tr cla, rank=91,county=Montgomery,hits=---
+
+row=>92.</td><td align=center>Nelson</td><td align=center>---</td>
+</tr>
+<tr cla, rank=92,county=Nelson,hits=---
+
+row=>93.</td><td align=center>New Kent</td><td align=center>---</td>
+</tr>
+<tr cla, rank=93,county=New Kent,hits=---
+
+row=>94.</td><td align=center>Northampton</td><td align=center>---</td>
+</tr>
+<tr cla, rank=94,county=Northampton,hits=---
+
+row=>95.</td><td align=center>Northumberland</td><td align=center>---</td>
+</tr>
+<tr cla, rank=95,county=Northumberland,hits=---
+
+row=>96.</td><td align=center>Norton City</td><td align=center>---</td>
+</tr>
+<tr cla, rank=96,county=Norton City,hits=---
+
+row=>97.</td><td align=center>Nottoway</td><td align=center>---</td>
+</tr>
+<tr cla, rank=97,county=Nottoway,hits=---
+
+row=>98.</td><td align=center>Orange</td><td align=center>---</td>
+</tr>
+<tr cla, rank=98,county=Orange,hits=---
+
+row=>99.</td><td align=center>Page</td><td align=center>---</td>
+</tr>
+<tr cla, rank=99,county=Page,hits=---
+
+row=>100.</td><td align=center>Patrick</td><td align=center>---</td>
+</tr>
+<tr cla, rank=100,county=Patrick,hits=---
+
+row=>101.</td><td align=center>Petersburg City</td><td align=center>---</td>
+</tr>
+<tr cla, rank=101,county=Petersburg City,hits=---
+
+row=>102.</td><td align=center>Pittsylvania</td><td align=center>---</td>
+</tr>
+<tr cla, rank=102,county=Pittsylvania,hits=---
+
+row=>103.</td><td align=center>Poquoson City</td><td align=center>---</td>
+</tr>
+<tr cla, rank=103,county=Poquoson City,hits=---
+
+row=>104.</td><td align=center>Portsmouth City</td><td align=center>---</td>
+</tr>
+<tr cla, rank=104,county=Portsmouth City,hits=---
+
+row=>105.</td><td align=center>Powhatan</td><td align=center>---</td>
+</tr>
+<tr cla, rank=105,county=Powhatan,hits=---
+
+row=>106.</td><td align=center>Prince Edward</td><td align=center>---</td>
+</tr>
+<tr cla, rank=106,county=Prince Edward,hits=---
+
+row=>107.</td><td align=center>Prince George</td><td align=center>---</td>
+</tr>
+<tr cla, rank=107,county=Prince George,hits=---
+
+row=>108.</td><td align=center>Pulaski</td><td align=center>---</td>
+</tr>
+<tr cla, rank=108,county=Pulaski,hits=---
+
+row=>109.</td><td align=center>Rappahannock</td><td align=center>---</td>
+</tr>
+<tr cla, rank=109,county=Rappahannock,hits=---
+
+row=>110.</td><td align=center>Richmond</td><td align=center>---</td>
+</tr>
+<tr cla, rank=110,county=Richmond,hits=---
+
+row=>111.</td><td align=center>Richmond City</td><td align=center>---</td>
+</tr>
+<tr cla, rank=111,county=Richmond City,hits=---
+
+row=>112.</td><td align=center>Roanoke</td><td align=center>---</td>
+</tr>
+<tr cla, rank=112,county=Roanoke,hits=---
+
+row=>113.</td><td align=center>Rockbridge</td><td align=center>---</td>
+</tr>
+<tr cla, rank=113,county=Rockbridge,hits=---
+
+row=>114.</td><td align=center>Rockingham</td><td align=center>---</td>
+</tr>
+<tr cla, rank=114,county=Rockingham,hits=---
+
+row=>115.</td><td align=center>Russell</td><td align=center>---</td>
+</tr>
+<tr cla, rank=115,county=Russell,hits=---
+
+row=>116.</td><td align=center>Salem City</td><td align=center>---</td>
+</tr>
+<tr cla, rank=116,county=Salem City,hits=---
+
+row=>117.</td><td align=center>Scott</td><td align=center>---</td>
+</tr>
+<tr cla, rank=117,county=Scott,hits=---
+
+row=>118.</td><td align=center>Shenandoah</td><td align=center>---</td>
+</tr>
+<tr cla, rank=118,county=Shenandoah,hits=---
+
+row=>119.</td><td align=center>Smyth</td><td align=center>---</td>
+</tr>
+<tr cla, rank=119,county=Smyth,hits=---
+
+row=>120.</td><td align=center>Southampton</td><td align=center>---</td>
+</tr>
+<tr cla, rank=120,county=Southampton,hits=---
+
+row=>121.</td><td align=center>Stafford</td><td align=center>---</td>
+</tr>
+<tr cla, rank=121,county=Stafford,hits=---
+
+row=>122.</td><td align=center>Staunton City</td><td align=center>---</td>
+</tr>
+<tr cla, rank=122,county=Staunton City,hits=---
+
+row=>123.</td><td align=center>Suffolk City</td><td align=center>---</td>
+</tr>
+<tr cla, rank=123,county=Suffolk City,hits=---
+
+row=>124.</td><td align=center>Surry</td><td align=center>---</td>
+</tr>
+<tr cla, rank=124,county=Surry,hits=---
+
+row=>125.</td><td align=center>Tazewell</td><td align=center>---</td>
+</tr>
+<tr cla, rank=125,county=Tazewell,hits=---
+
+row=>126.</td><td align=center>Warren</td><td align=center>---</td>
+</tr>
+<tr cla, rank=126,county=Warren,hits=---
+
+row=>127.</td><td align=center>Washington</td><td align=center>---</td>
+</tr>
+<tr cla, rank=127,county=Washington,hits=---
+
+row=>128.</td><td align=center>Waynesboro City</td><td align=center>---</td>
+</tr>
+<tr cla, rank=128,county=Waynesboro City,hits=---
+
+row=>129.</td><td align=center>Westmoreland</td><td align=center>---</td>
+</tr>
+<tr cla, rank=129,county=Westmoreland,hits=---
+
+row=>130.</td><td align=center>Williamsburg City</td><td align=center>---</td>
+</tr>
+<tr cla, rank=130,county=Williamsburg City,hits=---
+
+row=>131.</td><td align=center>Winchester City</td><td align=center>---</td>
+</tr>
+<tr cla, rank=131,county=Winchester City,hits=---
+
+row=>132.</td><td align=center>Wise</td><td align=center>---</td>
+</tr>
+<tr cla, rank=132,county=Wise,hits=---
+
+row=>133.</td><td align=center>Wythe</td><td align=center>---</td>
+</tr>
+<tr cla, rank=133,county=Wythe,hits=---
+
+row=>134.</td><td align=center>York</td><td align=center>---</td>
+</tr>
+, rank=134,county=York,hits=---
+
+Pulaski #fff Fairfax #aaf Bland #fff Lunenburg #fff Sussex #FFB {Buena Vista City} #fff Scott #fff Page #fff Nottoway #fff {Isle of Wight} #fff Albemarle #FFB Spotsylvania #FBF Appomattox #fff {Charlottesville City} #FFB Nelson #fff Middlesex #fff Highland #fff Frederick #FFB Carroll #fff {Falls Church City} #fff Essex #fff {Roanoke City} #FFB Wythe #fff Shenandoah #fff Dinwiddie #fff {Lexington City} #FBF Washington #fff Powhatan #fff {Charles City} #fff Louisa #fff Rappahannock #fff Patrick #fff {Emporia City} #fff Craig #fff {Bedford City} #fff {Prince William} #FBF Amelia #fff Northampton #fff Accomack #FFB {Suffolk City} #fff {Salem City} #fff Giles #fff {Winchester City} #fff Gloucester #fff Caroline #fff {Franklin City} #fff Floyd #fff Loudoun #FBF {Manassas City} #fff Culpeper #fff Stafford #fff Buckingham #fff {Prince George} #fff Fauquier #fff {Fairfax City} #fff Clarke #fff {Martinsville City} #fff {Radford City} #FFB {Petersburg City} #fff {Norfolk City} #FFB Smyth #fff {Poquoson City} #fff Franklin #fff Alleghany #fff {Portsmouth City} #fff Warren #fff Bath #fff Tazewell #fff {Hampton City} #fff Botetourt #fff Campbell #fff {Alexandria City} #FFB Rockingham #fff Madison #fff Grayson #fff Rockbridge #fff Richmond #fff Orange #fff {Staunton City} #fff Northumberland #fff Halifax #fff Greene #fff {Galax City} #fff Arlington #fff {Colonial Heights City} #fff Mecklenburg #fff {Harrisonburg City} #FFB Wise #fff Greensville #fff Henrico #FFB {Norton City} #fff {Waynesboro City} #fff Southampton #fff Russell #fff Chesterfield #FFB {Williamsburg City} #fff Hanover #FFB Surry #fff {Manassas Park City} #fff Henry #fff Bedford #fff Charlotte #fff {Lynchburg City} #FBF {Prince Edward} #fff Pittsylvania #fff {King William} #fff {Danville City} #fff {Covington City} #fff {James City} #fff {King and Queen} #fff {Fredericksburg City} #fff {Chesapeake City} #fff {Richmond City} #fff Cumberland #fff {Newport News City} #FFB Dickenson #fff {Bristol City} #fff Brunswick #fff Buchanan #fff Montgomery #fff Mathews #fff {Hopewell City} #fff {King George} #fff Augusta #FFB Fluvanna #fff {New Kent} #fff Amherst #fff York #fff Westmoreland #fff Lancaster #fff {Virginia Beach City} #FFB Lee #fff Roanoke #fff Goochland #fff
+7 2 2 2 2 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+61 3a 3a 3a 3a 3a 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33
+Pulaski #fff Fairfax #aaf Bland #fff Lunenburg #fff Sussex #FFB {Buena Vista City} #fff Scott #fff Page #fff Nottoway #fff {Isle of Wight} #fff Albemarle #FFB Spotsylvania #FBF Appomattox #fff {Charlottesville City} #FFB Nelson #fff Middlesex #fff Highland #fff Frederick #FFB Carroll #fff {Falls Church City} #fff Essex #fff {Roanoke City} #FFB Wythe #fff Shenandoah #fff Dinwiddie #fff {Lexington City} #FBF Washington #fff Powhatan #fff {Charles City} #fff Louisa #fff Rappahannock #fff Patrick #fff {Emporia City} #fff Craig #fff {Bedford City} #fff {Prince William} #FBF Amelia #fff Northampton #fff Accomack #FFB {Suffolk City} #fff {Salem City} #fff Giles #fff {Winchester City} #fff Gloucester #fff Caroline #fff {Franklin City} #fff Floyd #fff Loudoun #FBF {Manassas City} #fff Culpeper #fff Stafford #fff Buckingham #fff {Prince George} #fff Fauquier #fff {Fairfax City} #fff Clarke #fff {Martinsville City} #fff {Radford City} #FFB {Petersburg City} #fff {Norfolk City} #FFB Smyth #fff {Poquoson City} #fff Franklin #fff Alleghany #fff {Portsmouth City} #fff Warren #fff Bath #fff Tazewell #fff {Hampton City} #fff Botetourt #fff Campbell #fff {Alexandria City} #FFB Rockingham #fff Madison #fff Grayson #fff Rockbridge #fff Richmond #fff Orange #fff {Staunton City} #fff Northumberland #fff Halifax #fff Greene #fff {Galax City} #fff Arlington #fff {Colonial Heights City} #fff Mecklenburg #fff {Harrisonburg City} #FFB Wise #fff Greensville #fff Henrico #FFB {Norton City} #fff {Waynesboro City} #fff Southampton #fff Russell #fff Chesterfield #FFB {Williamsburg City} #fff Hanover #FFB Surry #fff {Manassas Park City} #fff Henry #fff Bedford #fff Charlotte #fff {Lynchburg City} #FBF {Prince Edward} #fff Pittsylvania #fff {King William} #fff {Danville City} #fff {Covington City} #fff {James City} #fff {King and Queen} #fff {Fredericksburg City} #fff {Chesapeake City} #fff {Richmond City} #fff Cumberland #fff {Newport News City} #FFB Dickenson #fff {Bristol City} #fff Brunswick #fff Buchanan #fff Montgomery #fff Mathews #fff {Hopewell City} #fff {King George} #fff Augusta #FFB Fluvanna #fff {New Kent} #fff Amherst #fff York #fff Westmoreland #fff Lancaster #fff {Virginia Beach City} #FFB Lee #fff Roanoke #fff Goochland #fff
+
+exec -- /opt/local/bin/convert VA_hit_map.png -fill black -font Arial -pointsize 13 -linewidth 3 -draw {text 34,48  ' 31 +'} -draw {text 34,65  ' 17 - 30 '} -draw {text 34,82  ' 10 - 16 '} -draw {text 34,99  ' 5 - 9 '} -draw {text 34,116  ' 2 - 4 '} -draw {text 34,133  ' 1 - 1 '} -fill #0f0 -draw {circle 20,77 14,77} -fill #ef0 -draw {circle 20,60 14,60} -fill #FFB -draw {circle 20,128 14,128} -fill #f11 -draw {circle 20,43 14,43} -fill #FBF -draw {circle 20,111 14,111} -fill #aaf -draw {circle 20,94 14,94} -fill black -draw {text 4,14  ' Updated: Fri Dec 19, 2008 17:12:21 EST '} -fill black -pointsize 13 -draw {text 180,35  'Top 20'} -draw {text 180,51  '7'} -draw {text 213,51  'Fairfax'} -draw {text 180,64  '2'} -draw {text 213,64  'Lexington City'} -draw {text 180,77  '2'} -draw {text 213,77  'Loudoun'} -draw {text 180,90  '2'} -draw {text 213,90  'Lynchburg City'} -draw {text 180,103  '2'} -draw {text 213,103  'Prince William'} -draw {text 180,116  '2'} -draw {text 213,116  'Spotsylvania'} -draw {text 180,129  '1'} -draw {text 213,129  'Accomack'} -draw {text 180,142  '1'} -draw {text 213,142  'Albemarle'} -draw {text 180,155  '1'} -draw {text 213,155  'Alexandria City'} -draw {text 180,168  '1'} -draw {text 213,168  'Augusta'} -draw {text 180,181  '1'} -draw {text 213,181  'Charlottesville City'} -draw {text 180,194  '1'} -draw {text 213,194  'Chesterfield'} -draw {text 180,207  '1'} -draw {text 213,207  'Frederick'} -draw {text 180,220  '1'} -draw {text 213,220  'Hanover'} -draw {text 180,233  '1'} -draw {text 213,233  'Harrisonburg City'} -draw {text 180,246  '1'} -draw {text 213,246  'Henrico'} -draw {text 180,259  '1'} -draw {text 213,259  'Newport News City'} -draw {text 180,272  '1'} -draw {text 213,272  'Norfolk City'} -draw {text 180,285  '1'} -draw {text 213,285  'Radford City'} -draw {text 180,298  '1'} -draw {text 213,298  'Roanoke City'} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#aaf.png -draw {color 583,130 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 593,340 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 113,380 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 653,350 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 483,230 floodfill} -tile fills/xsolid_range#FBF.png -draw {color 553,200 floodfill} -tile fills/xsolid_range#fff.png -draw {color 453,320 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 475,237 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 493,105 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 333,330 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 558,345 floodfill} -tile fills/xsolid_range#FBF.png -draw {color 487,264 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#FBF.png -draw {color 583,160 floodfill} -tile fills/xsolid_range#fff.png -draw {color 533,315 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 723,260 floodfill} -tile fills/xsolid_range#fff.png -draw {color 653,370 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 660,300 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#FBF.png -draw {color 553,100 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 523,170 floodfill} -tile fills/xsolid_range#fff.png -draw {color 5973,195 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 583,330 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 513,110 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 388,338 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 683,350 floodfill} -tile fills/xsolid_range#fff.png -draw {color 203,380 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 343,360 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 183,350 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 598,143 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 673,240 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 598,130 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 445,194 floodfill} -tile fills/xsolid_range#fff.png -draw {color 113,360 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 583,290 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 148,365 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 563,310 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 553,260 floodfill} -tile fills/xsolid_range#fff.png -draw {color 633,330 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 463,350 floodfill} -tile fills/xsolid_range#FBF.png -draw {color 413,302 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 633,310 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 683,380 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 663,336 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 533,360 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 313,340 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 603,195 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 433,220 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 608,210 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 408,380 floodfill} -tile fills/xsolid_range#fff.png -draw {color 69,380 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -tile fills/xsolid_range#fff.png -draw {color 1,1 floodfill} -resize 800x> -bordercolor #999 -border 1x1 VA_HIT_MAP_Z.png
+after /opt/local/bin/convert VA_HIT_MAP_Z.png

@@ -1,0 +1,40 @@
+set rangemn(1) 1
+set rangemx(1) 1
+set rangemn(2) 2
+set rangemx(2) 4
+set rangemn(3) 5
+set rangemx(3) 8
+set rangemn(4) 9
+set rangemx(4) 15
+set rangemn(5) 16
+set rangemx(5) 20
+set rangemn(6) 21
+set rangemx(6) 9999
+
+set legend_x 20
+set legend_y 33
+
+set range1 40,138
+set range2 40,118
+set range3 40,98
+set range4 40,78
+set range5 40,58
+set range6 40,38
+
+set spot0 {20 133}
+set spot1 {20 133}
+set spot2 {20 113}
+set spot3 {20 93}
+set spot4 {20 73}
+set spot5 {20 53}
+set spot6 {20 33}
+
+set top_count 18
+set top_5_x 110
+set top_5_y 220
+
+set font_size 13
+
+set url {http://www.wheresgeorge.com/hbz.php?args=bbe65fd606ea1888e70bb44ac1d13d7efe35de7cd03b36d0c71a897cb5d832c5d2a680cbe34a6e9cf64551b56ee5eb3dda553f470fdcbe21437042426959ae6a4aadbef7dd684685b28050aa6e9b8c441c71564eecb0df372522ec58e66fdebd6da920e4a8a9dbc3ed1923d010ef3a46c815271ce277042ae16641c3f2cbadfbbcbb1a556ba928d517a962d2e73f8dc3}
+
+set num_counties 24

@@ -1,0 +1,17 @@
+{Androscoggin	---
+} {Aroostook	---
+} {Cumberland	4
+} {Franklin	---
+} {Hancock	2
+} {Kennebec	2
+} {Knox	---
+} {Lincoln	2
+} {Oxford	---
+} {Penobscot	3
+} {Piscataquis	---
+} {Sagadahoc	---
+} {Somerset	1
+} {Waldo	2
+} {Washington	1
+} {York	1
+}

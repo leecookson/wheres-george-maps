@@ -1,0 +1,22 @@
+{Bensalem	11
+	} {Bristol	8
+	} {Chalfont	2
+	} {Doylestown	8
+	} {Dublin	1
+	} {Fairless Hills	3
+	} {Feasterville Trevose	6
+	} {Langhorne	7
+	} {Levittown	20
+	} {Morrisville	14
+	} {New Hope	3
+	} {Newtown	15
+	} {Perkasie	2
+	} {Plumstead	2
+	} {Quakertown	1
+	} {Richboro	6
+	} {Southampton	6
+	} {Telford	2
+	} {Warminster	5
+	} {Warrington	4
+	} {Warwick	1
+	}

@@ -1,0 +1,25 @@
+{Allegany	1
+} {Anne Arundel	12
+} {Baltimore	12
+} {Baltimore City	5
+} {Calvert	3
+} {Caroline	1
+} {Carroll	1
+} {Cecil	3
+} {Charles	2
+} {Dorchester	1
+} {Frederick	5
+} {Garrett	2
+} {Harford	3
+} {Howard	3
+} {Kent	---
+} {Montgomery	12
+} {Prince George's	3
+} {Queen Anne's	3
+} {Saint Mary's	1
+} {Somerset	---
+} {Talbot	2
+} {Washington	2
+} {Wicomico	3
+} {Worcester	3
+}

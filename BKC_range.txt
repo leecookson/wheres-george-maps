@@ -1,0 +1,45 @@
+set rangemn(1) 1
+set rangemx(1) 1
+set rangemn(2) 2
+set rangemx(2) 4
+set rangemn(3) 5
+set rangemx(3) 9
+set rangemn(4) 10
+set rangemx(4) 14
+set rangemn(5) 15
+set rangemx(5) 30
+set rangemn(6) 31
+set rangemx(6) 9999
+
+set legend_x 456
+set legend_y 17
+
+set range1 465,22
+set range2 465,42
+set range3 465,62
+set range4 465,82
+set range5 465,102
+set range6 465,122
+
+set spot0 {456 17}
+set spot1 {456 17}
+set spot2 {456 37}
+set spot3 {456 57}
+set spot4 {456 77}
+set spot5 {456 97}
+set spot6 {456 117}
+
+set url {http://www.wheresgeorge.com/hbz.php?args=af2216cedd9030004d909b34afa5bcaa61baaf42158117958116ca606631bc972997a5a485b0066fc3f5e33e7db72cc71fc331457be22754b2351488d380db017056a62a61cf8673bab1827cf0b3839f82141e41f7d73fdc03a2b6931b94415e09d83e9d9a0e42ed51a032b867dad8c703514d4c152121a8acebf16700b3e564ab485a2b1b6e45f3220e884d79f11c76}
+set zip_url {http://www.wheresgeorge.com/hbz.php?args=f24b92694c80a43d2050f2afed71a39bf5bbb48e32c31d37ff44740b32c040913ed4c5841d9d0594ac72c58cfe8d3975c22c75dd611609c843dab50a4cb7b2cca640518859759641ac90fa9acd83ed219e8afeba2c745d801df4c0d0a3f15e6916a469457ca538e222f0ed21f90fe976595e741ad014f4a4fe9ec0050f33f5050f337ea462650002aef82e154487b1c7}
+
+set top_count 23
+set top_5_x 10
+set top_5_y 300
+
+set font_size 13
+
+set num_counties 300
+
+set zip_file PA_zip2towns.txt
+
+set draw_names 1

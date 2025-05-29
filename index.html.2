@@ -1,0 +1,78 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+	<meta http-equiv="refresh" content="0; URL=/a/" />
+
+	<title>Comcast.net Home</title>
+	
+  
+
+
+
+
+
+  <script type="text/javascript" src="/ui/js//lib/browser.js?r=5632-12345"></script>
+	<script type="text/javascript">
+		// <![CDATA[
+		var pages = [];
+			pages.push({
+				url: "/a/",
+				threshold: 92
+			});
+			pages.push({
+				url: "/b/",
+				threshold: 96
+			});
+			pages.push({
+				url: "/c/",
+				threshold: 96
+			});
+			pages.push({
+				url: "/d/",
+				threshold: 100
+			});
+		
+		function getRandomUrl() {
+			var r = parseInt(Math.random() * 99) + 1;
+			for (var i=0; i<pages.length; i++)
+				if (r <= pages[i].threshold) return pages[i].url;
+      return '/a/';
+		}
+		
+    var cookie_name = 'evo_redirect';
+    var cookie_value = readCookie(cookie_name);
+    
+    var destination;
+    if (cookie_value != '') {
+      // Make sure the path in the cookie is still a valid destination
+      for (var i=0; i<pages.length; i++) {
+        if (pages[i].url != cookie_value) continue;
+        
+        destination = cookie_value;
+        break;
+      }
+    }
+    // Use the value from the cookie (if valid) or a random choice otherwise
+    var destination = destination || getRandomUrl();
+		var expire = new Date();
+		expire.setHours(0);
+		expire.setMinutes(0);
+		expire.setSeconds(0);
+		expire.setMilliseconds(expire.getMilliseconds() + 86400000); // Move forward one day
+    createCookie(cookie_name, destination, expire);
+    
+    var parts = (document.location + '').split('?');
+    parts.shift();
+    var options = (parts.length == 0) ? '' : ('?' + parts.join('?'));
+    document.location.replace(destination + options);
+		// ]]>
+	</script>
+
+</head>
+
+<body id="comcastnet"></body>
+</html>

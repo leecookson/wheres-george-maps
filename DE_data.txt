@@ -1,0 +1,202 @@
+argv=DE
+url=http://www.wheresgeorge.com/hbz.php?args=a89e5d5fd67ef54bd9060727779db47230127e1f1d93ac6097500ca833a43256e171423e3d1d99adeae920293a4c38f1da553f470fdcbe21437042426959ae6a4aadbef7dd68468561b04ee56970fbf35725316213df248e5f2c44b65a8d4fc16c4ac995a946e56e8ed682fbe78bd5a1acf0f19a7f42c12ee16641c3f2cbadfbbcbb1a556ba928d517a962d2e73f8dc3
+===================
+input=<html>
+<!--
+#########################################################################################################
+# Start of Where's George?/Where's Willy common header                                                 	#
+# All code, content and images copyright Where's George? LLC 1998-2011          #
+# and can not be used without express, written consent.                                                 #
+#########################################################################################################
+-->
+<head>
+<title>Where's George? &reg; 2.4 Hits by County</title>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1" />
+<META NAME="Author" CONTENT="Hank Eskin" />
+<META NAME="description" CONTENT="Track US or Canadian dollar bills as they travel across the country. Enter the serial number and zip code to track its past history. Get email when the next person registers your bill! " />
+<META NAME="keywords" CONTENT="wheresgeorge whereswilly WG? WG whereswilly.com wheresgeorge.com track dollar trackdollar trackdollars dollars one bill frb federal reserve banks trace tracing tracking track trace american serial number series denomination bills where is george currency money legal tender" />
+<meta http-equiv="X-UA-Compatible" content="IE=6" />
+
+<link href="http://www.wheresgeorge.com/css_wg.css" rel="stylesheet" type="text/css">
+</head>
+
+<body  bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<SCRIPT language="JavaScript" type="text/javascript">menu_position=225;item_width=72.857142857143;</SCRIPT><!-- ***** This is the section of code you need to paste into your web pages ***** -->
+<script type="text/javascript" src="mmenu/milonic_src.js"></script>
+<script type="text/javascript" src="mmenu/mmenudom.js"></script>
+<!-- The next file contains your menu data, links and menu structure etc -->
+<script type="text/javascript" src="mmenu/menu_wg.js"></script>
+<!-- **** JavaScript Menu HTML Code -->
+<script type="text/javascript">function popup_win(page,h,w,scroll) {rnd=Math.round(Math.random()*10000); if (page.substring(0,22)=='user_profile_popup.php') {h=600;w=800;scroll='yes';}window.open(page,rnd,'toolbar=NO,location=NO,directories=NO,status=NO,menubar=NO,scrollbars='+scroll+',resizable=YES,copyhistory=NO,width='+w+',height='+h+',left=100,top=100');}</script><!-- frame buster -->
+<script language="JavaScript" type="text/javascript">
+  	if (top.location != self.location) {
+	top.location = self.location.href
+	}
+</script><a name="top"></a>
+<!-- main table - full width -->
+<table width="814" border="0" cellspacing="0" cellpadding="0">
+<tr  bgcolor=green><td align=right colspan="3" ><iframe src="http://rcm.amazon.com/e/cm?t=wheresgeorg-20&o=1&p=20&l=ur1&category=kindle&banner=1KNAV7AGS7WAHJ5Z5ER2&f=ifr" width="120" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe><iframe bgcolor="#669933" Allowtransparency="true" src="openads_leaderboard.php" width="728" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe><a target=_blank href="http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2F&tag=wheresgeorg-20&linkCode=ur2&camp=1789&creative=9325"><img src="http://www.assoc-amazon.com/e/ir?t=wheresgeorg-20&l=ur2&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><img border=0 src=images/amazon_120x90.gif></a></td></tr><tr>
+<td colspan="3">
+ <!-- header table - full width -->
+
+<table border="0" height=40 cellpadding="0" cellspacing="0" width="814">
+  <tr >
+    <td width="165"><img src="img_wg/topl.jpg" width="165" height="135" border="0" alt=""></td>
+    <td width="510"   ><img width="510" height="135" src="img_wg/topcN.jpg"  border="0" alt=""></td>
+    <td width="157"><img  src="img_wg/toprN.png" width="157" height="135" border="0" alt=""></td>
+  </tr>
+  <tr>
+    <td width="165"><img name="left1" src="img_wg/left1.jpg" width="165" height="20" border="0" alt=""></td>
+	<td align=left width="510" bgcolor="#666666"><!-- <img name="grey_nav" src="img_wg/grey_nav.gif" width="510" height="20" border="0">--><script>document.write("<img name=\"grey_nav\" src=\"img_wg/grey_nav.gif\" width=\"425\" height=\"20\" border=\"0\">");</script><noscript><span class=tabletitle><b>Your browser has Javascript disabled. Please see the <a href=site_map.php>Site-Map</a> to view all the main menu options.</b></span></noscript></td>
+    <td width="157"><img name="right1" src="img_wg/right1.jpg" width="157" height="20" border="0" alt=""></td>
+  </tr>
+  <tr>
+    <td bgcolor="#669933" width="165"><script>document.write("<A  HREF=\"javascript:popup_win('boss.html',4000,2000,'no');\"><img border=0 name=\"left2\" src=\"img_wg/left2.jpg\" width=\"147\" height=\"47\" border=\"0\" alt=\"\"></a>");</script><noscript><A HREF=boss.html target=_blank><img border=0 name="left2" src="img_wg/left2.jpg" width="147" height="47" border="0" alt=""></a></noscript></td>
+    <!-- start registered user name/profile link  -->
+    <td width="510" bgcolor="#669933" class=topnav>
+	<div width="48%" style="float:left; text-align:left;">
+    <strong>You are currently logged in as&nbsp;<span class=topnav><script>document.write("<A sidenav HREF=\"javascript:popup_win('user_profile_popup.php?ukey=1c48871d2481b356e00789340b46fc0f',0,0,'0');\">Lee</a>");</script><noscript><A HREF=user_profile_popup.php?ukey=1c48871d2481b356e00789340b46fc0f target=_blank>Lee</a></noscript></span></strong></div></div><!-- end registered user name/profile link  -->
+	    <!-- help   -->
+	    <div width="48%" style="float:right; text-align:right"><script>document.write("<A  HREF=\"javascript:popup_win('help.php?args=b31ea71b98fec987c84c1755a8e4e0144d59f820ef1e6e5797d2e3468e77f2ccba52d613e7381a852cc3bbacb76f95b1d3afbd222b7f29bf038c7a368c8ff68ab19c66a70b41734f1d8d4ccc1bd2fa44ee00eeb21c3dc436dcbdabd3f1dbb8c4740dad52d85d5a1a8525ffe14674453d2f7dfad77a9f3e24e2ccd4ebaa88eb2d7f750c6d220b4efe0cfead9391027fb2',550,650,'yes');\"><img name=\"template_r3_c3\" src=\"img_wg/help.png\" width=\"142\"  border=\"0\" alt=\"\"></a>");</script><noscript><A HREF=help.php?args=b31ea71b98fec987c84c1755a8e4e0144d59f820ef1e6e5797d2e3468e77f2ccba52d613e7381a852cc3bbacb76f95b1d3afbd222b7f29bf038c7a368c8ff68ab19c66a70b41734f1d8d4ccc1bd2fa44ee00eeb21c3dc436dcbdabd3f1dbb8c4740dad52d85d5a1a8525ffe14674453d2f7dfad77a9f3e24e2ccd4ebaa88eb2d7f750c6d220b4efe0cfead9391027fb2 target=_blank><img name="template_r3_c3" src="img_wg/help.png" width="142"  border="0" alt=""></a></noscript></div>
+		<!-- /help --><div style="clear: both;"> </div>
+    </td>
+    <td width="157" bgcolor="#669933"><img name="right2" src="img_wg/right2.jpg" width="157" height="47" border="0" alt=""></td>
+    <!-- end help -->
+  </tr>
+</table>
+<!-- end header table -->
+</td>
+</tr><tr>
+<td width="147" height="100%" valign="top">
+<!-- start LEft hand menu table -->
+<table width="146" height="100%" border="0" cellpadding="0" cellspacing="0" >
+  <tr>
+    <td colspan="3"><img src="img_wg/left3.jpg" width="147" height="14"></td>
+  </tr>
+  <tr valign="top" bgcolor="#FFFFFF">
+    <td height="79" colspan="3" background="img_wg/left4.jpg" class="sidenav">
+<div align="right">
+<a href="/">Home</a><br>
+<a href="/logon.php">Log On</a><br>
+<a href="/register.php">Register</a><br>
+<a href="/main.php#bill">Enter a Bill</a>
+</div></td></tr>
+<tr>
+    <td width="19" valign="top" background="img_wg/left-gutter.png">
+      <table height="100%" width="19" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td>&nbsp;</td>
+        </tr>
+      </table>
+    </td>
+    <td width="127" colspan="2" valign="top" bgcolor="#91CB53">
+          <table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td valign="top" align=right><p class="sidenav"><a href="ybs.php?ybs">Your Bills</a><br>
+<a href="user_prefs.php">User Settings</a><br><a href="user_profile.php">User Profile</a><br><a href="wrapper.php?page=state_profiles">Profiles by State</a><br>
+<a href="zip_hits.php">Zip Code Report</a><br>
+<a href="lostandfound.php">Lost and Found</a><br>
+<a href="lookup.php">Bill Lookup</a><br>
+<a href="logoff.php">Log Off</a><br></p>
+          </td>
+        </tr>
+      </table>
+<br><br><br><br><iframe bgcolor="#99CC66" Allowtransparency="true" src="openads_left_sky.php" width="120" height="600" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe><img src="img_wg/left-nav-bottom.gif"></td>
+  </tr>
+  <tr>
+    <td height="100%" valign="top" background="img_wg/left-gutter.gif">
+    	<table height="100%" width="19" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td height="100%" valign="top">&nbsp;</td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top" background="img_wg/left-gutter-background.gif"><p><img src="img_wg/left-nav-gutter.gif"></p>
+    </td>
+  </tr>
+</table>
+<!-- end Left hand menu table -->
+</td>
+<!-- open td for content -->
+<td style="text-align:left;" width="667" align="left" valign="top" class="body" ><!-- open td for content  --><span class=header>Hits by County Report</span><center>This Report is current as of: Jun-22-11 12:14 AM<br>Back to your <a href=ybs.php?hbs>Hit Analysis Report</a> Report<br>
+<TABLE width="60%" cellpadding="2" cellspacing="0" bordercolor="#999999" border=1 class="body">
+<tr class="body" bgcolor="#dddddd">	<td colspan=5><div align=center>Hits by County - DE</div></td>
+</tr>
+<tr class="body" bgcolor="#dddddd">	<td colspan=5><div align=center>You have 46 hits in 3 DE Counties</div></td>
+</tr>
+<tr class="body" bgcolor="#dddddd">	<td align=center>Rank</td>
+	<td align=center><a href=/hbz.php?args=50f0dab8ffa95e9453d33e192c560079e45a379de708d1bbfbe3361de65a361ac1e8122e23ddbe4cce43bb2da0ef0f53da553f470fdcbe21437042426959ae6a4aadbef7dd6846859e22851be90d72847276314ae9927ae0963120371d81b09ae0a459ec1bd7fe6c02f3221d6077087dca6003155b5235c9c52b15face08ed7410e8dad598596383d63f096143ea06c1>County</a></td>
+	<td align=center><a href=/hbz.php?args=98af8a6e98ab6fbaff2bc3d8e52168372ec1626df692419355102d06ea81282ffb3cda5da4b44fad600dc4ffd7bf6037da553f470fdcbe21437042426959ae6a4aadbef7dd6846859e22851be90d72847276314ae9927ae0963120371d81b09a77e6a94b733642a498f4319ea856c60b3606be4ebbc92b55fe9ec0050f33f5050f337ea462650002aef82e154487b1c7>Hits</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>1.</td>
+	<td align=center>New Castle</td>
+	<td align=center>37</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>2.</td>
+	<td align=center>Sussex</td>
+	<td align=center>5</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>3.</td>
+	<td align=center>Kent</td>
+	<td align=center>4</td>
+</tr>
+</table><center><span class=body><a href="#top">Back to Top</a></span></center><br><br><br>(Runtime: 0 seconds)<br><!-- </center> -->
+<center><iframe bgcolor="#ffffff" Allowtransparency="true" src="openads_box.php" width="300" height="250" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe></center>
+<br><br><br><br><br><br>
+<table width="510" border="0" cellpadding="0" cellspacing="0" class="body">
+	<tr>
+	<td class="body"><div align="center">
+	<a href="/">Home Page</a> | <a href="faq.php">FAQs</a> | <a href="site_map.php">Site Map</a> | <a href="about.php">About</a> | <a href="privacy.php">Privacy Policy</a> | <a href="contact_us.php">Contact Us</a> <br>
+	<br>	<span class=footer>
+All content, images, and data &copy; 1998-2011 Where's George? LLC.<br>
+All Rights Reserved. Use of this Web site constitutes<br>
+acceptance of the <script>document.write("<A  HREF=\"javascript:popup_win('rules.php?fr=1',600,800,'yes');\">Terms of Service</a>");</script><noscript><A HREF=rules.php?fr=1 target=_blank>Terms of Service</a></noscript></span>
+</div><br><!-- <a href=http://www.milonic.com/><font color=#ffffff>DHTML Menu By Milonic JavaScript</font></a>--></td></tr></table></td>
+</tr>
+</table>
+	<!-- Start Quantcast tag -->
+	<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+	<script type="text/javascript">_qacct="p-26x3j23aUJBL6";quantserve();</script>
+	<noscript>
+	<a href="http://www.quantcast.com/p-26x3j23aUJBL6" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-26x3j23aUJBL6.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+	</noscript>
+	<!-- End Quantcast tag -->
+</body>
+</html>
+
+==================
+
+start1=10368
+
+start2=10357
+
+end1=10617
+
+end2=10725
+
+<tr class="ybbody" bgcolor="white">	<td align=center>1.</td><td align=center>New Castle</td><td align=center>37</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>2.</td><td align=center>Sussex</td><td align=center>5</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>3.</td><td align=center>Kent</td><td align=center>4</td>
+</tr>
+
+row=>1.</td><td align=center>New Castle</td><td align=center>37</td>
+</tr>
+<tr cla, rank=1,county=New Castle,hits=37
+
+row=>2.</td><td align=center>Sussex</td><td align=center>5</td>
+</tr>
+<tr cla, rank=2,county=Sussex,hits=5
+
+row=>3.</td><td align=center>Kent</td><td align=center>4</td>
+</tr>
+, rank=3,county=Kent,hits=4
+
+Kent #FBF {New Castle} #f11 Sussex #aaf
+37 5 4
+67 34 33
+Kent #FBF {New Castle} #f11 Sussex #aaf
+
+exec -- /usr/bin/convert DE_HIT_MAP.png -fill black -font Arial-Regular -pointsize 13 -linewidth 3 -draw {text 34,48  ' 31 +'} -draw {text 34,65  ' 17 - 30 '} -draw {text 34,82  ' 10 - 16 '} -draw {text 34,99  ' 5 - 9 '} -draw {text 34,116  ' 2 - 4 '} -draw {text 34,133  ' 1 - 1 '} -fill #0f0 -draw {circle 20,77 14,77} -fill #ef0 -draw {circle 20,60 14,60} -fill #FFB -draw {circle 20,128 14,128} -fill #f11 -draw {circle 20,43 14,43} -fill #FBF -draw {circle 20,111 14,111} -fill #aaf -draw {circle 20,94 14,94} -fill black -draw {text 4,14  ' Updated: Wed Jun 22, 2011 09:16:15 EDT '} -fill black -pointsize 13 -draw {text 5,266  'Top 3'} -draw {text 5,282  '37'} -draw {text 38,282  'New Castle'} -draw {text 5,295  '5'} -draw {text 38,295  'Sussex'} -draw {text 5,308  '4'} -draw {text 38,308  'Kent'} -tile fills/xgradient_range#FBF.png -draw {color 300,250 floodfill} -tile fills/xsolid_range#f11.png -draw {color 220,150 floodfill} -tile fills/xsolid_range#aaf.png -draw {color 350,350 floodfill} -resize 640x> -bordercolor #999 -border 1x1 DE_HIT_MAP_Z.png
+after /usr/bin/convert DE_HIT_MAP_Z.png

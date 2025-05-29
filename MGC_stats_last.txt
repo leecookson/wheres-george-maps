@@ -1,0 +1,23 @@
+{Ambler	1
+	} {Cheltenham	2
+	} {Collegeville	2
+	} {Conshohocken	1
+	} {Hatboro	1
+	} {Hatfield	3
+	} {Horsham	3
+	} {Lansdale	2
+	} {Lower Merion	4
+	} {Norristown	4
+	} {North Wales	3
+	} {Pennsburg	1
+	} {Perkiomen	1
+	} {Pottstown	3
+	} {Royersford	2
+	} {Schwenksville	2
+	} {Souderton	1
+	} {Springfield	2
+	} {Telford	2
+	} {Upper Dublin	2
+	} {Upper Merion	3
+	} {Upper Providence	1
+	}

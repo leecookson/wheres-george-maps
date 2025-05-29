@@ -1,0 +1,774 @@
+===================
+GETing=http://www.wheresgeorge.com/ybs.php?hbs=5644
+==================
+
+===================
+input=<html>
+<!--
+#########################################################################################################
+# Start of Where's George?/Where's Willy common header                                                 	#
+# All code, content and images copyright Where's George? LLC 1998-2011          #
+# and can not be used without express, written consent.                                                 #
+#########################################################################################################
+-->
+<head>
+<title>Where's George? &reg; 2.4 Hit Analysis Report</title>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1" />
+<META NAME="Author" CONTENT="Hank Eskin" />
+<META NAME="description" CONTENT="Track US or Canadian dollar bills as they travel across the country. Enter the serial number and zip code to track its past history. Get email when the next person registers your bill! " />
+<META NAME="keywords" CONTENT="wheresgeorge whereswilly WG? WG whereswilly.com wheresgeorge.com track dollar trackdollar trackdollars dollars one bill frb federal reserve banks trace tracing tracking track trace american serial number series denomination bills where is george currency money legal tender" />
+<meta http-equiv="X-UA-Compatible" content="IE=6" />
+
+<link href="http://www.wheresgeorge.com/css_wg.css" rel="stylesheet" type="text/css">
+</head>
+
+<body  bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<SCRIPT language="JavaScript" type="text/javascript">menu_position=225;item_width=72.857142857143;</SCRIPT><!-- ***** This is the section of code you need to paste into your web pages ***** -->
+<script type="text/javascript" src="mmenu/milonic_src.js"></script>
+<script type="text/javascript" src="mmenu/mmenudom.js"></script>
+<!-- The next file contains your menu data, links and menu structure etc -->
+<script type="text/javascript" src="mmenu/menu_wg.js"></script>
+<!-- **** JavaScript Menu HTML Code -->
+<script type="text/javascript">function popup_win(page,h,w,scroll) {rnd=Math.round(Math.random()*10000); if (page.substring(0,22)=='user_profile_popup.php') {h=600;w=800;scroll='yes';}window.open(page,rnd,'toolbar=NO,location=NO,directories=NO,status=NO,menubar=NO,scrollbars='+scroll+',resizable=YES,copyhistory=NO,width='+w+',height='+h+',left=100,top=100');}</script><!-- frame buster -->
+<script language="JavaScript" type="text/javascript">
+  	if (top.location != self.location) {
+	top.location = self.location.href
+	}
+</script><a name="top"></a>
+<!-- main table - full width -->
+<table width="814" border="0" cellspacing="0" cellpadding="0">
+<tr  bgcolor=green><td align=right colspan="3" ><iframe src="http://rcm.amazon.com/e/cm?t=wheresgeorg-20&o=1&p=20&l=ur1&category=kindle&banner=1KNAV7AGS7WAHJ5Z5ER2&f=ifr" width="120" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe><iframe bgcolor="#669933" Allowtransparency="true" src="openads_leaderboard.php" width="728" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe><a target=_blank href="http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2F&tag=wheresgeorg-20&linkCode=ur2&camp=1789&creative=9325"><img src="http://www.assoc-amazon.com/e/ir?t=wheresgeorg-20&l=ur2&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><img border=0 src=images/amazon_120x90.gif></a></td></tr><tr>
+<td colspan="3">
+ <!-- header table - full width -->
+
+<table border="0" height=40 cellpadding="0" cellspacing="0" width="814">
+  <tr >
+    <td width="165"><img src="img_wg/topl.jpg" width="165" height="135" border="0" alt=""></td>
+    <td width="510"   ><img width="510" height="135" src="img_wg/topcN.jpg"  border="0" alt=""></td>
+    <td width="157"><img  src="img_wg/toprN.png" width="157" height="135" border="0" alt=""></td>
+  </tr>
+  <tr>
+    <td width="165"><img name="left1" src="img_wg/left1.jpg" width="165" height="20" border="0" alt=""></td>
+	<td align=left width="510" bgcolor="#666666"><!-- <img name="grey_nav" src="img_wg/grey_nav.gif" width="510" height="20" border="0">--><script>document.write("<img name=\"grey_nav\" src=\"img_wg/grey_nav.gif\" width=\"425\" height=\"20\" border=\"0\">");</script><noscript><span class=tabletitle><b>Your browser has Javascript disabled. Please see the <a href=site_map.php>Site-Map</a> to view all the main menu options.</b></span></noscript></td>
+    <td width="157"><img name="right1" src="img_wg/right1.jpg" width="157" height="20" border="0" alt=""></td>
+  </tr>
+  <tr>
+    <td bgcolor="#669933" width="165"><script>document.write("<A  HREF=\"javascript:popup_win('boss.html',4000,2000,'no');\"><img border=0 name=\"left2\" src=\"img_wg/left2.jpg\" width=\"147\" height=\"47\" border=\"0\" alt=\"\"></a>");</script><noscript><A HREF=boss.html target=_blank><img border=0 name="left2" src="img_wg/left2.jpg" width="147" height="47" border="0" alt=""></a></noscript></td>
+    <!-- start registered user name/profile link  -->
+    <td width="510" bgcolor="#669933" class=topnav>
+	<div width="48%" style="float:left; text-align:left;">
+    <strong>You are currently logged in as&nbsp;<span class=topnav><script>document.write("<A sidenav HREF=\"javascript:popup_win('user_profile_popup.php?ukey=1c48871d2481b356e00789340b46fc0f',0,0,'0');\">Lee</a>");</script><noscript><A HREF=user_profile_popup.php?ukey=1c48871d2481b356e00789340b46fc0f target=_blank>Lee</a></noscript></span></strong></div></div><!-- end registered user name/profile link  -->
+	    <!-- help   -->
+	    <div width="48%" style="float:right; text-align:right"><script>document.write("<A  HREF=\"javascript:popup_win('help.php?args=3f2f9336549f1e7d2f6987e3a9f109ae181221696929eb350fe5fa2797b626c100d6a8b840b59497d10456c4bfb35647c24b9d40c8926dba5430d453065d5abaf6bfb09fa43022d61d8d4ccc1bd2fa44ee00eeb21c3dc436dcbdabd3f1dbb8c4478749938579eb23ba7c2ad49c4f35b05a94e12d9fcd76883e5587d2e6f47c4f4056b36d1249a7fc0100b2574fba2ad6',550,650,'yes');\"><img name=\"template_r3_c3\" src=\"img_wg/help.png\" width=\"142\"  border=\"0\" alt=\"\"></a>");</script><noscript><A HREF=help.php?args=3f2f9336549f1e7d2f6987e3a9f109ae181221696929eb350fe5fa2797b626c100d6a8b840b59497d10456c4bfb35647c24b9d40c8926dba5430d453065d5abaf6bfb09fa43022d61d8d4ccc1bd2fa44ee00eeb21c3dc436dcbdabd3f1dbb8c4478749938579eb23ba7c2ad49c4f35b05a94e12d9fcd76883e5587d2e6f47c4f4056b36d1249a7fc0100b2574fba2ad6 target=_blank><img name="template_r3_c3" src="img_wg/help.png" width="142"  border="0" alt=""></a></noscript></div>
+		<!-- /help --><div style="clear: both;"> </div>
+    </td>
+    <td width="157" bgcolor="#669933"><img name="right2" src="img_wg/right2.jpg" width="157" height="47" border="0" alt=""></td>
+    <!-- end help -->
+  </tr>
+</table>
+<!-- end header table -->
+</td>
+</tr><tr>
+<td width="147" height="100%" valign="top">
+<!-- start LEft hand menu table -->
+<table width="146" height="100%" border="0" cellpadding="0" cellspacing="0" >
+  <tr>
+    <td colspan="3"><img src="img_wg/left3.jpg" width="147" height="14"></td>
+  </tr>
+  <tr valign="top" bgcolor="#FFFFFF">
+    <td height="79" colspan="3" background="img_wg/left4.jpg" class="sidenav">
+<div align="right">
+<a href="/">Home</a><br>
+<a href="/logon.php">Log On</a><br>
+<a href="/register.php">Register</a><br>
+<a href="/main.php#bill">Enter a Bill</a>
+</div></td></tr>
+<tr>
+    <td width="19" valign="top" background="img_wg/left-gutter.png">
+      <table height="100%" width="19" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td>&nbsp;</td>
+        </tr>
+      </table>
+    </td>
+    <td width="127" colspan="2" valign="top" bgcolor="#91CB53">
+          <table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td valign="top" align=right><p class="sidenav"><a href="ybs.php?ybs">Your Bills</a><br>
+<a href="user_prefs.php">User Settings</a><br><a href="user_profile.php">User Profile</a><br><a href="wrapper.php?page=state_profiles">Profiles by State</a><br>
+<a href="zip_hits.php">Zip Code Report</a><br>
+<a href="lostandfound.php">Lost and Found</a><br>
+<a href="lookup.php">Bill Lookup</a><br>
+<a href="logoff.php">Log Off</a><br></p>
+          </td>
+        </tr>
+      </table>
+<br><br><br><br><iframe bgcolor="#99CC66" Allowtransparency="true" src="openads_left_sky.php" width="120" height="600" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe><img src="img_wg/left-nav-bottom.gif"></td>
+  </tr>
+  <tr>
+    <td height="100%" valign="top" background="img_wg/left-gutter.gif">
+    	<table height="100%" width="19" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td height="100%" valign="top">&nbsp;</td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top" background="img_wg/left-gutter-background.gif"><p><img src="img_wg/left-nav-gutter.gif"></p>
+    </td>
+  </tr>
+</table>
+<!-- end Left hand menu table -->
+</td>
+<!-- open td for content -->
+<td style="text-align:left;" width="667" align="left" valign="top" class="body" ><!-- open td for content  --><br><br><br><br><span class=header>Hit Analysis Report</span><a href=/ybs.php?hbs=9540&vs=512>Printer Friendly Version</a><br><center><a href=runner.php?args=5b53915a322902e80492d6e6f1ad4ed6d935353d97251a494f187c36aebba94eb32689b159679261150f0cf27cc1fde19c1d7b31303d0b67e7d946879bc87ed8dd906812c2b3d44dc568ab55aed38ab62863721c1dda0a702446beb7bb8584cb102a3245a373f0bc1f6e42b3f0e82fd53137f57a49a0c1b7911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>*** To REFRESH this report, Click Here ***</a><br>Weekly Refreshes remaining : 1 (out of 7)<br>Your report refresh request is currently: [completed]<br>This Report is current as of: Jun-21-11 12:14 AM<br>
+<TABLE width="50%" cellpadding="2" cellspacing="0" bordercolor="#999999" border=1 class="body">
+<tr class="body" bgcolor="#dddddd">	<td colspan=6><div align=center>Hits by State - USA - <a href=/ybs.php?hbs=9540&vs=2048>Hide</a></div></td>
+</tr>
+<tr class="body" bgcolor="#dddddd">	<td colspan=6><div align=center>You have 3,068 hits in 50 States</div></td>
+</tr>
+<tr class="body" bgcolor="#dddddd">	<td align=center>Rank</td>
+	<td align=center>State</td>
+	<td align=center>Hits by Zip</td>
+	<td align=center>Hits by County</td>
+	<td align=center>Hits by City</td>
+	<td align=center>Hits</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>1.</td>
+	<td align=center>New Jersey (NJ)</td>
+	<td align=center><a href=hbz.php?args=ec8c6bb19e43d103c7b4ce67beafe0b551fa8bcd5e13bfe980598ec96599c2215f32056a788a51f64b7642683d34f082c22c75dd611609c843dab50a4cb7b2cca6405188597596412ce9df39f6474f734e69db4fccd74b751d378869d0969f3944180ba68e545f846f5c4becd8a0778fb017d446aa6d1865d8cff30bc6ef7d137d0e5990d5cc87f1e8d22b11e1a22aa4>&nbsp;&nbsp;338&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=edbe6ff76a9d49aac355112435432f55d9a15b247da82abcf9ee6c52296066a94e09ce8021fd3615fdb0bd580993aaeada553f470fdcbe21437042426959ae6a4aadbef7dd6846852ce9df39f6474f734e69db4fccd74b751d378869d0969f3944180ba68e545f846f5c4becd8a0778fb017d446aa6d1865d8cff30bc6ef7d137d0e5990d5cc87f1e8d22b11e1a22aa4>&nbsp;&nbsp;21/21&nbsp;&nbsp;</a><img src=images/u102.gif alt='Bingo!'></td>
+	<td align=center><a href=hbz.php?args=5cc2ec7e09ff788379b46c380a6afc3b9e475965720970c56ffc5661801c9565f1a5086f333e3a934f7b4039f996ad711fc331457be22754b2351488d380db017056a62a61cf867349b9ac86d4ab7ae2203cfbc6dea5017bbb90bf8cb710d6f0a8670e4cf172fa0a4e63067256ab9053117a2e9f7046b50743b1f97a0252d9aa74016c54b59865e76774efe7b76543d0>&nbsp;&nbsp;301&nbsp;&nbsp;</a></td>
+	<td align=center>1,363</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>2.</td>
+	<td align=center>Pennsylvania (PA)</td>
+	<td align=center><a href=hbz.php?args=fafb235892095ebc2ab66b0dd7e7dadd80453e4a6c32ca8a99fbe0d09da5bdd96a60494a44218380a2914afa8a26244cc22c75dd611609c843dab50a4cb7b2cca640518859759641ac90fa9acd83ed219e8afeba2c745d801df4c0d0a3f15e698fda4dfd4e172819986de73c8030d4367447699a5a12a97bfe9ec0050f33f5050f337ea462650002aef82e154487b1c7>&nbsp;&nbsp;266&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=1c8bca1920964da34273581cd8d7f90d7a8dbf5a79968af4602d8b950f902f88c12b2737da6b6ef0e5063f23384e1ffcda553f470fdcbe21437042426959ae6a4aadbef7dd684685ac90fa9acd83ed219e8afeba2c745d801df4c0d0a3f15e698fda4dfd4e172819986de73c8030d4367447699a5a12a97bfe9ec0050f33f5050f337ea462650002aef82e154487b1c7>&nbsp;&nbsp;43/67&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=8664baa0fd672d1ab6ab54c133ed995d4d2dbc10f42c2235628e4d2b4ebea3802feeea742e7b868da444378b000285ff1fc331457be22754b2351488d380db017056a62a61cf8673bab1827cf0b3839f82141e41f7d73fdc03a2b6931b94415ee67de49d533eb9de71da40cfa80f0749ae5ea3fcb8a285bbacebf16700b3e564ab485a2b1b6e45f3220e884d79f11c76>&nbsp;&nbsp;202&nbsp;&nbsp;</a></td>
+	<td align=center>601</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>3.</td>
+	<td align=center>New York (NY)</td>
+	<td align=center><a href=hbz.php?args=0fb5b029732b9209d052bf6efbe3e00e55c3221d515abc517ad8408b805098ba93986a628d5d8ac5ae1afe38b3681f06c22c75dd611609c843dab50a4cb7b2cca6405188597596415e927868c85e6d32e7e3ac8dcf324b27efdfa1b04c1cfe64f6a3eb04f0954fd33423dd657f0b91b7d18ce440d6d22859fe9ec0050f33f5050f337ea462650002aef82e154487b1c7>&nbsp;&nbsp;229&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=d641b2c4db184c1a06ed4a9375ada61c27ad242802d294cf8ae4e7beed8119ca2c99283bd9e51a1f4b39e1ada07ff0b7da553f470fdcbe21437042426959ae6a4aadbef7dd6846855e927868c85e6d32e7e3ac8dcf324b27efdfa1b04c1cfe64f6a3eb04f0954fd33423dd657f0b91b7d18ce440d6d22859fe9ec0050f33f5050f337ea462650002aef82e154487b1c7>&nbsp;&nbsp;40/62&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=fd9d646a62264ce1ad33cb4e06c75fd15509639d4f90f8dfca4d522145080355973aaec4dc2a4fc56f28af217d5103871fc331457be22754b2351488d380db017056a62a61cf86733b82a171ed224d553d33650eb019d11a8d37c0c1cc0dd05fc14247a6598428be8ea016f8e34d3039253d87a181384607acebf16700b3e564ab485a2b1b6e45f3220e884d79f11c76>&nbsp;&nbsp;155&nbsp;&nbsp;</a></td>
+	<td align=center>333</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>4.</td>
+	<td align=center>Maryland (MD)</td>
+	<td align=center><a href=hbz.php?args=c4c53ababb76da231d6c5f2301557345e535af736278d4dbfaa4bbe920fa5671c497644109ef16d8a5c8871ef40e2e46c22c75dd611609c843dab50a4cb7b2cca640518859759641b28050aa6e9b8c441c71564eecb0df372522ec58e66fdebdf690d1387143f785a2dc39ab774747ceaf3c36ddad7d581de16641c3f2cbadfbbcbb1a556ba928d517a962d2e73f8dc3>&nbsp;&nbsp;66&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=fe8130a793b61aa02cee378356ccee9229246f13b21de6031c266e34a210f7e512ad6a804ab267ffc6f601575f8f375fda553f470fdcbe21437042426959ae6a4aadbef7dd684685b28050aa6e9b8c441c71564eecb0df372522ec58e66fdebdf690d1387143f785a2dc39ab774747ceaf3c36ddad7d581de16641c3f2cbadfbbcbb1a556ba928d517a962d2e73f8dc3>&nbsp;&nbsp;22/24&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=29ee27687bf7ef71f7a31e2417c74616fbb618c406af421a222a7501dc730864e68e5ddb2739d6462ff33daff0ed09971fc331457be22754b2351488d380db017056a62a61cf8673cf55f45cf6b9bf66b9f9dda0c26c79f16fac952aaa87f66a2333722e0131f53d3d60d2faa82a85041267f9ab3158efcd567743d1d1d5a0a3674f1626b52b9c09afdb78c3d230d423>&nbsp;&nbsp;55&nbsp;&nbsp;</a></td>
+	<td align=center>83</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>5.</td>
+	<td align=center>California (CA)</td>
+	<td align=center><a href=hbz.php?args=22499236ada94864e93a0ff6bbb348e27a5db3ebc0a2a3ce007459864e38604929bcfcb99153503dbbfc1a0ad917da9bc22c75dd611609c843dab50a4cb7b2cca640518859759641ae43ec5cbe9acdb212f1b4821b586fca5f533f23d5e962cc181d28186e442c01f2f336f3da3b5ef2bbc77a5cb7f27b3ee16641c3f2cbadfbbcbb1a556ba928d517a962d2e73f8dc3>&nbsp;&nbsp;64&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=f1aaa1c4fd7aacbc61dd7289349104601776ee0e391277bccdad8f3ef40b98e58c0cc68d96ba2828b27e4ceea41f06d5da553f470fdcbe21437042426959ae6a4aadbef7dd684685ae43ec5cbe9acdb212f1b4821b586fca5f533f23d5e962cc181d28186e442c01f2f336f3da3b5ef2bbc77a5cb7f27b3ee16641c3f2cbadfbbcbb1a556ba928d517a962d2e73f8dc3>&nbsp;&nbsp;20/58&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=83d584b36d6f55f3b2141bb179e773e0b41d454ba550050b81fc101da863eab330c0169a09a8a44f0975c4ea64842c7d1fc331457be22754b2351488d380db017056a62a61cf86735eb05974fc984b9844e81870cb59e0069db7c31e8fce7ed3593d3d9efb67fbbfb3bb24f6e6201f3c01377ccb6d236173567743d1d1d5a0a3674f1626b52b9c09afdb78c3d230d423>&nbsp;&nbsp;56&nbsp;&nbsp;</a></td>
+	<td align=center>74</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>6.</td>
+	<td align=center>Massachusetts (MA)</td>
+	<td align=center><a href=hbz.php?args=ba865ab1104e0390bc6ce4ad18dfd54d118f28d6ff336bf852ae0b949643e3e4b660c9bea12e36f398005fa4545b6120c22c75dd611609c843dab50a4cb7b2cca640518859759641ac8cce3ffd7c9485cd72b23222d1e0fb228b1d404a760968d58a46e95741057d27e72e8735a85ce6a86134db53e66364e16641c3f2cbadfbbcbb1a556ba928d517a962d2e73f8dc3>&nbsp;&nbsp;60&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=a7c7762f4a7df1744f289692820997c854da5f5c6d3c8b5eebac6b364368a1666a341f4ca2ba989ec063b1dc605616b9da553f470fdcbe21437042426959ae6a4aadbef7dd684685ac8cce3ffd7c9485cd72b23222d1e0fb228b1d404a760968d58a46e95741057d27e72e8735a85ce6a86134db53e66364e16641c3f2cbadfbbcbb1a556ba928d517a962d2e73f8dc3>&nbsp;&nbsp;11/14&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=570a900fa67284757b201ee49c9ddced4f9660935a02a949430187120fd70ceb8ab6b0e22b9a6dfe3fac4d7f35170a7d1fc331457be22754b2351488d380db017056a62a61cf867305b5e01a2b80a33bb26415480139febd32e9f2dedd2f22b41196f9e1c897af1bfb8d077cbeed1f9f9cacee8f59c3f7fa567743d1d1d5a0a3674f1626b52b9c09afdb78c3d230d423>&nbsp;&nbsp;57&nbsp;&nbsp;</a></td>
+	<td align=center>72</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>7.</td>
+	<td align=center>Florida (FL)</td>
+	<td align=center><a href=hbz.php?args=8ee3a12b76c186ee58e1a260cc36eb15d683b35ecc9bd40c27bb4c479aae9aa23c088870ec0faa6b972d3830c8c10cfcc22c75dd611609c843dab50a4cb7b2cca6405188597596416f0bf5b9ce5c91f5af17f035bc6201922b168c1139f751bf828373e9ac63228b5d1d895e5b8c5681e948a1947d2492b3e16641c3f2cbadfbbcbb1a556ba928d517a962d2e73f8dc3>&nbsp;&nbsp;64&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=0eb06f3317477478d35328781077c6275ab7f15d0331a09c98d2d811b59eb21365c74348a2024d1c0574b7b92b8867e2da553f470fdcbe21437042426959ae6a4aadbef7dd6846856f0bf5b9ce5c91f5af17f035bc6201922b168c1139f751bf828373e9ac63228b5d1d895e5b8c5681e948a1947d2492b3e16641c3f2cbadfbbcbb1a556ba928d517a962d2e73f8dc3>&nbsp;&nbsp;26/67&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=4b96da48908306e07043b293e587ff3beb5a581db72a15bc6f6afcba1f9675397a8aab4a9c519d420f7ee0e0d93455761fc331457be22754b2351488d380db017056a62a61cf86731273608164e549a183881b6f2fdbe7a0de384506fbda60c4264339162a1d46df608f53ad2e2229a3df5943aa1d406583567743d1d1d5a0a3674f1626b52b9c09afdb78c3d230d423>&nbsp;&nbsp;46&nbsp;&nbsp;</a></td>
+	<td align=center>67</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>8.</td>
+	<td align=center>Connecticut (CT)</td>
+	<td align=center><a href=hbz.php?args=695c3f153578348a94a6f9c4379b1be2686aa0d7e9ce3fb4fe4af5c61efee1b87b787e8e1c65c218e116d8dcb65492c9c22c75dd611609c843dab50a4cb7b2cca640518859759641e34b1404f2c07e2711113b7c7dd4ef3473fa56ab0d65e38c22126e5b7ad58c715205fd60e3302b645f7a3cf0cfdfdcf7e16641c3f2cbadfbbcbb1a556ba928d517a962d2e73f8dc3>&nbsp;&nbsp;45&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=b2c8acd7998e4848ac6eb51d5ba96db6dca7092e65a4f69bab7fbdf0af14940870d538ac165755c6f5933ed2e2fa8e2cda553f470fdcbe21437042426959ae6a4aadbef7dd684685e34b1404f2c07e2711113b7c7dd4ef3473fa56ab0d65e38c22126e5b7ad58c715205fd60e3302b645f7a3cf0cfdfdcf7e16641c3f2cbadfbbcbb1a556ba928d517a962d2e73f8dc3>&nbsp;&nbsp;8/8&nbsp;&nbsp;</a><img src=images/u102.gif alt='Bingo!'></td>
+	<td align=center><a href=hbz.php?args=0ef9d28fc51954373ccc9cbeb1014d33af65037cf7d414a4923c9f23339847aa46dc99a9a33b1a8b5f35f836709834861fc331457be22754b2351488d380db017056a62a61cf86736a4882d1a8756bdbe1657302afc18b84a7ad688f1c44c94b271e6e003abbfb8e1ff5e6099d960487323580d885b0a9bb567743d1d1d5a0a3674f1626b52b9c09afdb78c3d230d423>&nbsp;&nbsp;38&nbsp;&nbsp;</a></td>
+	<td align=center>56</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>9.</td>
+	<td align=center>Delaware (DE)</td>
+	<td align=center><a href=hbz.php?args=8a31502591140e5f614dcc4a87add5995b72fa3256ad50ea054f2a4ccb87958eb74386cd0ef1311e501c473c23811fbdc22c75dd611609c843dab50a4cb7b2cca64051885975964161b04ee56970fbf35725316213df248e5f2c44b65a8d4fc1a4824cd8141eab7885c94f3346cf258fbdd988e6ca40e1e5e16641c3f2cbadfbbcbb1a556ba928d517a962d2e73f8dc3>&nbsp;&nbsp;24&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=a5bb8973e4ab872887b07a8009f58d82987229d3a1047d87282471d7d04772c15252a3250aede0b6a9379a18996a02c8da553f470fdcbe21437042426959ae6a4aadbef7dd68468561b04ee56970fbf35725316213df248e5f2c44b65a8d4fc1a4824cd8141eab7885c94f3346cf258fbdd988e6ca40e1e5e16641c3f2cbadfbbcbb1a556ba928d517a962d2e73f8dc3>&nbsp;&nbsp;3/3&nbsp;&nbsp;</a><img src=images/u102.gif alt='Bingo!'></td>
+	<td align=center><a href=hbz.php?args=bffd0f156b720bc2600eae19f4f2ad85d8ac544341c74e353ad8dbece2d1af090bec021e4b9e517c13de398272e886a71fc331457be22754b2351488d380db017056a62a61cf8673209f777acdbbb6e1eb7e9373b1a04054b3af4d019314fae5e46cb2a2ca7257f5fe7e2b78979e5b4f2dbdf7d7f497e56b567743d1d1d5a0a3674f1626b52b9c09afdb78c3d230d423>&nbsp;&nbsp;13&nbsp;&nbsp;</a></td>
+	<td align=center>46</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>10.</td>
+	<td align=center>Virginia (VA)</td>
+	<td align=center><a href=hbz.php?args=b693225abf36f03ac11b9526b211d0eb15acd9c8193138357db8cfb12604bc075093ed46f9f0dd635f58ac1f4980bf93c22c75dd611609c843dab50a4cb7b2cca6405188597596418070fdd2f7c61273c247433e5bb14247e458e90f9c2a02aed96fc28dfc6a4b97fd2ce415451fe020f29bcca1c49a365be16641c3f2cbadfbbcbb1a556ba928d517a962d2e73f8dc3>&nbsp;&nbsp;38&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=52a4969afc848e41a0490f7bb5fcb7bb43b6e1b02929db7d95392613eb21ec59305f7ff74308e582e1166c2dc94a031eda553f470fdcbe21437042426959ae6a4aadbef7dd6846858070fdd2f7c61273c247433e5bb14247e458e90f9c2a02aed96fc28dfc6a4b97fd2ce415451fe020f29bcca1c49a365be16641c3f2cbadfbbcbb1a556ba928d517a962d2e73f8dc3>&nbsp;&nbsp;25/134&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=cc8d9662b383d3d22ad593184322d61ad53c01958560106d8f6aff6ccee82987d466a47b54b16576c49f0c0a20f54ada1fc331457be22754b2351488d380db017056a62a61cf8673a5c4e2554a93d51507a2f16f1ffa3054ceae895c44a022fe340ed09cfaade3d484a573f2d26528b676105b35952a7735567743d1d1d5a0a3674f1626b52b9c09afdb78c3d230d423>&nbsp;&nbsp;31&nbsp;&nbsp;</a></td>
+	<td align=center>43</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>11.</td>
+	<td align=center>North Carolina (NC)</td>
+	<td align=center><a href=hbz.php?args=98ed9381722558775e5738786627848cd2b1a135f04f5f375d1f831452f6e3c1e1f784694b8b36553ac953b3b76a7ca1c22c75dd611609c843dab50a4cb7b2cca64051885975964161c848cf4c5e543019c8333dfa8f902ff32746aaa38440348fb1efa4833b1ea5a8841bb39b322e0870055d318dcf7edde16641c3f2cbadfbbcbb1a556ba928d517a962d2e73f8dc3>&nbsp;&nbsp;29&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=3c183226048051e44e420cf89566846052863fbdb2a6e9a27f8354b633a817b5902e59a10782b4780e9cc4c0d0ff2b23da553f470fdcbe21437042426959ae6a4aadbef7dd68468561c848cf4c5e543019c8333dfa8f902ff32746aaa38440348fb1efa4833b1ea5a8841bb39b322e0870055d318dcf7edde16641c3f2cbadfbbcbb1a556ba928d517a962d2e73f8dc3>&nbsp;&nbsp;20/100&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=0c65f54a5523c74763b87eaf990986e19e6b39ff5c2d8269d0ff09348a0b02ffd225c0ea406578cef2299b387c4a3bbf1fc331457be22754b2351488d380db017056a62a61cf86738eff3d0fcf4cc51e4023e926b43910e6547c30fe560d3601ddf1516e982133cf181c39f564b4262de22eda6fbc7e9917567743d1d1d5a0a3674f1626b52b9c09afdb78c3d230d423>&nbsp;&nbsp;25&nbsp;&nbsp;</a></td>
+	<td align=center>30</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>12.</td>
+	<td align=center>Ohio (OH)</td>
+	<td align=center><a href=hbz.php?args=65baa142f1feb83af263dff57c522d13fd03bda42359580e0fc71f973aea631ef06e568e9492e2015759555ce4c2c435c22c75dd611609c843dab50a4cb7b2cca640518859759641163fe4af54a5e1735a44eab4246bb6f7dce02f081e007aeedabee8e390356d31bda85b350763d5dff28083bb4d50b708e16641c3f2cbadfbbcbb1a556ba928d517a962d2e73f8dc3>&nbsp;&nbsp;26&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=7e562552049bb0fa823b84690a397221868cf952d04d127cfdc0e5ff825784b7348e6cfea9e64d1a9ff566dbbfcbd1e1da553f470fdcbe21437042426959ae6a4aadbef7dd684685163fe4af54a5e1735a44eab4246bb6f7dce02f081e007aeedabee8e390356d31bda85b350763d5dff28083bb4d50b708e16641c3f2cbadfbbcbb1a556ba928d517a962d2e73f8dc3>&nbsp;&nbsp;15/88&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=4ec5e0cb35869fe7213e26f5c1a64d0dd20f9ca7c7bb69593c1f3d50245fd97f9e6594b7664914e1466618f9b630e3811fc331457be22754b2351488d380db017056a62a61cf8673c4017cc743207bc81bbb6ba44d82906643000be468756f52c23007bc0819ec68608ca02935a449659622b186e5f02961567743d1d1d5a0a3674f1626b52b9c09afdb78c3d230d423>&nbsp;&nbsp;22&nbsp;&nbsp;</a></td>
+	<td align=center>29</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>13.</td>
+	<td align=center>Illinois (IL)</td>
+	<td align=center><a href=hbz.php?args=2faf15832a8ca89b1e153d2d9c56dcab5431b7b5e1da68df299e8730b99e825267b852438be1988cf7f646abd38123c1c22c75dd611609c843dab50a4cb7b2cca64051885975964141d4e4db509307fb0c94c8f8b32dad8252697ce92ad27490bc4893d20ad994eecca4b36eedeaf66f9fa1d5fa44313f75e16641c3f2cbadfbbcbb1a556ba928d517a962d2e73f8dc3>&nbsp;&nbsp;28&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=f3eea6d68f5631ddb782967e9cb7114c0adf3bcade9b48a142bf5ed6d228ea1f8888c46ac7cd902ea60cefd6ca648052da553f470fdcbe21437042426959ae6a4aadbef7dd68468541d4e4db509307fb0c94c8f8b32dad8252697ce92ad27490bc4893d20ad994eecca4b36eedeaf66f9fa1d5fa44313f75e16641c3f2cbadfbbcbb1a556ba928d517a962d2e73f8dc3>&nbsp;&nbsp;16/102&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=3a389d453b40c1157c7a7ad0c8d40c1f6a22eec0ee3c62257f5f93f66e94e9bd69e6fc43cfa22651db749730a674608b1fc331457be22754b2351488d380db017056a62a61cf86734ce63a9b8de7f94f3a335f65a86bf280945977a11c3be1eb16c618f470d53dbe3ac81f627c4610bb09e903e8a1ae1c37567743d1d1d5a0a3674f1626b52b9c09afdb78c3d230d423>&nbsp;&nbsp;25&nbsp;&nbsp;</a></td>
+	<td align=center>28</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>14.</td>
+	<td align=center>Texas (TX)</td>
+	<td align=center><a href=hbz.php?args=48786bfc25f57f772014886dd6c60c96f32144bd1aa7314234c95bf85e2ca72721f7d9d60807abb24108c411dbed4806c22c75dd611609c843dab50a4cb7b2cca640518859759641471fab47d18ec7b4b71fda14e38b889c6c79e190a7c8bed23ebdebf4689237f4bfd601e2220526b0677523c0febd552ae16641c3f2cbadfbbcbb1a556ba928d517a962d2e73f8dc3>&nbsp;&nbsp;22&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=0d8fa64cd996bfa246d5be8a9e295fc2cd9a7393a6269d43cb593fe1131423f71f3e1d97f66ae3c205027512b67e0fb2da553f470fdcbe21437042426959ae6a4aadbef7dd684685471fab47d18ec7b4b71fda14e38b889c6c79e190a7c8bed23ebdebf4689237f4bfd601e2220526b0677523c0febd552ae16641c3f2cbadfbbcbb1a556ba928d517a962d2e73f8dc3>&nbsp;&nbsp;14/254&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=ece981475e77697a8c5b39b3946c6adadfadb2aaaedcf11b0675847861efdae787b7e8d59b57fc5c5d736623392e6df21fc331457be22754b2351488d380db017056a62a61cf8673e5b9ffedd134f487c40a14801c488a56f9177e257a9d9cda96a35a41feed96f90c05f8048a2f5686015734afba9ebf3f567743d1d1d5a0a3674f1626b52b9c09afdb78c3d230d423>&nbsp;&nbsp;17&nbsp;&nbsp;</a></td>
+	<td align=center>22</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>15.</td>
+	<td align=center>Michigan (MI)</td>
+	<td align=center><a href=hbz.php?args=c189c6809fd480288686105a7941de485d47f4ab278c16e9274d2f942be7277b7299423c8be5181161ba93078b78a2b8c22c75dd611609c843dab50a4cb7b2cca6405188597596418c035633326e28ca21a4fe7c0472f38544758b71de57ae413ebdebf4689237f4bfd601e2220526b0677523c0febd552ae16641c3f2cbadfbbcbb1a556ba928d517a962d2e73f8dc3>&nbsp;&nbsp;20&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=467e9fcd731c3bb9e001fe5e6ad268a2f692120388a7c2a95a13a8f5bcb5ba9330af81e389bd1c6d736ea355d4d0ed6eda553f470fdcbe21437042426959ae6a4aadbef7dd6846858c035633326e28ca21a4fe7c0472f38544758b71de57ae413ebdebf4689237f4bfd601e2220526b0677523c0febd552ae16641c3f2cbadfbbcbb1a556ba928d517a962d2e73f8dc3>&nbsp;&nbsp;13/83&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=0052123231d15215052bbc53bec1e44e326152a951a428d47894d69dd382fe695646aeb25ccf8ed8fd1f2fed8b4a99101fc331457be22754b2351488d380db017056a62a61cf86736c96e95e19304ee8b9fae589d6aa323b2cd98a6f478b253696a35a41feed96f90c05f8048a2f5686015734afba9ebf3f567743d1d1d5a0a3674f1626b52b9c09afdb78c3d230d423>&nbsp;&nbsp;19&nbsp;&nbsp;</a></td>
+	<td align=center>22</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>16.</td>
+	<td align=center>Georgia (GA)</td>
+	<td align=center><a href=hbz.php?args=c1c0568ade100796030ca813a9c7bfb4554bb421b00506f4f6979f5f95db67eb58ed9e4723a9a2a2ae80849fc7ca9a90c22c75dd611609c843dab50a4cb7b2cca6405188597596411ee55c2b33e038656068c0e25a1bc140fe4290b231ddfe0eabb4c7a363ad3319de9be4a8d0f61950f087edae6c6ff4b7e16641c3f2cbadfbbcbb1a556ba928d517a962d2e73f8dc3>&nbsp;&nbsp;17&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=3b41d81a8051c17b162a49115d98f6c07db3f08905f1ae53973314dd36ac3c7a5ac6b8228a3b21a5bb14aa1a610e8d1cda553f470fdcbe21437042426959ae6a4aadbef7dd6846851ee55c2b33e038656068c0e25a1bc140fe4290b231ddfe0eabb4c7a363ad3319de9be4a8d0f61950f087edae6c6ff4b7e16641c3f2cbadfbbcbb1a556ba928d517a962d2e73f8dc3>&nbsp;&nbsp;14/159&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=8c4ced60685d0ee57e443fbbb05300686b8035ecd760f197f78c39798206c3be3f34401addfcb9126e5bf52cc6c4b1a01fc331457be22754b2351488d380db017056a62a61cf86732c546492f29d6e6e7c17eb6a9fb569d8bf20797bcd7f89cc25ff3585fafe7e9d19d7875f442b3685f42a098cfbca9620567743d1d1d5a0a3674f1626b52b9c09afdb78c3d230d423>&nbsp;&nbsp;13&nbsp;&nbsp;</a></td>
+	<td align=center>18</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>17.</td>
+	<td align=center>Maine (ME)</td>
+	<td align=center><a href=hbz.php?args=fc427e7fb8b16cb926d6169e4c52172da83e7b84dcf33241146fa1a08404c9621534881ef5de51ee8c145341452942efc22c75dd611609c843dab50a4cb7b2cca640518859759641a15b9e844f74753697d4790c80feee3505ce9eca464a6e03abb4c7a363ad3319de9be4a8d0f61950f087edae6c6ff4b7e16641c3f2cbadfbbcbb1a556ba928d517a962d2e73f8dc3>&nbsp;&nbsp;17&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=4b40b633f60e78a37453f27e6ec2421497ded1ee8bd754083b7006f14788641f6d5ecfa37eba81f04401cdde8cbb27bbda553f470fdcbe21437042426959ae6a4aadbef7dd684685a15b9e844f74753697d4790c80feee3505ce9eca464a6e03abb4c7a363ad3319de9be4a8d0f61950f087edae6c6ff4b7e16641c3f2cbadfbbcbb1a556ba928d517a962d2e73f8dc3>&nbsp;&nbsp;9/16&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=4d25da682c0c2c0d5b0401f3ed35bd58d8bef2e196e9bba34b7497bafdf2f752b38432d342a1cdb306ada94a374451d21fc331457be22754b2351488d380db017056a62a61cf8673f4c236a350ca9070149d92e53434cc17c62e1fd2c72270a825ff3585fafe7e9d19d7875f442b3685f42a098cfbca9620567743d1d1d5a0a3674f1626b52b9c09afdb78c3d230d423>&nbsp;&nbsp;17&nbsp;&nbsp;</a></td>
+	<td align=center>18</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>18.</td>
+	<td align=center>Tennessee (TN)</td>
+	<td align=center><a href=hbz.php?args=07b908b54d5169a4db667c311923ec710a768d74090089fb82d2ec1a5d0472766a831a713e68b9be22b54323c364dc7cc22c75dd611609c843dab50a4cb7b2cca640518859759641003f90a1544a09b20db8a077b7941d5a5d371d254bac62954d7cc353343f169b9d9f3b7077b7669bc2975b52eba8a7dfe16641c3f2cbadfbbcbb1a556ba928d517a962d2e73f8dc3>&nbsp;&nbsp;13&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=2248afd0e5244bcdea8ac6b474e128a9a5da806f0d22da68fe25c53e1e19db17941203c552385fe08ffb9bcc9da74ecada553f470fdcbe21437042426959ae6a4aadbef7dd684685003f90a1544a09b20db8a077b7941d5a5d371d254bac62954d7cc353343f169b9d9f3b7077b7669bc2975b52eba8a7dfe16641c3f2cbadfbbcbb1a556ba928d517a962d2e73f8dc3>&nbsp;&nbsp;11/95&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=83db3020f85feb9a7420e95d1ca51c61e31dcd5687d6ffe9fb2b6d597ee4f72de297aff201be9206bf4c20fd24f119ac1fc331457be22754b2351488d380db017056a62a61cf86733a741dd75ef634df02186028bd6390f90ca81b27f946abd0a4e5520eea0ec9c0a4c490c2fa65e5bd46ce1ce536e9b25c567743d1d1d5a0a3674f1626b52b9c09afdb78c3d230d423>&nbsp;&nbsp;12&nbsp;&nbsp;</a></td>
+	<td align=center>13</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>19.</td>
+	<td align=center>New Hampshire (NH)</td>
+	<td align=center><a href=hbz.php?args=56466acea5063bee71053bc197f110c280e062ab4b4be951e3be7ab9633b334552fe55ea16b4388f25c6454b9e12ac24c22c75dd611609c843dab50a4cb7b2cca6405188597596417ec14e01b7777ddd6c58ee5ad4c32e6cf9e420227b7227a34d7cc353343f169b9d9f3b7077b7669bc2975b52eba8a7dfe16641c3f2cbadfbbcbb1a556ba928d517a962d2e73f8dc3>&nbsp;&nbsp;13&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=adb60a0f73caf0dea8c606b5acfd21ab104551fa8562f5c29ad6ae308ce8cf2425ac05a68e0db9b3a648d2d66dae6ffbda553f470fdcbe21437042426959ae6a4aadbef7dd6846857ec14e01b7777ddd6c58ee5ad4c32e6cf9e420227b7227a34d7cc353343f169b9d9f3b7077b7669bc2975b52eba8a7dfe16641c3f2cbadfbbcbb1a556ba928d517a962d2e73f8dc3>&nbsp;&nbsp;7/10&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=77badbe3b21a0e6c78045de07b95368fa6bbae0868128d7dc374e677a5dcc150092efac3b4219725aae66e6986fd56c11fc331457be22754b2351488d380db017056a62a61cf8673d5b2c8320c9d77dbc0c77d3ae84b5b32a0d08d13384e3443a4e5520eea0ec9c0a4c490c2fa65e5bd46ce1ce536e9b25c567743d1d1d5a0a3674f1626b52b9c09afdb78c3d230d423>&nbsp;&nbsp;13&nbsp;&nbsp;</a></td>
+	<td align=center>13</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>20.</td>
+	<td align=center>Rhode Island (RI)</td>
+	<td align=center><a href=hbz.php?args=a076ed11f694c94b2c43e5f5b7887c223f0c88f77ec9e83db4c0a4faf9ad27ab0a2a593c9b9f456d43da4174adcaac6dc22c75dd611609c843dab50a4cb7b2cca640518859759641c0dc8b18da3f7fac2201f901ee83b6e0483ecb967a9712a31949df51ac4a8c7e6e76ce8a40055fe44c94db949f940563e16641c3f2cbadfbbcbb1a556ba928d517a962d2e73f8dc3>&nbsp;&nbsp;9&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=a156391b34038c0af6ebfc660a0d5d289ab24803d74f92ed95203c9619e4cff12f7371abbf497fcf89977164b926c9a5da553f470fdcbe21437042426959ae6a4aadbef7dd684685c0dc8b18da3f7fac2201f901ee83b6e0483ecb967a9712a31949df51ac4a8c7e6e76ce8a40055fe44c94db949f940563e16641c3f2cbadfbbcbb1a556ba928d517a962d2e73f8dc3>&nbsp;&nbsp;4/5&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=cf26919db5ad0bf72cfe6ec9f85747eafbcf89c0be107e2db8282e4e24383dbcf3a24c4f9c401d7951a8b4d3678464081fc331457be22754b2351488d380db017056a62a61cf86736197dc55a6112ac0228aebcadc9f307e67086ade26eba4b2c1a0b8b7299c23b4dde6440a1dc074fc43d9d31d529a7117567743d1d1d5a0a3674f1626b52b9c09afdb78c3d230d423>&nbsp;&nbsp;9&nbsp;&nbsp;</a></td>
+	<td align=center>11</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>21.</td>
+	<td align=center>Wisconsin (WI)</td>
+	<td align=center><a href=hbz.php?args=a455bd79bbfbf180d94e7bfd3a233283b1b140ecb66fdc459ae72348e1baa954b846c20b3d08d8afe98576e48a84f975c22c75dd611609c843dab50a4cb7b2cca640518859759641f18c82e83ed5e5a994234205ad03949b86a91e3c201448a6d83db44c0e2516fd7fc991ca1c39479097a31dd1a504af4fe16641c3f2cbadfbbcbb1a556ba928d517a962d2e73f8dc3>&nbsp;&nbsp;9&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=e9299fe9dc1d380b2983d13c1f3183bd05ec8bfd8f2adb85d3f4bc7643870689ec0b22d86dc198e546a4103dc3736dafda553f470fdcbe21437042426959ae6a4aadbef7dd684685f18c82e83ed5e5a994234205ad03949b86a91e3c201448a6d83db44c0e2516fd7fc991ca1c39479097a31dd1a504af4fe16641c3f2cbadfbbcbb1a556ba928d517a962d2e73f8dc3>&nbsp;&nbsp;7/72&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=015109437eec843ac31212c342b2199395f76530574b04854873f1a9c01c7b9c05e09bcd64d75abd11d8de033883c1a21fc331457be22754b2351488d380db017056a62a61cf86739f8a4d43faca58c5df1d4586cf7f8061bb5301e5652e8af3049bd26d3cd4974c2539aa1eb7d576bbd4b1229c5c45d3e0567743d1d1d5a0a3674f1626b52b9c09afdb78c3d230d423>&nbsp;&nbsp;7&nbsp;&nbsp;</a></td>
+	<td align=center>10</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>22.</td>
+	<td align=center>Indiana (IN)</td>
+	<td align=center><a href=hbz.php?args=424e4abaccc5527b02017c252f324e165d348b92a94d99bdd738202fe1adc5ba719380a5161773b239549d9c471dd6d6c22c75dd611609c843dab50a4cb7b2cca640518859759641ff8b306eed947bad5c1957d6bd8f7e661c866e46bfb03ae00e0e8db288e8abec6a46ca8499e7868c13b2e5e5970681dd911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;9&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=ad5fad8cef3e2543032d0b5ac757b50b9e97315ada5366cdff7a95b76579b7c60b3371c6f4c1b94f521a320ce3adb589da553f470fdcbe21437042426959ae6a4aadbef7dd684685ff8b306eed947bad5c1957d6bd8f7e661c866e46bfb03ae00e0e8db288e8abec6a46ca8499e7868c13b2e5e5970681dd911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;8/92&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=e6831dcad7eb7d3066bbc81d32898f88e8cb6c8b22b9927d5d62d2467d7178b51ddb784a5adc4660bfba4ddfc7285f461fc331457be22754b2351488d380db017056a62a61cf86737551151038c74cdc4fbe3365b8a386ea012e99a6ce7ed8ae5c38fadf42bb47572b6c32eb786b44e164c8505dda2578ead8cff30bc6ef7d137d0e5990d5cc87f1e8d22b11e1a22aa4>&nbsp;&nbsp;8&nbsp;&nbsp;</a></td>
+	<td align=center>9</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>23.</td>
+	<td align=center>West Virginia (WV)</td>
+	<td align=center><a href=hbz.php?args=631a36b04ba8050a2396b0ffecbc35bd5ff4e0c961622ba2709d7a0d2751e9d885e1100a96ec6b7c8d6363efaa78f49ec22c75dd611609c843dab50a4cb7b2cca640518859759641c2bfeea707548dc1b6ede8176cc57e397eb2edee7b6990cf56fac49430bfe93ce300f32d8a1bfc75f4e6adc02a810767911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;8&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=9ce4d1e32d174a6311f8bfe4343eaf43fb34683be402b59b664f5c102ac3f9e9ab5fb1bb54a9ffe269e3cf8a3c4f9701da553f470fdcbe21437042426959ae6a4aadbef7dd684685c2bfeea707548dc1b6ede8176cc57e397eb2edee7b6990cf56fac49430bfe93ce300f32d8a1bfc75f4e6adc02a810767911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;8/55&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=c6aa856cd6bce3e742a6978d573753593a3cc5140787cf43679abb34de00d20379c7d875aa7448de8d6647d7aeded03e1fc331457be22754b2351488d380db017056a62a61cf8673750114ef77f7f43747b059e279c6d759804db035ddb197c229fcc1dfa1bed0e29911c53a9b907c4fa9fd181656394f63d8cff30bc6ef7d137d0e5990d5cc87f1e8d22b11e1a22aa4>&nbsp;&nbsp;8&nbsp;&nbsp;</a></td>
+	<td align=center>8</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>24.</td>
+	<td align=center>Vermont (VT)</td>
+	<td align=center><a href=hbz.php?args=f944ab6de573e66aa0709a3f134e555d4607b7aefa44bd58a2ee9f47c66f830fcf3ecaef8525bb98dd7576ac84a75ec2c22c75dd611609c843dab50a4cb7b2cca640518859759641ca1480d623b5b59952be7faf2419c3d50b28c21b8b1a86be56fac49430bfe93ce300f32d8a1bfc75f4e6adc02a810767911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;7&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=0f243280025cdee5be13b7cdc1d004c562d713e5c00e83e8354ba75e141f9f296a45a3e6108a9ac1793e0f718de0dbd8da553f470fdcbe21437042426959ae6a4aadbef7dd684685ca1480d623b5b59952be7faf2419c3d50b28c21b8b1a86be56fac49430bfe93ce300f32d8a1bfc75f4e6adc02a810767911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;5/14&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=57e56f2b506cde65df0f6fe315f7612170a8a71eae08ad579892751f55521e86a7c893ffadb2563a537d40984aad6e771fc331457be22754b2351488d380db017056a62a61cf8673c37342ac850e8bd4b138a063872b5321ac9252ac81f7cf2129fcc1dfa1bed0e29911c53a9b907c4fa9fd181656394f63d8cff30bc6ef7d137d0e5990d5cc87f1e8d22b11e1a22aa4>&nbsp;&nbsp;7&nbsp;&nbsp;</a></td>
+	<td align=center>8</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>25.</td>
+	<td align=center>Missouri (MO)</td>
+	<td align=center><a href=hbz.php?args=834061ff03de2ea4dfaae18d777cb49e1752d1579b1d9a89bb7596acbd3cee0eb5155743a0b0f2bfadcbe2421629ec16c22c75dd611609c843dab50a4cb7b2cca640518859759641299082cc1aadf9501ff902d317c6b0705c70e999c9c1929156fac49430bfe93ce300f32d8a1bfc75f4e6adc02a810767911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;8&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=bf5e9cf07dc01af7d0bc18d46cd73b728e36037aa2fa33e716531509ca76bc4119527a0b6cafff0fe5566bf557b548c6da553f470fdcbe21437042426959ae6a4aadbef7dd684685299082cc1aadf9501ff902d317c6b0705c70e999c9c1929156fac49430bfe93ce300f32d8a1bfc75f4e6adc02a810767911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;6/115&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=4840eb14b967eed72ae6440e51a845f7fa98389ad965ce4742883155306b75b54f57f72f5c6218013d789f7dc48652ec1fc331457be22754b2351488d380db017056a62a61cf867391b4b299517605377108f2590462234eea4a30c8ff1a4a2b29fcc1dfa1bed0e29911c53a9b907c4fa9fd181656394f63d8cff30bc6ef7d137d0e5990d5cc87f1e8d22b11e1a22aa4>&nbsp;&nbsp;8&nbsp;&nbsp;</a></td>
+	<td align=center>8</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>26.</td>
+	<td align=center>District of Columbia (DC)</td>
+	<td align=center><a href=hbz.php?args=44e15018f9744bf21034197a2597d728ff3fe17f53a0a3da894408c058db60dfe7d693b1f1beea140d87a80a4351179fc22c75dd611609c843dab50a4cb7b2cca6405188597596413ad9881c468585210be1534671b68c809ad846db50dec5ef029b7e43e5beeb08ef4f590ef24e500fa428202b3626671a911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;6&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=249082671376a2c07bc27489874f9e3450b07b69d0d700c6ca5392b2d059b5c4313d1f7fd327b72068eb9a57fdbdaedfda553f470fdcbe21437042426959ae6a4aadbef7dd6846853ad9881c468585210be1534671b68c809ad846db50dec5ef029b7e43e5beeb08ef4f590ef24e500fa428202b3626671a911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;1/1&nbsp;&nbsp;</a><img src=images/u102.gif alt='Bingo!'></td>
+	<td align=center><a href=hbz.php?args=3ef120e80fe29f1c52703fa8a2e6bccfbfdbb8d5289be0b21b268311bee5c715d5c5c5417207c0102f68e0e4c95243791fc331457be22754b2351488d380db017056a62a61cf867338827f737175c0ec5ba6b31714ae6343dc984985b4982386f0704d0ad249331abe80a2d2fd2252d5547c4b012fa8e1e9d8cff30bc6ef7d137d0e5990d5cc87f1e8d22b11e1a22aa4>&nbsp;&nbsp;1&nbsp;&nbsp;</a></td>
+	<td align=center>7</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>27.</td>
+	<td align=center>South Carolina (SC)</td>
+	<td align=center><a href=hbz.php?args=610399bdcab313746c6635f3786166c96703454c7ef747f1db5afe5da4ad008b72dc647a26c554d60161fb50c94cdc1dc22c75dd611609c843dab50a4cb7b2cca64051885975964186a277717ee847288f4c80c4c71cb991989179d2cf44b06233488cadbee46c779bfa688c387a9b5cb1aa2afd7004b2d8911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;6&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=a40f4bccb0bfec07dcd7daca4688f53dbb877ddf8134009f811e0f22ce8aa85610f7b791ec8786583ac995bccb261f42da553f470fdcbe21437042426959ae6a4aadbef7dd68468586a277717ee847288f4c80c4c71cb991989179d2cf44b06233488cadbee46c779bfa688c387a9b5cb1aa2afd7004b2d8911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;6/46&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=509038909c257cc31799e7cef0c5e2e14cd93dc454dbdb66da71200b0c628cb62ace0a43e6eb7979288d5f7f83f066841fc331457be22754b2351488d380db017056a62a61cf8673b5f60292a04a263188b545d2704bf718a7d8be679aca90e4b1e0313e73e21ce001182b8fc52636f5b59545b6c8440df7d8cff30bc6ef7d137d0e5990d5cc87f1e8d22b11e1a22aa4>&nbsp;&nbsp;6&nbsp;&nbsp;</a></td>
+	<td align=center>6</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>28.</td>
+	<td align=center>Arizona (AZ)</td>
+	<td align=center><a href=hbz.php?args=9a70b6dfd3cb60f3b0a415ccf1228e78f77a0d6b76d1f65a44b71b53895b2b0c6d43a4aab271c5f9aed79b604a4c959bc22c75dd611609c843dab50a4cb7b2cca64051885975964170e87b3a85d4e967851bbfe55b5e4e6b3f664f48498f5f29701fb9070c2bac75aac4ec41c3830417c94fd04061a36ac6911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;5&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=b178cff556f019f0ca52228be6f35b7299c82fe9af8847a00597ed860653d418edc843c4c8e14df1ddd02ec6770859b4da553f470fdcbe21437042426959ae6a4aadbef7dd68468570e87b3a85d4e967851bbfe55b5e4e6b3f664f48498f5f29701fb9070c2bac75aac4ec41c3830417c94fd04061a36ac6911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;2/15&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=d826157e97a6cb6edd6022b7fc4246f1b00c8c918c82d5874b985d527595feb80972664550103aee9d169238390b2c061fc331457be22754b2351488d380db017056a62a61cf867306d6696889fb0a6cc98939fcc3fd3cc9a6ef412364e4062c94abcf03e0f7f29af46c18959565c38cddb5e1346d386c24d8cff30bc6ef7d137d0e5990d5cc87f1e8d22b11e1a22aa4>&nbsp;&nbsp;5&nbsp;&nbsp;</a></td>
+	<td align=center>5</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>29.</td>
+	<td align=center>Washington (WA)</td>
+	<td align=center><a href=hbz.php?args=9837a0d064775b36e187a6e921f9c74d9249207d8e73b0c5a523e0825a1c3171c3073abb0e485105a819ad31abb9ad92c22c75dd611609c843dab50a4cb7b2cca640518859759641ca9570d188d6219bd98bae9182d69a29c322a72c5ad355c0701fb9070c2bac75aac4ec41c3830417c94fd04061a36ac6911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;4&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=8d404ebb13086fed71994a0d9a27480a984ab2407fb3463c9c5d7e9519cef83402634713a14cfb73259bd45ecbecd90ada553f470fdcbe21437042426959ae6a4aadbef7dd684685ca9570d188d6219bd98bae9182d69a29c322a72c5ad355c0701fb9070c2bac75aac4ec41c3830417c94fd04061a36ac6911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;3/39&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=bad329c0fee99f5f98c67a79dc8a933fc61cf078b8d457f8aa6d974e3e5d5fd5e4aaea4f9428c647684a025c39bd66ec1fc331457be22754b2351488d380db017056a62a61cf8673c7bf97477fb41e1d8fb42bf24fe6567a38b60d5a8ab7f24294abcf03e0f7f29af46c18959565c38cddb5e1346d386c24d8cff30bc6ef7d137d0e5990d5cc87f1e8d22b11e1a22aa4>&nbsp;&nbsp;4&nbsp;&nbsp;</a></td>
+	<td align=center>5</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>30.</td>
+	<td align=center>Oregon (OR)</td>
+	<td align=center><a href=hbz.php?args=906ba7ca8d474dce516d1f25f76dbad3bcd749b9cb6d8d0dfb29a3bf5e676b42acdf847fd00a24f23b3017f8e9189130c22c75dd611609c843dab50a4cb7b2cca640518859759641d9dddf0f97c7bb6dffafa327d4d490bf29ebbf1cb9d36d8c701fb9070c2bac75aac4ec41c3830417c94fd04061a36ac6911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;5&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=9a2ee4439f862ba345ede309f0bc64aaef61556de4b1630775b2126e960c2d6532a40ce9a53b9c9e7203ee584e18e563da553f470fdcbe21437042426959ae6a4aadbef7dd684685d9dddf0f97c7bb6dffafa327d4d490bf29ebbf1cb9d36d8c701fb9070c2bac75aac4ec41c3830417c94fd04061a36ac6911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;4/36&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=80a77286176f3fda7f46ff9a4f5beaff060e330eb2712294087d9652a24289f22276d48857bda8e7e4f298a962eb2c091fc331457be22754b2351488d380db017056a62a61cf867366f7780b697e757b40ddd888ed644a73206558c3d3c507a794abcf03e0f7f29af46c18959565c38cddb5e1346d386c24d8cff30bc6ef7d137d0e5990d5cc87f1e8d22b11e1a22aa4>&nbsp;&nbsp;5&nbsp;&nbsp;</a></td>
+	<td align=center>5</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>31.</td>
+	<td align=center>Colorado (CO)</td>
+	<td align=center><a href=hbz.php?args=dadc6dfc16f4df8d6db8b626ea450d7c88c95118c713ced4a93b898d18f7a4cb69abaf9e59692783acea12d9a2b96ec5c22c75dd611609c843dab50a4cb7b2cca640518859759641f7fb3a705b729d2ce3a197504a357c63fb775613a5c22a19701fb9070c2bac75aac4ec41c3830417c94fd04061a36ac6911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;5&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=327622b9ccc13ee1b35aad0d4388f6db82063522bcd7f17169f76e645a8c474c6e1251cc9fc79fff7cf13189155d4ca7da553f470fdcbe21437042426959ae6a4aadbef7dd684685f7fb3a705b729d2ce3a197504a357c63fb775613a5c22a19701fb9070c2bac75aac4ec41c3830417c94fd04061a36ac6911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;5/64&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=2dbe0cba59eae3379b2d5192aaf9bfe19707d8200cccecd36da1b3381ba4c189a678f660a984d48c907bc1b64c85da541fc331457be22754b2351488d380db017056a62a61cf8673e4c7647f84d64cb9ce869963bef986e844e1125bb269010a94abcf03e0f7f29af46c18959565c38cddb5e1346d386c24d8cff30bc6ef7d137d0e5990d5cc87f1e8d22b11e1a22aa4>&nbsp;&nbsp;5&nbsp;&nbsp;</a></td>
+	<td align=center>5</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>32.</td>
+	<td align=center>Kansas (KS)</td>
+	<td align=center><a href=hbz.php?args=611521fea49b7257b784a818f05a8bc73821b2cd8845f1825a5c741225f3a13f564fff617c55b7a35926e9e68e5f0f70c22c75dd611609c843dab50a4cb7b2cca6405188597596415872d0aa2d65db7ee2681d9eee82f0d80681848203c006a5701fb9070c2bac75aac4ec41c3830417c94fd04061a36ac6911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;5&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=90e6badeca1da01a4bd0992ee6836c21d5e6626d6e51ee4cf8a03ba9cafb1bc63577b872a7766cc28f687eb6ff1f5b20da553f470fdcbe21437042426959ae6a4aadbef7dd6846855872d0aa2d65db7ee2681d9eee82f0d80681848203c006a5701fb9070c2bac75aac4ec41c3830417c94fd04061a36ac6911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;5/105&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=a4d053876a301664991f404f03235164651da1c8db6bd7c679fa1917b7176f407f484c26d507dca0143f17d6e3c356ae1fc331457be22754b2351488d380db017056a62a61cf8673c9e7527c91d809688f5bc0cd7b7feaae75b43dd9221fbb1194abcf03e0f7f29af46c18959565c38cddb5e1346d386c24d8cff30bc6ef7d137d0e5990d5cc87f1e8d22b11e1a22aa4>&nbsp;&nbsp;5&nbsp;&nbsp;</a></td>
+	<td align=center>5</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>33.</td>
+	<td align=center>Nevada (NV)</td>
+	<td align=center><a href=hbz.php?args=6aa53d3715559c54ec6aec4896bb3f24380a5a58247abbfb453c7e4767ab1750b27e3ddc0ecd9d1f263ad6f267ec3e43c22c75dd611609c843dab50a4cb7b2cca640518859759641e71e9b3f800bfba2e515492fac591b0fdf88955df9230c2a701fb9070c2bac75aac4ec41c3830417c94fd04061a36ac6911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;5&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=9a8f477c0ad706e1f99ace963a6e2dd2b3f6b39219960d453a41109e10aefb90e8f2dcd7982b321fec9ac4684f06ffcfda553f470fdcbe21437042426959ae6a4aadbef7dd684685e71e9b3f800bfba2e515492fac591b0fdf88955df9230c2a701fb9070c2bac75aac4ec41c3830417c94fd04061a36ac6911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;1/17&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=a219ccc2bdaaa005a225c917ad486033212450814579a52c77808921f684c3c89a0eb9599f04bf67ee5a8077002187641fc331457be22754b2351488d380db017056a62a61cf8673f94838457071639fc3cb07537bc7c799a7ff92c841b0bec894abcf03e0f7f29af46c18959565c38cddb5e1346d386c24d8cff30bc6ef7d137d0e5990d5cc87f1e8d22b11e1a22aa4>&nbsp;&nbsp;2&nbsp;&nbsp;</a></td>
+	<td align=center>5</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>34.</td>
+	<td align=center>Minnesota (MN)</td>
+	<td align=center><a href=hbz.php?args=10da100ac00d062e2a8298577a2e9c9458e2241452a39d750bcd3f6c50c7e8103cd78a9320aaf6822ab393e8a9d529ecc22c75dd611609c843dab50a4cb7b2cca640518859759641e55ac6034bcbc01659d38029ee82eea14908fb1771003d20701fb9070c2bac75aac4ec41c3830417c94fd04061a36ac6911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;5&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=612c10d59138c6e63ae5d1743c909dcd681d665b6bd617f792d34b263332533cebea2c815022369c38f56b01c2aafe0eda553f470fdcbe21437042426959ae6a4aadbef7dd684685e55ac6034bcbc01659d38029ee82eea14908fb1771003d20701fb9070c2bac75aac4ec41c3830417c94fd04061a36ac6911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;3/87&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=a33376828e9985977870aec3b6e814b7298ec50c686267b6d9836e93b7601024f538724d9b0fcaeb221504bcd1c1a69d1fc331457be22754b2351488d380db017056a62a61cf8673953698ab6f3afa7461f2db941fc04efc6dc2c0d9b2262de094abcf03e0f7f29af46c18959565c38cddb5e1346d386c24d8cff30bc6ef7d137d0e5990d5cc87f1e8d22b11e1a22aa4>&nbsp;&nbsp;3&nbsp;&nbsp;</a></td>
+	<td align=center>5</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>35.</td>
+	<td align=center>Alabama (AL)</td>
+	<td align=center><a href=hbz.php?args=7d89257e351d7589f86f7aaafb458b826a240da061c3fb64cf5c9ddd43d77adc43e07289779b18b935fea4d9dc9cf0f5c22c75dd611609c843dab50a4cb7b2cca640518859759641a405198ebeb83054583b378bb2971f918fc389d50a28207b8facef05d10113ed81882a8095f2250980fd7ffdbc78d38e911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;4&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=a34279571a99ef0e3c532e5f99ffb649ed37d25f0716f67fd967744624ccef68a8761f648cad912822f202df6f35badcda553f470fdcbe21437042426959ae6a4aadbef7dd684685a405198ebeb83054583b378bb2971f918fc389d50a28207b8facef05d10113ed81882a8095f2250980fd7ffdbc78d38e911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;4/67&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=e1ceb5727aa21c5674b52e1cbb2860a14219a6cbff536cea1bfd49600784ca0c9d88b309890ddc997de84ce5cd6f81bd1fc331457be22754b2351488d380db017056a62a61cf867336e71d690e8af8fabcbd56438ae5abc32559f0a578bf15b34fb302d49e78a94761b272420c02f9fbf8da385d6abcd7edd8cff30bc6ef7d137d0e5990d5cc87f1e8d22b11e1a22aa4>&nbsp;&nbsp;4&nbsp;&nbsp;</a></td>
+	<td align=center>4</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>36.</td>
+	<td align=center>Kentucky (KY)</td>
+	<td align=center><a href=hbz.php?args=705921762e3f106919248e6c99bb994ea70b58c2be98099238e8de40cf450ed6df51fa66916774891b49e69fb5339f4bc22c75dd611609c843dab50a4cb7b2cca640518859759641b55037b5bb87b373b368f0ff81a0a534e7b7d62898389ddb8facef05d10113ed81882a8095f2250980fd7ffdbc78d38e911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;4&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=c9b0e1bd7754ff0ef1c17664ec42d05fb4aecad92dd3076b89bb980b368b767ce65b2530edc16aaebd738e5775242921da553f470fdcbe21437042426959ae6a4aadbef7dd684685b55037b5bb87b373b368f0ff81a0a534e7b7d62898389ddb8facef05d10113ed81882a8095f2250980fd7ffdbc78d38e911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;4/120&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=f4d94905fe98dba2721f7bd26c2e17144f8c26b611ec3db533d8d4f0200603a2f062ac7315a34dd2fba39f100ce5efe31fc331457be22754b2351488d380db017056a62a61cf86731a80a9ed07994da4ca24df998b913fb43ff34a72c64f57124fb302d49e78a94761b272420c02f9fbf8da385d6abcd7edd8cff30bc6ef7d137d0e5990d5cc87f1e8d22b11e1a22aa4>&nbsp;&nbsp;4&nbsp;&nbsp;</a></td>
+	<td align=center>4</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>37.</td>
+	<td align=center>Montana (MT)</td>
+	<td align=center><a href=hbz.php?args=3c1dfd9c37a6d0645577ad817c89ac675234e72a77415c92a151f596a8a106aa07a2831810b245fb47a4013dc8d04df7c22c75dd611609c843dab50a4cb7b2cca6405188597596419cdc306036dcee4525781603e6430ecef8a8c99ecc00d1b8152d891d6f9f070ebd038da4c853827d1a858e07f7e6adbd911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;3&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=e4ec555b4be79a3e3659bfc4839f0ef4ca166611624538e1b963dd410a3291791ab738f00e50c89eab1bf64f03773df3da553f470fdcbe21437042426959ae6a4aadbef7dd6846859cdc306036dcee4525781603e6430ecef8a8c99ecc00d1b8152d891d6f9f070ebd038da4c853827d1a858e07f7e6adbd911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;3/56&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=f0da13f11fe5dfef373142f3c7af21a28858e8014a0b0b73294c059545e31af3004e9d5a873458060508498c7ff71c651fc331457be22754b2351488d380db017056a62a61cf8673382bddede60c000bf0354e20563b9d7c7f94e440759dab446467e47965fdc5d85314a4231ed9a87145981a543901b96fd8cff30bc6ef7d137d0e5990d5cc87f1e8d22b11e1a22aa4>&nbsp;&nbsp;3&nbsp;&nbsp;</a></td>
+	<td align=center>3</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>38.</td>
+	<td align=center>Louisiana (LA)</td>
+	<td align=center><a href=hbz.php?args=3824c4ec745cc00da5ef916e53ecedeb5a726111be6a281bcec97f0d033e6a0663b55503b2c4ebdacf3bc5576e9ef2a4c22c75dd611609c843dab50a4cb7b2cca64051885975964116bf85923569a66470270fc3ccbe2a0449393b2081571db0152d891d6f9f070ebd038da4c853827d1a858e07f7e6adbd911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;3&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=0a55989ef814129c9be004e171aaf6eab5238e9c011f1e810ef0abaa4aa9dcc2984ec59fc71504dd129f4f284accd7e2da553f470fdcbe21437042426959ae6a4aadbef7dd68468516bf85923569a66470270fc3ccbe2a0449393b2081571db0152d891d6f9f070ebd038da4c853827d1a858e07f7e6adbd911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;3/64&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=150bc31fe0c764693ab811d5c22169687cddf8acc431e69f02140e785b7e9f3ff8949ff33871fec5dc965409c05d13701fc331457be22754b2351488d380db017056a62a61cf867346112feb924689cbc9f0360301d56f40b88653224f16ac106467e47965fdc5d85314a4231ed9a87145981a543901b96fd8cff30bc6ef7d137d0e5990d5cc87f1e8d22b11e1a22aa4>&nbsp;&nbsp;3&nbsp;&nbsp;</a></td>
+	<td align=center>3</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>39.</td>
+	<td align=center>Idaho (ID)</td>
+	<td align=center><a href=hbz.php?args=031fc2f9bc8c9fee6d03e5892eef9ce0ff48dcbc8d0f09791f0b33d0ec013ec9d14b3758e3b717fb7748aa3fc5db4909c22c75dd611609c843dab50a4cb7b2cca64051885975964184950cb6e891758208fe98270d336c391a292b12699e72be152d891d6f9f070ebd038da4c853827d1a858e07f7e6adbd911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;3&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=b50082cdc3c4373cb6f3661f6912b1cac1e5771e3defda2b8f14faa5c51f849f18923a3732348dbe5ec871f55ee1882dda553f470fdcbe21437042426959ae6a4aadbef7dd68468584950cb6e891758208fe98270d336c391a292b12699e72be152d891d6f9f070ebd038da4c853827d1a858e07f7e6adbd911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;3/44&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=675176c64796ddf0b4eb976a9815f823b10e284b939aa08d723f2eba00ea31a4794a2923a299c4d3fff48c99be909f051fc331457be22754b2351488d380db017056a62a61cf86734d151de8f3c094f274d8ea162c42337bba310259a2979e786467e47965fdc5d85314a4231ed9a87145981a543901b96fd8cff30bc6ef7d137d0e5990d5cc87f1e8d22b11e1a22aa4>&nbsp;&nbsp;3&nbsp;&nbsp;</a></td>
+	<td align=center>3</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>40.</td>
+	<td align=center>Oklahoma (OK)</td>
+	<td align=center><a href=hbz.php?args=f33fde60acbf0bac44ebd2a7c5f66b55b1a627064ebc21a08e5ba2711153d7fe50df26d119c5e8178beef93e63054b89c22c75dd611609c843dab50a4cb7b2cca64051885975964107513a0940d437863767a5a001d065136158bf0fb177b80121a6473b65cb3987f582ff7a042acc2050a7f07e4bd9de39911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;2&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=7ff0bde75a4a8bfc305419e08f46c7bbe2a4ec2bb535fe9c9ded1c8c68dd4e7db5c6cda0221f22f790b447d26c47a526da553f470fdcbe21437042426959ae6a4aadbef7dd68468507513a0940d437863767a5a001d065136158bf0fb177b80121a6473b65cb3987f582ff7a042acc2050a7f07e4bd9de39911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;2/77&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=b9e5a81eee79c23b8480495d7f85b0b14b2035b6ea09b834471dd9c11b9382c42dde4c4a7aebfad123e3ac644fd713f21fc331457be22754b2351488d380db017056a62a61cf86731f9a55057acc814f1b198ddcca562945331feb7549c22da89bb841bb3e05f45f2599e160c7feb39d2f6149df05ff42ccd8cff30bc6ef7d137d0e5990d5cc87f1e8d22b11e1a22aa4>&nbsp;&nbsp;2&nbsp;&nbsp;</a></td>
+	<td align=center>2</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>41.</td>
+	<td align=center>Mississippi (MS)</td>
+	<td align=center><a href=hbz.php?args=28cbcc1fd54c01d93ed02c7a9c97da891e944c0f76d1def4395ad5ed263387b51b6ea95bf039d39d7eb027bd32cd0816c22c75dd611609c843dab50a4cb7b2cca64051885975964170728cfc00d06e28aa7e5800a60f95f41f19715f24855c4821a6473b65cb3987f582ff7a042acc2050a7f07e4bd9de39911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;2&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=67314e82136ec3fc3b36fc5e4a6836949dd6ccef597a17206fb65fcd153cc8ebb96368599013bc55d30149b559bc8d6fda553f470fdcbe21437042426959ae6a4aadbef7dd68468570728cfc00d06e28aa7e5800a60f95f41f19715f24855c4821a6473b65cb3987f582ff7a042acc2050a7f07e4bd9de39911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;2/82&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=f555a7ec0fa71724f2f0ebc93d90f4198ba28343bbf7a48cbec2f2b7c2588c135d968f568581f11c5097de856152f72d1fc331457be22754b2351488d380db017056a62a61cf8673ae949f3545e79c20191f7322d21939ecd81676b2b6608fe59bb841bb3e05f45f2599e160c7feb39d2f6149df05ff42ccd8cff30bc6ef7d137d0e5990d5cc87f1e8d22b11e1a22aa4>&nbsp;&nbsp;2&nbsp;&nbsp;</a></td>
+	<td align=center>2</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>42.</td>
+	<td align=center>New Mexico (NM)</td>
+	<td align=center><a href=hbz.php?args=248f379b28e23f770eea11e11aa585bc81b9e2ba4432b13927cdf73b184072c264928932b58746419d330398126ddaffc22c75dd611609c843dab50a4cb7b2cca640518859759641bc701e885124dc4407bd384b467549a5bdfb6ead82303f2a21a6473b65cb3987f582ff7a042acc2050a7f07e4bd9de39911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;2&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=9880075e0aecccb68a14036901aedc83bfe57762f903629802c827e4ef7ae1c8a4b91df714fe5410204c93a56d39fbebda553f470fdcbe21437042426959ae6a4aadbef7dd684685bc701e885124dc4407bd384b467549a5bdfb6ead82303f2a21a6473b65cb3987f582ff7a042acc2050a7f07e4bd9de39911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;2/33&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=69dfe1003e5e1694b1e024152ae6b524ba6e1fb9ebc646355ba55e0b36d528190f7e55af623c54570e59310713ca92781fc331457be22754b2351488d380db017056a62a61cf8673f1452b50886ebdf2ff6923d3d007c13ce9a3ec7b330ef4f69bb841bb3e05f45f2599e160c7feb39d2f6149df05ff42ccd8cff30bc6ef7d137d0e5990d5cc87f1e8d22b11e1a22aa4>&nbsp;&nbsp;2&nbsp;&nbsp;</a></td>
+	<td align=center>2</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>43.</td>
+	<td align=center>Hawaii (HI)</td>
+	<td align=center><a href=hbz.php?args=be4d8bad603ee65eb3a85ad0e4ee9556e023ee0c6d58afb4f8223d16c6e60f244e5c8dfdb77cac02d02fcb6ceed9b3c4c22c75dd611609c843dab50a4cb7b2cca6405188597596410e41779851d279e9700ef4f5365936331805df41bdb8e10521a6473b65cb3987f582ff7a042acc2050a7f07e4bd9de39911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;2&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=d9bd782c43cb09d5eb53e6959eca813e0ca5fb43b376d26d60a2988204d355a8f615a27eefb9a228d84f38a55ac53224da553f470fdcbe21437042426959ae6a4aadbef7dd6846850e41779851d279e9700ef4f5365936331805df41bdb8e10521a6473b65cb3987f582ff7a042acc2050a7f07e4bd9de39911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;2/4&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=c57c06ad8e41d40480fc6782f0b49f3607e6b28450379a3d0abd8dc6f637dde1cf015d8830025e81612dc66132fe08901fc331457be22754b2351488d380db017056a62a61cf86735af14eaea9021e8f3fc5b527d5e1f8530855cd2c321a91e59bb841bb3e05f45f2599e160c7feb39d2f6149df05ff42ccd8cff30bc6ef7d137d0e5990d5cc87f1e8d22b11e1a22aa4>&nbsp;&nbsp;2&nbsp;&nbsp;</a></td>
+	<td align=center>2</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>44.</td>
+	<td align=center>Iowa (IA)</td>
+	<td align=center><a href=hbz.php?args=b28dac4e2e243a05cc1b39c93cdc895160a49e9787fa4e2eba3d8b5b4b806ff7534c7a37a7770dfd7a2f0546e0236806c22c75dd611609c843dab50a4cb7b2cca640518859759641e29dbc63681879c1e067b90041b6adc8407065e323da742b21a6473b65cb3987f582ff7a042acc2050a7f07e4bd9de39911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;2&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=ad27ff39d160df173cbcbb00f5b370954eda41f63da4b21013dd8030b8cf76ceadb306bd8096748a6491f09712c906bbda553f470fdcbe21437042426959ae6a4aadbef7dd684685e29dbc63681879c1e067b90041b6adc8407065e323da742b21a6473b65cb3987f582ff7a042acc2050a7f07e4bd9de39911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;2/99&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=7c6094c27cd92f2911938573f2f2205e137cb249763e68f10d6f2c21eb59293b4da9be2fa9bd2dc332e10d3fe4ca95e61fc331457be22754b2351488d380db017056a62a61cf86731e68f8a9c33f2f2ced649202c188dd01520fdf396d1637f89bb841bb3e05f45f2599e160c7feb39d2f6149df05ff42ccd8cff30bc6ef7d137d0e5990d5cc87f1e8d22b11e1a22aa4>&nbsp;&nbsp;2&nbsp;&nbsp;</a></td>
+	<td align=center>2</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>45.</td>
+	<td align=center>North Dakota (ND)</td>
+	<td align=center><a href=hbz.php?args=fe80914742d3c7b7ccc06d402d3aa8f5fb44d45d9deac87ba29a88f83b9fd625b0878c2e259970f97ae70cdb6474bb0dc22c75dd611609c843dab50a4cb7b2cca64051885975964160b60b573dbdf657d01f12d4867eb0e19be07a74af53722f21a6473b65cb3987f582ff7a042acc2050a7f07e4bd9de39911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;2&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=7338bed05c77d2094372eb045e64013a6b84fda9fe700d9da9a5a1c7e1efdd4b3868c7aa18af34022ca435ecfb418ad5da553f470fdcbe21437042426959ae6a4aadbef7dd68468560b60b573dbdf657d01f12d4867eb0e19be07a74af53722f21a6473b65cb3987f582ff7a042acc2050a7f07e4bd9de39911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;2/53&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=1e184b183908b304e3ad614b4a0a8ff52d315b4ba96c2bdf06053fad30f9a0f1e746dcb6f4503b03a78ca76034e9ff3f1fc331457be22754b2351488d380db017056a62a61cf86739fdaca4d4f4ff82bee69418debc6841a0a63aa18825fed459bb841bb3e05f45f2599e160c7feb39d2f6149df05ff42ccd8cff30bc6ef7d137d0e5990d5cc87f1e8d22b11e1a22aa4>&nbsp;&nbsp;2&nbsp;&nbsp;</a></td>
+	<td align=center>2</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>46.</td>
+	<td align=center>Arkansas (AR)</td>
+	<td align=center><a href=hbz.php?args=40b2a7f15ed45de274eeb42485b3b75a7a9f026b0c9a5e8f6741c0a7a6006a42187f169de1d742bab4e7518023d9d9cdc22c75dd611609c843dab50a4cb7b2cca640518859759641740ff2daebfa233aec413b9dc1412359fc19b31fcbe2181921a6473b65cb3987f582ff7a042acc2050a7f07e4bd9de39911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;2&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=dc6ac3cf80c488eaae032f9104de72cbc9b8a410ab89970fc2249212f5be8cd543af8168a4e443202adb3d4e6f216a3cda553f470fdcbe21437042426959ae6a4aadbef7dd684685740ff2daebfa233aec413b9dc1412359fc19b31fcbe2181921a6473b65cb3987f582ff7a042acc2050a7f07e4bd9de39911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;2/75&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=8ee60540b730e763c25265cc4a1ced24318f0ad3738d80d85dd749ce733a1eb838d8865fa7b847e3fb9cca17885517e51fc331457be22754b2351488d380db017056a62a61cf867386477122b5ed6a3d844c7b2e9c4c6c56aff89eff724e66579bb841bb3e05f45f2599e160c7feb39d2f6149df05ff42ccd8cff30bc6ef7d137d0e5990d5cc87f1e8d22b11e1a22aa4>&nbsp;&nbsp;2&nbsp;&nbsp;</a></td>
+	<td align=center>2</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>47.</td>
+	<td align=center>Alaska (AK)</td>
+	<td align=center><a href=hbz.php?args=5af6c213cc440a26735c191fa85bab1f453183e6ae84a4edf936d873bd9e9f8a2d220ed850d80929f3b5e2a4a8501a2dc22c75dd611609c843dab50a4cb7b2cca640518859759641ac6a509e054e1abf927c3cf0166a3e997e4ab4ccb86bf857af1587a0e9d45e49afdd765ad00d4da9a0ee3cf5733fdc4b911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;1&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=a7fb1addd96211e2df040a1376dd30fe9a31de9b882fbd9eda3e28ece5720e2aa12feaa6b9849b5f9772b069c0222fa6da553f470fdcbe21437042426959ae6a4aadbef7dd684685ac6a509e054e1abf927c3cf0166a3e997e4ab4ccb86bf857af1587a0e9d45e49afdd765ad00d4da9a0ee3cf5733fdc4b911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;1/29&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=44146600e52f3533d369902d7b11ed11fe868432a46c3e5d756cf1dc45bfe71042222a746856490606404b727dfa7f971fc331457be22754b2351488d380db017056a62a61cf8673099220de8c20bda09f988bb50d9f10fea312ab96359c819a74c7e063696b2d04f264b3549b7a39e2366c9a1df4095e1fd8cff30bc6ef7d137d0e5990d5cc87f1e8d22b11e1a22aa4>&nbsp;&nbsp;1&nbsp;&nbsp;</a></td>
+	<td align=center>1</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>48.</td>
+	<td align=center>Utah (UT)</td>
+	<td align=center><a href=hbz.php?args=2fd880816700378717f23e57661bfa00bae3c6255f16d4bf4ab74b78993a7e96e9b4c651887c6293beaf93f1c09b2d59c22c75dd611609c843dab50a4cb7b2cca64051885975964125ba311dd4fbc725f388f7b4067b4be609b30106ed798197af1587a0e9d45e49afdd765ad00d4da9a0ee3cf5733fdc4b911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;1&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=1ed3a0c3a933318bd0ee0efdfffa4e9ad0c6aeaaa59e2e7eb997924372db977eb437c148a09515f8145689313c25dec1da553f470fdcbe21437042426959ae6a4aadbef7dd68468525ba311dd4fbc725f388f7b4067b4be609b30106ed798197af1587a0e9d45e49afdd765ad00d4da9a0ee3cf5733fdc4b911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;1/29&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=b0686498cb28fa9abce4dbf929beaf3a51cda9358e2e0fd4f6d7a347293d7fd7f069df6f605d7f93dda4e3d2d6b4b12b1fc331457be22754b2351488d380db017056a62a61cf8673ab63de4845f9df5ad6ea04e67f381b490b6642bdccc45e8474c7e063696b2d04f264b3549b7a39e2366c9a1df4095e1fd8cff30bc6ef7d137d0e5990d5cc87f1e8d22b11e1a22aa4>&nbsp;&nbsp;1&nbsp;&nbsp;</a></td>
+	<td align=center>1</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>49.</td>
+	<td align=center>Wyoming (WY)</td>
+	<td align=center><a href=hbz.php?args=0152647e3e8b97ae46f0a270e68b0088c531bf3769a40c4a17ae24db0333cf4ef33b6e0c1e22553d3173607c03d35cc3c22c75dd611609c843dab50a4cb7b2cca640518859759641189b322310f33978a7c46200ecf93f543dc844a201c6f834af1587a0e9d45e49afdd765ad00d4da9a0ee3cf5733fdc4b911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;1&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=789de6c570273f078eb67731015fd749a4571f91b69dc7930816942cf5e96152aceb3c25fcb994e0b9eb49ea4c23307bda553f470fdcbe21437042426959ae6a4aadbef7dd684685189b322310f33978a7c46200ecf93f543dc844a201c6f834af1587a0e9d45e49afdd765ad00d4da9a0ee3cf5733fdc4b911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;1/23&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=c27c8bf4cd47cae3db888ad506bcede857ee52231a6b3f14f015997b99030de7d9ec84e73ed1f303de80b4ee7076a42b1fc331457be22754b2351488d380db017056a62a61cf86730bfbd39d772d82525776299cc2c495017df50a1820ba73bd74c7e063696b2d04f264b3549b7a39e2366c9a1df4095e1fd8cff30bc6ef7d137d0e5990d5cc87f1e8d22b11e1a22aa4>&nbsp;&nbsp;1&nbsp;&nbsp;</a></td>
+	<td align=center>1</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>50.</td>
+	<td align=center>South Dakota (SD)</td>
+	<td align=center><a href=hbz.php?args=104ea9be74ee83224ea1921c5bf27f0c7091029774ed737b9daf478f014f10cf467c82f08902df6a91eb2dd1fc6292f9c22c75dd611609c843dab50a4cb7b2cca640518859759641f58fb226ac32f7d7ccc7e5d9057f8f9a70750e38da4a5b7aaf1587a0e9d45e49afdd765ad00d4da9a0ee3cf5733fdc4b911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;1&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=d506f0940cae666e336afc7fe08f085a9d99e471c93b0ec0f0deaaa926e2708f188735362d183cc1818a3a75d7414c2eda553f470fdcbe21437042426959ae6a4aadbef7dd684685f58fb226ac32f7d7ccc7e5d9057f8f9a70750e38da4a5b7aaf1587a0e9d45e49afdd765ad00d4da9a0ee3cf5733fdc4b911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;1/66&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=034980a5aeb8e66396c0444ca97eed7953f4975e8dea70b69c6350f50fdcf623df4ca81688d2763e1b0ae932e251e89c1fc331457be22754b2351488d380db017056a62a61cf8673b37385430d6a7af3d3e658569fed578f16d420d93cf9ba0a74c7e063696b2d04f264b3549b7a39e2366c9a1df4095e1fd8cff30bc6ef7d137d0e5990d5cc87f1e8d22b11e1a22aa4>&nbsp;&nbsp;1&nbsp;&nbsp;</a></td>
+	<td align=center>1</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>51.</td>
+	<td align=center>Nebraska (NE)</td>
+	<td align=center>---</td>
+	<td align=center>---</td>
+	<td align=center>---</td>
+	<td align=center>0</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>USA</td>
+	<td align=center>Totals</td>
+	<td align=center>&nbsp;&nbsp;<b>1,510</b>&nbsp;&nbsp;</a></td>
+	<td align=center>&nbsp;&nbsp;<b>441</b>&nbsp;&nbsp;</a></td>
+	<td align=center>&nbsp;&nbsp;<b>1,235</b>&nbsp;&nbsp;</a></td>
+	<td align=center>&nbsp;&nbsp;<b>3,068</td>
+</tr>
+</table><center><span class=body><a href="#top">Back to Top</a></span></center><br>
+<TABLE width="50%" cellpadding="2" cellspacing="0" bordercolor="#999999" border=1 class="body">
+<tr class="body" bgcolor="#dddddd">	<td colspan=5><div align=center>Hits by U.S. Districts, Territories, Possessions, and Other Areas - <a href=/ybs.php?hbs=9540&vs=131072>Hide</a></div></td>
+</tr>
+<tr class="body" bgcolor="#dddddd">	<td colspan=5><div align=center>You have 8 hits in 4 Other Areas</div></td>
+</tr>
+<tr class="body" bgcolor="#dddddd">	<td align=center>Rank</td>
+	<td align=center>Area</td>
+	<td align=center>Hits by Zip Code</td>
+	<td align=center>Hits by City</td>
+	<td align=center>Hits</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>1.</td>
+	<td align=center>Puerto Rico&nbsp;&nbsp;(PR)</td>
+	<td align=center><a href=hbz.php?args=1f7983475bf1d0440979950f39991814c5cb6abbfb2a37e0cee6bc3b7a73d522ca8c1148f29421c70cabae3a1ea21b65c22c75dd611609c843dab50a4cb7b2cca6405188597596417549a1839e31662fd7a7948e50ea4145e598a0f6eb0701a90cfe94f3efd38d810c6408cd277e27e6874777c41c259fea911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;5&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=ffc8bc4fcd3c52414a489676b4d694dac58f70c2eb5559b781cdc832e6611513fe8a83cc06ebd90c51a5f2947a2d235b1fc331457be22754b2351488d380db017056a62a61cf867300a171c2af004a2d4263f74fd00f11e76444e9b1c9f88c2b94abcf03e0f7f29af46c18959565c38cddb5e1346d386c24bec948a44d5ee204cb9fd983f893d1b620330c1109616259>&nbsp;&nbsp;4&nbsp;&nbsp;</a></td>
+	<td align=center>5</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>2.</td>
+	<td align=center>Virgin Islands&nbsp;&nbsp;(VI)</td>
+	<td align=center><a href=hbz.php?args=ed1ee0f664e7ca3d33f723eb2b0051bc6625fbb7193777c5ff9cd90659d1c3d0201fc75bcf17cff4fe7cdbdd6eab4461c22c75dd611609c843dab50a4cb7b2cca640518859759641a6d978e3154922fb623eeb57ef203a9f1eac7adc30a90291bc82bcc29ec29d214878232811c51125e1326d65f8cb0824911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;1&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=03fe2cfa34f8854f7c81195d33f62fb7eb5d3988fa5070107ef6514164a0856028fc148938c7e90538153123e88673ab1fc331457be22754b2351488d380db017056a62a61cf86739b0960edde3bac2bff19905a9adc3f37e607ffbd2d22c0b974c7e063696b2d04f264b3549b7a39e2366c9a1df4095e1fbec948a44d5ee204cb9fd983f893d1b620330c1109616259>&nbsp;&nbsp;1&nbsp;&nbsp;</a></td>
+	<td align=center>1</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>3.</td>
+	<td align=center>Armed Forces Europe&nbsp;&nbsp;(AE)</td>
+	<td align=center><a href=hbz.php?args=4ab7de840b16a756e2c7639692e4866f82e6d2d6389c9bb5063c78911724d669538dea8ffc56eec0e80ff8591424ca9ec22c75dd611609c843dab50a4cb7b2cca64051885975964186b887d5eac40a0b2d6a7400fde7afa8ba4633452b54a74bbc82bcc29ec29d214878232811c51125e1326d65f8cb0824911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;1&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=099434ac96a7e85b1c9a955ca307f250664f84dde59ceaa4082a9337067a19aa3e16a9addeb375015ef632a6ede1a6d51fc331457be22754b2351488d380db017056a62a61cf86737df6ad6fe22995599c67327be6a1c89eaae20bd7a9f3bc5174c7e063696b2d04f264b3549b7a39e2366c9a1df4095e1fbec948a44d5ee204cb9fd983f893d1b620330c1109616259>&nbsp;&nbsp;1&nbsp;&nbsp;</a></td>
+	<td align=center>1</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>4.</td>
+	<td align=center>Armed Forces Pacific&nbsp;&nbsp;(AP)</td>
+	<td align=center><a href=hbz.php?args=34c5f9cf35a71ed1267854c2af4060d09d59177a6667154d2560a9bd1e9915c72dea9f1cc79ef48df9f639f267c34c57c22c75dd611609c843dab50a4cb7b2cca640518859759641d528c34420cedd4a4034022549593ec600974037c4b4e795bc82bcc29ec29d214878232811c51125e1326d65f8cb0824911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;1&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=bf780ad6d749509170962b70a0749073c59b4e81476c5f4e5b187af133fb443b9e8ee41714ad20dc22688bd837a819af1fc331457be22754b2351488d380db017056a62a61cf867348ede3020a77ac63352831c7d4828519e5f38ea8e02d6c3174c7e063696b2d04f264b3549b7a39e2366c9a1df4095e1fbec948a44d5ee204cb9fd983f893d1b620330c1109616259>&nbsp;&nbsp;1&nbsp;&nbsp;</a></td>
+	<td align=center>1</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>5.</td>
+	<td align=center>Armed Forces Americas (AA)</td>
+	<td align=center>---</td>
+	<td align=center>---</td>
+	<td align=center>---</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>6.</td>
+	<td align=center>American Samoa (AS)</td>
+	<td align=center>---</td>
+	<td align=center>---</td>
+	<td align=center>---</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>7.</td>
+	<td align=center>Federated States of Micronesia (FM)</td>
+	<td align=center>---</td>
+	<td align=center>---</td>
+	<td align=center>---</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>8.</td>
+	<td align=center>Guam (GU)</td>
+	<td align=center>---</td>
+	<td align=center>---</td>
+	<td align=center>---</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>9.</td>
+	<td align=center>Marshall Islands (MH)</td>
+	<td align=center>---</td>
+	<td align=center>---</td>
+	<td align=center>---</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>10.</td>
+	<td align=center>Northern Mariana Islands (MP)</td>
+	<td align=center>---</td>
+	<td align=center>---</td>
+	<td align=center>---</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>11.</td>
+	<td align=center>Palau (PW)</td>
+	<td align=center>---</td>
+	<td align=center>---</td>
+	<td align=center>---</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>Misc</td>
+	<td align=center>Totals</td>
+	<td align=center>&nbsp;&nbsp;<b>8</b>&nbsp;&nbsp;</a></td>
+	<td align=center>&nbsp;&nbsp;<b>7</b>&nbsp;&nbsp;</a></td>
+	<td align=center>&nbsp;&nbsp;<b>8</td>
+</tr>
+</table><center><span class=body><a href="#top">Back to Top</a></span></center><br>
+<TABLE width="40%" cellpadding="2" cellspacing="0" bordercolor="#999999" border=1 class="body">
+<tr class="body" bgcolor="#dddddd">	<td colspan=5><div align=center>Hits by Province - Canada - <a href=/ybs.php?hbs=9540&vs=4096>Hide</a></div></td>
+</tr>
+<tr class="body" bgcolor="#dddddd">	<td colspan=5><div align=center>You have 8 hits in 5 Provinces</div></td>
+</tr>
+<tr class="body" bgcolor="#dddddd">	<td align=center>Rank</td>
+	<td align=center>Province</td>
+	<td align=center>Hits by Post Code</td>
+	<td align=center>Hits by City</td>
+	<td align=center>Hits</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>1.</td>
+	<td align=center>Ontario (ON)</td>
+	<td align=center><a href=hbz.php?args=66a316387ca9ccae765c2fb256a58742d8b96d28dadf195c1b26efd545fb56803514f1c51c608e44a52cf96e61c9e1bec22c75dd611609c843dab50a4cb7b2cca640518859759641c83855030aef1e692eb8184aa6279226fee0d52506fc20cfe16d908218894491e54c34238d13749c5a6d05bfcd8827e4911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;3&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=d68687cef11aad2049db4fdb091a34fc1159c5b8e005386af2ae9d5e952561b9660143f564de8807b9ace1f8277965531fc331457be22754b2351488d380db017056a62a61cf8673ad9043b0436e05b60377eb2a26e1545565f5d20290a607c66467e47965fdc5d85314a4231ed9a87145981a543901b96fb29cb07fa321a152f0ae291cd3114fea4abf5707d256ca17>&nbsp;&nbsp;3&nbsp;&nbsp;</a></td>
+	<td align=center>3</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>2.</td>
+	<td align=center>New Brunswick (NB)</td>
+	<td align=center><a href=hbz.php?args=d0cab7bebc0c49efb890995b249da3d6a931fffc07f6bb2bc76e64d284536c220ceff13f0dc149eac7801384c0855b63c22c75dd611609c843dab50a4cb7b2cca6405188597596419cc296734e9e1c0ee577b251219e9593b01519e8418ed7dde1f706ad077a3b003fa0e1da477997ad9eff9f912f16c49c911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;1&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=b136142a4f71174aba283db315a9e9385b25bbddfd7a939b9cdd9bc4df2b396bd2cdfc5dbcb8185799a28bf2dc12f8731fc331457be22754b2351488d380db017056a62a61cf867300291c81f336a7b0b79b3782d3cd4e41de7250dce07333969bb841bb3e05f45f2599e160c7feb39d2f6149df05ff42ccb29cb07fa321a152f0ae291cd3114fea4abf5707d256ca17>&nbsp;&nbsp;1&nbsp;&nbsp;</a></td>
+	<td align=center>2</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>3.</td>
+	<td align=center>Quebec (QC)</td>
+	<td align=center><a href=hbz.php?args=ef22c4f3c8d364a14a478b483b2cd565cd20e4e22578c0c0b131d20738aa7b60b730414c681a11fa0b862c1b4afdaaa3c22c75dd611609c843dab50a4cb7b2cca640518859759641f35aebe45c2f56addaed35354a09137654c8b2ad4022d87744d25e9f8fac0eb656eb8144a4822457743cefddf3ffee3e911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;1&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=65b0d5bc20a5a56d6f547034d93c4f7537d9eedbc7f7dc6faaa45c88cf051ad1c5fb77233852d883b0e56d4037fc4fd11fc331457be22754b2351488d380db017056a62a61cf8673d16661ef3cbf598c15bd503fface3fc62cc830da3ea0044474c7e063696b2d04f264b3549b7a39e2366c9a1df4095e1fb29cb07fa321a152f0ae291cd3114fea4abf5707d256ca17>&nbsp;&nbsp;1&nbsp;&nbsp;</a></td>
+	<td align=center>1</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>4.</td>
+	<td align=center>British Columbia (BC)</td>
+	<td align=center><a href=hbz.php?args=d1f57e666632b04ca5ed36da60577bb2d2bbb6e042e0a3f8f7e9606f5639782d8cd3f538acf939a1ccefd37e2e403b39c22c75dd611609c843dab50a4cb7b2cca6405188597596419913cf1aec46e4f67359944bbaeae30518f6e50012d3093644d25e9f8fac0eb656eb8144a4822457743cefddf3ffee3e911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;1&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=e9ed6a363df29732bd459e793ebcdbc9fc7dcf2d955f7474a0fd2439661fd6ac134525af4c4077c1f4bbf365bfc2395f1fc331457be22754b2351488d380db017056a62a61cf8673d8586e125e4b0afcba72918e5548510cb3f99c8fd40d4cb174c7e063696b2d04f264b3549b7a39e2366c9a1df4095e1fb29cb07fa321a152f0ae291cd3114fea4abf5707d256ca17>&nbsp;&nbsp;1&nbsp;&nbsp;</a></td>
+	<td align=center>1</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>5.</td>
+	<td align=center>Nova Scotia (NS)</td>
+	<td align=center><a href=hbz.php?args=f3bf46fac9758a6466c1849ca4297a96e0edbf9558342e1b78823ee2806d71998e9c7702cbb58b870b177a4e99a5c7a5c22c75dd611609c843dab50a4cb7b2cca640518859759641f9b85b84d1861ea7497ffa09d8f8861e0a69249176a2f14c44d25e9f8fac0eb656eb8144a4822457743cefddf3ffee3e911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;1&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=be4d877b68394aa71c97c07d49e0d8d5310cda748bbcee2955d052e7a083e63ec2647ae76b4334b79b7e0b3c2ae1b32c1fc331457be22754b2351488d380db017056a62a61cf8673817dc426aec322eebe53157938b016354ace9f7c1615bf7074c7e063696b2d04f264b3549b7a39e2366c9a1df4095e1fb29cb07fa321a152f0ae291cd3114fea4abf5707d256ca17>&nbsp;&nbsp;1&nbsp;&nbsp;</a></td>
+	<td align=center>1</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>6.</td>
+	<td align=center>Alberta (AB)</td>
+	<td align=center>---</td>
+	<td align=center>---</td>
+	<td align=center>0</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>7.</td>
+	<td align=center>Manitoba (MB)</td>
+	<td align=center>---</td>
+	<td align=center>---</td>
+	<td align=center>0</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>8.</td>
+	<td align=center>Newfoundland and Labrador (NL)</td>
+	<td align=center>---</td>
+	<td align=center>---</td>
+	<td align=center>0</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>9.</td>
+	<td align=center>Northwest Territories (NT)</td>
+	<td align=center>---</td>
+	<td align=center>---</td>
+	<td align=center>0</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>10.</td>
+	<td align=center>Nunavut (NU)</td>
+	<td align=center>---</td>
+	<td align=center>---</td>
+	<td align=center>0</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>11.</td>
+	<td align=center>Prince Edward Island (PE)</td>
+	<td align=center>---</td>
+	<td align=center>---</td>
+	<td align=center>0</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>12.</td>
+	<td align=center>Saskatchewan (SK)</td>
+	<td align=center>---</td>
+	<td align=center>---</td>
+	<td align=center>0</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>13.</td>
+	<td align=center>Yukon Territory (YT)</td>
+	<td align=center>---</td>
+	<td align=center>---</td>
+	<td align=center>0</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>CAN</td>
+	<td align=center>Totals</td>
+	<td align=center>&nbsp;&nbsp;<b>7</b>&nbsp;&nbsp;</a></td>
+	<td align=center>&nbsp;&nbsp;<b>7</b>&nbsp;&nbsp;</a></td>
+	<td align=center>&nbsp;&nbsp;<b>8</td>
+</tr>
+</table><center><span class=body><a href="#top">Back to Top</a></span></center><br>
+<TABLE width="50%" cellpadding="2" cellspacing="0" bordercolor="#999999" border=1 class="body">
+<tr class="body" bgcolor="#dddddd">	<td colspan=5><div align=center>Hits by State - International/Other - <a href=/ybs.php?hbs=9540&vs=8192>Hide</a></div></td>
+</tr>
+<tr class="body" bgcolor="#dddddd">	<td colspan=5><div align=center>You have 8 hits in 7 International States</div></td>
+</tr>
+<tr class="body" bgcolor="#dddddd">	<td align=center>Rank</td>
+	<td align=center>State</td>
+	<td align=center>Hits by Zip Code</td>
+	<td align=center>Hits by City</td>
+	<td align=center>Hits</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>1.</td>
+	<td align=center>Japan (jp)</td>
+	<td align=center><a href=hbz.php?args=36497a306702cc225eb68d9d2dd44c3d53b02bb5a2162b0641988cf1984c8c645c71029b827767e8767f940ad61119e2c22c75dd611609c843dab50a4cb7b2cca6405188597596411d00b9d3378bbc47909080051db03f67634413d3014121fff2b54a50b19816da6c03b96bb33c3eff414fc677cce9d901911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;2&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=1c9ece7b5665c3c5071cb6d6c5744a9bc323b88b07ebcb5d3584ef7a73c4d8c5686ef05d89d044febbef20b78c0b7c8f1fc331457be22754b2351488d380db017056a62a61cf8673dda8538186a931292f6829e563f80e130df6e04d3a275d7a9bb841bb3e05f45f2599e160c7feb39d2f6149df05ff42cc3675ef32f7cb4292c95a76aca14f075e07c6fbddd13a4ffe>&nbsp;&nbsp;2&nbsp;&nbsp;</a></td>
+	<td align=center>2</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>2.</td>
+	<td align=center>Jamaica (jm)</td>
+	<td align=center><a href=hbz.php?args=f39f070db9f18da655e2db67ad241253f85270e6f9ffcfdd4c36c760cd9dcfc39d952350f6750010e2bd31a094430421c22c75dd611609c843dab50a4cb7b2cca640518859759641e33a59945a5065999abd05e697c42f9add290af08589371342e216041eb7921403eedc6c1b8b3e9c90034fd1b197fd5a911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;1&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=4e7f9f35d4d3fb16a160748cbe2a71244dc0a6008476d0b7ba4a57cea11fd6371ef47d7b9d8a64c447c9a8ca0d862f4e1fc331457be22754b2351488d380db017056a62a61cf8673d39542da877e8a24a604d89e11528b58c9023593ab0a094d74c7e063696b2d04f264b3549b7a39e2366c9a1df4095e1f3675ef32f7cb4292c95a76aca14f075e07c6fbddd13a4ffe>&nbsp;&nbsp;1&nbsp;&nbsp;</a></td>
+	<td align=center>1</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>3.</td>
+	<td align=center>Mexico (mx)</td>
+	<td align=center><a href=hbz.php?args=05b02749e88a2061528111bf746eda3d1a65c6b2a31fe0cc8fa4c952ab2242c2c66c259e434318ffac313b9333c59d9dc22c75dd611609c843dab50a4cb7b2cca6405188597596411657d5f663774b16492111dc6b02f73622b1904bceb4d44042e216041eb7921403eedc6c1b8b3e9c90034fd1b197fd5a911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;1&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=0f385a71ce289d747e18f361231e38907d554746fd51fbc130fc55a53def3412b05abc87c64c63877fc3eb8340ae07781fc331457be22754b2351488d380db017056a62a61cf86739743448666e843a016d3ef0013b11d2dba811dc42f90ed0d74c7e063696b2d04f264b3549b7a39e2366c9a1df4095e1f3675ef32f7cb4292c95a76aca14f075e07c6fbddd13a4ffe>&nbsp;&nbsp;1&nbsp;&nbsp;</a></td>
+	<td align=center>1</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>4.</td>
+	<td align=center>Barbados (bb)</td>
+	<td align=center><a href=hbz.php?args=d2106ccdcf1703566c6a6fa649c1f0824c9283fbf3bd42d67ddf5f7bf8320fe6760be41ed875b318bc9ee363140d35eac22c75dd611609c843dab50a4cb7b2cca640518859759641c573a8b570e2b2fa5c03764eb48f27bdc4d38bb938d0320642e216041eb7921403eedc6c1b8b3e9c90034fd1b197fd5a911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;1&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=5a1095464a20504867a5bdcb77b82071c31a2c883a32a40c954a87840e83254995c360a7ebadabc27d9dbbead1eeb1981fc331457be22754b2351488d380db017056a62a61cf86739e5a1a4ddaf074bb3cfdd23297672d7f469a0398b4549db174c7e063696b2d04f264b3549b7a39e2366c9a1df4095e1f3675ef32f7cb4292c95a76aca14f075e07c6fbddd13a4ffe>&nbsp;&nbsp;1&nbsp;&nbsp;</a></td>
+	<td align=center>1</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>5.</td>
+	<td align=center>Panama (pa)</td>
+	<td align=center><a href=hbz.php?args=ad76c3143bb639e4e060db86e62a0c2f299566de6e7aa7eef98729f99761eb81876e1418ce03132dce3132e43527f227c22c75dd611609c843dab50a4cb7b2cca6405188597596418110cd81ad97e438f964dcde4c366c807f1b1f61eba03b8842e216041eb7921403eedc6c1b8b3e9c90034fd1b197fd5a911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;1&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=45d0c67bc143ca1966cc49a601253939a1d6de4727cd9a0defdee06cebe92f2c0770dd794f39927b4f1ae24a27770c8e1fc331457be22754b2351488d380db017056a62a61cf8673c84b9d5829381d70eab5d607afebaed8e80af660faa40e6b74c7e063696b2d04f264b3549b7a39e2366c9a1df4095e1f3675ef32f7cb4292c95a76aca14f075e07c6fbddd13a4ffe>&nbsp;&nbsp;1&nbsp;&nbsp;</a></td>
+	<td align=center>1</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>6.</td>
+	<td align=center>Spain (es)</td>
+	<td align=center><a href=hbz.php?args=684cdcda42906f648fce9e2fdd3a06e20026744db89cd5d6aa099a3d4584e92613188ff669dcfc5aad8f792d140c602ec22c75dd611609c843dab50a4cb7b2cca640518859759641daa48c4a18a1585f8fc3e984afa504b01fec24dcc49290d742e216041eb7921403eedc6c1b8b3e9c90034fd1b197fd5a911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;1&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=9bc115d4efd08494650aa0aeb8edbe641349f5f928d670ddd628f9ebc58189b98c6bd1b1ed0cf38f4c698f2373c063501fc331457be22754b2351488d380db017056a62a61cf86737692ba5eb8cd64fbcac784358c78509baa22bd77055c6ccc74c7e063696b2d04f264b3549b7a39e2366c9a1df4095e1f3675ef32f7cb4292c95a76aca14f075e07c6fbddd13a4ffe>&nbsp;&nbsp;1&nbsp;&nbsp;</a></td>
+	<td align=center>1</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>7.</td>
+	<td align=center>United Kingdom (gb)</td>
+	<td align=center><a href=hbz.php?args=e4395bd25dfca9d6efef836756889b6230bc873e5fa538e2ea4b5d76a200317c5ccf0bb05f397af37b7c3d5880822ed8c22c75dd611609c843dab50a4cb7b2cca640518859759641cb51a1e86cb19c3a7da6e5260cc50afecc12bf7a8c74a32b42e216041eb7921403eedc6c1b8b3e9c90034fd1b197fd5a911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908>&nbsp;&nbsp;1&nbsp;&nbsp;</a></td>
+	<td align=center><a href=hbz.php?args=eff535372c900b74958b9df31e2260658bdeb6b03411d013a2a0bbced3baef346f75b217c0d256e76daf7445d9b812a61fc331457be22754b2351488d380db017056a62a61cf86730ba388505256502cae489d8443ef14055fc1b07046f8635c74c7e063696b2d04f264b3549b7a39e2366c9a1df4095e1f3675ef32f7cb4292c95a76aca14f075e07c6fbddd13a4ffe>&nbsp;&nbsp;1&nbsp;&nbsp;</a></td>
+	<td align=center>1</td>
+</tr>
+<tr class="body" bgcolor="white">	<td align=center>Int.</td>
+	<td align=center>Totals</td>
+	<td align=center>&nbsp;&nbsp;<b>8</b>&nbsp;&nbsp;</a></td>
+	<td align=center>&nbsp;&nbsp;<b>8</b>&nbsp;&nbsp;</a></td>
+	<td align=center>&nbsp;&nbsp;<b>8</td>
+</tr>
+</table><center><span class=body><a href="#top">Back to Top</a></span></center><br><br>Database time:0 Minute(s) and 54 Second(s).<br>Processing time:0 Minute(s) and 1 Second(s).<br>This report ran for 0 Minute(s) and 55 Second(s).</p> <br><a href=#queue name="queue">Queue Status:</a>Hit Analysis Report reports currently in queue: 0.<br> <!-- </center> -->
+<center><iframe bgcolor="#ffffff" Allowtransparency="true" src="openads_box.php" width="300" height="250" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe></center>
+<br><br><br><br><br><br>
+<table width="510" border="0" cellpadding="0" cellspacing="0" class="body">
+	<tr>
+	<td class="body"><div align="center">
+	<a href="/">Home Page</a> | <a href="faq.php">FAQs</a> | <a href="site_map.php">Site Map</a> | <a href="about.php">About</a> | <a href="privacy.php">Privacy Policy</a> | <a href="contact_us.php">Contact Us</a> <br>
+	<br>	<span class=footer>
+All content, images, and data &copy; 1998-2011 Where's George? LLC.<br>
+All Rights Reserved. Use of this Web site constitutes<br>
+acceptance of the <script>document.write("<A  HREF=\"javascript:popup_win('rules.php?fr=1',600,800,'yes');\">Terms of Service</a>");</script><noscript><A HREF=rules.php?fr=1 target=_blank>Terms of Service</a></noscript></span>
+</div><br><!-- <a href=http://www.milonic.com/><font color=#ffffff>DHTML Menu By Milonic JavaScript</font></a>--></td></tr></table></td>
+</tr>
+</table>
+	<!-- Start Quantcast tag -->
+	<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+	<script type="text/javascript">_qacct="p-26x3j23aUJBL6";quantserve();</script>
+	<noscript>
+	<a href="http://www.quantcast.com/p-26x3j23aUJBL6" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-26x3j23aUJBL6.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+	</noscript>
+	<!-- End Quantcast tag -->
+</body>
+</html>
+
+==================
+
+start=9256
+
+end=303
+
+===================
+refresh_path=runner.php?args=5b53915a322902e80492d6e6f1ad4ed6d935353d97251a494f187c36aebba94eb32689b159679261150f0cf27cc1fde19c1d7b31303d0b67e7d946879bc87ed8dd906812c2b3d44dc568ab55aed38ab62863721c1dda0a702446beb7bb8584cb102a3245a373f0bc1f6e42b3f0e82fd53137f57a49a0c1b7911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908
+==================
+
+executed http://www.wheresgeorge.com/runner.php?args=5b53915a322902e80492d6e6f1ad4ed6d935353d97251a494f187c36aebba94eb32689b159679261150f0cf27cc1fde19c1d7b31303d0b67e7d946879bc87ed8dd906812c2b3d44dc568ab55aed38ab62863721c1dda0a702446beb7bb8584cb102a3245a373f0bc1f6e42b3f0e82fd53137f57a49a0c1b7911bad547345a18c184ead5aa35a0c590c78ea7f9ae01908 at (00:13)

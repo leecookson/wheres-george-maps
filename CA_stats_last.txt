@@ -1,0 +1,59 @@
+{Alameda	9
+} {Alpine	---
+} {Amador	---
+} {Butte	---
+} {Calaveras	---
+} {Colusa	---
+} {Contra Costa	2
+} {Del Norte	---
+} {El Dorado	---
+} {Fresno	2
+} {Glenn	---
+} {Humboldt	---
+} {Imperial	---
+} {Inyo	1
+} {Kern	---
+} {Kings	---
+} {Lake	---
+} {Lassen	---
+} {Los Angeles	23
+} {Madera	---
+} {Marin	---
+} {Mariposa	---
+} {Mendocino	---
+} {Merced	---
+} {Modoc	---
+} {Mono	---
+} {Monterey	1
+} {Napa	---
+} {Nevada	---
+} {Orange	9
+} {Placer	2
+} {Plumas	---
+} {Riverside	3
+} {Sacramento	---
+} {San Benito	---
+} {San Bernardino	1
+} {San Diego	7
+} {San Francisco	1
+} {San Joaquin	1
+} {San Luis Obispo	3
+} {San Mateo	---
+} {Santa Barbara	1
+} {Santa Clara	2
+} {Santa Cruz	---
+} {Shasta	---
+} {Sierra	---
+} {Siskiyou	---
+} {Solano	---
+} {Sonoma	1
+} {Stanislaus	---
+} {Sutter	---
+} {Tehama	---
+} {Trinity	---
+} {Tulare	1
+} {Tuolumne	---
+} {Ventura	3
+} {Yolo	1
+} {Yuba	---
+}

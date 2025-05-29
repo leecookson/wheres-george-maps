@@ -1,0 +1,19 @@
+#!/bin/bash
+
+cd $MAPSHOME
+. proxy-config
+
+case $# in
+ 1) files="$1_*_Z.png $1_*_YZ.gif" ;;
+ *) files="*_Z.png *_YZ.gif" ;;
+esac
+
+echo "proxy=$ftp_proxy"
+echo "putting for $files"
+
+ftp upload.comcast.net > /dev/null << END
+cd maps
+mput $files
+bye
+
+END

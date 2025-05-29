@@ -1,0 +1,27 @@
+{Beverly	16
+	} {Bordentown	10
+	} {Browns Mills	12
+	} {Burlington	81
+	} {Chesterfield	1
+	} {Cinnaminson	5
+	} {Columbus	4
+	} {Delran	19
+	} {Florence	4
+	} {Hainesport	4
+	} {Jobstown	1
+	} {Lumberton	13
+	} {Maple Shade	16
+	} {Marlton	26
+	} {Medford	13
+	} {Moorestown	13
+	} {Mount Holly	71
+	} {Mount Laurel	25
+	} {New Hanover	7
+	} {Palmyra	1
+	} {Pemberton	2
+	} {Rancocas	3
+	} {Roebling	8
+	} {Vincentown	8
+	} {Willingboro	42
+	} {Wrightstown	4
+	}

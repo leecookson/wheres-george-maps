@@ -1,0 +1,16 @@
+Androscoggin=300,405
+Aroostook=400,100
+Cumberland=300,440
+Franklin=300,350
+Hancock=450,300
+Kennebec=350,350
+Knox=400,380
+Lincoln=375,375
+Oxford=250,350
+Penobscot=400,250
+Piscataquis=300,150
+Sagadahoc=340,400
+Somerset=300,300
+Waldo=400,325
+Washington=500,300
+York=300,500

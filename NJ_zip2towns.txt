@@ -1,0 +1,846 @@
+      07001            Avenel
+      07002            Bayonne
+      07003            Bloomfield
+      07004            Fairfield
+      07005            Boonton
+      07006            Caldwell
+      07007            Caldwell             
+      07008            Carteret
+      07009            Cedar Grove
+      07010            Cliffside Park
+      07011            Clifton              
+      07012            Clifton
+      07013            Clifton
+      07014            Clifton
+      07015            Clifton              
+      07016            Cranford
+      07017            East Orange
+      07018            East Orange
+      07019            East Orange          
+      07020            Edgewater
+      07021            Essex Fells
+      07022            Fairview
+      07023            Fanwood
+      07024            Fort Lee
+      07026            Garfield
+      07027            Garwood
+      07028            Glen Ridge
+      07029            Harrison
+      07030            Hoboken
+      07031            North Arlington
+      07032            Kearny
+      07033            Kenilworth
+      07034            Lake Hiawatha
+      07035            Lincoln Park
+      07036            Linden
+      07039            Livingston
+      07040            Maplewood
+      07041            Millburn
+      07042            Montclair            
+      07043            Upper Montclair
+      07044            Montclair
+      07044            Verona
+      07045            Montville
+      07046            Mountain Lakes
+      07047            Hudson Heights
+      07047            North Bergen
+      07047            North Middletown
+      07050            Orange
+      07051            Orange               
+      07052            Orange               
+      07052            West Orange
+      07054            Parsippany
+      07055            Passaic
+      07057            Passaic
+      07057            Passaic              Wallington
+      07057            Wallington
+      07058            Pine Brook
+      07059            Warren
+      07060            North Plainfield
+      07060            Plainfield           
+      07060            Plainfield           Muhlenberg
+      07060            Plainfield           North Plainfield
+      07060            Plainfield           Warren
+      07060            Plainfield           Watchung
+      07060            Watchung
+      07061            Plainfield           
+      07062            Plainfield           Netherwood
+      07063            Plainfield
+      07064            Port Reading
+      07065            Woodbridge               
+      07066            Woodbridge
+      07067            Woodbridge
+      07068            Roseland
+      07070            Rutherford           
+      07071            Lyndhurst
+      07071            Rutherford           Lyndhurst
+      07072            Carlstadt 
+      07072            Rutherford           Carlstadt
+      07073            East Rutherford
+      07073            Rutherford           East Rutherford
+      07074            Moonachie
+      07074            Rutherford           Moonachie
+      07075            Rutherford           Wood Ridge
+      07075            Wood Ridge
+      07076            Scotch Plains
+      07077            Sewaren
+      07078            Short Hills
+      07079            South Orange
+      07080            South Plainfield
+      07081            Springfield
+      07082            Towaco 
+      07083            Union
+      07086            Weehawken
+      07087            Union City
+      07087            Union City           Weehawken
+      07088            Vauxhall
+      07090            Westfield            
+      07091            Westfield            
+      07092            Mountainside
+      07092            Westfield            Mountainside
+      07093            Guttenberg
+      07093            West New York
+      07094            Secaucus
+      07095            Woodbridge
+      07096            Secaucus
+      07097            Jersey City
+      07098            Kenilworth
+      07099            North Jersey Facility
+      07100            Newark
+      07101            Newark               
+      07102            Newark               
+      07103            Newark
+      07104            Newark               
+      07105            Newark               Ironbound
+      07106            Newark               Vailsburg
+      07107            Newark               Roseville
+      07108            Newark               Clinton Hill
+      07109            Belleville 
+      07109            Belleville
+      07109            Belleville
+      07110            Newark               Nutley
+      07110            Nutley
+      07111            Irvington
+      07111            Newark               Irvington
+      07114            Newark               
+      07175            Newark
+      07183            Newark
+      07184            Newark
+      07185            Newark
+      07187            Newark
+      07188            Newark
+      07189            Newark
+      07190            Newark
+      07191            Newark
+      07192            Newark
+      07193            Newark
+      07194            Newark
+      07195            Newark
+      07197            Newark
+      07198            Newark
+      07199            Newark
+      07200            Elizabeth
+      07201            Elizabeth            Union Square
+      07202            Elizabeth            Bayway
+      07202            Elizabeth            Elmora
+      07203            Elizabeth            Roselle
+      07204            Elizabeth            Roselle Park
+      07205            Elizabeth            Hillside
+      07205            Elizabeth            Industrial Hillside
+      07205            Hillside
+      07205            Industrial Hillside
+      07206            Elizabeth            Elizabethport
+      07207            Elizabeth            
+      07208            Elizabeth            North Elizabeth
+      07215            Elizabeth
+      07216            Elizabeth
+      07300            Jersey City
+      07302            Jersey City
+      07303            Jersey City
+      07304            Jersey City
+      07305            Jersey City
+      07306            Jersey City
+      07307            Jersey City
+      07308            Jersey City
+      07309            Jersey City
+      07310            Jersey City
+      07311            Jersey City
+      07399            Jersey City
+      07401            Allendale
+      07403            Bloomingdale
+      07405            Butler
+      07405            Kinnelon
+      07407            Elmwood Park
+      07410            Fair Lawn
+      07416            Franklin
+      07417            Franklin Lakes
+      07418            Glenwood
+      07419            Hamburg
+      07420            Haskell
+      07421            Hewitt
+      07422            Highland Lakes
+      07423            Ho Ho Kus
+      07424            Little Falls
+      07424            West Paterson
+      07428            McAfee
+      07430            Mahwah
+      07432            Midland Park
+      07435            Newfoundland
+      07436            Oakland
+      07438            Oak Ridge
+      07439            Ogdensburg
+      07440            Pequannock
+      07442            Pompton Lakes
+      07444            Pompton Plains
+      07446            Ramsey
+      07450            Ridgewood            
+      07451            Ridgewood            
+      07452            Ridgewood            Glen Rock
+      07456            Ringwood
+      07457            Riverdale
+      07458            Saddle River
+      07460            Stockholm
+      07461            Sussex
+      07462            Vernon
+      07463            Waldwick
+      07465            Wanaque
+      07470            Packanack Lake
+      07470            Wayne
+      07470            Wayne                Packanack Lake
+      07474            Wayne                
+      07477            Wayne
+      07480            West Milford
+      07481            Wyckoff
+      07495            Mahwah
+      07498            Mahwah
+      07500            Paterson
+      07501            Paterson
+      07502            Paterson
+      07503            Paterson
+      07504            Paterson
+      07505            Paterson
+      07506            Paterson             Hawthorne
+      07507            Paterson
+      07508            Haledon-North Haledon
+      07508            Paterson             Haledon
+      07508            Paterson             North Haledon
+      07508            Paterson             Prospect Park
+      07508            Prospect Park
+      07509            Paterson
+      07510            Paterson             
+      07511            Paterson
+      07512            Paterson             Totowa
+      07512            Totowa
+      07513            Paterson
+      07514            Paterson
+      07522            Paterson
+      07524            Paterson
+      07530            Paterson
+      07533            Paterson             South Paterson
+      07538            Paterson
+      07543            Paterson
+      07544            Paterson
+      07601            Hackensack           
+      07602            Hackensack           
+      07603            Bogota 
+      07603            Hackensack           Bogota
+      07604            Hackensack           Hasbrouck Heights
+      07604            Hasbrouck Heights
+      07605            Hackensack           Leonia
+      07605            Leonia
+      07606            Hackensack           South Hackensack
+      07606            South Hackensack
+      07607            Hackensack           Maywood
+      07607            Maywood
+      07608            Hackensack           Teterboro
+      07608            Teterboro
+      07620            Alpine
+      07621            Bergenfield
+      07624            Closter
+      07626            Cresskill
+      07627            Demarest
+      07628            Dumont
+      07630            Emerson
+      07631            Englewood            
+      07631            Englewood            
+      07632            Englewood            Englewood Cliffs
+      07640            Harrington Park
+      07641            Haworth
+      07642            Hillsdale
+      07643            Little Ferry
+      07644            Lodi
+      07645            Montvale
+      07646            New Milford
+      07647            Northvale
+      07647            Northvale            Rockleigh
+      07647            Rockleigh
+      07648            Norwood
+      07649            Oradell
+      07650            Palisades Park
+      07652            Paramus
+      07653            Paramus              
+      07656            Park Ridge
+      07657            Ridgefield
+      07660            Ridgefield Park
+      07661            River Edge
+      07662            Rochelle Park
+      07663            Saddle Brook
+      07666            Teaneck
+      07666            West Englewood
+      07670            Tenafly
+      07675            Old Tappan
+      07675            Westwood
+      07675            Westwood             Old Tappan
+      07675            Westwood             River Vale
+      07675            Westwood             Woodcliff Lake
+      07676            Twp of Washington
+      07688            Teaneck
+      07701            Red Bank
+      07701            Red Bank             Suburban
+      07701            Suburan
+      07702            Shrewsbury
+      07703            Fort Monmouth
+      07703            Red Bank
+      07704            Fair Haven
+      07709            Allenhurst
+      07710            Adelphia
+      07711            Allenhurst
+      07712            Asbury Park
+      07712            Asbury Park          Ocean
+      07712            Ocean
+      07713            Asbury Park
+      07715            Belmar
+      07716            Atlantic Highlands
+      07717            Avon By the Sea
+      07718            Belford
+      07719            Belmar
+      07719            Belmar               Wall
+      07719            Wall 
+      07720            Bradley Beach
+      07721            Cliffwood
+      07722            Colts Neck
+      07723            Deal
+      07724            Eatontown
+      07724            Eatontown            Scobeyville
+      07724            Eatontown            Tinton Falls
+      07724            Tinton Falls
+      07726            Englishtown
+      07727            Allaire
+      07727            Farmingdale
+      07728            Freehold
+      07730            Hazlet
+      07731            Howell 
+      07732            Fort Hancock
+      07732            Highlands
+      07733            Holmdel
+      07734            Keansburg
+      07734            Keansburg            North Middletown
+      07735            Cliffwood Beach
+      07735            Keyport
+      07735            Union Beach
+      07737            Leonardo 
+      07738            Lincroft
+      07739            Little Silver
+      07740            Elberon
+      07740            Long Branch
+      07740            West End
+      07746            Marlboro
+      07747            Matawan
+      07748            Middletown
+      07748            New Monmouth
+      07750            Monmouth Beach
+      07751            Morganville
+      07752            Navesink
+      07753            Neptune
+      07753            Neptune              Neptune City
+      07754            Neptune              
+      07755            Oakhurst
+      07756            Ocean Grove
+      07757            Oceanport
+      07758            Port Monmouth
+      07760            Rumson
+      07760            Rumson               Sea Bright
+      07760            Sea Bright
+      07762            Spring Lake
+      07762            Spring Lake          Saddle Brook
+      07763            Tennent
+      07764            West Long Branch
+      07765            Wickatunk
+      07777            Holmdel
+      07799            Red Bank
+      07801            Dover
+      07802            Dover
+      07803            Mine Hill
+      07806            Picatinny Arsenal
+      07820            Allamuchy
+      07821            Andover
+      07822            Augusta
+      07823            Belvidere
+      07825            Blairstown
+      07826            Branchville
+      07827            Montague
+      07828            Budd Lake
+      07828            Mount Olive Township
+      07829            Buttzville
+      07830            Califon
+      07831            Changewater
+      07832            Columbia
+      07833            Delaware
+      07834            Denville
+      07836            Flanders
+      07837            Glasser
+      07838            Great Meadows
+      07839            Greendell
+      07840            Hackettstown
+      07842            Hibernia
+      07843            Hopatcong
+      07844            Hope
+      07845            Ironia 
+      07846            Johnsonburg
+      07847            Kenvil
+      07848            Lafayette
+      07849            Lake Hopatcong
+      07850            Landing
+      07851            Layton
+      07852            Ledgewood
+      07853            Long Valley 
+      07855            Middleville
+      07856            Mount Arlington
+      07857            Netcong
+      07860            Newton
+      07863            Oxford
+      07865            Port Murray
+      07866            Rockaway
+      07869            Dover
+      07869            Dover                Randolph
+      07869            Randolph
+      07870            Schooleys Mountain
+      07871            Sparta
+      07874            Stanhope
+      07875            Stillwater
+      07876            Succasunna
+      07877            Swartswood
+      07878            Mount Tabor
+      07879            Tranquility
+      07880            Vienna
+      07881            Wallpack Center
+      07882            Washington
+      07885            Wharton
+      07890            Branchville
+      07901            Summit
+      07902            Summit
+      07920            Basking Ridge
+      07921            Bedminster
+      07922            Berkeley Heights
+      07924            Bernardsville
+      07926            Brookside
+      07927            Cedar Knolls
+      07928            Chatham
+      07930            Chester
+      07931            Far Hills
+      07932            Florham Park
+      07933            Gillette
+      07934            Gladstone
+      07935            Green Village
+      07936            East Hanover
+      07938            Liberty Corner
+      07939            Basking Ridge
+      07939            Basking Ridge        Lyons
+      07939            Lyons
+      07940            Madison
+      07945            Mendham
+      07946            Millington
+      07950            Greystone Park
+      07950            Morris Plains
+      07960            Morristown
+      07961            Convent Station
+      07961            Morristown
+      07962            Morristown
+      07964            Morristown
+      07970            Mount Freedom
+      07974            New Providence
+      07976            New Vernon
+      07977            Peapack
+      07978            Pluckemin
+      07979            Pottersville
+      07980            Stirling
+      07981            Whippany
+      07999            Summit
+      08001            Alloway
+      08002            Cherry Hill
+      08003            Cherry Hill
+      08004            Waterford
+      08005            Barnegat
+      08006            Barnegat Light
+      08007            Barrington
+      08008            Beach Haven
+      08008            Harvey Cedars
+      08008            Long Beach
+      08008            Ship Bottom
+      08009            Berlin
+      08010            Beverly
+      08011            Birmingham
+      08012            Blackwood
+      08014            Bridgeport
+      08015            Browns Mills
+      08016            Burlington
+      08018            Cedar Brook
+      08019            Chatsworth
+      08020            Clarksboro
+      08021            Clementon
+      08022            Columbus
+      08023            Deepwater
+      08025            Ewan
+      08026            Gibbsboro
+      08027            Gibbstown
+      08028            Glassboro
+      08029            Glendora
+      08030            Gloucester City
+      08031            Bellmawr
+      08032            Grenloch
+      08033            Haddonfield
+      08034            Cherry Hill          
+      08034            Cherry Hill          
+      08035            Haddon Heights
+      08036            Hainesport
+      08037            Hammonton
+      08038            Hancocks Bridge
+      08039            Harrisonville
+      08040            Kirkwood
+      08041            Jobstown
+      08042            Juliustown
+      08043            Voorhees
+      08045            Lawnside 
+      08046            Willingboro
+      08048            Lumberton 
+      08049            Magnolia
+      08050            Manahawkin
+      08051            Mantua
+      08052            Maple Shade
+      08053            Marlton
+      08054            Mount Laurel
+      08055            Medford
+      08056            Mickleton
+      08057            Moorestown
+      08059            Mount Ephraim
+      08060            Mount Holly
+      08061            Mount Royal
+      08062            Mullica Hill
+      08063            National Park
+      08064            New Lisbon
+      08065            Palmyra
+      08066            Paulsboro
+      08067            Pedricktown
+      08068            Pemberton
+      08069            Carney's Point 
+      08069            Penns Grove
+      08070            Pennsville
+      08071            Pitman
+      08072            Quinton
+      08073            Rancocas
+      08074            Richwood
+      08075            Delran
+      08077            Cinnaminson
+      08078            Runnemede
+      08079            Salem
+      08080            Sewell
+      08081            Sicklerville
+      08083            Somerdale
+      08084            Stratford
+      08085            Swedesboro
+      08086            Thorofare
+      08087            Tuckerton
+      08088            Vincentown
+      08089            Chesilhurst
+      08090            Wenonah
+      08091            West Berlin
+      08092            West Creek
+      08093            Westville
+      08094            Williamstown
+      08095            Winslow
+      08096            Deptford
+      08096            Woodbury
+      08097            Woodbury Heights
+      08098            Woodstown
+      08100            Camden
+      08101            Camden               
+      08102            Camden               
+      08103            Camden
+      08104            Camden
+      08105            Camden
+      08106            Audubon 
+      08107			   Oaklyn
+      08108            Collingswood
+      08109            Merchantville
+      08110            Pennsauken
+	  08201            Absecon
+      08202            Avalon
+      08203            Brigantine
+      08204            Cape May
+      08204            Coast Guard Base
+      08204            North Cape May
+      08205            Galloway
+      08210            Cape May Court House
+      08212            Cape May Point
+      08213            Cologne
+      08214            Dennisville
+      08215            Egg Harbor City
+      08217            Elwood
+      08218            Goshen
+      08219            Green Creek
+      08220            Leeds Point
+      08221            Linwood
+      08222            Linwood
+      08223            Marmora
+      08224            New Gretna
+      08225            Northfield
+      08226            Ocean City
+      08227            Linwood
+      08230            Ocean View
+      08231            Oceanville
+      08232            Pleasantville
+      08233            Pleasantville
+      08234            Egg Harbor Township
+      08240            Pomona
+      08241            Port Republic
+      08242            Rio Grande
+      08243            Sea Isle City
+      08243            Townsend's Inlet 
+      08244            Somers Point
+      08245            South Dennis
+      08246            South Seaville
+      08247            Stone Harbor
+      08248            Strathmere
+      08250            Tuckahoe
+      08251            Villas
+      08252            Whitesboro
+      08260            Wildwood
+      08270            Woodbine
+      08302            Bridgeton
+      08302            Seabrook
+      08310            Buena
+      08311            Cedarville
+      08312            Clayton
+      08313            Deerfield Street 
+      08313            Delair
+      08314            Delmont
+      08315            Dividing Creek
+      08316            Dorchester
+      08317            Dorothy
+      08318            Elmer
+      08319            Estell Manor
+      08320            Fairton
+      08321            Fortescue
+      08322            Franklinville
+      08323            Greenwich
+      08324            Heislerville
+      08326            Landisville
+      08327            Leesburg
+      08328            Malaga
+      08329            Mauricetown
+      08330            Mays Landing
+      08332            Millville
+      08340            Milmay
+      08341            Minotola
+      08342            Mizpah
+      08343            Monroeville
+      08344            Newfield
+      08345            Newport
+      08346            Newtonville
+      08347            Norma
+      08348            Port Elizabeth
+      08349            Port Norris
+      08350            Richland
+      08352            Rosenhayn
+      08353            Shiloh
+      08358            Cherry Hill
+      08360            South Vineland
+      08360            Vineland
+      08370            Riverside
+      08400            Atlantic City
+      08401            Atlantic City        
+      08402            Margate City
+      08403            Longport
+      08404            Atlantic City
+      08405            Atlantic City        
+      08406            Ventnor City
+      08411            Atlantic City
+      08501            Allentown
+      08502            Belle Mead 
+      08504            Blawenburg
+      08505            Bordentown
+      08510            Clarksburg
+      08511            Cookstown
+      08512            Cranbury
+      08514            Creamridge
+      08515            Chesterfield
+      08518            Florence
+      08520            Hightstown
+      08525            Hopewell
+      08526            Imlaystown
+      08527            Jackson
+      08528            Kingston
+      08530            Lambertville
+      08533            New Egypt
+      08534            Pennington
+      08535            Perrineville
+      08536            Plainsboro
+      08540            Princeton            
+      08540            Princeton            
+      08540            Princeton            
+      08541            Princeton
+      08542            Princeton           
+      08543            Princeton
+      08544            Princeton
+      08550            Princeton Junction
+      08551            Ringoes
+      08553            Rocky Hill
+      08554            Roebling
+      08555            Roosevelt
+      08556            Rosemont
+      08557            Sergeantsville
+      08558            Skillman
+      08559            Stockton
+      08560            Titusville
+      08561            Windsor
+      08562            Wrightstown
+      08570            Cranbury
+      08600            Trenton
+      08601            Trenton
+      08602            Trenton
+      08603            Trenton
+      08604            Trenton
+      08605            Trenton
+      08606            Trenton
+      08607            Trenton              
+      08608            Trenton
+      08609            Hamilton
+      08610            Hamilton
+      08611            Hamilton
+      08618            Ewing
+      08618            Trenton
+      08619            Hamilton
+      08620            Hamilton
+      08625            Trenton
+      08628            Ewing
+      08629            Hamilton
+      08638            Ewing
+      08640            New Hanover
+      08641            New Hanover
+      08645            Trenton
+      08646            Trenton
+      08647            Trenton
+      08648            Lawrenceville
+      08650            Hamilton
+      08666            Trenton
+      08677            Trenton
+      08690            Hamilton
+      08691            Robbinsville
+      08695            Trenton
+      08701            Lakewood
+      08720            Allenwood
+      08721            Bayville
+      08722            Beachwood
+      08723            Brick
+      08724            Brick                
+      08730            Brielle
+      08731            Forked River
+      08732            Island Heights
+      08733            Lakehurst
+      08734            Lanoka Harbor
+      08735            Lavallette
+      08736            Manasquan
+      08738            Mantoloking
+      08739            Normandy Beach
+      08740            Ocean Gate
+      08741            Pine Beach
+      08742            Point Pleasant
+      08750            Sea Girt
+      08751            Seaside Heights
+      08752            Seaside Park
+      08753            Toms River           
+      08754            Toms River
+      08755            Toms River
+      08756            Toms River
+      08757            Toms River           
+      08758            Waretown
+      08759            Manchester Township
+      08801            Annandale
+      08802            Asbury
+      08803            Baptistown
+      08804            Bloomsbury
+      08805            Bound Brook
+      08807            Bridgewater
+      08808            Broadway
+      08809            Clinton
+      08810            Dayton
+      08812            Dunellen
+      08816            East Brunswick
+      08817            Edison
+      08818            Edison               
+      08820            Edison
+      08821            Flagtown
+      08822            Flemington
+      08823            Franklin Park
+      08824            South Brunswick
+      08825            Frenchtown
+      08826            Glen Gardner
+      08827            Hampton
+      08828            Helmetta
+      08829            High Bridge
+      08830            Iselin
+      08831            Monroe Township
+      08832            Keasbey
+      08833            Lebanon
+      08834            Little York
+      08835            Manville
+      08836            Martinsville
+      08837            Edison
+      08840            Metuchen
+      08844            Hillsborough
+      08846            Middlesex
+      08848            Milford
+      08850            Milltown
+      08852            South Brunswick
+      08853            Neshanic Station
+      08854            Piscataway
+      08855            Piscataway           
+      08857            Old Bridge
+      08858            Oldwick
+      08859            Parlin
+      08861            Perrineville          
+      08862            Perth Amboy
+      08863            Perrineville
+      08865            Phillipsburg
+      08867            Pittstown
+      08868            Quakertown
+      08869            Raritan
+      08870            Readington
+      08871            Sayreville
+      08872            Sayreville
+      08873            Somerset
+      08875            Somerset
+      08876            Somerville
+      08877            Somerville
+      08878            South Amboy
+      08879            South Amboy
+      08880            South Bound Brook
+      08882            South River
+      08884            Spotswood
+      08885            Stanton
+      08886            Stewartsville
+      08887            Three Bridges 
+      08888            Whitehouse
+      08889            White House Station
+      08890            Somerset
+      08899            New Brunswick
+      08901            New Brunswick        
+      08902            North Brunswick        
+      08903            New Brunswick        
+      08904            Highland Park
+      08905            New Brunswick
+      08906            New Brunswick
+      08922            New Brunswick
+      08933            New Brunswick
+      08988            New Brunswick
+      08989            New Brunswick

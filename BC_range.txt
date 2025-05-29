@@ -1,0 +1,46 @@
+set rangemn(1) 1
+set rangemx(1) 1
+set rangemn(2) 2
+set rangemx(2) 4
+set rangemn(3) 5
+set rangemx(3) 9
+set rangemn(4) 10
+set rangemx(4) 14
+set rangemn(5) 15
+set rangemx(5) 30
+set rangemn(6) 31
+set rangemx(6) 9999
+
+set legend_x 456
+set legend_y 17
+
+set range1 465,22
+set range2 465,42
+set range3 465,62
+set range4 465,82
+set range5 465,102
+set range6 465,122
+
+set spot0 {456 17}
+set spot1 {456 17}
+set spot2 {456 37}
+set spot3 {456 57}
+set spot4 {456 77}
+set spot5 {456 97}
+set spot6 {456 117}
+
+set url {http://www.wheresgeorge.com/hbz.php?args=9efe9a30392bcdae6bd274f8afd934a70ba9567648974500946d1a2c82c34e69d5e14801cc723c1048c7db1b06ff77f51fc331457be22754b2351488d380db017056a62a61cf867349b9ac86d4ab7ae2203cfbc6dea5017bbb90bf8cb710d6f05c2ef2348355f2e8313b2b7725b205421f27bc677b09e8e2acebf16700b3e564ab485a2b1b6e45f3220e884d79f11c76}
+set zip_url {http://www.wheresgeorge.com/hbz.php?args=8422e2cb716db772067a1a5a813dd92d2fcfb0dc51316ba81828002627679d835fb5bf376133512089c72823842bc0a4c22c75dd611609c843dab50a4cb7b2cca6405188597596412ce9df39f6474f734e69db4fccd74b751d378869d0969f390c989f09d2b0dac47cfc8f432335dee81e94b237b747b115fe9ec0050f33f5050f337ea462650002aef82e154487b1c7}
+
+set top_count 23
+set top_5_x 10
+set top_5_y 370
+
+set font_size 13
+
+set num_counties 300
+
+set zip_file NJ_zip2towns.txt
+
+
+set draw_names 1

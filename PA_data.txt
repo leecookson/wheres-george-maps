@@ -1,0 +1,842 @@
+argv=PA
+url=http://www.wheresgeorge.com/hbz.php?args=bc3e14e688ef5233b45dc11a743e69c9cf5720942701366220d7870400be39250ea36880c4f869fbc28a9debe310946bda553f470fdcbe21437042426959ae6a4aadbef7dd684685ac90fa9acd83ed219e8afeba2c745d801df4c0d0a3f15e695402d79b14ea2f5d25baf5615e7c36906d9d56b3af63d4f5e16641c3f2cbadfbbcbb1a556ba928d517a962d2e73f8dc3
+===================
+input=<html>
+<!--
+#########################################################################################################
+# Start of Where's George?/Where's Willy common header                                                 	#
+# All code, content and images copyright Where's George? LLC 1998-2011          #
+# and can not be used without express, written consent.                                                 #
+#########################################################################################################
+-->
+<head>
+<title>Where's George? &reg; 2.4 Hits by County</title>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1" />
+<META NAME="Author" CONTENT="Hank Eskin" />
+<META NAME="description" CONTENT="Track US or Canadian dollar bills as they travel across the country. Enter the serial number and zip code to track its past history. Get email when the next person registers your bill! " />
+<META NAME="keywords" CONTENT="wheresgeorge whereswilly WG? WG whereswilly.com wheresgeorge.com track dollar trackdollar trackdollars dollars one bill frb federal reserve banks trace tracing tracking track trace american serial number series denomination bills where is george currency money legal tender" />
+<meta http-equiv="X-UA-Compatible" content="IE=6" />
+
+<link href="http://www.wheresgeorge.com/css_wg.css" rel="stylesheet" type="text/css">
+</head>
+
+<body  bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<SCRIPT language="JavaScript" type="text/javascript">menu_position=225;item_width=72.857142857143;</SCRIPT><!-- ***** This is the section of code you need to paste into your web pages ***** -->
+<script type="text/javascript" src="mmenu/milonic_src.js"></script>
+<script type="text/javascript" src="mmenu/mmenudom.js"></script>
+<!-- The next file contains your menu data, links and menu structure etc -->
+<script type="text/javascript" src="mmenu/menu_wg.js"></script>
+<!-- **** JavaScript Menu HTML Code -->
+<script type="text/javascript">function popup_win(page,h,w,scroll) {rnd=Math.round(Math.random()*10000); if (page.substring(0,22)=='user_profile_popup.php') {h=600;w=800;scroll='yes';}window.open(page,rnd,'toolbar=NO,location=NO,directories=NO,status=NO,menubar=NO,scrollbars='+scroll+',resizable=YES,copyhistory=NO,width='+w+',height='+h+',left=100,top=100');}</script><!-- frame buster -->
+<script language="JavaScript" type="text/javascript">
+  	if (top.location != self.location) {
+	top.location = self.location.href
+	}
+</script><a name="top"></a>
+<!-- main table - full width -->
+<table width="814" border="0" cellspacing="0" cellpadding="0">
+<tr  bgcolor=green><td align=right colspan="3" ><iframe src="http://rcm.amazon.com/e/cm?t=wheresgeorg-20&o=1&p=20&l=ur1&category=kindle&banner=1KNAV7AGS7WAHJ5Z5ER2&f=ifr" width="120" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe><iframe bgcolor="#669933" Allowtransparency="true" src="openads_leaderboard.php" width="728" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe><a target=_blank href="http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2F&tag=wheresgeorg-20&linkCode=ur2&camp=1789&creative=9325"><img src="http://www.assoc-amazon.com/e/ir?t=wheresgeorg-20&l=ur2&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><img border=0 src=images/amazon_120x90.gif></a></td></tr><tr>
+<td colspan="3">
+ <!-- header table - full width -->
+
+<table border="0" height=40 cellpadding="0" cellspacing="0" width="814">
+  <tr >
+    <td width="165"><img src="img_wg/topl.jpg" width="165" height="135" border="0" alt=""></td>
+    <td width="510"   ><img width="510" height="135" src="img_wg/topcN.jpg"  border="0" alt=""></td>
+    <td width="157"><img  src="img_wg/toprN.png" width="157" height="135" border="0" alt=""></td>
+  </tr>
+  <tr>
+    <td width="165"><img name="left1" src="img_wg/left1.jpg" width="165" height="20" border="0" alt=""></td>
+	<td align=left width="510" bgcolor="#666666"><!-- <img name="grey_nav" src="img_wg/grey_nav.gif" width="510" height="20" border="0">--><script>document.write("<img name=\"grey_nav\" src=\"img_wg/grey_nav.gif\" width=\"425\" height=\"20\" border=\"0\">");</script><noscript><span class=tabletitle><b>Your browser has Javascript disabled. Please see the <a href=site_map.php>Site-Map</a> to view all the main menu options.</b></span></noscript></td>
+    <td width="157"><img name="right1" src="img_wg/right1.jpg" width="157" height="20" border="0" alt=""></td>
+  </tr>
+  <tr>
+    <td bgcolor="#669933" width="165"><script>document.write("<A  HREF=\"javascript:popup_win('boss.html',4000,2000,'no');\"><img border=0 name=\"left2\" src=\"img_wg/left2.jpg\" width=\"147\" height=\"47\" border=\"0\" alt=\"\"></a>");</script><noscript><A HREF=boss.html target=_blank><img border=0 name="left2" src="img_wg/left2.jpg" width="147" height="47" border="0" alt=""></a></noscript></td>
+    <!-- start registered user name/profile link  -->
+    <td width="510" bgcolor="#669933" class=topnav>
+	<div width="48%" style="float:left; text-align:left;">
+    <strong>You are currently logged in as&nbsp;<span class=topnav><script>document.write("<A sidenav HREF=\"javascript:popup_win('user_profile_popup.php?ukey=1c48871d2481b356e00789340b46fc0f',0,0,'0');\">Lee</a>");</script><noscript><A HREF=user_profile_popup.php?ukey=1c48871d2481b356e00789340b46fc0f target=_blank>Lee</a></noscript></span></strong></div></div><!-- end registered user name/profile link  -->
+	    <!-- help   -->
+	    <div width="48%" style="float:right; text-align:right"><script>document.write("<A  HREF=\"javascript:popup_win('help.php?args=b31ea71b98fec987c84c1755a8e4e0144d59f820ef1e6e5797d2e3468e77f2ccba52d613e7381a852cc3bbacb76f95b1d3afbd222b7f29bf038c7a368c8ff68ab19c66a70b41734f1d8d4ccc1bd2fa44ee00eeb21c3dc436dcbdabd3f1dbb8c4740dad52d85d5a1a8525ffe14674453d2f7dfad77a9f3e24e2ccd4ebaa88eb2d7f750c6d220b4efe0cfead9391027fb2',550,650,'yes');\"><img name=\"template_r3_c3\" src=\"img_wg/help.png\" width=\"142\"  border=\"0\" alt=\"\"></a>");</script><noscript><A HREF=help.php?args=b31ea71b98fec987c84c1755a8e4e0144d59f820ef1e6e5797d2e3468e77f2ccba52d613e7381a852cc3bbacb76f95b1d3afbd222b7f29bf038c7a368c8ff68ab19c66a70b41734f1d8d4ccc1bd2fa44ee00eeb21c3dc436dcbdabd3f1dbb8c4740dad52d85d5a1a8525ffe14674453d2f7dfad77a9f3e24e2ccd4ebaa88eb2d7f750c6d220b4efe0cfead9391027fb2 target=_blank><img name="template_r3_c3" src="img_wg/help.png" width="142"  border="0" alt=""></a></noscript></div>
+		<!-- /help --><div style="clear: both;"> </div>
+    </td>
+    <td width="157" bgcolor="#669933"><img name="right2" src="img_wg/right2.jpg" width="157" height="47" border="0" alt=""></td>
+    <!-- end help -->
+  </tr>
+</table>
+<!-- end header table -->
+</td>
+</tr><tr>
+<td width="147" height="100%" valign="top">
+<!-- start LEft hand menu table -->
+<table width="146" height="100%" border="0" cellpadding="0" cellspacing="0" >
+  <tr>
+    <td colspan="3"><img src="img_wg/left3.jpg" width="147" height="14"></td>
+  </tr>
+  <tr valign="top" bgcolor="#FFFFFF">
+    <td height="79" colspan="3" background="img_wg/left4.jpg" class="sidenav">
+<div align="right">
+<a href="/">Home</a><br>
+<a href="/logon.php">Log On</a><br>
+<a href="/register.php">Register</a><br>
+<a href="/main.php#bill">Enter a Bill</a>
+</div></td></tr>
+<tr>
+    <td width="19" valign="top" background="img_wg/left-gutter.png">
+      <table height="100%" width="19" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td>&nbsp;</td>
+        </tr>
+      </table>
+    </td>
+    <td width="127" colspan="2" valign="top" bgcolor="#91CB53">
+          <table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td valign="top" align=right><p class="sidenav"><a href="ybs.php?ybs">Your Bills</a><br>
+<a href="user_prefs.php">User Settings</a><br><a href="user_profile.php">User Profile</a><br><a href="wrapper.php?page=state_profiles">Profiles by State</a><br>
+<a href="zip_hits.php">Zip Code Report</a><br>
+<a href="lostandfound.php">Lost and Found</a><br>
+<a href="lookup.php">Bill Lookup</a><br>
+<a href="logoff.php">Log Off</a><br></p>
+          </td>
+        </tr>
+      </table>
+<br><br><br><br><iframe bgcolor="#99CC66" Allowtransparency="true" src="openads_left_sky.php" width="120" height="600" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe><img src="img_wg/left-nav-bottom.gif"></td>
+  </tr>
+  <tr>
+    <td height="100%" valign="top" background="img_wg/left-gutter.gif">
+    	<table height="100%" width="19" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td height="100%" valign="top">&nbsp;</td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top" background="img_wg/left-gutter-background.gif"><p><img src="img_wg/left-nav-gutter.gif"></p>
+    </td>
+  </tr>
+</table>
+<!-- end Left hand menu table -->
+</td>
+<!-- open td for content -->
+<td style="text-align:left;" width="667" align="left" valign="top" class="body" ><!-- open td for content  --><span class=header>Hits by County Report</span><center>This Report is current as of: Jun-22-11 12:14 AM<br>Back to your <a href=ybs.php?hbs>Hit Analysis Report</a> Report<br>
+<TABLE width="60%" cellpadding="2" cellspacing="0" bordercolor="#999999" border=1 class="body">
+<tr class="body" bgcolor="#dddddd">	<td colspan=5><div align=center>Hits by County - PA</div></td>
+</tr>
+<tr class="body" bgcolor="#dddddd">	<td colspan=5><div align=center>You have 601 hits in 43 PA Counties</div></td>
+</tr>
+<tr class="body" bgcolor="#dddddd">	<td align=center>Rank</td>
+	<td align=center><a href=/hbz.php?args=cf93d4ae73c16782b3d53300747d40707c491691cef45bf6b37111576a5d1e8fd31be3cbc558b40228dd3a76840914b4da553f470fdcbe21437042426959ae6a4aadbef7dd684685eb784b03ecab8d6c8d3603fa74153ad95081fa27b6ca034c24c7b27d956ce2b93516095d134231bd99a4d33ad0a49f8c364d65c3e48d804734a0bc247da3ec73420ea3399ad1dae5>County</a></td>
+	<td align=center><a href=/hbz.php?args=2bca0fbffcc6418880a19112bb3c1dcf748e03d824a0bf1708d4587775da5cc303cfbe0405b946591894d9b544243bc7da553f470fdcbe21437042426959ae6a4aadbef7dd684685eb784b03ecab8d6c8d3603fa74153ad95081fa27b6ca034c6e3a9e763673dfe5a0a0f9562d99b95c28319cba74040a5dd8cff30bc6ef7d137d0e5990d5cc87f1e8d22b11e1a22aa4>Hits</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>1.</td>
+	<td align=center>Philadelphia</td>
+	<td align=center>151</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>2.</td>
+	<td align=center>Bucks</td>
+	<td align=center>130</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>3.</td>
+	<td align=center>Montgomery</td>
+	<td align=center>76</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>4.</td>
+	<td align=center>Chester</td>
+	<td align=center>42</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>5.</td>
+	<td align=center>Delaware</td>
+	<td align=center>41</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>6.</td>
+	<td align=center>Berks</td>
+	<td align=center>16</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>7.</td>
+	<td align=center>Lehigh</td>
+	<td align=center>14</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>8.</td>
+	<td align=center>Northampton</td>
+	<td align=center>11</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>9.</td>
+	<td align=center>Lancaster</td>
+	<td align=center>11</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>10.</td>
+	<td align=center>Schuylkill</td>
+	<td align=center>10</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>11.</td>
+	<td align=center>Monroe</td>
+	<td align=center>9</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>12.</td>
+	<td align=center>Luzerne</td>
+	<td align=center>9</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>13.</td>
+	<td align=center>York</td>
+	<td align=center>9</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>14.</td>
+	<td align=center>Lackawanna</td>
+	<td align=center>6</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>15.</td>
+	<td align=center>Dauphin</td>
+	<td align=center>6</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>16.</td>
+	<td align=center>Cumberland</td>
+	<td align=center>5</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>17.</td>
+	<td align=center>Allegheny</td>
+	<td align=center>5</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>18.</td>
+	<td align=center>Franklin</td>
+	<td align=center>4</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>19.</td>
+	<td align=center>Lycoming</td>
+	<td align=center>4</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>20.</td>
+	<td align=center>Blair</td>
+	<td align=center>4</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>21.</td>
+	<td align=center>Northumberland</td>
+	<td align=center>4</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>22.</td>
+	<td align=center>Carbon</td>
+	<td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>23.</td>
+	<td align=center>Lebanon</td>
+	<td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>24.</td>
+	<td align=center>Washington</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>25.</td>
+	<td align=center>Centre</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>26.</td>
+	<td align=center>Butler</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>27.</td>
+	<td align=center>Pike</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>28.</td>
+	<td align=center>Snyder</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>29.</td>
+	<td align=center>Mifflin</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>30.</td>
+	<td align=center>Adams</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>31.</td>
+	<td align=center>Westmoreland</td>
+	<td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>32.</td>
+	<td align=center>Montour</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>33.</td>
+	<td align=center>Warren</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>34.</td>
+	<td align=center>Tioga</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>35.</td>
+	<td align=center>Columbia</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>36.</td>
+	<td align=center>Indiana</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>37.</td>
+	<td align=center>Wayne</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>38.</td>
+	<td align=center>Bradford</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>39.</td>
+	<td align=center>Mercer</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>40.</td>
+	<td align=center>Erie</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>41.</td>
+	<td align=center>Cambria</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>42.</td>
+	<td align=center>Lawrence</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>43.</td>
+	<td align=center>Wyoming</td>
+	<td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>44.</td>
+	<td align=center>Armstrong</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>45.</td>
+	<td align=center>Beaver</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>46.</td>
+	<td align=center>Bedford</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>47.</td>
+	<td align=center>Cameron</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>48.</td>
+	<td align=center>Clarion</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>49.</td>
+	<td align=center>Clearfield</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>50.</td>
+	<td align=center>Clinton</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>51.</td>
+	<td align=center>Crawford</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>52.</td>
+	<td align=center>Elk</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>53.</td>
+	<td align=center>Fayette</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>54.</td>
+	<td align=center>Forest</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>55.</td>
+	<td align=center>Fulton</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>56.</td>
+	<td align=center>Greene</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>57.</td>
+	<td align=center>Huntingdon</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>58.</td>
+	<td align=center>Jefferson</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>59.</td>
+	<td align=center>Juniata</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>60.</td>
+	<td align=center>McKean</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>61.</td>
+	<td align=center>Perry</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>62.</td>
+	<td align=center>Potter</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>63.</td>
+	<td align=center>Somerset</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>64.</td>
+	<td align=center>Sullivan</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>65.</td>
+	<td align=center>Susquehanna</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>66.</td>
+	<td align=center>Union</td>
+	<td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>67.</td>
+	<td align=center>Venango</td>
+	<td align=center>---</td>
+</tr>
+</table><center><span class=body><a href="#top">Back to Top</a></span></center><br><br><br>(Runtime: 1 seconds)<br><!-- </center> -->
+<center><iframe bgcolor="#ffffff" Allowtransparency="true" src="openads_box.php" width="300" height="250" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe></center>
+<br><br><br><br><br><br>
+<table width="510" border="0" cellpadding="0" cellspacing="0" class="body">
+	<tr>
+	<td class="body"><div align="center">
+	<a href="/">Home Page</a> | <a href="faq.php">FAQs</a> | <a href="site_map.php">Site Map</a> | <a href="about.php">About</a> | <a href="privacy.php">Privacy Policy</a> | <a href="contact_us.php">Contact Us</a> <br>
+	<br>	<span class=footer>
+All content, images, and data &copy; 1998-2011 Where's George? LLC.<br>
+All Rights Reserved. Use of this Web site constitutes<br>
+acceptance of the <script>document.write("<A  HREF=\"javascript:popup_win('rules.php?fr=1',600,800,'yes');\">Terms of Service</a>");</script><noscript><A HREF=rules.php?fr=1 target=_blank>Terms of Service</a></noscript></span>
+</div><br><!-- <a href=http://www.milonic.com/><font color=#ffffff>DHTML Menu By Milonic JavaScript</font></a>--></td></tr></table></td>
+</tr>
+</table>
+	<!-- Start Quantcast tag -->
+	<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+	<script type="text/javascript">_qacct="p-26x3j23aUJBL6";quantserve();</script>
+	<noscript>
+	<a href="http://www.quantcast.com/p-26x3j23aUJBL6" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-26x3j23aUJBL6.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+	</noscript>
+	<!-- End Quantcast tag -->
+</body>
+</html>
+
+==================
+
+start1=10370
+
+start2=10359
+
+end1=18623
+
+end2=18737
+
+<tr class="ybbody" bgcolor="white">	<td align=center>1.</td><td align=center>Philadelphia</td><td align=center>151</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>2.</td><td align=center>Bucks</td><td align=center>130</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>3.</td><td align=center>Montgomery</td><td align=center>76</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>4.</td><td align=center>Chester</td><td align=center>42</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>5.</td><td align=center>Delaware</td><td align=center>41</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>6.</td><td align=center>Berks</td><td align=center>16</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>7.</td><td align=center>Lehigh</td><td align=center>14</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>8.</td><td align=center>Northampton</td><td align=center>11</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>9.</td><td align=center>Lancaster</td><td align=center>11</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>10.</td><td align=center>Schuylkill</td><td align=center>10</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>11.</td><td align=center>Monroe</td><td align=center>9</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>12.</td><td align=center>Luzerne</td><td align=center>9</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>13.</td><td align=center>York</td><td align=center>9</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>14.</td><td align=center>Lackawanna</td><td align=center>6</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>15.</td><td align=center>Dauphin</td><td align=center>6</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>16.</td><td align=center>Cumberland</td><td align=center>5</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>17.</td><td align=center>Allegheny</td><td align=center>5</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>18.</td><td align=center>Franklin</td><td align=center>4</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>19.</td><td align=center>Lycoming</td><td align=center>4</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>20.</td><td align=center>Blair</td><td align=center>4</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>21.</td><td align=center>Northumberland</td><td align=center>4</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>22.</td><td align=center>Carbon</td><td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>23.</td><td align=center>Lebanon</td><td align=center>3</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>24.</td><td align=center>Washington</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>25.</td><td align=center>Centre</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>26.</td><td align=center>Butler</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>27.</td><td align=center>Pike</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>28.</td><td align=center>Snyder</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>29.</td><td align=center>Mifflin</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>30.</td><td align=center>Adams</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>31.</td><td align=center>Westmoreland</td><td align=center>2</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>32.</td><td align=center>Montour</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>33.</td><td align=center>Warren</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>34.</td><td align=center>Tioga</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>35.</td><td align=center>Columbia</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>36.</td><td align=center>Indiana</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>37.</td><td align=center>Wayne</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>38.</td><td align=center>Bradford</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>39.</td><td align=center>Mercer</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>40.</td><td align=center>Erie</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>41.</td><td align=center>Cambria</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>42.</td><td align=center>Lawrence</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>43.</td><td align=center>Wyoming</td><td align=center>1</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>44.</td><td align=center>Armstrong</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>45.</td><td align=center>Beaver</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>46.</td><td align=center>Bedford</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>47.</td><td align=center>Cameron</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>48.</td><td align=center>Clarion</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>49.</td><td align=center>Clearfield</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>50.</td><td align=center>Clinton</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>51.</td><td align=center>Crawford</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>52.</td><td align=center>Elk</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>53.</td><td align=center>Fayette</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>54.</td><td align=center>Forest</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>55.</td><td align=center>Fulton</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>56.</td><td align=center>Greene</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>57.</td><td align=center>Huntingdon</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>58.</td><td align=center>Jefferson</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>59.</td><td align=center>Juniata</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>60.</td><td align=center>McKean</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>61.</td><td align=center>Perry</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>62.</td><td align=center>Potter</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>63.</td><td align=center>Somerset</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>64.</td><td align=center>Sullivan</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>65.</td><td align=center>Susquehanna</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>66.</td><td align=center>Union</td><td align=center>---</td>
+</tr>
+<tr class="ybbody" bgcolor="white">	<td align=center>67.</td><td align=center>Venango</td><td align=center>---</td>
+</tr>
+
+row=>1.</td><td align=center>Philadelphia</td><td align=center>151</td>
+</tr>
+<tr cla, rank=1,county=Philadelphia,hits=151
+
+row=>2.</td><td align=center>Bucks</td><td align=center>130</td>
+</tr>
+<tr cla, rank=2,county=Bucks,hits=130
+
+row=>3.</td><td align=center>Montgomery</td><td align=center>76</td>
+</tr>
+<tr cla, rank=3,county=Montgomery,hits=76
+
+row=>4.</td><td align=center>Chester</td><td align=center>42</td>
+</tr>
+<tr cla, rank=4,county=Chester,hits=42
+
+row=>5.</td><td align=center>Delaware</td><td align=center>41</td>
+</tr>
+<tr cla, rank=5,county=Delaware,hits=41
+
+row=>6.</td><td align=center>Berks</td><td align=center>16</td>
+</tr>
+<tr cla, rank=6,county=Berks,hits=16
+
+row=>7.</td><td align=center>Lehigh</td><td align=center>14</td>
+</tr>
+<tr cla, rank=7,county=Lehigh,hits=14
+
+row=>8.</td><td align=center>Northampton</td><td align=center>11</td>
+</tr>
+<tr cla, rank=8,county=Northampton,hits=11
+
+row=>9.</td><td align=center>Lancaster</td><td align=center>11</td>
+</tr>
+<tr cla, rank=9,county=Lancaster,hits=11
+
+row=>10.</td><td align=center>Schuylkill</td><td align=center>10</td>
+</tr>
+<tr cla, rank=10,county=Schuylkill,hits=10
+
+row=>11.</td><td align=center>Monroe</td><td align=center>9</td>
+</tr>
+<tr cla, rank=11,county=Monroe,hits=9
+
+row=>12.</td><td align=center>Luzerne</td><td align=center>9</td>
+</tr>
+<tr cla, rank=12,county=Luzerne,hits=9
+
+row=>13.</td><td align=center>York</td><td align=center>9</td>
+</tr>
+<tr cla, rank=13,county=York,hits=9
+
+row=>14.</td><td align=center>Lackawanna</td><td align=center>6</td>
+</tr>
+<tr cla, rank=14,county=Lackawanna,hits=6
+
+row=>15.</td><td align=center>Dauphin</td><td align=center>6</td>
+</tr>
+<tr cla, rank=15,county=Dauphin,hits=6
+
+row=>16.</td><td align=center>Cumberland</td><td align=center>5</td>
+</tr>
+<tr cla, rank=16,county=Cumberland,hits=5
+
+row=>17.</td><td align=center>Allegheny</td><td align=center>5</td>
+</tr>
+<tr cla, rank=17,county=Allegheny,hits=5
+
+row=>18.</td><td align=center>Franklin</td><td align=center>4</td>
+</tr>
+<tr cla, rank=18,county=Franklin,hits=4
+
+row=>19.</td><td align=center>Lycoming</td><td align=center>4</td>
+</tr>
+<tr cla, rank=19,county=Lycoming,hits=4
+
+row=>20.</td><td align=center>Blair</td><td align=center>4</td>
+</tr>
+<tr cla, rank=20,county=Blair,hits=4
+
+row=>21.</td><td align=center>Northumberland</td><td align=center>4</td>
+</tr>
+<tr cla, rank=21,county=Northumberland,hits=4
+
+row=>22.</td><td align=center>Carbon</td><td align=center>3</td>
+</tr>
+<tr cla, rank=22,county=Carbon,hits=3
+
+row=>23.</td><td align=center>Lebanon</td><td align=center>3</td>
+</tr>
+<tr cla, rank=23,county=Lebanon,hits=3
+
+row=>24.</td><td align=center>Washington</td><td align=center>2</td>
+</tr>
+<tr cla, rank=24,county=Washington,hits=2
+
+row=>25.</td><td align=center>Centre</td><td align=center>2</td>
+</tr>
+<tr cla, rank=25,county=Centre,hits=2
+
+row=>26.</td><td align=center>Butler</td><td align=center>2</td>
+</tr>
+<tr cla, rank=26,county=Butler,hits=2
+
+row=>27.</td><td align=center>Pike</td><td align=center>2</td>
+</tr>
+<tr cla, rank=27,county=Pike,hits=2
+
+row=>28.</td><td align=center>Snyder</td><td align=center>2</td>
+</tr>
+<tr cla, rank=28,county=Snyder,hits=2
+
+row=>29.</td><td align=center>Mifflin</td><td align=center>2</td>
+</tr>
+<tr cla, rank=29,county=Mifflin,hits=2
+
+row=>30.</td><td align=center>Adams</td><td align=center>2</td>
+</tr>
+<tr cla, rank=30,county=Adams,hits=2
+
+row=>31.</td><td align=center>Westmoreland</td><td align=center>2</td>
+</tr>
+<tr cla, rank=31,county=Westmoreland,hits=2
+
+row=>32.</td><td align=center>Montour</td><td align=center>1</td>
+</tr>
+<tr cla, rank=32,county=Montour,hits=1
+
+row=>33.</td><td align=center>Warren</td><td align=center>1</td>
+</tr>
+<tr cla, rank=33,county=Warren,hits=1
+
+row=>34.</td><td align=center>Tioga</td><td align=center>1</td>
+</tr>
+<tr cla, rank=34,county=Tioga,hits=1
+
+row=>35.</td><td align=center>Columbia</td><td align=center>1</td>
+</tr>
+<tr cla, rank=35,county=Columbia,hits=1
+
+row=>36.</td><td align=center>Indiana</td><td align=center>1</td>
+</tr>
+<tr cla, rank=36,county=Indiana,hits=1
+
+row=>37.</td><td align=center>Wayne</td><td align=center>1</td>
+</tr>
+<tr cla, rank=37,county=Wayne,hits=1
+
+row=>38.</td><td align=center>Bradford</td><td align=center>1</td>
+</tr>
+<tr cla, rank=38,county=Bradford,hits=1
+
+row=>39.</td><td align=center>Mercer</td><td align=center>1</td>
+</tr>
+<tr cla, rank=39,county=Mercer,hits=1
+
+row=>40.</td><td align=center>Erie</td><td align=center>1</td>
+</tr>
+<tr cla, rank=40,county=Erie,hits=1
+
+row=>41.</td><td align=center>Cambria</td><td align=center>1</td>
+</tr>
+<tr cla, rank=41,county=Cambria,hits=1
+
+row=>42.</td><td align=center>Lawrence</td><td align=center>1</td>
+</tr>
+<tr cla, rank=42,county=Lawrence,hits=1
+
+row=>43.</td><td align=center>Wyoming</td><td align=center>1</td>
+</tr>
+<tr cla, rank=43,county=Wyoming,hits=1
+
+row=>44.</td><td align=center>Armstrong</td><td align=center>---</td>
+</tr>
+<tr cla, rank=44,county=Armstrong,hits=---
+
+row=>45.</td><td align=center>Beaver</td><td align=center>---</td>
+</tr>
+<tr cla, rank=45,county=Beaver,hits=---
+
+row=>46.</td><td align=center>Bedford</td><td align=center>---</td>
+</tr>
+<tr cla, rank=46,county=Bedford,hits=---
+
+row=>47.</td><td align=center>Cameron</td><td align=center>---</td>
+</tr>
+<tr cla, rank=47,county=Cameron,hits=---
+
+row=>48.</td><td align=center>Clarion</td><td align=center>---</td>
+</tr>
+<tr cla, rank=48,county=Clarion,hits=---
+
+row=>49.</td><td align=center>Clearfield</td><td align=center>---</td>
+</tr>
+<tr cla, rank=49,county=Clearfield,hits=---
+
+row=>50.</td><td align=center>Clinton</td><td align=center>---</td>
+</tr>
+<tr cla, rank=50,county=Clinton,hits=---
+
+row=>51.</td><td align=center>Crawford</td><td align=center>---</td>
+</tr>
+<tr cla, rank=51,county=Crawford,hits=---
+
+row=>52.</td><td align=center>Elk</td><td align=center>---</td>
+</tr>
+<tr cla, rank=52,county=Elk,hits=---
+
+row=>53.</td><td align=center>Fayette</td><td align=center>---</td>
+</tr>
+<tr cla, rank=53,county=Fayette,hits=---
+
+row=>54.</td><td align=center>Forest</td><td align=center>---</td>
+</tr>
+<tr cla, rank=54,county=Forest,hits=---
+
+row=>55.</td><td align=center>Fulton</td><td align=center>---</td>
+</tr>
+<tr cla, rank=55,county=Fulton,hits=---
+
+row=>56.</td><td align=center>Greene</td><td align=center>---</td>
+</tr>
+<tr cla, rank=56,county=Greene,hits=---
+
+row=>57.</td><td align=center>Huntingdon</td><td align=center>---</td>
+</tr>
+<tr cla, rank=57,county=Huntingdon,hits=---
+
+row=>58.</td><td align=center>Jefferson</td><td align=center>---</td>
+</tr>
+<tr cla, rank=58,county=Jefferson,hits=---
+
+row=>59.</td><td align=center>Juniata</td><td align=center>---</td>
+</tr>
+<tr cla, rank=59,county=Juniata,hits=---
+
+row=>60.</td><td align=center>McKean</td><td align=center>---</td>
+</tr>
+<tr cla, rank=60,county=McKean,hits=---
+
+row=>61.</td><td align=center>Perry</td><td align=center>---</td>
+</tr>
+<tr cla, rank=61,county=Perry,hits=---
+
+row=>62.</td><td align=center>Potter</td><td align=center>---</td>
+</tr>
+<tr cla, rank=62,county=Potter,hits=---
+
+row=>63.</td><td align=center>Somerset</td><td align=center>---</td>
+</tr>
+<tr cla, rank=63,county=Somerset,hits=---
+
+row=>64.</td><td align=center>Sullivan</td><td align=center>---</td>
+</tr>
+<tr cla, rank=64,county=Sullivan,hits=---
+
+row=>65.</td><td align=center>Susquehanna</td><td align=center>---</td>
+</tr>
+<tr cla, rank=65,county=Susquehanna,hits=---
+
+row=>66.</td><td align=center>Union</td><td align=center>---</td>
+</tr>
+<tr cla, rank=66,county=Union,hits=---
+
+row=>67.</td><td align=center>Venango</td><td align=center>---</td>
+</tr>
+, rank=67,county=Venango,hits=---
+
+Monroe #aaf Union #fff Jefferson #fff Columbia #FFB Sullivan #fff Lawrence #FFB Washington #FBF Elk #fff Schuylkill #0f0 Mercer #FFB Clarion #fff Fayette #fff Northampton #0f0 Philadelphia #f11 Crawford #fff Lehigh #0f0 Dauphin #aaf Centre #FBF Forest #fff Franklin #FBF Adams #FBF Warren #FFB Cambria #FFB Fulton #fff Allegheny #aaf Lycoming #FBF Blair #FBF Clearfield #fff Northumberland #FBF Erie #FFB Armstrong #fff Beaver #fff Venango #fff Potter #fff Greene #fff Butler #FBF Berks #0f0 Indiana #FFB Bradford #FFB Snyder #FBF Cameron #fff Chester #f11 Bedford #fff Clinton #fff Pike #FBF Montour #FFB Tioga #FFB Luzerne #aaf Cumberland #aaf Carbon #FBF Mifflin #FBF Huntingdon #fff McKean #fff Lebanon #FBF Bucks #f11 Montgomery #f11 Lackawanna #aaf Somerset #fff Perry #fff Wyoming #FFB Susquehanna #fff Juniata #fff Wayne #FFB Lancaster #0f0 Delaware #f11 York #aaf Westmoreland #FBF
+151 130 76 42 41 16 14 11 11 10 9 9 9 6 6 5 5 4 4 4 4 3 3 2 2 2 2 2 2 2 2 1 1 1 1 1 1 1 1 1 1 1 1
+68 61 4d 41 41 38 37 36 36 36 36 36 36 34 34 34 34 34 34 34 34 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33
+Monroe #aaf Union #fff Jefferson #fff Columbia #FFB Sullivan #fff Lawrence #FFB Washington #FBF Elk #fff Schuylkill #0f0 Mercer #FFB Clarion #fff Fayette #fff Northampton #0f0 Philadelphia #f11 Crawford #fff Lehigh #0f0 Dauphin #aaf Centre #FBF Forest #fff Franklin #FBF Adams #FBF Warren #FFB Cambria #FFB Fulton #fff Allegheny #aaf Lycoming #FBF Blair #FBF Clearfield #fff Northumberland #FBF Erie #FFB Armstrong #fff Beaver #fff Venango #fff Potter #fff Greene #fff Butler #FBF Berks #0f0 Indiana #FFB Bradford #FFB Snyder #FBF Cameron #fff Chester #f11 Bedford #fff Clinton #fff Pike #FBF Montour #FFB Tioga #FFB Luzerne #aaf Cumberland #aaf Carbon #FBF Mifflin #FBF Huntingdon #fff McKean #fff Lebanon #FBF Bucks #f11 Montgomery #f11 Lackawanna #aaf Somerset #fff Perry #fff Wyoming #FFB Susquehanna #fff Juniata #fff Wayne #FFB Lancaster #0f0 Delaware #f11 York #aaf Westmoreland #FBF
+
+exec -- /usr/bin/convert PA_HIT_MAP.png -fill black -font Arial-Regular -pointsize 13 -linewidth 3 -draw {text 584,16  ' 31 +'} -draw {text 584,33  ' 17 - 30 '} -draw {text 584,50  ' 10 - 16 '} -draw {text 584,67  ' 5 - 9 '} -draw {text 584,84  ' 2 - 4 '} -draw {text 584,101  ' 1 - 1 '} -fill #0f0 -draw {circle 570,45 564,45} -fill #ef0 -draw {circle 570,28 564,28} -fill #FFB -draw {circle 570,96 564,96} -fill #f11 -draw {circle 570,11 564,11} -fill #FBF -draw {circle 570,79 564,79} -fill #aaf -draw {circle 570,62 564,62} -fill black -draw {text 4,14  ' Updated: Wed Jun 22, 2011 09:15:45 EDT '} -fill black -pointsize 13 -draw {text 532,332  'Top 11'} -draw {text 532,348  '151'} -draw {text 565,348  'Philadelphia'} -draw {text 532,361  '130'} -draw {text 565,361  'Bucks'} -draw {text 532,374  '76'} -draw {text 565,374  'Montgomery'} -draw {text 532,387  '42'} -draw {text 565,387  'Chester'} -draw {text 532,400  '41'} -draw {text 565,400  'Delaware'} -draw {text 532,413  '16'} -draw {text 565,413  'Berks'} -draw {text 532,426  '14'} -draw {text 565,426  'Lehigh'} -draw {text 532,439  '11'} -draw {text 565,439  'Lancaster'} -draw {text 532,452  '11'} -draw {text 565,452  'Northampton'} -draw {text 532,465  '10'} -draw {text 565,465  'Schuylkill'} -draw {text 532,478  '9'} -draw {text 565,478  'Luzerne'} -tile fills/xgradient_range#aaf.png -draw {color 515,145 floodfill} -tile fills/xsolid_range#fff.png -draw {color 370,170 floodfill} -tile fills/xsolid_range#fff.png -draw {color 200,210 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 430,170 floodfill} -tile fills/xsolid_range#fff.png -draw {color 400,110 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 80,250 floodfill} -tile fills/xsolid_range#FBF.png -draw {color 100,345 floodfill} -tile fills/xsolid_range#fff.png -draw {color 220,170 floodfill} -tile fills/xsolid_range#0f0.png -draw {color 450,180 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 100,200 floodfill} -tile fills/xsolid_range#fff.png -draw {color 150,220 floodfill} -tile fills/xsolid_range#fff.png -draw {color 180,370 floodfill} -tile fills/xsolid_range#0f0.png -draw {color 525,185 floodfill} -tile fills/xsolid_range#f11.png -draw {color 568,260 floodfill} -tile fills/xsolid_range#fff.png -draw {color 100,120 floodfill} -tile fills/xsolid_range#0f0.png -draw {color 510,205 floodfill} -tile fills/xsolid_range#aaf.png -draw {color 400,230 floodfill} -tile fills/xsolid_range#FBF.png -draw {color 300,180 floodfill} -tile fills/xsolid_range#fff.png -draw {color 170,140 floodfill} -tile fills/xgradient_range#FBF.png -draw {color 330,320 floodfill} -tile fills/xsolid_range#FBF.png -draw {color 380,340 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 150,100 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 220,290 floodfill} -tile fills/xsolid_range#fff.png -draw {color 300,320 floodfill} -tile fills/xsolid_range#aaf.png -draw {color 120,320 floodfill} -tile fills/xgradient_range#FBF.png -draw {color 350,120 floodfill} -tile fills/xgradient_range#FBF.png -draw {color 260,280 floodfill} -tile fills/xsolid_range#fff.png -draw {color 250,220 floodfill} -tile fills/xgradient_range#FBF.png -draw {color 388,158 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 100,70 floodfill} -tile fills/xsolid_range#fff.png -draw {color 150,230 floodfill} -tile fills/xsolid_range#fff.png -draw {color 80,270 floodfill} -tile fills/xsolid_range#fff.png -draw {color 125,170 floodfill} -tile fills/xsolid_range#fff.png -draw {color 275,75 floodfill} -tile fills/xsolid_range#fff.png -draw {color 100,380 floodfill} -tile fills/xsolid_range#FBF.png -draw {color 120,250 floodfill} -tile fills/xgradient_range#0f0.png -draw {color 500,230 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 200,250 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 400,70 floodfill} -tile fills/xsolid_range#FBF.png -draw {color 380,200 floodfill} -tile fills/xsolid_range#fff.png -draw {color 270,140 floodfill} -tile fills/xsolid_range#f11.png -draw {color 500,295 floodfill} -tile fills/xsolid_range#fff.png -draw {color 270,320 floodfill} -tile fills/xsolid_range#fff.png -draw {color 300,140 floodfill} -tile fills/xsolid_range#FBF.png -draw {color 550,80 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 400,170 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 350,70 floodfill} -tile fills/xgradient_range#aaf.png -draw {color 450,140 floodfill} -tile fills/xsolid_range#aaf.png -draw {color 380,280 floodfill} -tile fills/xsolid_range#FBF.png -draw {color 490,150 floodfill} -tile fills/xsolid_range#FBF.png -draw {color 320,250 floodfill} -tile fills/xsolid_range#fff.png -draw {color 300,270 floodfill} -tile fills/xsolid_range#fff.png -draw {color 215,110 floodfill} -tile fills/xsolid_range#FBF.png -draw {color 450,250 floodfill} -tile fills/xsolid_range#f11.png -draw {color 550,210 floodfill} -tile fills/xsolid_range#f11.png -draw {color 550,258 floodfill} -tile fills/xsolid_range#aaf.png -draw {color 480,70 floodfill} -tile fills/xsolid_range#fff.png -draw {color 200,350 floodfill} -tile fills/xsolid_range#fff.png -draw {color 375,250 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 450,70 floodfill} -tile fills/xsolid_range#fff.png -draw {color 450,20 floodfill} -tile fills/xsolid_range#fff.png -draw {color 330,270 floodfill} -tile fills/xsolid_range#FFB.png -draw {color 500,70 floodfill} -tile fills/xsolid_range#0f0.png -draw {color 450,270 floodfill} -tile fills/xsolid_range#f11.png -draw {color 540,290 floodfill} -tile fills/xgradient_range#aaf.png -draw {color 421,333 floodfill} -tile fills/xsolid_range#FBF.png -draw {color 170,300 floodfill} -resize 640x> -bordercolor #999 -border 1x1 PA_HIT_MAP_Z.png
+after /usr/bin/convert PA_HIT_MAP_Z.png

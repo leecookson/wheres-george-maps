@@ -1,0 +1,15 @@
+#!/bin/bash
+
+. proxy-config
+cd $MAPSHOME
+
+rm -f *.log
+echo "backing up files"
+
+lftp -u leecookson,comcastdmx7 upload.comcast.net > /dev/null << END
+cd job
+mput *.tcl *.png *.gif all_maps ftp_put ftp_backup get_today_bills *.xls refresh* ybs_data_feed.txt 
+ls -l
+bye
+
+END

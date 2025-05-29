@@ -1,0 +1,29 @@
+#!/bin/bash
+
+cd $MAPSHOME
+
+all_maps="US NJ PA NY DE CT MA MD ME FL CA"
+all_zips="BC MC CC MXC BKC"
+
+#if `which say`
+#then
+#  say "Starting all maps"
+#fi
+
+echo $all_maps
+for map in  $all_maps 
+do
+	echo "processing $map"
+        ./nj_fill $map
+	sleep 10
+done
+
+echo $all_zips
+for map in  $all_zips 
+do
+	echo "processing $map"
+        ./zip_fill $map
+	sleep 10
+done
+
+
